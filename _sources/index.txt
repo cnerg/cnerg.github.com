@@ -1,22 +1,23 @@
-.. UW-Madison Computational Nuclear Engineering Research Group (CNERG) documentation master file, created by
+.. CNERG master file, created by
    sphinx-quickstart on Tue Jul 24 22:55:15 2012.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to UW-Madison Computational Nuclear Engineering Research Group (CNERG)'s documentation!
-===============================================================================================
+Welcome to CNERG
+=================
 
-Contents:
+The Computational Nuclear Engineering Research Group focuses on the
+nuclear design and analysis of nuclear energy systems and fuel cycle
+concepts. While research activities include methods development and
+methodology integration, it is generally in support of improving the
+ability to perform nuclear analyses of engineering systems. As nuclear
+analysts, CNERG’s strengths are in modeling radiation transport and
+nuclide inventory changes.
 
 .. toctree::
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   projects/main
+   people/main
+   papers/main
 
