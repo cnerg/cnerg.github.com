@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{index:0,madison:0,engin:0,welcom:0,nuclear:0,modul:0,search:0,indic:0,research:0,content:0,tabl:0,cnerg:0,comput:0,document:0,page:0,group:0},objtypes:{},titles:["Welcome to UW-Madison Computational Nuclear Engineering Research Group (CNERG)&#8217;s documentation!"],objnames:{},filenames:["index"]})
