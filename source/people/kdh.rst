@@ -4,15 +4,15 @@ Kathryn D. Huff (Katy Huff)
 Contact Information
 --------------------
 
-Bldg. 208
-Argonne National Laboratory
-9700 S. Cass Ave
-Argonne, IL 60439
-khuff@cae.wisc.edu
-`Phone <http://web.anl.gov/directory/>`_
-`Personal website <http://katyhuff.github.com>`_
-`Calendar <http://www.google.com/calendar/embed?src=katyhuff%40gmail.com&ctz=America/Chicago>`_
-`Twitter <twitter.com/katyhuff>`_
+-  Bldg. 208
+- Argonne National Laboratory
+- 9700 S. Cass Ave
+- Argonne, IL 60439
+- khuff@cae.wisc.edu
+- `Phone <http://web.anl.gov/directory/>`_
+- `Personal website <http://katyhuff.github.com>`_
+- `Calendar <http://www.google.com/calendar/embed?src=katyhuff%40gmail.com&ctz=America/Chicago>`_
+- `Twitter <twitter.com/katyhuff>`_
 
 Graduate Appointment
 --------------------
@@ -42,14 +42,14 @@ Current Projects
 
 Past Projects
 --------------------
-GENIUSv2 Fuel Cycle Modeling Development
-WAGE GGE Case Study
+- GENIUSv2 Fuel Cycle Modeling Development
+- WAGE GGE Case Study
 
 Education
 --------------------
-University of Wisconsin, Madison, WI [current graduate student]
-University of Chicago, Chicago, IL [B.A. in physics 2008]
-Texas Academy of Mathematics and Science, Denton, TX [high school 2004]
+- University of Wisconsin, Madison, WI [current graduate student]
+- University of Chicago, Chicago, IL [B.A. in physics 2008]
+- Texas Academy of Mathematics and Science, Denton, TX [high school 2004]
 
 Publications List
 --------------------
