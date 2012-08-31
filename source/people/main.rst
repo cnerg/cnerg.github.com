@@ -18,7 +18,9 @@ Graduate Students
 -----------------
 Kerry Dunn
 
-Katy Huff
+.. image :: kdh.jpg
+   :width: 150
+:doc:`Katy Huff <kdh>`
 
 Matthew Gidden
 
@@ -45,3 +47,4 @@ Matthew Klebenow
    :hidden:
 
    pphw
+   kdh
