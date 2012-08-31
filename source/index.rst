@@ -31,7 +31,9 @@ current opportunities are available.
 .. toctree::
    :maxdepth: 1
    :hidden:
-
+ 
+   index
    projects/main
+   projects/software
    people/main
    papers/main
