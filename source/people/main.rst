@@ -6,6 +6,7 @@ Research Staff
 
 .. image :: pphw.jpg
    :width: 150
+
 :doc:`Paul Wilson, CNERG leader <pphw>`
 
 Douglass Henderson 
@@ -20,6 +21,7 @@ Kerry Dunn
 
 .. image :: kdh.jpg
    :width: 150
+
 :doc:`Katy Huff <kdh>`
 
 Matthew Gidden
@@ -44,6 +46,7 @@ Matthew Klebenow
 
 
 .. toctree::
+   :maxdepth: 2
    :hidden:
 
    pphw
