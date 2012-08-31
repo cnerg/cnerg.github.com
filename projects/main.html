@@ -26,13 +26,13 @@
     <script type="text/javascript" src="../_static/underscore.js"></script>
     <script type="text/javascript" src="../_static/doctools.js"></script>
     <link rel="top" title="CNERG" href="../index.html" />
-    <link rel="next" title="Staff and Students" href="../people/main.html" />
-    <link rel="prev" title="Welcome to CNERG" href="../index.html" /> 
+    <link rel="next" title="Software Distribution" href="software.html" />
+    <link rel="prev" title="Recent Papers" href="../papers/main.html" /> 
   </head>
   <body>
      
 <div id="page-div" class="page">
-<div id="header"><a id="uwhome" href="http://www.wisc.edu"><img src="http://sustainability.wisc.edu/wp-content/themes/sustainability/images/wordmark.gif" alt="University of Wisconsin–Madison" width="260" height="11" /></a> <a id="crest" href="http://www.wisc.edu"><img src="http://sustainability.wisc.edu/wp-content/themes/sustainability/images/crest.png" alt="" width="70" height="106" /></a>
+<div id="header"><a id="uwhome" href="http://www.wisc.edu"><img src="/_static/images/wordmark.gif" alt="University of Wisconsin–Madison" width="260" height="11" /></a> <a id="crest" href="http://www.wisc.edu"><img src="/_static/images/crest.png" alt="" width="70" height="106" /></a>
     <h1 id="siteTitle"><a href="/"><span>CNERG</span></a></h1>
     <div id="tagline"><span>UW-Madison's Computational Nuclear Engineering Research Group</span></div>
     <ul id="globalnav">
@@ -58,26 +58,83 @@
       <ul id="menu-main" class="sf-menu">
         <li class="menu-item"><a href="../index.html">CNERG</a></li>
         <li class="menu-item" style="margin-right: 10px">
-          <a href="../genindex.html" title="General Index"
-             accesskey="I">index</a>
+          <a href="../papers/main.html" title="Recent Papers"
+             accesskey="P">previous</a>
           </li>
         <li class="menu-item" >
-          <a href="../people/main.html" title="Staff and Students"
+          <a href="software.html" title="Software Distribution"
              accesskey="N">next</a>
           </li>
         <li class="menu-item" >
-          <a href="../index.html" title="Welcome to CNERG"
-             accesskey="P">previous</a>
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a>
           </li> 
       </ul>
-    </div>  
-
-    <div id="c_container">
+    </div>
+  <div id="c_container"> 
+<div id="sidebar">
+ <div id="sidebar_section"></div>
+ <div id="sidebar_section"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../index.html">Welcome to CNERG</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="">Current Projects</a></li>
+<li class="toctree-l1"><a class="reference internal" href="software.html">Software Distribution</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../people/main.html">Staff and Students</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../papers/main.html">Recent Papers</a></li>
+</ul>
+ </div>
+</div> 
     <div id="content" class="inline-block">
           <div class="post">
             
   <div class="section" id="current-projects">
 <h1>Current Projects<a class="headerlink" href="#current-projects" title="Permalink to this headline">¶</a></h1>
+<p>CNERG research lies at the middle of a continuum of computational
+work, with pure methods development at one end and pure systems
+analysis at the other.  CNERG’s goal is to help improve capability for
+real analysis of complex systems by investigating and implementing new
+methods in production software tools.  The primary product of our work
+is a suite of technology to enable these analyses, although much of
+our funding comes from analysis efforts.</p>
+<div class="section" id="funded-projects">
+<h2>Funded Projects<a class="headerlink" href="#funded-projects" title="Permalink to this headline">¶</a></h2>
+<p><strong>ITER First Wall &amp; Shield Analysis:</strong> We collaborate with Sandia National
+Laboratories to perform the engineering design of the first wall and
+shield modules for the ITER project under construction in France.
+This project relies heavily on our DAGMC technology for CAD-based
+Monte Carlo radiation transport analysis.</p>
+<p><strong>Advanced Mesh Tallies for Monte Carlo Transport:</strong> Under this 2009 NEUP
+R&amp;D project, we are investigating the use of alternative mesh tallies
+to extend the capabilities of Monte Carlo modeling of nuclear systems.
+A combination of unstructured mesh and alternative estimators should
+allow for more variation in mesh resolution and possible adaptivity in
+the mesh definition without loss of solution accuracy.  Another
+potential benefit is the simplicity of coupling with other physics.</p>
+<p><strong>Predictive Capability for the Design of Near Term Fusion Devices:</strong> In
+collaboration with the Fusion Technology Institute and their ongoing
+neutronics support of near term fusion devices, we are extending the
+predictive analysis capability.  Based on our DAGMC technology, we are
+exploring complete workflows for shutdown dose analysis and hybrid
+accelerations of the Monte Carlo simulations.</p>
+<p><strong>Multi-physics Solution Transfer on Large Distributed Mesh:</strong> With
+funding from the Consortium for Advanced Simulation of LWRs (CASL), we
+are developing an open source software component for managing the
+transfer of solutions among different multi-physics mesh for massively
+parallel simulations.</p>
+<p><strong>Improving the User Experience for Fuel Cycle Simulators:</strong> This 2011
+NEUP R&amp;D project is focused on improving the user experience of the
+Next Generation Fuel Cycle Simulator.  In collaboration with
+communication scientists, with expertise in communicating
+controversial science, and computer scientists, with expertise in</p>
+</div>
+<div class="section" id="fundamental-technology">
+<h2>Fundamental Technology<a class="headerlink" href="#fundamental-technology" title="Permalink to this headline">¶</a></h2>
+<dl class="docutils">
+<dt><strong>Direct Acclerated Geometry Monte Carlo (DAGMC) Toolkit:</strong> This</dt>
+<dd>toolkit is implemented as an interface of the <a class="reference external" href="http://trac.mcs.anl.gov/projects/ITAPS/wiki/MOAB">MOAB mesh database</a> for the purpose
+of performing the few standard geometry queries necessary for Monte
+Carlo radiation transport.</dd>
+</dl>
+</div>
 </div>
 
 
@@ -91,7 +148,7 @@
         &copy; Copyright 2012, Paul Wilson.
       </p>
       <p>
-      Last updated on Jul 25, 2012.
+      Last updated on Aug 31, 2012.
       </p>
       <p>
       Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
