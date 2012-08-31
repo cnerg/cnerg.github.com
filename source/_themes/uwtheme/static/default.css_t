@@ -38,12 +38,14 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   font-weight: inherit;
   font-style: inherit;
   font-size: 100%;
-  line-height: 1em;
+/*  line-height: 1em;*/
   font-family: inherit;
   text-align: left;
   vertical-align: baseline;
   background: transparent;
 }
+
+p { margin-top: 0.5em; }
 
 body { line-height: 1; }
 ol, ul { list-style: none; }
@@ -84,7 +86,7 @@ li h3, li p, li a { font-size: 1em; }
 
 html {
   color: #000;
-  background: #FFFFFF url(http://sustainability.wisc.edu/wp-content/themes/sustainability/images/background.jpg) repeat-x top;
+  background: #FFFFFF url(../_static/images/background.jpg) repeat-x top;
 }
 
 body {
@@ -126,6 +128,7 @@ body {
   height: 90px;
   color: #fff;
   background-color: #B70101;
+  margin: 0;
 }
 
 #uwhome {
@@ -177,7 +180,7 @@ body {
   font-weight:bold;
   left:89px;
   position:absolute;
-  top:58px;
+  top:68px;
 }
 
 /*lifted from coe*/
@@ -185,7 +188,7 @@ body {
   width: 100%;
   height: 25px;
   text-align: center;
-  background: transparent url(http://sustainability.wisc.edu/wp-content/themes/sustainability/images/nav_bg.jpg) repeat-x;
+  background: transparent url(../_static/images/nav_bg.jpg) repeat-x;
   color: #333;
   position: relative;
   box-shadow: 0 3px 2px rgba(60, 60, 60, 0.3);
@@ -199,8 +202,9 @@ body {
   font-size: 0.875em;
   vertical-align: top;
   line-height: 25px;
-  background: transparent url(http://sustainability.wisc.edu/wp-content/themes/sustainability/images/nav_button_border.gif) no-repeat right 0;
+  background: transparent url(../_static/images/nav_button_border.gif) no-repeat right 0;
   height: 25px;
+  margin; 0;
 }
 #menu-main li:last-child {background: none;}
 #menu-main li li {
@@ -249,7 +253,7 @@ body {
 }
 
 #menu-main > .current-menu-item, #menu-main > li:hover {
-  background: url(http://sustainability.wisc.edu/wp-content/themes/sustainability/images/main_nav_on_275.jpg) no-repeat right 0;
+  background: url(../_static/images/main_nav_on_275.jpg) no-repeat right 0;
 }
 
 #menu-main > .trailer_nav {
@@ -314,17 +318,18 @@ body {
   padding: 10px 0 0 0;
   color: #504C3E;
   background: #fff;
+  position: relative;
 }
 
 .home #c_container {
   padding: 0;
-  background: url("http://sustainability.wisc.edu/wp-content/themes/sustainability/images/green_gradient-vert.jpg") repeat-y scroll right bottom transparent;
+  background: url("../_static/images/green_gradient-vert.jpg") repeat-y scroll right bottom transparent;
 }
 
 .home #content {
   margin-top:0;
   padding: 0;
-  background: url("http://sustainability.wisc.edu/wp-content/themes/sustainability/images/green_gradient.jpg") no-repeat scroll right bottom transparent;
+  background: url("../_static/images/green_gradient.jpg") no-repeat scroll right bottom transparent;
 }
 
 #content {
@@ -412,7 +417,7 @@ body {
   padding-top: 4px;
 }
 #connect li span {
-  background: url("http://sustainability.wisc.edu/wp-content/themes/sustainability/images/supermassivecsspriteicons2.png") no-repeat scroll 0 -62px transparent;
+  background: url("../_static/images/supermassivecsspriteicons2.png") no-repeat scroll 0 -62px transparent;
   height: 20px;
   width: 20px;
   display: inline-block;
@@ -420,7 +425,7 @@ body {
   float: left;
 }
 #connect li.gotideas span {
-  background: url("http://sustainability.wisc.edu/wp-content/themes/sustainability/images/Connect.png") no-repeat scroll 0 0 transparent;
+  background: url("../_static/images/Connect.png") no-repeat scroll 0 0 transparent;
 }
 #connect li.contact span {
   background-position: 0 -927px;
@@ -534,7 +539,7 @@ body {
   text-transform: uppercase;
 }
 .home h2.news span {
-  background: url("http://sustainability.wisc.edu/wp-content/themes/sustainability/images/supermassivecsspriteicons2.png") no-repeat scroll 0 -292px transparent;
+  background: url("../_static/images/supermassivecsspriteicons2.png") no-repeat scroll 0 -292px transparent;
   height: 20px;
   width: 20px;
   display: inline-block;
@@ -585,7 +590,7 @@ body {
   margin-bottom: .25em;
 }
 .post .post-date {
-    background: url("http://sustainability.wisc.edu/wp-content/themes/sustainability/images/post-date-bar.gif") repeat-y scroll right 0 transparent;
+    background: url("../_static/images/post-date-bar.gif") repeat-y scroll right 0 transparent;
     margin-right: 12px;
     padding-right: 12px;
 }
@@ -633,7 +638,7 @@ body {
 /*submit button*/
 
 #submit_button {
-  background: url("http://sustainability.wisc.edu/wp-content/themes/sustainability/images/green-grad.gif") repeat-x scroll 0 0 #C3DD82;
+  background: url("../_static/images/green-grad.gif") repeat-x scroll 0 0 #C3DD82;
   border: 1px solid #8CB332;
   border-radius: 4px 4px 4px 4px;
   display: inline-block;
@@ -670,7 +675,7 @@ body {
 }
 .page #c_container {
   padding: 0px;
-  background: url("http://sustainability.wisc.edu/wp-content/themes/sustainability/images/page-sidebar-bg.png") repeat-y scroll right 0 #FFFFFF;
+  background: url("../_static/images/page-sidebar-bg.png") repeat-y scroll right 0 #FFFFFF;
 }
 .page #content {
   margin: 0 7px 0 0;
@@ -678,12 +683,20 @@ body {
   padding-top: 40px;
 }
 .page #sidebar {
+  position: absolute;
+  top: 0px;
+  right: 0px;
   background-color: #E2EDC2;
   border-left: 1px solid #83a86d;
   margin: 0 0 0px 0;
   padding: 20px 0px 30px 0px;
   width: 250px;
 }
+
+#sidebar_section {
+  margin: 0 0 0 10px;
+}
+
 .page #sidebar .related_posts {
   margin: 16px 16px 32px;
   padding: 0 12px 12px;
@@ -703,7 +716,9 @@ body {
 }
 /*content section*/
 
-h1, h2, h3 {color:rgba(50, 04, 3e, 1); font-family:"Myriad Pro",Trebuchet,Arial,sans-serif;}
+h1, h2, h3 {margin-top: 0em; color:rgba(50, 04, 3e, 1); font-family:"Myriad Pro",Trebuchet,Arial,sans-serif;}
+
+h2 {text-decoration: underline;}
 
 /*Innovations single*/
 
@@ -1003,7 +1018,7 @@ skip navigation, etc.
 }
 
 .note {
-  background: url("http://sustainability.wisc.edu/wp-content/themes/sustainability/images/yellow-grad.png") repeat-x scroll 0 0 #F8F7D2;
+  background: url("../_static/images/yellow-grad.png") repeat-x scroll 0 0 #F8F7D2;
   border: 1px solid #cac778;
   border-radius: 4px 4px 4px 4px;
   float: right;
