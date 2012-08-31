@@ -48,7 +48,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 p { margin-top: 0.5em; }
 
 body { line-height: 1; }
-ol, ul { list-style: none; }
+/* ol, ul { list-style: none; }*/
 
 /*tables still need 'cellspacing="0"' in the markup*/
 table {
@@ -696,6 +696,8 @@ body {
 #sidebar_section {
   margin: 0 0 0 10px;
 }
+
+#sidebar ul, ol { list-style: none; }
 
 .page #sidebar .related_posts {
   margin: 16px 16px 32px;
