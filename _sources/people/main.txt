@@ -6,42 +6,40 @@ Research Staff
 
 .. image :: pphw.jpg
    :width: 150
-:doc:`Paul Wilson, CNERG leader <pphw>`
+   :align: right
 
-Douglass Henderson 
-
-Andrew Davis
-
-Tony Hammond
+| :doc:`Paul Wilson, CNERG leader <pphw>`
+| Douglass Henderson 
+| Andrew Davis
+| Tony Hammond
 
 Graduate Students
 -----------------
-Kerry Dunn
-
-Katy Huff
-
-Matthew Gidden
-
-Stuart Slattery
-
-Elliott Biondo
-
-Robert Calrsen
-
-Eric Relson
-
-Chelsea D'Angelo
-
-Zach Welch
+| :doc:`Kerry Dunn <dunn>`
+| :doc:`Katy Huff <huff>`
+| Matthew Gidden
+| Stuart Slattery
+| Elliott Biondo
+| Robert Calrsen
+| Eric Relson
+| Chelsea D'Angelo
+| Zach Welch
 
 Undergraduate Students
 -----------------------
-Matthew Klebenow
+| Matthew Klebenow
 
+CNERG Alumni
+-------------
 
+| Ahmad Ibrahim, PhD (2012), ORNL
+| Rachel Slaybaugh, PhD (2012, Bettis Naval Reactor Laboratory
 
 
 .. toctree::
    :hidden:
 
    pphw
+   ibrahim
+   dunn
+   huff

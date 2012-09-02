@@ -45,7 +45,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   background: transparent;
 }
 
-p { margin-top: 0.5em; }
+p { margin-top: 0.75em; }
 
 body { line-height: 1; }
 /* ol, ul { list-style: none; }*/
@@ -720,7 +720,7 @@ body {
 
 h1, h2, h3 {margin-top: 0em; color:rgba(50, 04, 3e, 1); font-family:"Myriad Pro",Trebuchet,Arial,sans-serif;}
 
-h2 {text-decoration: underline;}
+h2 {text-decoration: underline; margin-top: 1em;}
 
 /*Innovations single*/
 
