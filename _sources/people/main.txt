@@ -20,8 +20,8 @@ Graduate Students
 | Matthew Gidden
 | :doc:`Stuart Slattery <slattery>`
 | Elliott Biondo
-| Robert Calrsen
-| Eric Relson
+| Robert Carlsen
+| :doc:`Eric Relson <relson>`
 | Chelsea D'Angelo
 | Zach Welch
 
