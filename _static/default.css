@@ -45,10 +45,10 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   background: transparent;
 }
 
-p { margin-top: 0.5em; }
+p { margin-top: 0.75em; }
 
 body { line-height: 1; }
-ol, ul { list-style: none; }
+/* ol, ul { list-style: none; }*/
 
 /*tables still need 'cellspacing="0"' in the markup*/
 table {
@@ -697,6 +697,8 @@ body {
   margin: 0 0 0 10px;
 }
 
+#sidebar ul, ol { list-style: none; }
+
 .page #sidebar .related_posts {
   margin: 16px 16px 32px;
   padding: 0 12px 12px;
@@ -718,7 +720,7 @@ body {
 
 h1, h2, h3 {margin-top: 0em; color:rgba(50, 04, 3e, 1); font-family:"Myriad Pro",Trebuchet,Arial,sans-serif;}
 
-h2 {text-decoration: underline;}
+h2 {text-decoration: underline; margin-top: 1em;}
 
 /*Innovations single*/
 

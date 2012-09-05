@@ -8,7 +8,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Current Projects &mdash; CNERG</title>
+    <title>Research Areas &mdash; CNERG</title>
     
     <link rel="stylesheet" href="../_static/default.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
@@ -26,8 +26,8 @@
     <script type="text/javascript" src="../_static/underscore.js"></script>
     <script type="text/javascript" src="../_static/doctools.js"></script>
     <link rel="top" title="CNERG" href="../index.html" />
-    <link rel="next" title="Software Distribution" href="software.html" />
-    <link rel="prev" title="Recent Papers" href="../papers/main.html" /> 
+    <link rel="next" title="Funded Projects" href="funded.html" />
+    <link rel="prev" title="Welcome to CNERG" href="../index.html" /> 
   </head>
   <body>
      
@@ -58,11 +58,11 @@
       <ul id="menu-main" class="sf-menu">
         <li class="menu-item"><a href="../index.html">CNERG</a></li>
         <li class="menu-item" style="margin-right: 10px">
-          <a href="../papers/main.html" title="Recent Papers"
+          <a href="../index.html" title="Welcome to CNERG"
              accesskey="P">previous</a>
           </li>
         <li class="menu-item" >
-          <a href="software.html" title="Software Distribution"
+          <a href="funded.html" title="Funded Projects"
              accesskey="N">next</a>
           </li>
         <li class="menu-item" >
@@ -75,8 +75,9 @@
 <div id="sidebar">
  <div id="sidebar_section"></div>
  <div id="sidebar_section"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="../index.html">Welcome to CNERG</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="">Current Projects</a></li>
+<li class="toctree-l1"><a class="reference internal" href="funded.html">Funded Projects</a></li>
+<li class="toctree-l1"><a class="reference internal" href="spinoffprojects.html">CNERG Neutronics Spin-off Projects</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="">Research Areas</a></li>
 <li class="toctree-l1"><a class="reference internal" href="software.html">Software Distribution</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../people/main.html">Staff and Students</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../papers/main.html">Recent Papers</a></li>
@@ -86,54 +87,92 @@
     <div id="content" class="inline-block">
           <div class="post">
             
-  <div class="section" id="current-projects">
-<h1>Current Projects<a class="headerlink" href="#current-projects" title="Permalink to this headline">¶</a></h1>
+  <div class="toctree-wrapper compound">
+</div>
+<div class="section" id="research-areas">
+<h1>Research Areas<a class="headerlink" href="#research-areas" title="Permalink to this headline">¶</a></h1>
 <p>CNERG research lies at the middle of a continuum of computational
 work, with pure methods development at one end and pure systems
 analysis at the other.  CNERG’s goal is to help improve capability for
 real analysis of complex systems by investigating and implementing new
 methods in production software tools.  The primary product of our work
 is a suite of technology to enable these analyses, although much of
-our funding comes from analysis efforts.</p>
-<div class="section" id="funded-projects">
-<h2>Funded Projects<a class="headerlink" href="#funded-projects" title="Permalink to this headline">¶</a></h2>
-<p><strong>ITER First Wall &amp; Shield Analysis:</strong> We collaborate with Sandia National
-Laboratories to perform the engineering design of the first wall and
-shield modules for the ITER project under construction in France.
-This project relies heavily on our DAGMC technology for CAD-based
-Monte Carlo radiation transport analysis.</p>
-<p><strong>Advanced Mesh Tallies for Monte Carlo Transport:</strong> Under this 2009 NEUP
-R&amp;D project, we are investigating the use of alternative mesh tallies
-to extend the capabilities of Monte Carlo modeling of nuclear systems.
-A combination of unstructured mesh and alternative estimators should
-allow for more variation in mesh resolution and possible adaptivity in
-the mesh definition without loss of solution accuracy.  Another
-potential benefit is the simplicity of coupling with other physics.</p>
-<p><strong>Predictive Capability for the Design of Near Term Fusion Devices:</strong> In
-collaboration with the Fusion Technology Institute and their ongoing
-neutronics support of near term fusion devices, we are extending the
-predictive analysis capability.  Based on our DAGMC technology, we are
-exploring complete workflows for shutdown dose analysis and hybrid
-accelerations of the Monte Carlo simulations.</p>
-<p><strong>Multi-physics Solution Transfer on Large Distributed Mesh:</strong> With
-funding from the Consortium for Advanced Simulation of LWRs (CASL), we
-are developing an open source software component for managing the
-transfer of solutions among different multi-physics mesh for massively
-parallel simulations.</p>
-<p><strong>Improving the User Experience for Fuel Cycle Simulators:</strong> This 2011
-NEUP R&amp;D project is focused on improving the user experience of the
-Next Generation Fuel Cycle Simulator.  In collaboration with
-communication scientists, with expertise in communicating
-controversial science, and computer scientists, with expertise in</p>
+our <a class="reference internal" href="funded.html"><em>funding</em></a> comes from analysis efforts.</p>
+<p>While both areas deal with topics at the core of nuclear engineering,
+the efforts of CNERG are divided between a <a class="reference internal" href="#neutronics">neutronics</a> group and a <a class="reference internal" href="#fuel-cycle">fuel
+cycle</a> group.</p>
+<div class="section" id="neutronics">
+<span id="id1"></span><h2>Neutronics<a class="headerlink" href="#neutronics" title="Permalink to this headline">¶</a></h2>
+<p>The cornerstone of the CNERG neutronics group&#8217;s work is the Direct
+Accelerated Geometry Monte Carlo (<a class="reference external" href="http://svalinn.github.com/DAGMC">DAGMC</a>) toolkit.  This ray-tracing
+interface to the <a class="reference external" href="http://trac.mcs.anl.gov/projects/ITAPS/wiki/MOAB">MOAB</a> software library allows Monte Carlo radiation
+transport software to perform ray-tracing and related operaitons
+directly on CAD-based repesentations of complex geometry.  DAGMC has
+been successfully integrated with MCNP5 from Los Alamos National
+Laboratory to produce the DAG-MCNP5 package.</p>
+<p>Current research based on the DAGMC technology includes:</p>
+<p><strong>DAGMC performance improvements using novel surface meshing
+algorithms</strong>: The benefit of the OBB-tree accelerations that are
+vital to DAGMC&#8217;s performance can be undermined by a faceting of the
+CAD surfaces that produces vertices that are shared by too many
+facets: so-called <em>high valence vertices</em>.  Different faceting
+algorithms will be compared with some mesh cleanup algorithms to
+identify schemes to arrive at a faceting that is better suited to
+the OBB-tree acceleration scheme for challenging problems.</p>
+<p><strong>Unstructured mesh tallies with alternative estimators</strong>: With
+complex geometry and 3-D source defintions now common-place, the
+focus turns to the ability to tally results in Monte Carlo
+simulations with better fidelity.  The Cartesian overlay mesh common
+to most solutions introduces physical approximations for complex
+geometry that does not align conveniently with such a grid.  This
+work uses conformal unstructured mesh to define the tally mesh for a
+traditional track-length estimator, and then explores alternative
+estimators such as the kernel density estimator applied at mesh nodes
+rather than across mesh elements.</p>
+<p><strong>High-fidelity shutdown dose workflow for activated systems</strong>: Known
+as the <em>Rigorous-2-Step</em> method, or R2S, in fusion neutronics, this
+workflow performs a multi-group spatially resolved neutron transport
+calculation to determine neutron fluxes throughout the system, uses
+those fluxes to determine the isotopic change in the activated
+materials, and then samples the photon source that arises from that
+activation to perform a detailed photon dose calculation at various
+times after the shutdown of the neutron source.  The critical
+research &amp; development steps are the generation of material
+definitions for Cartesian grid elements superimposed on a complex
+geometry, and the efficient sampling of a grid-based multi-group
+photon source.</p>
+<p><strong>Hybrid deterministic-Monte Carlo workflow</strong>: For nearly 2 decades,
+the use of deterministic hybrid approaches to Monte Carlo variance
+reduction have been explored and refined.  Extending this capability
+to the CAD-based DAGMC transport problems requires the generation of
+a mesh for use in the deterministic solution.  Leveraging the
+improvements made for the R2S workflow above, this process should be
+straightforward and allow most of the normal hybrid technology to be
+applied directly to DAGMC-based problems.</p>
+<p>In addition, students in this area often pursue <a class="reference internal" href="spinoffprojects.html"><em>spin-off
+projects</em></a> through collaborations with national
+laboratories.</p>
 </div>
-<div class="section" id="fundamental-technology">
-<h2>Fundamental Technology<a class="headerlink" href="#fundamental-technology" title="Permalink to this headline">¶</a></h2>
-<dl class="docutils">
-<dt><strong>Direct Acclerated Geometry Monte Carlo (DAGMC) Toolkit:</strong> This</dt>
-<dd>toolkit is implemented as an interface of the <a class="reference external" href="http://trac.mcs.anl.gov/projects/ITAPS/wiki/MOAB">MOAB mesh database</a> for the purpose
-of performing the few standard geometry queries necessary for Monte
-Carlo radiation transport.</dd>
-</dl>
+<div class="section" id="fuel-cycle">
+<span id="id2"></span><h2>Fuel Cycle<a class="headerlink" href="#fuel-cycle" title="Permalink to this headline">¶</a></h2>
+<p>The CNERG fuel cycle group&#8217;s <a class="reference external" href="http://cyclus.github.com">Cyclus</a>
+project was recently selected as the base infrastructure for the
+Department of Energy&#8217;s Next-Generation Fuel Cycle Simulator.  This
+project aims to address gaps in the available simulator tools by:</p>
+<ul class="simple">
+<li>modeling discrete facilities and material transactions</li>
+<li>using an agent-based approach with dynamically loadable plugins to
+encapsulate behavior</li>
+<li>open source development pratices to lower the barrier to adoption</li>
+<li>common physics infrastructure with alternative output layers for
+different user communities.</li>
+</ul>
+<p>In addition to developing the <a class="reference external" href="http://github.com/cyclus/cyclus">core technology</a> as a team, the following
+research areas are also being pursued by individual CNERG members:</p>
+<ul class="simple">
+<li>geologic repository model (<a class="reference external" href="http://github.com/katyhuff/cyder">Cyder</a>) with plugin architecture for repository
+physics models</li>
+</ul>
 </div>
 </div>
 
@@ -148,7 +187,7 @@ Carlo radiation transport.</dd>
         &copy; Copyright 2012, Paul Wilson.
       </p>
       <p>
-      Last updated on Aug 31, 2012.
+      Last updated on Sep 05, 2012.
       </p>
       <p>
       Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.

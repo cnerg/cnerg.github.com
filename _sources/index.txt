@@ -32,7 +32,6 @@ current opportunities are available.
    :maxdepth: 1
    :hidden:
  
-   index
    projects/main
    projects/software
    people/main
