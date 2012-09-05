@@ -23,10 +23,10 @@ Graduate Students
 :doc:`Katy Huff <kdh>`
 
 | Matthew Gidden
-| Stuart Slattery
+| :doc:`Stuart Slattery <slattery>`
 | Elliott Biondo
 | Robert Calrsen
-| Eric Relson
+| :doc:`Eric Relson <relson>`
 | Chelsea D'Angelo
 | Zach Welch
 
@@ -49,3 +49,5 @@ CNERG Alumni
    ibrahim
    dunn
    kdh
+   slattery
+   relson
