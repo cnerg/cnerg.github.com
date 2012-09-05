@@ -8,7 +8,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Kerry L. Dunn &mdash; CNERG</title>
+    <title>Kathryn D. Huff (Katy Huff) &mdash; CNERG</title>
     
     <link rel="stylesheet" href="../_static/default.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
@@ -27,17 +27,13 @@
     <script type="text/javascript" src="../_static/doctools.js"></script>
     <link rel="top" title="CNERG" href="../index.html" />
     <link rel="up" title="Staff and Students" href="main.html" />
-<<<<<<< HEAD
-    <link rel="next" title="Kathryn D. Huff (Katy Huff)" href="kdh.html" />
-=======
-    <link rel="next" title="Kathryn D. Huff (Katy Huff)" href="huff.html" />
->>>>>>> origin/master
-    <link rel="prev" title="Ahmad Ibrahim" href="ibrahim.html" /> 
+    <link rel="next" title="Recent Papers" href="../papers/main.html" />
+    <link rel="prev" title="Paul P.H. Wilson" href="pphw.html" /> 
   </head>
   <body>
      
 <div id="page-div" class="page">
-<div id="header"><a id="uwhome" href="http://www.wisc.edu"><img src="/_static/images/wordmark.gif" alt="University of Wisconsin–Madison" width="260" height="11" /></a> <a id="crest" href="http://www.wisc.edu"><img src="/_static/images/crest.png" alt="" width="70" height="106" /></a>
+<div id="header"><a id="uwhome" href="http://www.wisc.edu"><img src="/_themes/uwtheme/static/images/wordmark.gif" alt="University of Wisconsin–Madison" width="260" height="11" /></a> <a id="crest" href="http://www.wisc.edu"><img src="/_themes/uwtheme/static/images/crest.png" alt="" width="70" height="106" /></a>
     <h1 id="siteTitle"><a href="/"><span>CNERG</span></a></h1>
     <div id="tagline"><span>UW-Madison's Computational Nuclear Engineering Research Group</span></div>
     <ul id="globalnav">
@@ -63,15 +59,11 @@
       <ul id="menu-main" class="sf-menu">
         <li class="menu-item"><a href="../index.html">CNERG</a></li>
         <li class="menu-item" style="margin-right: 10px">
-          <a href="ibrahim.html" title="Ahmad Ibrahim"
+          <a href="pphw.html" title="Paul P.H. Wilson"
              accesskey="P">previous</a>
           </li>
         <li class="menu-item" >
-<<<<<<< HEAD
-          <a href="kdh.html" title="Kathryn D. Huff (Katy Huff)"
-=======
-          <a href="huff.html" title="Kathryn D. Huff (Katy Huff)"
->>>>>>> origin/master
+          <a href="../papers/main.html" title="Recent Papers"
              accesskey="N">next</a>
           </li>
         <li class="menu-item" >
@@ -85,9 +77,7 @@
 <div id="sidebar">
  <div id="sidebar_section"></div>
  <div id="sidebar_section"><ul>
-<li class="toctree-l1"><a class="reference internal" href="../projects/funded.html">Funded Projects</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../projects/spinoffprojects.html">CNERG Neutronics Spin-off Projects</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../projects/main.html">Research Areas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../projects/main.html">Current Projects</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../projects/software.html">Software Distribution</a></li>
 <li class="toctree-l1"><a class="reference internal" href="main.html">Staff and Students</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../papers/main.html">Recent Papers</a></li>
@@ -97,47 +87,71 @@
     <div id="content" class="inline-block">
           <div class="post">
             
-  <div class="section" id="kerry-l-dunn">
-<h1>Kerry L. Dunn<a class="headerlink" href="#kerry-l-dunn" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="kathryn-d-huff-katy-huff">
+<h1>Kathryn D. Huff (Katy Huff)<a class="headerlink" href="#kathryn-d-huff-katy-huff" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="contact-information">
 <h2>Contact Information<a class="headerlink" href="#contact-information" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">428 Engineering Research Building</div>
-<div class="line">1500 Engineering Drive</div>
-<div class="line">Madison, WI 53706</div>
-</div>
-<p><a class="reference external" href="mailto:klhaney&#37;&#52;&#48;wisc&#46;edu">klhaney<span>&#64;</span>wisc<span>&#46;</span>edu</a></p>
+<ul class="simple">
+<li>Bldg. 208</li>
+<li>Argonne National Laboratory</li>
+<li>9700 S. Cass Ave</li>
+<li>Argonne, IL 60439</li>
+<li><a class="reference external" href="mailto:khuff&#37;&#52;&#48;cae&#46;wisc&#46;edu">khuff<span>&#64;</span>cae<span>&#46;</span>wisc<span>&#46;</span>edu</a></li>
+<li><a class="reference external" href="http://web.anl.gov/directory/">Phone</a></li>
+<li><a class="reference external" href="http://katyhuff.github.com">Personal website</a></li>
+<li><a class="reference external" href="http://www.google.com/calendar/embed?src=katyhuff%40gmail.com&amp;ctz=America/Chicago">Calendar</a></li>
+<li><a class="reference external" href="twitter.com/katyhuff">Twitter</a></li>
+</ul>
 </div>
 <div class="section" id="graduate-appointment">
 <h2>Graduate Appointment<a class="headerlink" href="#graduate-appointment" title="Permalink to this headline">¶</a></h2>
-<p>Research assistant developing alternative estimators to obtain high fidelity radiation transport results on complex mesh-based geometries.</p>
+<p>I am an Office of Science Laboratory Graduate appointee at Argonne National Lab.
+This program allows me to closely collaborate with the DOE Used Fuel
+Disposition campaign while I produce my dissertation. Within the context of
+CNERG, I am a research assistant developing simulation tools and methods for
+analysis of advanced nuclear fuel cycles.</p>
 </div>
 <div class="section" id="research-interests">
 <h2>Research Interests<a class="headerlink" href="#research-interests" title="Permalink to this headline">¶</a></h2>
-<blockquote>
-<div><ul>
-<li><p class="first">Monte Carlo neutron transport methods</p>
-</li>
-<li><dl class="first docutils">
-<dt>Alternative Monte Carlo tallies:</dt>
-<dd><ul class="first last simple">
-<li>Kernel Density Estimators (KDE)</li>
-<li>Functional Expansion Technique (FET)</li>
+<ul class="simple">
+<li>Scientific Software Development</li>
+<li>Energy Policy Analysis Tools</li>
+<li>Nuclear Fuel Cycle Simulations</li>
+<li>Repository Impact Modeling</li>
+<li>Fuel Cycle Internationalization Analysis</li>
 </ul>
-</dd>
-</dl>
-</li>
+</div>
+<div class="section" id="current-projects">
+<h2>Current Projects<a class="headerlink" href="#current-projects" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="http://cyclus.github.com">Cyclus</a> project management and development</li>
+<li><a class="reference external" href="https://github.com/katyhuff/cyder">Cyder</a> project developement</li>
+<li><a class="reference external" href="http://software-carpentry.org/about/our-team/">Software Carpentry</a> teacher and organizer</li>
+<li><a class="reference external" href="inscight.wordpress.com">inSCIght</a> podcast</li>
+<li>upcoming contributions to <a class="reference external" href="http://pyne.github.com">pyNE</a></li>
 </ul>
-</div></blockquote>
+</div>
+<div class="section" id="past-projects">
+<h2>Past Projects<a class="headerlink" href="#past-projects" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>GENIUSv2 Fuel Cycle Modeling Development</li>
+<li>WAGE GGE Case Study</li>
+</ul>
 </div>
 <div class="section" id="education">
 <h2>Education<a class="headerlink" href="#education" title="Permalink to this headline">¶</a></h2>
-<blockquote>
-<div><ul class="simple">
-<li>University of Wisconsin, Madison, WI, PhD in Nuclear Engineering (current)</li>
-<li>University of North Carolina, Charlotte, NC, B.S. in Physics, Summa Cum Laude (2007)</li>
+<ul class="simple">
+<li>University of Wisconsin, Madison, WI [current graduate student]</li>
+<li>University of Chicago, Chicago, IL [B.A. in physics 2008]</li>
+<li>Texas Academy of Mathematics and Science, Denton, TX [high school 2004]</li>
 </ul>
-</div></blockquote>
+</div>
+<div class="section" id="publications-list">
+<h2>Publications List<a class="headerlink" href="#publications-list" title="Permalink to this headline">¶</a></h2>
+<p>Please see my
+<a class="reference external" href="http://homepages.cae.wisc.edu/~khuff/pubs.html">publications list</a>
+and <a class="reference external" href="http://homepages.cae.wisc.edu/~khuff/papers/cv.pdf">curriculum vitae</a>
+for more information.</p>
 </div>
 </div>
 
@@ -152,7 +166,7 @@
         &copy; Copyright 2012, Paul Wilson.
       </p>
       <p>
-      Last updated on Sep 05, 2012.
+      Last updated on Aug 31, 2012.
       </p>
       <p>
       Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.2.

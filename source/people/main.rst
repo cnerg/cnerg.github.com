@@ -16,12 +16,16 @@ Research Staff
 Graduate Students
 -----------------
 | :doc:`Kerry Dunn <dunn>`
+<<<<<<< HEAD
 
 .. image :: kdh.jpg
    :width: 150
 
 :doc:`Katy Huff <kdh>`
 
+=======
+| :doc:`Katy Huff <huff>`
+>>>>>>> origin/master
 | Matthew Gidden
 | :doc:`Stuart Slattery <slattery>`
 | Elliott Biondo
@@ -48,6 +52,10 @@ CNERG Alumni
    pphw
    ibrahim
    dunn
+<<<<<<< HEAD
    kdh
    slattery
    relson
+=======
+   huff
+>>>>>>> origin/master
