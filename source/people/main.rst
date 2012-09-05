@@ -18,7 +18,7 @@ Graduate Students
 | :doc:`Kerry Dunn <dunn>`
 | :doc:`Katy Huff <huff>`
 | Matthew Gidden
-| Stuart Slattery
+| :doc:`Stuart Slattery <slattery>`
 | Elliott Biondo
 | Robert Calrsen
 | Eric Relson
