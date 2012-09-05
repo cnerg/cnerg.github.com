@@ -37,6 +37,7 @@ CNERG Alumni
 
 
 .. toctree::
+   :maxdepth: 2
    :hidden:
 
    pphw
