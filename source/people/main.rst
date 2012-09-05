@@ -9,6 +9,7 @@ Research Staff
    :align: right
 
 :doc:`Paul Wilson, CNERG leader <pphw>`
+
 | Douglass Henderson 
 | Andrew Davis
 | Tony Hammond
@@ -21,6 +22,7 @@ Graduate Students
    :width: 150
 
 :doc:`Katy Huff <huff>`
+
 | Matthew Gidden
 | :doc:`Stuart Slattery <slattery>`
 | Elliott Biondo
