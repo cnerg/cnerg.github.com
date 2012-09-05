@@ -20,7 +20,7 @@ Graduate Students
 .. image :: kdh.jpg
    :width: 150
 
-:doc:`Katy Huff <kdh>`
+:doc:`Katy Huff <huff>`
 | Matthew Gidden
 | :doc:`Stuart Slattery <slattery>`
 | Elliott Biondo
@@ -47,6 +47,6 @@ CNERG Alumni
    pphw
    ibrahim
    dunn
-   kdh
+   huff
    slattery
    relson
