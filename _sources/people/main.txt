@@ -8,7 +8,7 @@ Research Staff
    :width: 150
    :align: right
 
-| :doc:`Paul Wilson, CNERG leader <pphw>`
+:doc:`Paul Wilson, CNERG leader <pphw>`
 | Douglass Henderson 
 | Andrew Davis
 | Tony Hammond
@@ -16,7 +16,12 @@ Research Staff
 Graduate Students
 -----------------
 | :doc:`Kerry Dunn <dunn>`
-| :doc:`Katy Huff <huff>`
+
+.. image :: kdh.jpg
+   :width: 150
+
+:doc:`Katy Huff <kdh>`
+
 | Matthew Gidden
 | Stuart Slattery
 | Elliott Biondo
@@ -37,9 +42,10 @@ CNERG Alumni
 
 
 .. toctree::
+   :maxdepth: 2
    :hidden:
 
    pphw
    ibrahim
    dunn
-   huff
+   kdh
