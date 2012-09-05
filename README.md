@@ -5,7 +5,7 @@ project with all of the same settings.
 
 In the top-level working copy directory of your git clone, assuming
 it is called ``cnerg.github.com`` do the following:
-::
+
      prompt %> cd ..
      prompt %> export NEWPROJDIR=<path/to/new/project/directory>
      prompt %> cp -a cnerg.github.com $NEWPROJDIR
