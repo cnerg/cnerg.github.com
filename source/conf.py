@@ -40,6 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
+# CNERG-stub - change these
 project = u'UW-Madison Computational Nuclear Engineering Research Group (CNERG)'
 copyright = u'2012, Paul Wilson'
 
@@ -47,6 +48,7 @@ copyright = u'2012, Paul Wilson'
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
+# CNERG-stub - change these
 # The short X.Y version.
 version = '0.1'
 # The full version, including alpha/beta/rc tags.
@@ -96,6 +98,7 @@ html_theme = 'uwtheme'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
+# CNERG-stub - change these
 html_theme_options = { 
 'site_title' : u'CNERG',
 'tagline' : u'UW-Madison\'s Computational Nuclear Engineering Research Group'
@@ -106,6 +109,7 @@ html_theme_path = ['_themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
+# CNERG-stub - change this
 html_title = 'CNERG'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
@@ -247,3 +251,6 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'http://docs.python.org/': None}
+
+
+execfile('cnerg-conf.py')
