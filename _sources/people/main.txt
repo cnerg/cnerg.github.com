@@ -1,46 +1,57 @@
 Staff and Students
 ==================
 
-Research Staff
---------------
+.. |pphw_lnk| replace:: :doc:`Paul Wilson, CNERG leader <pphw>`
+.. |dlh_lnk|  replace:: Douglass Henderson
+.. |ad_lnk|   replace:: Andrew Davis
+.. |th_lnk|   replace:: Tony Hammond
 
-.. image :: pphw.jpg
-   :width: 150
-   :align: right
+.. |kld_lnk|  replace:: Kerry Dunn
+.. |kdh_lnk|  replace:: :doc:`Katy Huff <huff>`
+.. |mjg_lnk|  replace:: Matthew Gidden
+.. |srs_lnk|  replace:: :doc:`Stuart Slattery <slattery>`
+.. |edb_lnk|  replace:: Elliott Biondo
+.. |rwc_lnk|  replace:: Robert Calrsen
+.. |ejr_lnk|  replace:: :doc:`Eric Relson <relson>`
+.. |cad_lnk|  replace:: Chelsea D'Angelo
+.. |zjw_lnk|  replace:: Zach Welch
 
-:doc:`Paul Wilson, CNERG leader <pphw>`
+.. |mjk_lnk|  replace:: Matthew Klebenow
 
-| Douglass Henderson 
-| Andrew Davis
-| Tony Hammond
+.. |pphw_img| image:: pphw.jpg
+              :width: 150
 
-Graduate Students
------------------
-| :doc:`Kerry Dunn <dunn>`
+.. |kdh_img| image:: kdh.jpg
+             :width: 150
 
-.. image :: kdh.jpg
-   :width: 150
 
-:doc:`Katy Huff <huff>`
++--------------------+---------------------------+----------------------------+---------------------------------+
+| **Research Staff** |  **Graduate Students**    | **Undergraduate Students** | **CNERG Alumni**                |
++--------------------+---------------------------+----------------------------+---------------------------------+
+|  |pphw_img|        |                           |                            | Ahmad Ibrahim, PhD (2012), ORNL |
+|  |pphw_lnk|        | :doc:`Kerry Dunn <dunn>`  |  |mjk_lnk|                 |                                 |
++--------------------+---------------------------+----------------------------+---------------------------------+
+|  |dlh_lnk|         | |kdh_img|                 |                            |                                 |
+|                    | |kdh_lnk|                 |                            |                                 |
++--------------------+---------------------------+----------------------------+---------------------------------+
+| |ad_lnk|           | |mjg_lnk|                 |                            |                                 |
++--------------------+---------------------------+----------------------------+---------------------------------+
+| |th_lnk|           | |srs_lnk|                 |                            |                                 |
++--------------------+---------------------------+----------------------------+---------------------------------+
+|		     | |edb_lnk|                 |                            |                                 |
++--------------------+---------------------------+----------------------------+---------------------------------+
+|		     | |rwc_lnk|                 |                            |                                 |
++--------------------+---------------------------+----------------------------+---------------------------------+
+|		     | |ejr_lnk|                 |                            |                                 |
++--------------------+---------------------------+----------------------------+---------------------------------+
+|		     | |cad_lnk|                 |                            |                                 |
++--------------------+---------------------------+----------------------------+---------------------------------+
+|		     | |zjw_lnk|                 |                            |                                 |
++--------------------+---------------------------+----------------------------+---------------------------------+
 
-| Matthew Gidden
-| :doc:`Stuart Slattery <slattery>`
-| Elliott Biondo
-| Robert Calrsen
-| :doc:`Eric Relson <relson>`
-| Chelsea D'Angelo
-| Zach Welch
 
-Undergraduate Students
------------------------
-| Matthew Klebenow
-
-CNERG Alumni
--------------
-
-| Ahmad Ibrahim, PhD (2012), ORNL
-| Rachel Slaybaugh, PhD (2012, Bettis Naval Reactor Laboratory
-
+CNERG Employment Opportunties
+------------------------------
 
 .. toctree::
    :maxdepth: 2
