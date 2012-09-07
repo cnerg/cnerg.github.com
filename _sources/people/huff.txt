@@ -4,15 +4,15 @@ Kathryn D. Huff (Katy Huff)
 Contact Information
 --------------------
 
--  Bldg. 208
-- Argonne National Laboratory
-- 9700 S. Cass Ave
-- Argonne, IL 60439
-- khuff@cae.wisc.edu
-- `Phone <http://web.anl.gov/directory/>`_
-- `Personal website <http://katyhuff.github.com>`_
-- `Calendar <http://www.google.com/calendar/embed?src=katyhuff%40gmail.com&ctz=America/Chicago>`_
-- `Twitter <twitter.com/katyhuff>`_
+| Bldg. 208
+| Argonne National Laboratory
+| 9700 S. Cass Ave
+| Argonne, IL 60439
+| khuff@cae.wisc.edu
+| `Phone <http://web.anl.gov/directory/>`_
+| `Personal website <http://katyhuff.github.com>`_
+| `Calendar <http://www.google.com/calendar/embed?src=katyhuff%40gmail.com&ctz=America/Chicago>`_
+| `Twitter <twitter.com/katyhuff>`_
 
 Graduate Appointment
 --------------------

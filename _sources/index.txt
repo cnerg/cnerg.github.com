@@ -29,8 +29,7 @@ current opportunities are available.
 .. _Merriam-Webster: http://www.m-w.com/cgi-bin/dictionary?synergy
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
+   :maxdepth: 1
  
    projects/main
    projects/software
