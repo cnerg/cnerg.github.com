@@ -7,6 +7,9 @@ Staff and Students
 .. |kdh_img| image:: kdh.jpg
              :width: 100
 
+.. |mjg_img| image:: mjg.jpg
+             :width: 100
+
 Research Staff
 --------------
 
@@ -20,7 +23,7 @@ Graduate Students
 
 |  :doc:`Kerry Dunn <dunn>`
 |  |kdh_img| :doc:`Katy Huff <huff>`
-|  Matthew Gidden
+|  |mjg_img| :doc:`Matthew Gidden <mjg>`
 |  :doc:`Stuart Slattery <slattery>`
 |  Elliott Biondo
 |  Robert Calrsen
@@ -66,13 +69,13 @@ Alumni
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
 
    pphw
-   ibrahim
    dunn
    huff
+   mjg
    slattery
    relson
    post-doc-2012-mesh
