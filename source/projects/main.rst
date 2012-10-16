@@ -28,8 +28,8 @@ Neutronics
 The cornerstone of the CNERG neutronics group's work is the Direct
 Accelerated Geometry Monte Carlo (DAGMC_) toolkit.  This ray-tracing
 interface to the MOAB_ software library allows Monte Carlo radiation
-transport software to perform ray-tracing and related operaitons
-directly on CAD-based repesentations of complex geometry.  DAGMC has
+transport software to perform ray-tracing and related operations
+directly on CAD-based representations of complex geometry.  DAGMC has
 been successfully integrated with MCNP5 from Los Alamos National
 Laboratory to produce the DAG-MCNP5 package.
 
@@ -45,7 +45,7 @@ identify schemes to arrive at a faceting that is better suited to
 the OBB-tree acceleration scheme for challenging problems.
 
 **Unstructured mesh tallies with alternative estimators**: With
-complex geometry and 3-D source defintions now common-place, the
+complex geometry and 3-D source definitions now common-place, the
 focus turns to the ability to tally results in Monte Carlo
 simulations with better fidelity.  The Cartesian overlay mesh common
 to most solutions introduces physical approximations for complex
