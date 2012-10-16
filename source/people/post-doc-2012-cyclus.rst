@@ -22,11 +22,13 @@ Required experience
 ---------------------
 
 * Demonstrated experience with scientific software development in one or more of the following areas:
+
     * nuclear fuel cycle modeling
     * agent-based simulation
     * multi-variable optimization
     * linear and integer programming
 * Some experience with components of a modern team-based software development processes:
+
     * version control (we use git)
     * bug/issue tracking (we use github)
     * test driven development (we use google test)
@@ -39,6 +41,7 @@ Desired Experience
 
 * Demonstrated knowledge of C++ & python in a linux environment
 * Demonstrated experience with some combination of Cyclus I/O technologies including
+
     * XML (libxml2/libxml++)
     * SQL (sqlite)
 
