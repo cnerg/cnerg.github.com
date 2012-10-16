@@ -16,6 +16,7 @@ Research Staff
 | |pphw_img| :doc:`Paul Wilson <pphw>`, CNERG group leader
 | Douglass Henderson
 | Andrew Davis
+| Julie Zachman
 | Tony Hammond
 
 Graduate Students
@@ -41,7 +42,6 @@ Employment Opportunties
 
 * :doc:`August 2012: Post-doc: Geometry & Mesh for Radiation Transport and Multi-Physics Simulation <post-doc-2012-mesh>`
 * :doc:`August 2012: Post-doc: Agent-based Fuel Cycle Modeling <post-doc-2012-cyclus>`
-* :doc:`August 2012: Systems Programmer (UW PVL #74230) <programmer-2012>`
 
 Alumni
 -------------

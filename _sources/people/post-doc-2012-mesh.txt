@@ -49,6 +49,7 @@ Desired Experience
 * Experience using  the components of Trilinos ecosystem
 * Experience with mesh generation and related topics
 * Experience with a modern team-based software development processes:
+
     * version control (we use svn & git)
     * bug/issue tracking (we use trac & github)
     * test driven development (we use google test)

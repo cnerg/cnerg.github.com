@@ -20,6 +20,7 @@ Research Interests
 
  * Monte Carlo neutron transport methods
  * Alternative Monte Carlo tallies:
+
      * Kernel Density Estimators (KDE)
      * Functional Expansion Technique (FET)
 
