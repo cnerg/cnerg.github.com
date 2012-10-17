@@ -35,3 +35,4 @@ current opportunities are available.
    projects/software
    people/main
    papers/main
+   infrastructure
