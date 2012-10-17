@@ -36,4 +36,4 @@ current opportunities are available.
    people/main
    papers/main
    infrastructure
-   Intranet <http://github.com/CNERG/in-cnerg>
+   Intranet <http://in-cnerg.engr.wisc.edu>
