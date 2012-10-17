@@ -35,3 +35,5 @@ current opportunities are available.
    projects/software
    people/main
    papers/main
+   infrastructure
+   Intranet <http://github.com/CNERG/in-cnerg>
