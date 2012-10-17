@@ -35,7 +35,7 @@ Graduate Students
 Undergraduate Students
 ----------------------
 
-| :doc:`Matthew Klebenow <klebenow>`_
+| :doc:`Matthew Klebenow <klebenow>`
 
 Employment Opportunties
 -----------------------------
