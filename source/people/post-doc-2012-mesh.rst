@@ -1,10 +1,20 @@
 Post-Doctoral Associate Opportunity (2012): Geometry & Mesh for Radiation Transport and Multi-Physics Simulation
 ================================================================================================================
 
+*[Updated: November 1, 2012]*
+
 The Computational Nuclear Engineering Reasearch Group (CNERG) is
 working on a number of projects related to the the advanced use of
 geometry and mesh technology to support nuclear simulation, including
-Monte Carlo radiation transport and coupled multi-physics simulation.
+ coupled multi-physics simulation and Monte Carlo radiation transport.
+
+The DataTransferKit_ is an open-source component library providing
+scalable algorithms for transferring and synchronizing solutions
+between different physics solvers in massively parallel multi-physics
+simulations.  As part of the `Consortium for Advanced Simulation of
+LWR (CASL) <http://www.casl.gov>`_, CNERG is responsible for providing
+this fundamental capability and related improvements to measure and
+ensure conservation and to support uncertainty quantification.
 
 The Direct Accelerated Geometry Monte Carlo (DAGMC) toolkit is an
 open-source toolkit that enables the use of complex CAD-based geometry
@@ -15,14 +25,6 @@ development efforts are focused on
    and performance improvement 
  * advanced tallies on unstructured mesh
    including expansion methods and kernel density estimators 
-
-The DataTransferKit_ is an open-source component library providing
-scalable algorithms for transferring and synchronizing solutions
-between different physics solvers in massively parallel multi-physics
-simulations.  As part of the `Consortium for Advanced Simulation of
-LWR (CASL) <http://www.casl.gov>`_, CNERG is responsible for providing
-this fundamental capability and related improvements to measure and
-ensure conservation and to support uncertainty quantification.
 
 This work involves close collaboration with the Fathom team based at
 Argonne National Laboratory and the CASL team based at Oak Ridge
@@ -68,7 +70,7 @@ Specific duties will include a combination of the following
 * Author publications for refereed journals and important conference proceedings
 
 
-| **Salary:** $50,000+ depending on background and experience
+| **Salary:** $50,000-$70,000 depending on background and experience
 | **Start:** ASAP
 
 To apply, please send application materials to wilsonp _at_ engr.wisc.edu.
