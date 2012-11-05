@@ -1,6 +1,8 @@
 Post-Doctoral Associate Opportunity (2012): Agent-based Fuel Cycle Modeling
 =====================
 
+*[Updated: November 4, 2012]*
+
 The Computational Nuclear Engineering Research Group (CNERG) is
 leading the development of a novel open-source agent-based platform
 for the simulation of advanced nuclear fuel cycles, Cyclus
@@ -55,7 +57,7 @@ Specific Duties
 * Support documentation of source code and software usage
 * Author publications for refereed journals and important conference proceedings
 
-| **Salary:** $50,000+ depending on background and experience
+| **Salary:** $50,000-70,000 depending on background and experience
 | **Start:** ASAP
 
 To apply, please send a application materials to wilsonp _at_ engr.wisc.edu.
