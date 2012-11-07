@@ -18,8 +18,8 @@ community of user/developers.
 Degree and area of specialization
 ----------------------------------
 
-* Masters degress in Nuclear Engineering, Computer Science, Operations
-  Research, Industrial Engineering or related field
+* Masters degress in Computer Science, Operations Research, Industrial
+  Engineering, Nuclear Engineering, or related field
 
 Required experience
 ---------------------
