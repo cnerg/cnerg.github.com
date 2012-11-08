@@ -1,8 +1,6 @@
 Post-Doctoral Associate Opportunity (2012): Geometry & Mesh for Radiation Transport and Multi-Physics Simulation
 ================================================================================================================
 
-*[Updated: November 1, 2012]*
-
 The Computational Nuclear Engineering Reasearch Group (CNERG) is
 working on a number of projects related to the the advanced use of
 geometry and mesh technology to support nuclear simulation, including
@@ -41,6 +39,7 @@ Degree and area of specialization
 Required experience
 ---------------------
 
+* Demonstrated knowledge of C++ & python in a linux environment
 * Development of scientific software for solving problems in physics and/or engineering
 * Familiarity with Monte Carlo radiation transport fundamentals
 * Strong oral and written communication skills
@@ -48,8 +47,7 @@ Required experience
 Desired Experience
 ------------------
 
-* Experience using  the components of Trilinos ecosystem
-* Experience with mesh generation and related topics
+* Experience using the components of Trilinos ecosystem
 * Experience with a modern team-based software development processes:
 
     * version control (we use svn & git)
@@ -57,21 +55,29 @@ Desired Experience
     * test driven development (we use google test)
     * automatic documentation (we use doxygen)
     * build & configuration management (we use cmake, make)
-* Demonstrated knowledge of C++ & python in a linux environment
 
-Specific duties will include a combination of the following
-------------------------------------------------------------
+* Experience with mesh generation and related topics
 
-* Investigate the impact of  alternative triangle surface meshing algorithms on the accuracy, robustness and performance of Monte Carlo radiation transport
-* Investigate methods for the modification of triangular surface meshes to improve the above metrics
-* Extend the implementation of unstructured mesh tallies to include different mesh element types and tally estimators
+Specific duties
+---------------
+
+Sepcific duties will include the following:
+
 * Develop methods for assessing the conservation of important physical quantities during solution transfer
 * Develop methods for propagating uncertainty estimates through large mesh solution transfer operations, including uncertainty due to the transfer operations
+* Investigate the impact of alternative triangle surface meshing algorithms on the accuracy, robustness and performance of Monte Carlo radiation transport
+* Investigate methods for the modification of triangular surface meshes to improve the above metrics
+* Extend the implementation of unstructured mesh tallies to include different mesh element types and tally estimators
 * Author publications for refereed journals and important conference proceedings
 
 
+Other Details
+--------------
 | **Salary:** $50,000-$70,000 depending on background and experience
 | **Start:** ASAP
+
+UW-Madison is an equal opportunity/affirmative action employer. We promote excellence through diversity and encourage all qualified individuals to apply.
+
 
 To apply, please send application materials to wilsonp _at_ engr.wisc.edu.
 
