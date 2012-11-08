@@ -8,7 +8,7 @@ leading the development of a novel open-source agent-based platform
 for the simulation of advanced nuclear fuel cycles, Cyclus
 (cyclus.github.com).  The core infrastructure of this effort combines
 concepts from operations research, computer science and nuclear
-engineering to provide a flexible basis for studying the tecehnical
+engineering to provide a flexible basis for studying the technical
 and socioeconomic impacts of different nuclear fuel cycle choices.
 
 CNERG is seeking a qualified individual to assist in the development
@@ -26,7 +26,7 @@ Required experience
 ---------------------
 
 * Demonstrated experience with scientific software development
-* Demonstrated knowledge of C++ & python in a linux environment
+* Demonstrated knowledge of C++ & python in a Linux environment
 * Some experience with components of a modern team-based software development processes:
 
     * version control (we use git)
