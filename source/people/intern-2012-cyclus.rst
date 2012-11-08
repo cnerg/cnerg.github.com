@@ -1,13 +1,13 @@
 Research Intern Opportunity (2012): Agent-based Fuel Cycle Modeling
 =====================
 
-*[Updated: November 4, 2012]*
+*[Updated: November 7, 2012]*
 
 The Computational Nuclear Engineering Research Group (CNERG) is
 leading the development of a novel open-source agent-based platform
 for the simulation of advanced nuclear fuel cycles, Cyclus
 (cyclus.github.com).  The core infrastructure of this effort combines
-cocnepts from operations research, computer science and nuclear
+concepts from operations research, computer science and nuclear
 engineering to provide a flexible basis for studying the tecehnical
 and socioeconomic impacts of different nuclear fuel cycle choices.
 
@@ -18,8 +18,9 @@ community of user/developers.
 Degree and area of specialization
 ----------------------------------
 
-* Masters degress in Computer Science, Operations Research, Industrial
-  Engineering, Nuclear Engineering, or related field
+* Bachelors or Masters degree in Computer Science, Operations
+  Research, Industrial Engineering, Nuclear Engineering, or related
+  field
 
 Required experience
 ---------------------
