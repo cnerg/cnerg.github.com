@@ -40,8 +40,8 @@ Undergraduate Students
 Employment Opportunties
 -----------------------------
 
-* :doc:`August 2012: Post-doc: Geometry & Mesh for Radiation Transport and Multi-Physics Simulation <jobs/post-doc-2012-mesh>`
-* :doc:`August 2012: Post-doc: Agent-based Fuel Cycle Modeling <jobs/post-doc-2012-cyclus>`
+* :doc:`August 2012: Post-doc: Geometry & Mesh for Radiation Transport and Multi-Physics Simulation <../jobs/post-doc-2012-mesh>`
+* :doc:`August 2012: Post-doc: Agent-based Fuel Cycle Modeling <../jobs/post-doc-2012-cyclus>`
 
 Alumni
 -------------
@@ -79,4 +79,4 @@ Alumni
    slattery
    relson
    klebenow
-   jobs/programmer-2012
+   ../jobs/programmer-2012
