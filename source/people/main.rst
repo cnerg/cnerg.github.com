@@ -1,5 +1,5 @@
 Staff and Students
-==================
+==========================
 
 .. |pphw_img| image:: pphw.jpg
               :width: 100
@@ -40,8 +40,8 @@ Undergraduate Students
 Employment Opportunties
 -----------------------------
 
-* :doc:`August 2012: Post-doc: Geometry & Mesh for Radiation Transport and Multi-Physics Simulation <post-doc-2012-mesh>`
-* :doc:`August 2012: Post-doc: Agent-based Fuel Cycle Modeling <post-doc-2012-cyclus>`
+* :doc:`August 2012: Post-doc: Geometry & Mesh for Radiation Transport and Multi-Physics Simulation <jobs/post-doc-2012-mesh>`
+* :doc:`August 2012: Post-doc: Agent-based Fuel Cycle Modeling <jobs/post-doc-2012-cyclus>`
 
 Alumni
 -------------
@@ -78,6 +78,5 @@ Alumni
    mjg
    slattery
    relson
-   post-doc-2012-mesh
-   post-doc-2012-cyclus
-   programmer-2012
+   klebenow
+   jobs/programmer-2012
