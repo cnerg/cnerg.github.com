@@ -1,5 +1,5 @@
 Post-Doctoral Associate Opportunity (2012): Agent-based Fuel Cycle Modeling
-=====================
+===========================================================================
 
 *[Updated: November 4, 2012]*
 

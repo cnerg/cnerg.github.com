@@ -4,7 +4,7 @@ Post-Doctoral Associate Opportunity (2012): Geometry & Mesh for Radiation Transp
 The Computational Nuclear Engineering Reasearch Group (CNERG) is
 working on a number of projects related to the the advanced use of
 geometry and mesh technology to support nuclear simulation, including
- coupled multi-physics simulation and Monte Carlo radiation transport.
+coupled multi-physics simulation and Monte Carlo radiation transport.
 
 The DataTransferKit_ is an open-source component library providing
 scalable algorithms for transferring and synchronizing solutions
