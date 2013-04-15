@@ -26,7 +26,7 @@ Graduate Students
 |  |kdh_img| :doc:`Katy Huff <huff>`
 |  |mjg_img| :doc:`Matthew Gidden <mjg>`
 |  :doc:`Stuart Slattery <slattery>`
-|  Elliott Biondo
+|  :doc:`Elliott Biondo <biondo>`
 |  Robert Calrsen
 |  :doc:`Eric Relson <relson>`
 |  Chelsea D'Angelo
