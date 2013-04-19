@@ -1,6 +1,9 @@
 # Makefile for Sphinx documentation
 #
 
+GH_PAGES_SOURCES = source 
+CURRENT_BRANCH = $(shell git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/')
+
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
@@ -37,6 +40,23 @@ help:
 	@echo "  changes    to make an overview of all changed/added/deprecated items"
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
+
+gh-pages:
+	git checkout gh-pages 
+	git checkout master $(GH_PAGES_SOURCES)
+	git reset HEAD 
+	make clean
+	make html
+	make install
+	make gh-push
+
+gh-preview:
+	git checkout gh-pages 
+	git checkout $(CURRENT_BRANCH) $(GH_PAGES_SOURCES)
+	git reset HEAD 
+	make clean
+	make html
+	make install
 
 clean:
 	-rm -rf _images _sources people projects papers 
