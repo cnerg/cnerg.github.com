@@ -175,6 +175,6 @@ doctest:
 	@echo "Testing of doctests in the sources finished, look at the " \
 	      "results in $(BUILDDIR)/doctest/output.txt."
 install:
-	rsync -a $(BUILDDIR)/html/* .
-	rm -rf $(BUILDDIR)/html/*
+	rsync -a $(BUILDDIR)build/html/* .
+	rm -rf $(BUILDDIR)build/html/*
 
