@@ -1,4 +1,4 @@
-Software Distributions
+Software Distribution
 =======================
 
 One of the missions of CNERG is to publish software for the analysis of nuclear systems.
