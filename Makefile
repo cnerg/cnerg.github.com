@@ -42,8 +42,8 @@ help:
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 
 gh-pages:
-	git checkout gh-pages 
-	git checkout master $(GH_PAGES_SOURCES)
+	git checkout makster
+	git checkout $(CURRENT_BRANCH) $(GH_PAGES_SOURCES)
 	git reset HEAD 
 	make clean
 	make html
