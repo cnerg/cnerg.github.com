@@ -51,7 +51,7 @@ gh-pages:
 	make gh-push
 
 gh-preview:
-	git checkout gh-pages 
+	git checkout master
 	git checkout $(CURRENT_BRANCH) $(GH_PAGES_SOURCES)
 	git reset HEAD 
 	make clean
