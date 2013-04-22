@@ -56,7 +56,7 @@ gh-preview:
 	git reset HEAD 
 	make clean
 	make html
-
+	make install
 clean:
 	-rm -rf _images _sources people projects papers 
 	-rm -rf index.html
