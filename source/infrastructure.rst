@@ -2,7 +2,7 @@ Hardware & Software Infrastructure
 -------------------------------------
 
 CNERG has access to a modest collection of its own computing resources
-with additional access to a growing collection of shared resources.
+with additional access to a growing collection of shared resources. 
 
 Hardware
 ========
