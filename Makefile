@@ -1,14 +1,18 @@
 # Makefile for Sphinx documentation
 #
 
-GH_PAGES_SOURCES = source 
-CURRENT_BRANCH = $(shell git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/')
+GH_SOURCE_DIRS = source 
+GH_BUILT_DIRS = 
+
+GH_CURRENT_BRANCH = $(shell git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/')
+GH_SOURCE_BRANCH = source
+GH_BUILD_BRANCH = test-master
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         =
-BUILDDIR      = ./
+BUILDDIR      = ./build
 
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
@@ -42,21 +46,20 @@ help:
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 
 gh-pages:
-	git checkout makster
-	git checkout $(CURRENT_BRANCH) $(GH_PAGES_SOURCES)
+	git checkout $(GH_BUILD_BRANCH)
+	git checkout $(GH_SOURCE_BRANCH) $(GH_SOURCE_DIRS)
 	git reset HEAD 
-	make clean
 	make html
-	make install
+	make gh-install
 	make gh-push
 
 gh-preview:
-	git checkout master
-	git checkout $(CURRENT_BRANCH) $(GH_PAGES_SOURCES)
+	git checkout $(GH_BUILD_BRANCH)
+	git checkout $(GH_CURRENT_BRANCH) $(GH_SOURCE_DIRS)
 	git reset HEAD 
-	make clean
 	make html
-	make install
+	make gh-install
+
 clean:
 	-rm -rf _images _sources people projects papers 
 	-rm -rf index.html
