@@ -55,7 +55,7 @@ Societies, the American Society for Engineering Education and the
 NA-YGN.
 
 Paul is married and has two daughters.  They enjoy biking around
-Madisons paths and spending time outside.
+Madison's paths and spending time outside.
 
 `delicious <http://delicious.com/gonuke>`_ *
 `flickr <http://www.flickr.com/gonuke>`_ *
