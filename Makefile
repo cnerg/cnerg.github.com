@@ -4,7 +4,7 @@ GH_SOURCE_DIRS = source
 GH_BUILT_DIRS = 
 
 GH_SOURCE_BRANCH = source
-GH_BUILD_BRANCH = test-master
+GH_BUILD_BRANCH = master
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
