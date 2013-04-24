@@ -48,7 +48,7 @@ clean:
 	git checkout -f --
 	rm -rf $(GH_PAGES_SOURCES) build
 
-install:
+gh-install:
 	rsync -a $(BUILDDIR)/html/* .
 	rm -rf $(BUILDDIR)/html/*
 
