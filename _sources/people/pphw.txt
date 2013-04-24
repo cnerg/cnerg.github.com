@@ -15,12 +15,13 @@ Paul P.H. Wilson
 
 Paul Wilson is an Associate Professor of Nuclear Engineering in the
 `University of Wisconsin-Madison <http://www.wisc.edu>`_'s `Department
-of Engineering Physics <http://www.engr.wisc.edu/ep>`_ and Chair of
-the `Energy Analysis and Policy (EAP) Program
+of Engineering Physics <http://www.engr.wisc.edu/ep>`_, Chair of the
+`Energy Analysis and Policy (EAP) Program
 <http://www.nelson.wisc.edu/grad/eap>`_ of the `Nelson Institute for
-Environmental Studies <http://www.nelson.wisc.edu>`_.  His research
-interests bring together technical and policy issues: analysis methods
-of isotopic inventories in nuclear systems and the implications on
+Environmental Studies <http://www.nelson.wisc.edu>`_, and Faculty
+Director of the Advanced Computing Initiative.  His research interests
+bring together technical and policy issues: analysis methods of
+isotopic inventories in nuclear systems and the implications on
 nuclear non-proliferation policy, and the development of next
 generation nuclear power systems to fulfill a role in future energy
 policy and needs. Paul joined the University of Wisconsin-Madison as
@@ -105,6 +106,7 @@ interests of CNERG:
    module in basic engineering economics, explores the economic,
    political and environmental aspects of nuclear energy in the past
    and in the future
+* NE 555. Nuclear Reactor Dynamics
 
 I have also recently joined the faculty team who teach
 `InterEng 102. Introduction to Society's Engineering Grand Challenges
