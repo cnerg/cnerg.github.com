@@ -2,7 +2,8 @@
 #
 
 GH_SOURCE_DIRS = source 
-GH_BUILT_DIRS = 
+GH_BUILT_DIRS = _images _sources people projects papers 
+GH_BUILT_FILES = index.html
 
 GH_CURRENT_BRANCH = $(shell git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/')
 GH_SOURCE_BRANCH = source
@@ -61,8 +62,7 @@ gh-preview:
 	make gh-install
 
 clean:
-	-rm -rf _images _sources people projects papers 
-	-rm -rf index.html
+	-rm -rf $(GH_BUILT_DIRS) $(GH_BUILT_FILES)
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
