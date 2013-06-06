@@ -90,7 +90,7 @@ branch.  Be sure to synchronize with the remote repo first.
      git fetch origin
      git rebase origin/source
      git merge pull_request_branch
-     ```
+```
 
 6. If there are no conflicts, push this to the repo
 
