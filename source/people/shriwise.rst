@@ -28,11 +28,11 @@ Research Interests
 
 Current Projects
 --------------------
-- DAGMC <svalinn.github.io/DAMC/> _
+- `DAGMC <svalinn.github.io/DAMC/>`_
 
 
 Education
 --------------------
 - University of Wisconsin, Madison, WI [current graduate student]
-- Kansas State University Manhattan, KS [BS in ME, minoe in NE]
+- Kansas State University Manhattan, KS [BS in ME, minor in NE]
 
