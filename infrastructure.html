@@ -1,24 +1,29 @@
 
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Hardware & Software Infrastructure &mdash; CNERG</title>
+    <title>Hardware &amp; Software Infrastructure &mdash; CNERG</title>
+    
     <link rel="stylesheet" href="_static/default.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
         URL_ROOT:    '',
         VERSION:     '0.1',
-        COLLAPSE_MODINDEX: false,
+        COLLAPSE_INDEX: false,
         FILE_SUFFIX: '.html',
         HAS_SOURCE:  true
       };
     </script>
     <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
     <link rel="top" title="CNERG" href="index.html" />
     <link rel="prev" title="Recent Papers" href="papers/main.html" /> 
@@ -60,23 +65,22 @@
              accesskey="I">index</a>
           </li> 
       </ul>
-    </div> 
+    </div>
+  <div id="c_container"> 
 <div id="sidebar">
  <div id="sidebar_section"> <ul>
-<li><a class="reference external" href="#">Hardware &amp; Software Infrastructure</a><ul>
-<li><a class="reference external" href="#hardware">Hardware</a><ul>
-<li><a class="reference external" href="#desktop">Desktop</a></li>
-<li><a class="reference external" href="#remote">Remote</a></li>
+<li><a class="reference internal" href="#">Hardware &amp; Software Infrastructure</a><ul>
+<li><a class="reference internal" href="#hardware">Hardware</a><ul>
+<li><a class="reference internal" href="#desktop">Desktop</a></li>
+<li><a class="reference internal" href="#remote">Remote</a></li>
 </ul>
 </li>
-<li><a class="reference external" href="#software">Software</a></li>
+<li><a class="reference internal" href="#software">Software</a></li>
 </ul>
 </li>
 </ul>
  </div>
 </div> 
-
-    <div class="document">
     <div id="content" class="inline-block">
           <div class="post">
             
@@ -122,24 +126,24 @@ development tools.</p>
 <col width="22%" />
 </colgroup>
 <thead valign="bottom">
-<tr><th class="head">Radiation Transport</th>
+<tr class="row-odd"><th class="head">Radiation Transport</th>
 <th class="head">Activation</th>
 <th class="head">Lattice Physics</th>
 <th class="head">Reactor Analysis</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr><td>MCNP5</td>
+<tr class="row-even"><td>MCNP5</td>
 <td>ALARA</td>
 <td>HELIOS</td>
 <td>PARCS</td>
 </tr>
-<tr><td>Partisn</td>
+<tr class="row-odd"><td>Partisn</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>RELAP</td>
 </tr>
-<tr><td>Denovo</td>
+<tr class="row-even"><td>Denovo</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -154,29 +158,29 @@ development tools.</p>
 <col width="22%" />
 </colgroup>
 <thead valign="bottom">
-<tr><th class="head">Compilers</th>
+<tr class="row-odd"><th class="head">Compilers</th>
 <th class="head">Debuggers/Profilers</th>
 <th class="head">Source Control &amp; Documentation</th>
 <th class="head">Build Management</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr><td>GNU C/C++/FORTRAN</td>
+<tr class="row-even"><td>GNU C/C++/FORTRAN</td>
 <td>gdb</td>
 <td>git</td>
 <td>autotools</td>
 </tr>
-<tr><td>Portland Group</td>
+<tr class="row-odd"><td>Portland Group</td>
 <td>ddd</td>
 <td>svn</td>
 <td>cmake</td>
 </tr>
-<tr><td>Intel</td>
+<tr class="row-even"><td>Intel</td>
 <td>valgrind</td>
 <td>doxygen</td>
 <td>&nbsp;</td>
 </tr>
-<tr><td>&nbsp;</td>
+<tr class="row-odd"><td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>sphinx</td>
 <td>&nbsp;</td>
@@ -191,24 +195,24 @@ development tools.</p>
 <col width="22%" />
 </colgroup>
 <thead valign="bottom">
-<tr><th class="head">Scripting &amp; Automation</th>
+<tr class="row-odd"><th class="head">Scripting &amp; Automation</th>
 <th class="head">Visualization</th>
 <th class="head">Project Management</th>
 <th class="head">&nbsp;</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr><td>bash</td>
+<tr class="row-even"><td>bash</td>
 <td>VisIt</td>
 <td>Github</td>
 <td>&nbsp;</td>
 </tr>
-<tr><td>Python</td>
+<tr class="row-odd"><td>Python</td>
 <td>Paraview</td>
 <td>Trac</td>
 <td>&nbsp;</td>
 </tr>
-<tr><td>Perl</td>
+<tr class="row-even"><td>Perl</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -221,15 +225,18 @@ development tools.</p>
 
           </div>
       </div>
-      <div class="clearer"></div>
+
     </div>
 </div>
     <div id="footer">
       <p>
+        &copy; Copyright 2012, Paul Wilson.
+      </p>
+      <p>
       Last updated on Jun 06, 2013.
       </p>
       <p>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 0.6.6.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
       </p>
     </div>
   </body>

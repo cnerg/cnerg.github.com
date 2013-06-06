@@ -10,6 +10,10 @@ Staff and Students
 .. |mjg_img| image:: mjg.jpg
              :width: 100
 
+.. |pcs_img| image:: pcs.jpg
+             :width: 100
+
+
 Research Staff
 --------------
 
@@ -31,6 +35,7 @@ Graduate Students
 |  :doc:`Eric Relson <relson>`
 |  Chelsea D'Angelo
 |  Zach Welch
+|  |pcs_img| :doc:`Patrick Shriwise <shriwise>`
 
 Undergraduate Students
 ----------------------

@@ -9,8 +9,8 @@ Contact Information
 | 1500 Engineering Drive
 | Madison, WI 53703
 | shriwise@.wisc.edu
-| Phone:(608) 446-8173_
-| `Twitter <https://www.twitter.com/pshriwise>` _
+| Phone (608) 446-8173
+| `Twitter <https://www.twitter.com/pshriwise>`_
 
 Graduate Appointment
 --------------------
