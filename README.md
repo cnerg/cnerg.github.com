@@ -42,8 +42,10 @@ Best practice workflow for contributing to site changes
 6. To revert to your source branch use the `gh-revert` target and then
    check out your branch.
 
-     ```make gh-revert
-     git checkout add_some_info```
+     ```
+     make gh-revert
+     git checkout add_some_info
+     ```
 
 7. Repeat steps 4-6 until satisfied.
 
@@ -51,9 +53,11 @@ Best practice workflow for contributing to site changes
 repo.  Be sure to synchronize with any possible changes to the
 `source` branch first.
 
-     ```git fetch origin
+     ```
+     git fetch origin
      git rebase origin/source
-     git push origin add_some_info```
+     git push origin add_some_info
+     ```
 
 9. Issue a pull request by going to your branch on the repo and
 clicking the "Pull Request" button.
@@ -80,8 +84,10 @@ Best practice for managing a pull request
 4. To revert to the `pull_request_branch` use the `gh-revert` target and then
    check out the branch.
 
-     ```make gh-revert
-     git checkout pull_request_branch```
+     ```
+     make gh-revert
+     git checkout pull_request_branch
+     ```
 
 5. If satisfied, merge the `pull_request_branch` into the `source`
 branch.  Be sure to synchronize with the remote repo first.
