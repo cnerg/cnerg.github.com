@@ -48,7 +48,7 @@ help:
 
 gh-pages:
 	git checkout $(GH_BUILD_BRANCH)
-	git checkout $(GH_SOURCE_BRANCH) $(GH_SOURCE_DIRS)
+	git checkout $(GH_SOURCE_BRANCH) -- $(GH_SOURCE_DIRS)
 	git reset HEAD 
 	make html
 	make gh-install
@@ -56,7 +56,7 @@ gh-pages:
 
 gh-preview:
 	git checkout $(GH_BUILD_BRANCH)
-	git checkout $(GH_CURRENT_BRANCH) $(GH_SOURCE_DIRS)
+	git checkout $(GH_CURRENT_BRANCH) -- $(GH_SOURCE_DIRS)
 	git reset HEAD 
 	make html
 	make gh-install
