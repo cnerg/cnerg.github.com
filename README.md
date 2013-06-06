@@ -19,7 +19,7 @@ Best practice workflow for contributing to site changes
 
 1. Checkout the `source` branch
 
-```git checkout source```
+   ```git checkout source```
 
 2. Synchronize your branch with the repository (either `pull` or
 `fetch` and `merge`)
