@@ -29,7 +29,7 @@ Research Interests
 Current Projects
 --------------------
 - `DAGMC <svalinn.github.io/DAMC/>`_
-
+- Make_Watertight
 
 Education
 --------------------
