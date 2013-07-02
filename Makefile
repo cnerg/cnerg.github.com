@@ -62,7 +62,7 @@ gh-preview:
 	make gh-install
 
 clean:
-	-rm -rf $(GH_BUILT_DIRS) $(GH_BUILT_FILES)
+	-rm -rf $(GH_BUILT_DIRS) $(GH_BUILT_FILES) $(BUILDDIR)
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)

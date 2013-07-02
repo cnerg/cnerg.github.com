@@ -37,4 +37,5 @@ current opportunities are available.
    jobs/main
    papers/main
    infrastructure
+   projects/workflow
    Intranet <http://in-cnerg.engr.wisc.edu>
