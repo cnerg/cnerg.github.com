@@ -65,7 +65,8 @@ and the less impact that mistake has in the code base overall.  Also failure is
 how you learn.  Furthermore, such failures are how you clarify exactly what a 
 piece of code should be doing.  
 
-By frequently merging from upstream (newk/newk) to your repository (you/newk) or 
+By frequently merging the master, staging, and relevant topical branched from 
+upstream (newk/newk) to your repository (you/newk) or from master to stanging and
 staging to topical (awesome), you are ensuring that the code you are working on 
 continues to function.  If something breaks, you can take care of it then in that 
 moment while everything is still fresh in your mind.  By waiting to merge or rebase 
