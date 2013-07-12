@@ -49,7 +49,7 @@ help:
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 
 clean:
-	-rm -rf $(GH_BUILT_DIRS) $(GH_BUILT_FILES)
+	-rm -rf $(GH_BUILT_DIRS) $(GH_BUILT_FILES) $(BUILDDIR)
 
 gh-preview html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
