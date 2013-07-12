@@ -5,7 +5,6 @@ GH_SOURCE_DIRS = source
 GH_BUILT_DIRS = _images _sources people projects papers 
 GH_BUILT_FILES = index.html
 
-GH_CURRENT_BRANCH = $(shell git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/')
 GH_SOURCE_BRANCH = source
 GH_BUILD_BRANCH = master
 
@@ -26,6 +25,9 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) source
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
+	@echo "  gh-preview to build HTML in directory $BUILDDIR for testing"
+	@echo "  gh-revert  to cleanup HTML build in directory $BUILDDIR after testing"
+	@echo "  gh-pages   final build and push from source branch to master branch"
 	@echo "  html       to make standalone HTML files"
 	@echo "  dirhtml    to make HTML files named index.html in directories"
 	@echo "  singlehtml to make a single large HTML file"
@@ -46,28 +48,27 @@ help:
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 
+clean:
+	-rm -rf $(GH_BUILT_DIRS) $(GH_BUILT_FILES) $(BUILDDIR)
+
+gh-preview html:
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
+	@echo
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
+
+gh-revert:
+	-rm -rf $(BUILDDIR)
+
 gh-pages:
 	git checkout $(GH_BUILD_BRANCH)
 	git checkout $(GH_SOURCE_BRANCH) -- $(GH_SOURCE_DIRS)
 	git reset HEAD 
 	make html
-	make gh-install
-	make gh-push
-
-gh-preview:
-	git checkout $(GH_BUILD_BRANCH)
-	git checkout $(GH_CURRENT_BRANCH) -- $(GH_SOURCE_DIRS)
-	git reset HEAD 
-	make html
-	make gh-install
-
-clean:
-	-rm -rf $(GH_BUILT_DIRS) $(GH_BUILT_FILES)
-
-html:
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
-	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
+	rsync -a $(BUILDDIR)/* .
+	rm -rf $(GH_SOURCE_DIRS) build
+	git add -A 
+	git commit -m "Generated $(GH_BUILD_BRANCH) for `git log $(GH_SOURCE_BRANCH) -1 --pretty=short --abbrev-commit`" && git push origin $(GH_BUILD_BRANCH)
+	git checkout $(GH_SOURCE_BRANCH)
 
 htmlclean cleanhtml: clean html
 
