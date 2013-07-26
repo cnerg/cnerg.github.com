@@ -1,0 +1,5 @@
+GH_SOURCE_DIR = source 
+
+GH_SOURCE_BRANCH = source
+GH_PUBLISH_BRANCH = master
+GH_UPSTREAM_REPO = origin
