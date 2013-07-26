@@ -1,18 +1,12 @@
 # Makefile for Sphinx documentation
 #
-
-GH_SOURCE_DIRS = source 
-GH_BUILT_DIRS = _images _sources people projects papers 
-GH_BUILT_FILES = index.html
-
-GH_SOURCE_BRANCH = source
-GH_BUILD_BRANCH = master
+include gh-project.mk
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         =
-BUILDDIR      = ./build
+BUILDDIR      = ./gh-build
 
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
@@ -48,26 +42,23 @@ help:
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 
-clean:
-	-rm -rf $(GH_BUILT_DIRS) $(GH_BUILT_FILES) $(BUILDDIR)
+gh-clean gh-revert clean:
+	-rm -rf $(BUILDDIR)
 
 gh-preview html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
 
-gh-revert:
-	-rm -rf $(BUILDDIR)
-
-gh-pages:
-	git checkout $(GH_BUILD_BRANCH)
+gh-publish:
+	git checkout $(GH_PUBLISH_BRANCH)
 	git checkout $(GH_SOURCE_BRANCH) -- $(GH_SOURCE_DIRS)
 	git reset HEAD 
 	make html
 	rsync -a $(BUILDDIR)/* .
-	rm -rf $(GH_SOURCE_DIRS) build
+	rm -rf $(GH_SOURCE_DIRS) $(BUILDDIR)
 	git add -A 
-	git commit -m "Generated $(GH_BUILD_BRANCH) for `git log $(GH_SOURCE_BRANCH) -1 --pretty=short --abbrev-commit`" && git push origin $(GH_BUILD_BRANCH)
+	git commit -m "Generated $(GH_PUBLISH_BRANCH) for `git log $(GH_SOURCE_BRANCH) -1 --pretty=short --abbrev-commit`" && git push $(GH_UPSTREAM_REPO) $(GH_PUBLISH_BRANCH)
 	git checkout $(GH_SOURCE_BRANCH)
 
 htmlclean cleanhtml: clean html
