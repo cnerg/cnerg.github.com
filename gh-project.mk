@@ -1,4 +1,4 @@
-GH_SOURCE_DIRS = source 
+GH_SOURCE_DIR = source 
 
 GH_SOURCE_BRANCH = source
 GH_PUBLISH_BRANCH = master

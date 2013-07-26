@@ -11,9 +11,9 @@ BUILDDIR      = ./gh-build
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
 PAPEROPT_letter = -D latex_paper_size=letter
-ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) source
+ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(GH_SOURCE_DIR)
 # the i18n builder cannot share the environment and doctrees with the others
-I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) source
+I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(GH_SOURCE_DIR)
 
 .PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext
 
@@ -21,7 +21,7 @@ help:
 	@echo "Please use \`make <target>' where <target> is one of"
 	@echo "  gh-preview to build HTML in directory $BUILDDIR for testing"
 	@echo "  gh-revert  to cleanup HTML build in directory $BUILDDIR after testing"
-	@echo "  gh-pages   final build and push from source branch to master branch"
+	@echo "  gh-publish final build and push from source branch to master branch"
 	@echo "  html       to make standalone HTML files"
 	@echo "  dirhtml    to make HTML files named index.html in directories"
 	@echo "  singlehtml to make a single large HTML file"
@@ -52,11 +52,11 @@ gh-preview html:
 
 gh-publish:
 	git checkout $(GH_PUBLISH_BRANCH)
-	git checkout $(GH_SOURCE_BRANCH) -- $(GH_SOURCE_DIRS)
+	git checkout $(GH_SOURCE_BRANCH) -- $(GH_SOURCE_DIR)
 	git reset HEAD 
 	make html
 	rsync -a $(BUILDDIR)/* .
-	rm -rf $(GH_SOURCE_DIRS) $(BUILDDIR)
+	rm -rf $(GH_SOURCE_DIR) $(BUILDDIR)
 	git add -A 
 	git commit -m "Generated $(GH_PUBLISH_BRANCH) for `git log $(GH_SOURCE_BRANCH) -1 --pretty=short --abbrev-commit`" && git push $(GH_UPSTREAM_REPO) $(GH_PUBLISH_BRANCH)
 	git checkout $(GH_SOURCE_BRANCH)
