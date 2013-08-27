@@ -1,8 +1,3 @@
-.. CNERG master file, created by
-   sphinx-quickstart on Tue Jul 24 22:55:15 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to CNERG
 =================
 
@@ -37,4 +32,5 @@ current opportunities are available.
    jobs/main
    papers/main
    infrastructure
+   projects/workflow
    Intranet <http://in-cnerg.engr.wisc.edu>

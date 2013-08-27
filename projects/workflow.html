@@ -1,0 +1,174 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Software Development Workflow &mdash; CNERG</title>
+    
+    <link rel="stylesheet" href="../_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '0.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="top" title="CNERG" href="../index.html" />
+    <link rel="prev" title="Hardware &amp; Software Infrastructure" href="../infrastructure.html" /> 
+  </head>
+  <body>
+     
+<div id="page-div" class="page">
+<div id="header"><a id="uwhome" href="http://www.wisc.edu"><img src="http://cnergdata.engr.wisc.edu/_static/images/wordmark.gif" alt="University of Wisconsin–Madison" width="260" height="11" /></a> <a id="crest" href="http://www.wisc.edu"><img src="http://cnergdata.engr.wisc.edu/_static/images/crest.png" alt="" width="70" height="106" /></a>
+    <h1 id="siteTitle"><a href="/"><span>CNERG</span></a></h1>
+    <div id="tagline"><span>UW-Madison's Computational Nuclear Engineering Research Group</span></div>
+    <ul id="globalnav">
+      <li id="uwsearch"><a href="http://www.wisc.edu/search/">UW Search</a></li>
+      <li><a href="http://my.wisc.edu">My UW</a></li>
+      <li><a href="http://map.wisc.edu">Map</a></li>
+      <li id="last_tool"><a href="http://www.today.wisc.edu">Calendar</a></li>
+    </ul>
+    <form role="search" action="../search.html" method="get" id="cse-search-box">
+      <div>
+      <label class="screen-reader-text" for="q">Search for:</label>
+      <input type="text" id="q" name="q" value="Enter keywords here...." />
+      <input type="submit" id="sa" value="Search" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+      </div>
+    </form>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+</div>
+
+
+    <div id="nav" class="main-menu-container">
+      <ul id="menu-main" class="sf-menu">
+        <li class="menu-item"><a href="../index.html">CNERG</a></li>
+        <li class="menu-item" style="margin-right: 10px">
+          <a href="../infrastructure.html" title="Hardware &amp; Software Infrastructure"
+             accesskey="P">previous</a>
+          </li>
+        <li class="menu-item" >
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a>
+          </li> 
+      </ul>
+    </div>
+  <div id="c_container"> 
+<div id="sidebar">
+ <div id="sidebar_section"> <ul>
+<li><a class="reference internal" href="#">Software Development Workflow</a><ul>
+<li><a class="reference internal" href="#reconciliation-workflow">Reconciliation Workflow</a></li>
+</ul>
+</li>
+</ul>
+ </div>
+</div> 
+    <div id="content" class="inline-block">
+          <div class="post">
+            
+  <div class="section" id="software-development-workflow">
+<h1>Software Development Workflow<a class="headerlink" href="#software-development-workflow" title="Permalink to this headline">¶</a></h1>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">It is highly recommended that you perform all of your work from inside
+of a distributed version control system.  On this page, we will use
+git as an example.</p>
+</div>
+<p>In a typical collaborative software development project (e.g. newk),
+there is often a central repository hosted somewhere.  For arguments sake let&#8217;s
+say this is on github and controlled by the newk organization.  This repository
+will thus be available as <a class="reference external" href="http://github.com/newk/newk">http://github.com/newk/newk</a> &#8211; or newk/newk for short.</p>
+<p>Different users will then have forks (copies) of this repository:</p>
+<blockquote>
+<div><p><a class="reference external" href="http://github.com/me/newk">http://github.com/me/newk</a> or me/newk</p>
+<p><a class="reference external" href="http://github.com/you/newk">http://github.com/you/newk</a> or you/newk</p>
+<p><a class="reference external" href="http://github.com/other/newk">http://github.com/other/newk</a> or other/newk</p>
+</div></blockquote>
+<p>So the question arises, <strong>&#8220;What is the best way for us to exchange code?&#8221;</strong></p>
+<p>By convention there is a hierarchy of branches.  Branches that are more important
+and more stable are touched less often while those which are used for day-to-day
+development are touched more frequently.  Branches often fall into one of the
+following categories, in order of decreasing importance:</p>
+<ol class="arabic simple">
+<li><strong>master:</strong> This is the most stable branch and represents code that <em>definitely</em>
+works.  This branch should only be pushed to at release time.</li>
+<li><strong>staging</strong> or <strong>develop:</strong> This branch is the merge branch for all developers.
+It represents the place where reconciliation between various updates happen.
+As such, it is sort of a communal playground.  Everyone is there and things
+probably work but may not quite be ready for prime time.  At release time,
+it is this branch which becomes merged with the master branch.</li>
+<li><strong>topical:</strong> These branches exist so that you may hack at will on implementing
+a feature or fix a bug.  There may be many of these simultaneously.  These
+branches are merged into develop.  Such branches are the wild west and nothing
+should be expected to work here.</li>
+</ol>
+<p>All of the types of branches described above are present on all forks.</p>
+<div class="section" id="reconciliation-workflow">
+<h2>Reconciliation Workflow<a class="headerlink" href="#reconciliation-workflow" title="Permalink to this headline">¶</a></h2>
+<p>Suppose that me and you are working on some hot feature on a special <tt class="docutils literal"><span class="pre">awesome</span></tt>
+topical branch.  There are two basic strategies for managing our branches.</p>
+<p><strong>Strategies:</strong></p>
+<ol class="loweralpha simple">
+<li>We fetch from staging regularly, merge awesome against staging,
+push to origin (e.g. me/newk or you/newk) and then pull request into
+newk/newk.</li>
+<li>Don&#8217;t worry about staging updates on the awesome branch. Once awesome branch
+features are ready to be moved into staging they will be merged against staging.</li>
+</ol>
+<p>In general, the short answer is do (a).  The medium answer is that you should do
+what works best for you in that moment.</p>
+<p>The long answer is that experience in life (and software development) has shown
+that it is best to <a class="reference external" href="ttp://www.codinghorror.com/blog/2006/05/fail-early-fail-often.html">&#8220;Fail early, fail often&#8221;</a>.
+This is because the sooner that you fail, the sooner you detect the mistake,
+and the less impact that mistake has in the code base overall.  Also failure is
+how you learn.  Furthermore, such failures are how you clarify exactly what a
+piece of code should be doing.</p>
+<p>By frequently merging the master, staging, and relevant topical branched from
+upstream (newk/newk) to your repository (you/newk) or from master to stanging and
+staging to topical (awesome), you are ensuring that the code you are working on
+continues to function.  If something breaks, you can take care of it then in that
+moment while everything is still fresh in your mind.  By waiting to merge or rebase
+until a large feature is complete, you run the risk of true major catastrophic
+breakage.  These are difficult to recover from since it may have been months or
+years since the last merge.  It is better to trade this for daily smaller dosages
+of ho-hum failures.</p>
+<p>Now as to the exact frequency that you should be updating with, this is largely a
+matter of personal preference and how active upstream development is.  I am commit
+happy personally.  Daily is my strategy, 3 days is reasonable, and weekly often used
+in corporate settings.  Longer than that and you fail to reap any benefits from
+strategy (a) and are <em>de facto</em> using strategy (b).</p>
+</div>
+</div>
+
+
+          </div>
+      </div>
+
+    </div>
+</div>
+    <div id="footer">
+      <p>
+        &copy; Copyright 2012, Paul Wilson.
+      </p>
+      <p>
+      Last updated on Aug 27, 2013.
+      </p>
+      <p>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+      </p>
+    </div>
+  </body>
+</html>
