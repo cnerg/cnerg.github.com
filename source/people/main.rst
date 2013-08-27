@@ -135,4 +135,6 @@ Alumni
    slattery
    relson
    klebenow
+   shriwise
+   biondo
    ../jobs/programmer-2012
