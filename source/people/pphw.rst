@@ -1,7 +1,9 @@
 Paul P.H. Wilson
 ==================
 
-**Associate Professor**
+**Professor**
+
+|pphw_img|
 
 | `wilsonp@engr.wisc.edu <mailto:wilsonp@engr.wisc.edu>`_
 | 608/263-0807
@@ -9,16 +11,21 @@ Paul P.H. Wilson
 | 1500 Engineering Dr
 | Madison, WI 53706
 
-`Calendar <http://www.google.com/calendar/hosted/nagus-wilson.net/embed?src=paul%40nagus-wilson.net&ctz=America/Chicago>`_
+|cal_icon|_
+|gh_icon|_
+|fb_icon|_
+|tw_icon|_
+|gp_icon|_
+|li_icon|_
+|fl_icon|_
+|del_icon|_
+
 
 ----
 
-Paul Wilson is an Associate Professor of Nuclear Engineering in the
+Paul Wilson is a Professor of Nuclear Engineering in the
 `University of Wisconsin-Madison <http://www.wisc.edu>`_'s `Department
-of Engineering Physics <http://www.engr.wisc.edu/ep>`_, Chair of the
-`Energy Analysis and Policy (EAP) Program
-<http://www.nelson.wisc.edu/grad/eap>`_ of the `Nelson Institute for
-Environmental Studies <http://www.nelson.wisc.edu>`_, and Faculty
+of Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty
 Director of the Advanced Computing Initiative.  His research interests
 bring together technical and policy issues: analysis methods of
 isotopic inventories in nuclear systems and the implications on
@@ -27,7 +34,10 @@ generation nuclear power systems to fulfill a role in future energy
 policy and needs. Paul joined the University of Wisconsin-Madison as
 an assistant professor in August 2001 as part of the `Energy Systems
 and Policy Hiring Initiative
-<http://www.clusters.wisc.edu/clusters/show/18>`_.
+<http://www.clusters.wisc.edu/clusters/show/18>`_.  Paul currently 
+serves on the Executive Committee of the `Wisconsin Energy Institute <http://www.energy.wisc.edu>`_
+and the Steering Committee of the `Holtz Center for Science and
+Technology Studies <http://sts.wisc.edu>`_.
 
 Born in Edinburgh, Scotland, and raised in Fort Saskatchewan, Alberta,
 Canada, Paul specialized in the Nuclear Power option of the
@@ -58,12 +68,6 @@ NA-YGN.
 Paul is married and has two daughters.  They enjoy biking around
 Madison's paths and spending time outside.
 
-`delicious <http://delicious.com/gonuke>`_ *
-`flickr <http://www.flickr.com/gonuke>`_ *
-`facebook <http://www.facebook.com/gonuke>`_ *
-`twitter <http://www.twitter.com/gonuke>`_ *
-`linkedin <http://www.linkedin.com/in/gonuke>`_ *
-`google+ <https://plus.google.com/104215183938248463521/posts>`_
 
 ----
 
@@ -145,3 +149,39 @@ recommendations/references <pphw_reference>`.
    pphw_reference
 
 ----
+
+
+.. |pphw_img| image:: pphw.jpg
+              :width: 200
+
+.. |fb_icon| image:: facebook.png
+              :width: 32
+.. _fb_icon: http://facebook.com/gonuke
+
+.. |tw_icon| image:: twitter.png
+              :width: 32
+.. _tw_icon: http://twitter.com/gonuke
+
+.. |gp_icon| image:: google_plus.png
+              :width: 32
+.. _gp_icon: https://plus.google.com/104215183938248463521/posts
+
+.. |gh_icon| image:: github.png
+              :width: 32
+.. _gh_icon: https://github.com/gonuke
+
+.. |cal_icon| image:: calendar.png
+              :width: 32
+.. _cal_icon: http://bit.ly/pphw-cal
+
+.. |fl_icon| image:: flickr.png
+              :width: 32
+.. _fl_icon: http://photos.nagus-wilson.net
+
+.. |li_icon| image:: linkedin.png
+              :width: 32
+.. _li_icon: http://www.linkedin.com/profile/view?id=18128328&trk=nav_responsive_tab_profile
+
+.. |del_icon| image:: delicious.png
+              :width: 32
+.. _del_icon: http://delicious.com/gonuke
