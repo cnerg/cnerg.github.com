@@ -79,37 +79,39 @@ Computational Nuclear Engineering Research Group], I am interested in
 applying modern computational science practices to answer real-world
 and/or policy-driven questions in nuclear engineering.  There are
 three primary facets to this work:
- * We address real-world questions by helping scientists and engineers
-   calculate more accurate radiation transport results on more exact
-   representations of their problem and more easily combine those
-   results with other analyses.
- * We address policy-driven questions by providing simulation
-   platforms for realistic scenario analysis in the global deployment
-   of advanced nuclear fuel cycles, including provisions for
-   approximating non-technical perturbations to those scenarios.
- * We invoke modern computational science practices including adoption
-   of software management tools and techniques, reliance on third
-   party software libraries, and preferring open software solutions.
+
+* We address real-world questions by helping scientists and engineers
+  calculate more accurate radiation transport results on more exact
+  representations of their problem and more easily combine those
+  results with other analyses.
+* We address policy-driven questions by providing simulation
+  platforms for realistic scenario analysis in the global deployment
+  of advanced nuclear fuel cycles, including provisions for
+  approximating non-technical perturbations to those scenarios.
+* We invoke modern computational science practices including adoption
+  of software management tools and techniques, reliance on third
+  party software libraries, and preferring open software solutions.
 
 Teaching
 --------
 
 My primary teaching responsibilities are aligned with the research
 interests of CNERG:
- * `NE 406. Nuclear Reactor Analysis
-   <http://www.engr.wisc.edu/ep/neep/courses/neep406.html>`_ - uses
-   industry-relevant software to develop deeper intuition of reactor
-   physics through virtual laboratory projects
- * `NE 506. Practicum in Monte Carlo Radiation Transport
-   <http://www.engr.wisc.edu/ep/neep/courses/neep506.html>`_ - teaches
-   the fundamentals of Monte Carlo radiation transport and then
-   explores their implementation in the widely used `MCNP
-   <http://mcnp.lanl.gov>`_ software
- * `NE 571. Economic and Environmental Aspects of Nuclear Energy
-   <http://www.engr.wisc.edu/ep/neep/courses/neep571.html>`_ - after a
-   module in basic engineering economics, explores the economic,
-   political and environmental aspects of nuclear energy in the past
-   and in the future
+
+* `NE 406. Nuclear Reactor Analysis
+  <http://www.engr.wisc.edu/ep/neep/courses/neep406.html>`_ - uses
+  industry-relevant software to develop deeper intuition of reactor
+  physics through virtual laboratory projects
+* `NE 506. Practicum in Monte Carlo Radiation Transport
+  <http://www.engr.wisc.edu/ep/neep/courses/neep506.html>`_ - teaches
+  the fundamentals of Monte Carlo radiation transport and then
+  explores their implementation in the widely used `MCNP
+  <http://mcnp.lanl.gov>`_ software
+* `NE 571. Economic and Environmental Aspects of Nuclear Energy
+  <http://www.engr.wisc.edu/ep/neep/courses/neep571.html>`_ - after a
+  module in basic engineering economics, explores the economic,
+  political and environmental aspects of nuclear energy in the past
+  and in the future
 * NE 555. Nuclear Reactor Dynamics
 
 I have also recently joined the faculty team who teach
