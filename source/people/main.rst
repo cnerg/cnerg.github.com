@@ -31,24 +31,18 @@ Research Staff
 Graduate Students
 -----------------
 
-+---------------------------+------------------------------+------------------------------------+--------------------------------+----------------+
-| |kld_img|                 | |mjg_img|                    | |srs_img|                          | |edb_img|                      | |rwc_img|      |
-| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>` | :doc:`Stuart Slattery <slattery>`  | :doc:`Elliott Biondo <biondo>` | Robert Carlsen |
-+---------------------------+------------------------------+------------------------------------+--------------------------------+----------------+
-| |cad_img|                 |  |zw_img|                    | |pcs_img|                          | |ljj_img|                      | |mh_img|       |
-| Chelsea D'Angelo          |  Zach Welch                  | :doc:`Patrick Shriwise <shriwise>` |  Lucas Jacobson                |  Moataz Harb   |
-+---------------------------+------------------------------+------------------------------------+--------------------------------+----------------+
-|                           |                              | |ao_img|                           |                                |                |
-|                           |                              | Arrielle Opotowsky                 |                                |                |
-+---------------------------+------------------------------+------------------------------------+--------------------------------+----------------+
++---------------------------+------------------------------------+--------------------------------+----------------+--------------------+
+| |kld_img|                 | |mjg_img|                          | |edb_img|                      | |rwc_img|      | |cad_img|          |  
+| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>` | Robert Carlsen | Chelsea D'Angelo   |  
++---------------------------+------------------------------------+--------------------------------+----------------+--------------------+
+| |zw_img|                  | |pcs_img|                          | |ljj_img|                      | |mh_img|       | |ao_img|           | 
+| Zach Welch                | :doc:`Patrick Shriwise <shriwise>` |  Lucas Jacobson                |  Moataz Harb   | Arrielle Opotowsky | 
++---------------------------+------------------------------------+--------------------------------+----------------+--------------------+
 
 .. |kld_img| image:: blank_profile_f.jpg
              :width: 100
 
 .. |mjg_img| image:: mjg.jpg
-             :width: 100
-
-.. |srs_img| image:: blank_profile_m.jpg
              :width: 100
 
 .. |edb_img| image:: blank_profile_m.jpg
@@ -118,6 +112,7 @@ Alumni
 * Ben Schmitt, MS(2006), Global Nuclear Fuels
 * Andy Scholbrock, BS(2009), U. Colorado
 * Tim Setter, MS(2007), Tennesse Valley Authority
+* Stuart Slattery, PhD(2013), Oak Ridge National Laboratory
 * Rachel Slaybaugh, PhD(2012), Bettis Naval Reactor Laboratory
 * Brandon Smith, PhD(2011), Los Alamos National Laboratory
 * Patrick Snouffer, MS(2011), Sandia National Laboratories
