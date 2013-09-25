@@ -17,7 +17,7 @@ Research Staff
 .. |dlh_img| image:: blank_profile_m.jpg
              :width: 100
 
-.. |ad_img| image:: blank_profile_m.jpg
+.. |ad_img| image:: ad.jpg
              :width: 100
 
 .. |as_img| image:: scopatz_avatar-1.jpeg
@@ -124,6 +124,7 @@ Alumni
    :hidden:
 
    pphw
+   adavis
    dunn
    huff
    mjg
