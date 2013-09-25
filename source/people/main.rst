@@ -31,13 +31,13 @@ Research Staff
 Graduate Students
 -----------------
 
-+---------------------------+------------------------------------+--------------------------------+----------------+--------------------+
-| |kld_img|                 | |mjg_img|                          | |edb_img|                      | |rwc_img|      | |cad_img|          |  
-| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>` | Robert Carlsen | Chelsea D'Angelo   |  
-+---------------------------+------------------------------------+--------------------------------+----------------+--------------------+
-| |zw_img|                  | |pcs_img|                          | |ljj_img|                      | |mh_img|       | |ao_img|           | 
-| Zach Welch                | :doc:`Patrick Shriwise <shriwise>` |  Lucas Jacobson                |  Moataz Harb   | Arrielle Opotowsky | 
-+---------------------------+------------------------------------+--------------------------------+----------------+--------------------+
++---------------------------+------------------------------------+----------------------------------+----------------+--------------------+
+| |kld_img|                 | |mjg_img|                          | |edb_img|                        | |rwc_img|      | |cad_img|          |  
+| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>`   | Robert Carlsen | Chelsea D'Angelo   |  
++---------------------------+------------------------------------+----------------------------------+----------------+--------------------+
+| |zw_img|                  | |pcs_img|                          | |ljj_img|                        | |mh_img|       | |ao_img|           | 
+| Zach Welch                | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  Moataz Harb   | Arrielle Opotowsky | 
++---------------------------+------------------------------------+----------------------------------+----------------+--------------------+
 
 .. |kld_img| image:: blank_profile_f.jpg
              :width: 100
