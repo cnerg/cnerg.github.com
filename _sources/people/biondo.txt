@@ -16,8 +16,8 @@ Contact Information
 Graduate Appointment
 ---------------------
 
-Research Assistant
-  
+Nuclear Regulatory Commission Fellow 
+ 
 
 Research Interests
 ------------------
@@ -37,7 +37,7 @@ Education
 ----------
 * University of Wisconsin, Madison, WI [current Ph.D. student]
 * University of Wisconsin, Madison, WI [M.S. in nuclear engineering
-  and engineering physics expected spring 2013]
+  and engineering physics, 2013]
 * University of Minnesota, Minneapolis, MN  [B.ChE. in chemical engineering, B.S. in chemistry, 2011]
 
 ----
