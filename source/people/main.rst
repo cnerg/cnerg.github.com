@@ -6,10 +6,10 @@ Staff and Students
 Research Staff
 --------------
 
-+-----------------------------------------------+--------------------+--------------+-----------------+---------------+
-| |pphw_img|                                    | |dlh_img|          | |ad_img|     | |as_img|        | |jz_img|      |
-| :doc:`Paul Wilson <pphw>`, CNERG group leader | Douglass Henderson | Andrew Davis | Anthony Scopatz | Julie Zachman |
-+-----------------------------------------------+--------------------+--------------+-----------------+---------------+
++-----------------------------------------------+--------------------+--------------+----------------------------------+---------------+
+| |pphw_img|                                    | |dlh_img|          | |ad_img|     | |as_img|                         | |jz_img|      |
+| :doc:`Paul Wilson <pphw>`, CNERG group leader | Douglass Henderson | Andrew Davis | :doc:`Anthony Scopatz <scopatz>` | Julie Zachman |
++-----------------------------------------------+--------------------+--------------+----------------------------------+---------------+
 
 .. |pphw_img| image:: pphw.jpg
               :width: 100
@@ -20,7 +20,7 @@ Research Staff
 .. |ad_img| image:: blank_profile_m.jpg
              :width: 100
 
-.. |as_img| image:: blank_profile_m.jpg
+.. |as_img| image:: scopatz_avatar-1.jpeg
              :width: 100
 
 .. |jz_img| image:: blank_profile_f.jpg
@@ -132,4 +132,5 @@ Alumni
    klebenow
    shriwise
    biondo
+   scopatz
    ../jobs/programmer-2012
