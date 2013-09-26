@@ -73,12 +73,12 @@ Graduate Students
 Undergraduate Students
 ----------------------
 
-+----------------+-----------------+
-| |kk_img|       | |or_img|        |
-| Kalin Kiesling | Olzhas Rakhimov |
-+----------------+-----------------+
++-----------------------------------+-----------------+
+| |kk_img|                          | |or_img|        |
+|  :doc:`Kalin Kiesling <kiesling>` | Olzhas Rakhimov |
++-----------------------------------+-----------------+
 
-.. |kk_img| image:: blank_profile_f.jpg
+.. |kk_img| image:: kiesling.png
              :width: 100
 
 .. |or_img| image:: blank_profile_m.jpg
