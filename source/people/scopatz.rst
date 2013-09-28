@@ -44,4 +44,3 @@ Current Projects
 *  `PyNE  <https://github.com/pyne/pyne>`_
 * et al.
 
-----
