@@ -44,4 +44,3 @@ Publications
 --------------
  * E. Relson, J.L. Conlin, D.K. Parsons, "Cross Section Data Benchmarking using Automated Criticality Benchmarks in MCNP6 and Partisn." Trans. ANS, 106 (June 2012).
  * M. Fensin, E. Relson, M. James, G. McKinney, "A Proposed Method for Computing Fixed Source Driven Subcritical Multiplication using Batch Mode in MCNPX." Trans. ANS, 104 (June 2011).
-----

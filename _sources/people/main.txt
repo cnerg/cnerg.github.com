@@ -128,10 +128,11 @@ Alumni
    dunn
    huff
    mjg
-   slattery
-   relson
    klebenow
    shriwise
    biondo
    scopatz
+   dangelo
+   kiesling
+   jacobson
    ../jobs/programmer-2012

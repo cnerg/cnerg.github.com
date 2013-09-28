@@ -30,4 +30,4 @@ Education
 * University of Wisconsin-Madison [current M.S. student in Nuclear Engineering and Engineering Physics]
 * University of Wisconsin-Madison [B.S. in Nuclear Engineering, 2013]
 
-----
+
