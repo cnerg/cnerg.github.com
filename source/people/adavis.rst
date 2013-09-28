@@ -37,8 +37,11 @@ Research Interests
 ------------------
 
 In my work in CNERG I have main interests in the following areas 
+
 * High Perfomance Computing & Scientific Programming
 * Variance Reduction
 * Mesh Based R2S
 * Radiation Transport methods
 
+.. |adavis_img| image:: ad.jpg
+             :width: 100
