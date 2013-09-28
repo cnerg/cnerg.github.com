@@ -40,4 +40,5 @@ Education
   and engineering physics, 2013]
 * University of Minnesota, Minneapolis, MN  [B.ChE. in chemical engineering, B.S. in chemistry, 2011]
 
-----
+
+

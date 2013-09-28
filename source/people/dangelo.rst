@@ -1,5 +1,5 @@
 Chelsea D'Angelo
-=============
+================
 
 Contact Information
 --------------------
