@@ -3,6 +3,7 @@ Kalin R. Kiesling
 
 .. image::  kiesling.png
     :align: center
+    :width: 200
 
 Contact Information
 --------------------
