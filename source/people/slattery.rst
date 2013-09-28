@@ -41,4 +41,3 @@ Education
 * University of Wisconsin, Madison, WI [B.S. in Nuclear Engineering
   and Physics 2010]
 
-----
