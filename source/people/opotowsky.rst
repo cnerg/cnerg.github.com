@@ -1,6 +1,10 @@
 Arrielle Opotowsky
 ==============
 
+.. image::  opotowsky.jpg
+    :align: center
+    :width: 200
+
 Contact Info
 ------------
 
@@ -20,6 +24,10 @@ Graduate Engineering Researcg Scholar
 Arrielle is contributing to the development of CYCLUS, 
 a tool for simulating the nuclear fuel cycle.
 
+
+Current Projects
+----------------
+*  `Cyclus  <https://github.com/cyclus/cyclus>`_
 
 Education
 ---------

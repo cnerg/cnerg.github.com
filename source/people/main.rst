@@ -31,13 +31,13 @@ Research Staff
 Graduate Students
 -----------------
 
-+---------------------------+------------------------------------+----------------------------------+----------------+-------------------------------------+
-| |kld_img|                 | |mjg_img|                          | |edb_img|                        | |rwc_img|      | |cad_img|                           |  
-| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>`   | Robert Carlsen | :doc:`Chelsea D'Angelo <dangelo>`   |  
-+---------------------------+------------------------------------+----------------------------------+----------------+-------------------------------------+
-| |zw_img|                  | |pcs_img|                          | |ljj_img|                        | |mh_img|       | |ao_img|                            | 
-| Zach Welch                | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  Moataz Harb   | Arrielle Opotowsky                  | 
-+---------------------------+------------------------------------+----------------------------------+----------------+-------------------------------------+
++---------------------------+------------------------------------+----------------------------------+----------------+---------------------------------------+
+| |kld_img|                 | |mjg_img|                          | |edb_img|                        | |rwc_img|      | |cad_img|                             |  
+| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>`   | Robert Carlsen | :doc:`Chelsea D'Angelo <dangelo>`     |  
++---------------------------+------------------------------------+----------------------------------+----------------+---------------------------------------+
+| |zw_img|                  | |pcs_img|                          | |ljj_img|                        | |mh_img|       | |ao_img|                              | 
+| Zach Welch                | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  Moataz Harb   | :doc:`Arrielle Opotowsky <opotowsky>` | 
++---------------------------+------------------------------------+----------------------------------+----------------+---------------------------------------+
 
 .. |kld_img| image:: blank_profile_f.jpg
              :width: 100
@@ -66,7 +66,7 @@ Graduate Students
 .. |mh_img| image:: blank_profile_m.jpg
              :width: 100
 
-.. |ao_img| image:: blank_profile_f.jpg
+.. |ao_img| image:: opotowsky.jpg
              :width: 100
 
 
@@ -135,4 +135,5 @@ Alumni
    dangelo
    kiesling
    jacobson
+   opotowsky
    ../jobs/programmer-2012
