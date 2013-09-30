@@ -45,7 +45,7 @@ Graduate Students
 .. |mjg_img| image:: mjg.jpg
              :width: 100
 
-.. |edb_img| image:: blank_profile_m.jpg
+.. |edb_img| image:: biondo.jpg
              :width: 100
 
 .. |rwc_img| image:: blank_profile_m.jpg

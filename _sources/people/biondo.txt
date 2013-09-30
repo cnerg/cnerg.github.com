@@ -29,9 +29,11 @@ Research Interests
 Current Projects
 ----------------
  *  `r2s-act  <https://github.com/svalinn/r2s-act>`_
- * r2s-act analysis for `Shine Medical Technologies <http://shinemed.com/>`_
  *  `PyNE  <https://github.com/pyne/pyne>`_
 
+Previous Projects
+-----------------
+ * r2s-act analysis for `Shine Medical Technologies <http://shinemed.com/>`_
 
 Education 
 ----------
