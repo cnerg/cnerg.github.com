@@ -7,11 +7,11 @@ Patrick C. Shriwise
 Contact Information
 --------------------
 
-| Rm. 325
+| Rm. 428
 | Engineering Research Building
 | 1500 Engineering Drive
 | Madison, WI 53703
-| shriwise@.wisc.edu
+| shriwise@wisc.edu
 | Phone (608) 446-8173
 | `Twitter <https://www.twitter.com/pshriwise>`_
 
