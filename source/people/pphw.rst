@@ -26,7 +26,8 @@ Paul P.H. Wilson
 Paul Wilson is a Professor of Nuclear Engineering in the
 `University of Wisconsin-Madison <http://www.wisc.edu>`_'s `Department
 of Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty
-Director of the Advanced Computing Initiative.  His research interests
+Director of the `Advanced Computing Initiative <http://aci.wisc.edu>`_.  
+His research interests
 bring together technical and policy issues: analysis methods of
 isotopic inventories in nuclear systems and the implications on
 nuclear non-proliferation policy, and the development of next
@@ -47,7 +48,8 @@ his Bachelor of Applied Science in Engineering Science, he began his
 graduate schooling in nuclear engineering at the University of
 Wisconsin-Madison.  After three years, he moved to Karlsruhe, Germany,
 where he studied in the Institute for Neutron Physics and Reactor
-Engineering, earning his Dr.-Ing. degree in Mechanical Engineering
+Engineering (of the `Karlsruhe Institute of Technology <http://www.kit.edu>`_), 
+earning his Dr.-Ing. degree in Mechanical Engineering
 in 1998.  Returning to Madison, Paul completed his Ph.D. in Nuclear
 Engineering in 1999.
 
