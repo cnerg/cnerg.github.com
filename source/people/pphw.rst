@@ -62,6 +62,14 @@ serves on the Executive Committee of the `Wisconsin Energy Institute <http://www
 and the Steering Committee of the `Holtz Center for Science and
 Technology Studies <http://sts.wisc.edu>`_.
 
+In addition to the research pursued by his `Computational Nuclear Engineering
+Research Group (CNERG) <http://cnerg.engr.wisc.edu>`_, Paul has served in a
+number of advisory and consultant roles.  From 2001-2003, he was a member of
+the U.S. Department of Energy's Generation IV Technology Roadmap Committee.
+In 2010, he was engaged as a consultant to the CEA Saclay, ERC Petten, the
+Karlsruhe Institute of Technolgoy, `Blue Ribbon Commission on America's
+Nuclear Energy Future <http://brc.gov>`_.
+
 Born in Edinburgh, Scotland, and raised in Fort Saskatchewan, Alberta,
 Canada, Paul specialized in the Nuclear Power option of the
 `Engineering Science program <http://engsci.utoronto.ca/>`_ at the
