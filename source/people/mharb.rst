@@ -21,5 +21,5 @@ Education
 ----------
 
  * University of Wisconsin-Madison [current Graduate student]
- * Alexandria University, Alexandria, Egypt [B.Sc from the Nuclear & Radiation Engineering department]
+ * Alexandria University, Alexandria, Egypt [B.Sc from the Nuclear & Radiation Engineering department (2010)]
 
