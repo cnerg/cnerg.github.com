@@ -6,10 +6,10 @@ Staff and Students
 Research Staff
 --------------
 
-+-----------------------------------------------+--------------------+--------------+----------------------------------+---------------+
-| |pphw_img|                                    | |dlh_img|          | |ad_img|     | |as_img|                         | |jz_img|      |
-| :doc:`Paul Wilson <pphw>`, CNERG group leader | Douglass Henderson | Andrew Davis | :doc:`Anthony Scopatz <scopatz>` | Julie Zachman |
-+-----------------------------------------------+--------------------+--------------+----------------------------------+---------------+
++-----------------------------------------------+--------------------+---------------------------------------------+----------------------------------+---------------+
+| |pphw_img|                                    | |dlh_img|          | |ad_img|                                    | |as_img|                         | |jz_img|      |
+| :doc:`Paul Wilson <pphw>`, CNERG group leader | Douglass Henderson | :doc:`Andrew Davis <adavis>`, Andrew Davis  | :doc:`Anthony Scopatz <scopatz>` | Julie Zachman |
++-----------------------------------------------+--------------------+---------------------------------------------+----------------------------------+---------------+
 
 .. |pphw_img| image:: pphw.jpg
               :width: 100
@@ -17,7 +17,7 @@ Research Staff
 .. |dlh_img| image:: blank_profile_m.jpg
              :width: 100
 
-.. |ad_img| image:: blank_profile_m.jpg
+.. |ad_img| image:: ad.jpg
              :width: 100
 
 .. |as_img| image:: scopatz_avatar-1.jpeg
@@ -31,13 +31,23 @@ Research Staff
 Graduate Students
 -----------------
 
-+---------------------------+------------------------------------+----------------------------------+----------------+-------------------------------------+
-| |kld_img|                 | |mjg_img|                          | |edb_img|                        | |rwc_img|      | |cad_img|                           |  
-| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>`   | Robert Carlsen | :doc:`Chelsea D'Angelo <dangelo>`   |  
-+---------------------------+------------------------------------+----------------------------------+----------------+-------------------------------------+
-| |zw_img|                  | |pcs_img|                          | |ljj_img|                        | |mh_img|       | |ao_img|                            | 
-| Zach Welch                | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  Moataz Harb   | Arrielle Opotowsky                  | 
-+---------------------------+------------------------------------+----------------------------------+----------------+-------------------------------------+
+<<<<<<< HEAD
++---------------------------+------------------------------------+----------------------------------+-----------------------------+---------------------------------------+
+| |kld_img|                 | |mjg_img|                          | |edb_img|                        | |rwc_img|                   | |cad_img|                             |  
+| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>`   | Robert Carlsen              | :doc:`Chelsea D'Angelo <dangelo>`     |  
++---------------------------+------------------------------------+----------------------------------+-----------------------------+---------------------------------------+
+| |zw_img|                  | |pcs_img|                          | |ljj_img|                        | |mh_img|                    | |ao_img|                              | 
+| Zach Welch                | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` | :doc:`Moataz Harb <mharb>`  | :doc:`Arrielle Opotowsky <opotowsky>` | 
++---------------------------+------------------------------------+----------------------------------+-----------------------------+---------------------------------------+
+=======
++---------------------------+------------------------------------+----------------------------------+-----------------------------+-------------------------------------+
+| |kld_img|                 | |mjg_img|                          | |edb_img|                        | |rwc_img|                   | |cad_img|                           |  
+| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>`   | Robert Carlsen              | :doc:`Chelsea D'Angelo <dangelo>`   |  
++---------------------------+------------------------------------+----------------------------------+-----------------------------+-------------------------------------+
+| |zw_img|                  | |pcs_img|                          | |ljj_img|                        | |mh_img|                    | |ao_img|                            | 
+| Zach Welch                | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  Moataz Harb                | Arrielle Opotowsky                  | 
++---------------------------+------------------------------------+----------------------------------+-----------------------------+-------------------------------------+
+>>>>>>> fdf6fa5fe80afb8ac4ce6d5ad10b33250dd34c47
 
 .. |kld_img| image:: blank_profile_f.jpg
              :width: 100
@@ -45,7 +55,7 @@ Graduate Students
 .. |mjg_img| image:: mjg.jpg
              :width: 100
 
-.. |edb_img| image:: blank_profile_m.jpg
+.. |edb_img| image:: biondo.jpg
              :width: 100
 
 .. |rwc_img| image:: blank_profile_m.jpg
@@ -66,7 +76,7 @@ Graduate Students
 .. |mh_img| image:: blank_profile_m.jpg
              :width: 100
 
-.. |ao_img| image:: blank_profile_f.jpg
+.. |ao_img| image:: opotowsky.jpg
              :width: 100
 
 
@@ -124,13 +134,16 @@ Alumni
    :hidden:
 
    pphw
+   adavis
    dunn
    huff
    mjg
-   slattery
-   relson
    klebenow
    shriwise
    biondo
    scopatz
+   dangelo
+   kiesling
+   jacobson
+   opotowsky
    ../jobs/programmer-2012

@@ -47,6 +47,7 @@ Why are you the right person for this opportunity
 For each opportunity in which you would like me to act as a reference,
 please provide information about why you are the right/best person to
 fill that opportunity.  This would include:
+
  * description of opportunity, such as:
      * job description/position listing
      * graduate program description

@@ -1,5 +1,9 @@
 Chelsea D'Angelo
+<<<<<<< HEAD
+================
+=======
 =============
+>>>>>>> fdf6fa5fe80afb8ac4ce6d5ad10b33250dd34c47
 
 Contact Information
 --------------------
