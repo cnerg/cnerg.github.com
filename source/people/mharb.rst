@@ -20,6 +20,6 @@ Research Interests
 Education
 ----------
 
- * Alexandria University, Alexandria, Egypt [B.sc from the Nuclear & Radiation Engineering department]
- * University of Wisconsin-Madison [Graduate student]
+ * University of Wisconsin-Madison [current Graduate student]
+ * Alexandria University, Alexandria, Egypt [B.Sc from the Nuclear & Radiation Engineering department]
 
