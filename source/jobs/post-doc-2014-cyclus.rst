@@ -11,24 +11,31 @@ cocnepts from operations research, computer science and nuclear
 engineering to provide a flexible basis for studying the tecehnical
 and socioeconomic impacts of different nuclear fuel cycle choices.
 
-CNERG is seeking a qualified individual to assist in the development
-of a robust software platform and the generation of an open source
-community of user/developers.
+A particular focus of the Cyclus project for the next few years is to create
+market and economic optimizers to improve calculations for the CYCLUS fuel
+cycle simulator. The team will leverage existing optimization software
+frameworks within the simulator to resolve top level policy questions. The
+optimizations will allow CYCLUS to move beyond static material compositions,
+providing a holistic view of the fuel cycle system.
+
+CNERG is seeking a qualified individual to assist in the development of
+optimziation methodologies for agent-based fuel cycle simulation as part of an
+open source community of user/developers.
 
 Degree and area of specialization
 ----------------------------------
 
-* PhD in Nuclear Engineering, Computer Science, Operations Research, Industrial Engineering or related field
+* PhD in Operations Research, Nuclear Engineering, Computer Science, Industrial Engineering or related field
 
 Required experience
 ---------------------
 
 * Demonstrated experience with scientific software development in one or more of the following areas:
 
-    * nuclear fuel cycle modeling
-    * agent-based simulation
     * multi-variable optimization
     * linear and integer programming
+    * agent-based simulation
+    * nuclear fuel cycle modeling
 * Some experience with components of a modern team-based software development processes:
 
     * version control (we use git)
@@ -44,6 +51,7 @@ Desired Experience
 * Demonstrated knowledge of C++ & python in a linux environment
 * Demonstrated experience with some combination of Cyclus I/O technologies including
 
+    * COIN/OR
     * XML (libxml2/libxml++)
     * SQL (sqlite)
 
@@ -51,7 +59,6 @@ Specific Duties
 ---------------
 
 * Investigate different schemes for combining optimization algorithms with the agent based framework
-* Actively develop a community of user/developers with contributions to Cyclus module library
 * Implement new classes and methods in C++ to support user/developer requirements
 * Refactor existing code to support maintainability
 * Support documentation of source code and software usage
