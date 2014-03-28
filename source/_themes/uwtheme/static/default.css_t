@@ -145,10 +145,10 @@ body {
   font-family:georgia,Times New Roman,serif;
   font-size: 2em;
   position: absolute;
-  top: 26px;
+  top: 16px;
   left: 87px;
   width: 343px;
-  height: 34px;
+  height: 4em;
   overflow: hidden;
 }
 .home #siteTitle {
