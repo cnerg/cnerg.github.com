@@ -16,21 +16,19 @@ Current Opennings
 .. toctree::
    :maxdepth: 1
 
-   programmer-2013-cyclus
-   post-doc-2012-mesh
-   post-doc-2012-cyclus
+   post-doc-2014-cyclus
 
-Fall 2013 Graduate Student Opportunities
+
+Fall 2014 Graduate Student Opportunities
 -----------------------------------------
 
-CNERG is planning to add 2-4 new graduate students in the Fall 2013
-semester with projects in the general areas identified below.  All of
-these tasks will require programming and software development and
-students with demonstrated experience with `Software Carpentry`_
-skills will be preferred.  Prospective students are encouraged to
-`apply for graduate study in our department
-<http://www.grad.wisc.edu/education/admissions/>`_ and draw specific
-attention to these topics, indiciating what unique knowledge or
+CNERG is not currently planning to add any graduate students in 2014.  Those
+with interest in future semesters may consider the general areas identified
+below.  All of these tasks will require programming and software development
+and students with demonstrated experience with `Software Carpentry`_ skills
+will be preferred.  Prospective students are encouraged to `apply for graduate
+study in our department <http://www.grad.wisc.edu/education/admissions/>`_ and
+draw specific attention to these topics, indiciating what unique knowledge or
 experiences they will bring to these tasks.
 
 PhD Topics
@@ -69,7 +67,7 @@ Master's Topics
   resources, Open Science Grid, and Amazon EC2.  The tools will be
   implemented in PyNE for robustness and longevity.
 
-* **Systematic Study of Material Homogenization in Radiaiton
+* **Systematic Study of Material Homogenization in Radiation
   Shielding** This project will include a number of numerical
   experiments to determine the impacts of homogenization on the
   results of Monte Carlo radiation transport simulations.  These will
@@ -89,6 +87,13 @@ Master's Topics
 Recent Positions (Now closed)
 ------------------------------
 
-* :doc:`August 2012: Systems Programmer <programmer-2012>`
+.. toctree::
+   :maxdepth: 1
+
+   post-doc-2012-cyclus
+   post-doc-2012-mesh
+   programmer-2012
+   programmer-2013-cyclus
+
 
 .. _`Software Carpentry`: http://software-carpentry.org/4_0/
