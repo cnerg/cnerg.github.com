@@ -67,7 +67,7 @@ Master's Topics
   resources, Open Science Grid, and Amazon EC2.  The tools will be
   implemented in PyNE for robustness and longevity.
 
-* **Systematic Study of Material Homogenization in Radiaiton
+* **Systematic Study of Material Homogenization in Radiation
   Shielding** This project will include a number of numerical
   experiments to determine the impacts of homogenization on the
   results of Monte Carlo radiation transport simulations.  These will
