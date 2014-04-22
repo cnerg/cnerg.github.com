@@ -19,7 +19,20 @@ with our connections to others.
 News
 -----
 
-* **March 2, 2014:** A video of the `Cyclus`_ project was recently selected as a winner in the
+* **April 15, 2014** CNERG undergraduate researcher `Kalin Kiesling
+  <people/kiesling.html>`_ was awarded an ANS Graduate Scholarship for the
+  2014-2015 academic year. Congratulations!!
+
+* **April 12, 2014** CNERG graduate researcher and NSF Fellow `Arrielle
+  Opotowsky <people/opotowsky.html>`_ has been selected to attend the one-week
+  intensive course on nuclear safeguards policy and information analysis to be
+  held in early June at the `The James Martin Center for Nonproliferation
+  Studies (CNS) <http://www.miis.edu/academics/researchcenters/nonproliferation>`_.
+
+* **March 31, 2014** CNERG is seeking a `post-doctoral associate in the area of
+  agent-based fuel cycle optimization <jobs/post-doc-2014-cyclus.html>`_.
+
+* **March 24, 2014:** A video of the `Cyclus`_ project was recently selected as a winner in the
   University of Wisconsin-Madison's `Cool Science Image contest <http://whyfiles.org/2014/2014-cool-science-image-contest-slideshow/>`_:
 
 .. raw:: html
