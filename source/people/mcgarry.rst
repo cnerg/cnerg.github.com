@@ -1,4 +1,4 @@
-Anthony Scopatz
+Meghan McGarry
 ===============
 
 .. image::  mcgarry.jpg
