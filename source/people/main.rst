@@ -48,7 +48,7 @@ Graduate Students
 .. |edb_img| image:: biondo.jpg
              :width: 100
 
-.. |rwc_img| image:: carlsen_avatar-1.jpg
+.. |rwc_img| image:: carlsen_avatar-1.png
              :width: 100
 
 .. |cad_img| image:: dangelo.jpg
