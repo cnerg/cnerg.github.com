@@ -27,6 +27,18 @@ Research Staff
              :width: 100
 
 
+Postdocs
+--------
+
++---------------------------------+
+| |mbm_img|                       |
+|                                 |
+| :doc:`Meghan McGarry <mcgarry>` |
++---------------------------------+
+
+.. |mbm_img| image:: mcgarry.jpg
+              :width: 100
+
 
 Graduate Students
 -----------------
