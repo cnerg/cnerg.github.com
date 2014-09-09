@@ -18,16 +18,19 @@ Contact Info
 Graduate Appointment
 --------------------
 
-National Science Foundation Fellow
-Graduate Engineering Researcg Scholar
+Department of Homeland Security Nuclear Forensics Graduate Fellow 
 
-Arrielle is contributing to the development of CYCLUS, 
-a tool for simulating the nuclear fuel cycle.
+National Science Foundation Fellow Graduate Engineering Research Scholar
+
+Graduate Engineering Research Scholar
+
+Arrielle is contributing to the development CYCLUS, a tool for simulating the
+nuclear fuel cycle.
 
 
 Current Projects
 ----------------
-*  `Cyclus  <https://github.com/cyclus/cyclus>`_
+*  `Cyclus  <https://fuelcycle.org>`_
 
 Education
 ---------
