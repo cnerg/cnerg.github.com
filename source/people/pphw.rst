@@ -8,18 +8,29 @@ Paul P.H. Wilson
 | `wilsonp@engr.wisc.edu <mailto:wilsonp@engr.wisc.edu>`_
 | 608/263-0807
 | 419 Engineering Research Building
-| 1500 Engineering Dr
+| `1500 Engineering Dr <https://www.google.com/maps/place/Engineering+Dr,+University+of+Wisconsin-Madison,+Madison,+WI+53706/@43.0722616,-89.4113922,17z/data=!3m1!4b1!4m2!3m1!1s0x8807acc6ec542427:0x8e97163cfd1719a0>`_
 | Madison, WI 53706
 
+Find me on:
 |cal_icon|_
 |gh_icon|_
+|gs_icon|_
 |fb_icon|_
 |tw_icon|_
+|ello_icon|_
 |gp_icon|_
 |li_icon|_
 |fl_icon|_
 |del_icon|_
 
+Affiliations:
+|uw_icon|_
+|aci_icon|_
+|swc_icon|_
+|ans_icon|_
+|cns_icon|_
+|naygn_icon|_
+|asee_icon|_
 
 ----
 
@@ -155,7 +166,7 @@ recommendations/references <pphw_reference>`.
 ----
 
 
-.. |pphw_img| image:: pphw.jpg
+.. |pphw_img| image:: pphw2.jpg
               :width: 200
 
 .. |fb_icon| image:: facebook.png
@@ -189,3 +200,40 @@ recommendations/references <pphw_reference>`.
 .. |del_icon| image:: delicious.png
               :width: 32
 .. _del_icon: http://delicious.com/gonuke
+
+.. |gs_icon| image:: GSIcon.jpg
+              :width: 32
+.. _gs_icon: http://scholar.google.com/citations?user=pWHnbUgAAAAJ&hl=en
+
+.. |ello_icon| image:: ello.png
+              :width: 32
+.. _ello_icon: http://ello.co/gonuke
+
+.. |aci_icon| image:: aci.png
+              :width: 32
+.. _aci_icon: http://aci.wisc.edu
+
+.. |swc_icon| image:: swc.png
+              :width: 32
+.. _swc_icon: http://software-carpentry.org
+
+.. |ans_icon| image:: ans.jpg
+              :width: 32
+.. _ans_icon: http://www.ans.org
+
+.. |cns_icon| image:: cns.png
+              :width: 32
+.. _cns_icon: http://www.cns-snc.ca/
+
+.. |naygn_icon| image:: naygn.png
+              :height: 32
+.. _naygn_icon: http://www.na-ygn.org
+
+.. |asee_icon| image:: asee.jpg
+              :height: 28
+.. _asee_icon: http://www.asee.org
+
+.. |uw_icon| image:: crest.png
+              :height: 32
+.. _uw_icon: http://www.wisc.edu
+
