@@ -167,7 +167,7 @@ recommendations/references <pphw_reference>`.
 
 
 .. |pphw_img| image:: pphw2.jpg
-              :width: 200
+              :width: 400
 
 .. |fb_icon| image:: facebook.png
               :width: 32
