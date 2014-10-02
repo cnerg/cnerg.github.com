@@ -14,10 +14,13 @@ Paul P.H. Wilson
 Find me on:
 |cal_icon|_
 |gh_icon|_
+|bb_icon|_
 |gs_icon|_
+|is_icon|_
 |fb_icon|_
 |tw_icon|_
 |ello_icon|_
+|skype_icon|_
 |gp_icon|_
 |li_icon|_
 |fl_icon|_
@@ -181,9 +184,17 @@ recommendations/references <pphw_reference>`.
               :width: 32
 .. _gp_icon: https://plus.google.com/104215183938248463521/posts
 
+.. |is_icon| image:: impactstory.png
+              :width: 32
+.. _is_icon: https://impactstory.org/gonuke
+
 .. |gh_icon| image:: github.png
               :width: 32
 .. _gh_icon: https://github.com/gonuke
+
+.. |bb_icon| image:: bb.jpg
+              :width: 32
+.. _bb_icon: https://bitbucket.com/gonuke
 
 .. |cal_icon| image:: calendar.png
               :width: 32
@@ -208,6 +219,10 @@ recommendations/references <pphw_reference>`.
 .. |ello_icon| image:: ello.png
               :width: 32
 .. _ello_icon: http://ello.co/gonuke
+
+.. |skype_icon| image:: skype.png
+              :width: 32
+.. _skype_icon: skype:pphwilso?nimpacutserinfo
 
 .. |aci_icon| image:: aci.png
               :width: 32
