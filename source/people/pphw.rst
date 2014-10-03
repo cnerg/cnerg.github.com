@@ -5,16 +5,19 @@ Paul P.H. Wilson
 
 |pphw_img|
 
+| |vcard_icon|_ 
 | `wilsonp@engr.wisc.edu <mailto:wilsonp@engr.wisc.edu>`_
 | 608/263-0807
 | 419 Engineering Research Building
 | `1500 Engineering Dr <https://www.google.com/maps/place/Engineering+Dr,+University+of+Wisconsin-Madison,+Madison,+WI+53706/@43.0722616,-89.4113922,17z/data=!3m1!4b1!4m2!3m1!1s0x8807acc6ec542427:0x8e97163cfd1719a0>`_
 | Madison, WI 53706
 
+
 Find me on:
 |cal_icon|_
 |gh_icon|_
 |bb_icon|_
+|so_icon|_
 |gs_icon|_
 |is_icon|_
 |fb_icon|_
@@ -167,7 +170,7 @@ recommendations/references <pphw_reference>`.
    pphw_reference
 
 ----
-
+:download:`. <pphw.vcf>`
 
 .. |pphw_img| image:: pphw2.jpg
               :width: 400
@@ -195,6 +198,10 @@ recommendations/references <pphw_reference>`.
 .. |bb_icon| image:: bb.jpg
               :width: 32
 .. _bb_icon: https://bitbucket.com/gonuke
+
+.. |so_icon| image:: stackoverflow.png
+              :width: 32
+.. _so_icon: http://stackoverflow.com/users/4102856/paul-wilson
 
 .. |cal_icon| image:: calendar.png
               :width: 32
@@ -251,4 +258,10 @@ recommendations/references <pphw_reference>`.
 .. |uw_icon| image:: crest.png
               :height: 32
 .. _uw_icon: http://www.wisc.edu
+
+.. |vcard_icon| image:: vcard.png
+              :width: 32
+
+.. _vcard_icon: ../_downloads/pphw.vcf
+
 
