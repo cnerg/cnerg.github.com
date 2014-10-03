@@ -252,7 +252,8 @@ recommendations/references <pphw_reference>`.
 .. _naygn_icon: http://www.na-ygn.org
 
 .. |asee_icon| image:: asee.jpg
-              :height: 28
+              :width: 32
+
 .. _asee_icon: http://www.asee.org
 
 .. |uw_icon| image:: crest.png
