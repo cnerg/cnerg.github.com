@@ -11,7 +11,7 @@ Research Staff
 | :doc:`Paul Wilson <pphw>`, CNERG group leader | Douglass Henderson | :doc:`Andrew Davis <adavis>`, Andrew Davis  | :doc:`Anthony Scopatz <scopatz>` | Julie Zachman |
 +-----------------------------------------------+--------------------+---------------------------------------------+----------------------------------+---------------+
 
-.. |pphw_img| image:: pphw.jpg
+.. |pphw_img| image:: pphw2.jpg
               :width: 100
 
 .. |dlh_img| image:: blank_profile_m.jpg
