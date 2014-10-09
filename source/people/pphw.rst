@@ -5,21 +5,38 @@ Paul P.H. Wilson
 
 |pphw_img|
 
+| |vcard_icon|_ 
 | `wilsonp@engr.wisc.edu <mailto:wilsonp@engr.wisc.edu>`_
 | 608/263-0807
 | 419 Engineering Research Building
-| 1500 Engineering Dr
+| `1500 Engineering Dr <https://www.google.com/maps/place/Engineering+Dr,+University+of+Wisconsin-Madison,+Madison,+WI+53706/@43.0722616,-89.4113922,17z/data=!3m1!4b1!4m2!3m1!1s0x8807acc6ec542427:0x8e97163cfd1719a0>`_
 | Madison, WI 53706
 
+
+Find me on:
 |cal_icon|_
 |gh_icon|_
+|bb_icon|_
+|so_icon|_
+|gs_icon|_
+|is_icon|_
 |fb_icon|_
 |tw_icon|_
+|ello_icon|_
+|skype_icon|_
 |gp_icon|_
 |li_icon|_
 |fl_icon|_
 |del_icon|_
 
+Affiliations:
+|uw_icon|_
+|aci_icon|_
+|swc_icon|_
+|ans_icon|_
+|cns_icon|_
+|naygn_icon|_
+|asee_icon|_
 
 ----
 
@@ -153,10 +170,10 @@ recommendations/references <pphw_reference>`.
    pphw_reference
 
 ----
+:download:`. <pphw.vcf>`
 
-
-.. |pphw_img| image:: pphw.jpg
-              :width: 200
+.. |pphw_img| image:: pphw2.jpg
+              :width: 400
 
 .. |fb_icon| image:: facebook.png
               :width: 32
@@ -170,9 +187,21 @@ recommendations/references <pphw_reference>`.
               :width: 32
 .. _gp_icon: https://plus.google.com/104215183938248463521/posts
 
+.. |is_icon| image:: impactstory.png
+              :width: 32
+.. _is_icon: https://impactstory.org/gonuke
+
 .. |gh_icon| image:: github.png
               :width: 32
 .. _gh_icon: https://github.com/gonuke
+
+.. |bb_icon| image:: bb.jpg
+              :width: 32
+.. _bb_icon: https://bitbucket.com/gonuke
+
+.. |so_icon| image:: stackoverflow.png
+              :width: 32
+.. _so_icon: http://stackoverflow.com/users/4102856/paul-wilson
 
 .. |cal_icon| image:: calendar.png
               :width: 32
@@ -189,3 +218,51 @@ recommendations/references <pphw_reference>`.
 .. |del_icon| image:: delicious.png
               :width: 32
 .. _del_icon: http://delicious.com/gonuke
+
+.. |gs_icon| image:: GSIcon.jpg
+              :width: 32
+.. _gs_icon: http://scholar.google.com/citations?user=pWHnbUgAAAAJ&hl=en
+
+.. |ello_icon| image:: ello.png
+              :width: 32
+.. _ello_icon: http://ello.co/gonuke
+
+.. |skype_icon| image:: skype.png
+              :width: 32
+.. _skype_icon: skype:pphwilso?nimpacutserinfo
+
+.. |aci_icon| image:: aci.png
+              :width: 32
+.. _aci_icon: http://aci.wisc.edu
+
+.. |swc_icon| image:: swc.png
+              :width: 32
+.. _swc_icon: http://software-carpentry.org
+
+.. |ans_icon| image:: ans.jpg
+              :width: 32
+.. _ans_icon: http://www.ans.org
+
+.. |cns_icon| image:: cns.png
+              :width: 32
+.. _cns_icon: http://www.cns-snc.ca/
+
+.. |naygn_icon| image:: naygn.png
+              :height: 32
+.. _naygn_icon: http://www.na-ygn.org
+
+.. |asee_icon| image:: asee.jpg
+              :width: 32
+
+.. _asee_icon: http://www.asee.org
+
+.. |uw_icon| image:: crest.png
+              :height: 32
+.. _uw_icon: http://www.wisc.edu
+
+.. |vcard_icon| image:: vcard.png
+              :width: 32
+
+.. _vcard_icon: ../_downloads/pphw.vcf
+
+
