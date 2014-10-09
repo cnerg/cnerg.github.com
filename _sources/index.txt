@@ -57,7 +57,7 @@ More Information
    papers/main
    infrastructure
    projects/workflow
-   Intranet <http://in-cnerg.engr.wisc.edu>
+   Intranet <https://drive.google.com/a/wisc.edu/folderview?id=0B0PIxd5nzgICQVYwV2ozVmRxWkk&usp=sharing>
 
 Research and employment opportunities in this research group
 continuously become available. If you are interested please see what
