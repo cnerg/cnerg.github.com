@@ -100,7 +100,9 @@ Undergraduate Students
 Employment Opportunties
 -----------------------------
 
-Currently, there are no open position in the CNERG group.
+We are currently seeking a:
+
+* `post-doctoral associate in the area of agent-based fuel cycle optimization <../jobs/post-doc-2014-cyclus.html>`_
 
 
 Alumni
