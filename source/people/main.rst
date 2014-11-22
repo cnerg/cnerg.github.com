@@ -17,7 +17,7 @@ Research Staff
 .. |dlh_img| image:: blank_profile_m.jpg
              :width: 100
 
-.. |ad_img| image:: ad.jpg
+.. |ad_img| image:: capitol_davis.JPG
              :width: 100
 
 .. |as_img| image:: scopatz_avatar-1.jpeg
@@ -36,7 +36,7 @@ Postdocs
 | :doc:`Meghan McGarry <mcgarry>` |
 +---------------------------------+
 
-.. |mbm_img| image:: mcgarry.jpg
+.. |mbm_img| image:: capitol_mcgarry.JPG
               :width: 100
 
 
@@ -57,31 +57,31 @@ Graduate Students
 .. |kld_img| image:: blank_profile_f.jpg
              :width: 100
 
-.. |mjg_img| image:: mjg.jpg
+.. |mjg_img| image:: capitol_gidden.JPG
              :width: 100
 
-.. |edb_img| image:: biondo.jpg
+.. |edb_img| image:: capitol_biondo.JPG
              :width: 100
 
-.. |rwc_img| image:: carlsen_avatar-1.png
+.. |rwc_img| image:: capitol_carlsen.JPG
              :width: 100
 
-.. |cad_img| image:: dangelo.jpg
+.. |cad_img| image:: capitol_dangelo.JPG
              :width: 100
 
 .. |zw_img| image:: blank_profile_m.jpg
              :width: 100
 
-.. |pcs_img| image:: pcs.jpg
+.. |pcs_img| image:: capitol_shriwise.JPG
              :width: 100
 
-.. |ljj_img| image:: blank_profile_m.jpg
+.. |ljj_img| image:: capitol_jacobson.JPG
              :width: 100
 
 .. |mh_img| image:: blank_profile_m.jpg
              :width: 100
 
-.. |ao_img| image:: opotowsky.jpg
+.. |ao_img| image:: capitol_opotowsky.JPG
              :width: 100
 
 
@@ -89,7 +89,7 @@ Undergraduate Students
 ----------------------
 
 
-.. |kk_img| image:: kiesling.png
+.. |kk_img| image:: capitol_kiesling.JPG
              :width: 100
 
 .. |or_img| image:: blank_profile_m.jpg
