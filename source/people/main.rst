@@ -14,16 +14,16 @@ Research Staff
 .. |pphw_img| image:: pphw2.jpg
               :width: 100
 
-.. |dlh_img| image:: blank_profile_m.jpg
+.. |dlh_img| image:: capitol_blank.JPG
              :width: 100
 
 .. |ad_img| image:: capitol_davis.JPG
              :width: 100
 
-.. |as_img| image:: scopatz_avatar-1.jpeg
+.. |as_img| image:: capitol_blank.JPG
              :width: 100
 
-.. |jz_img| image:: blank_profile_f.jpg
+.. |jz_img| image:: capitol_blank.JPG
              :width: 100
 
 
@@ -54,7 +54,7 @@ Graduate Students
 | :doc:`Kalin Kiesling <kiesling>` |                                    |                                  |                                 |                                       |
 +----------------------------------+------------------------------------+----------------------------------+---------------------------------+---------------------------------------+
 
-.. |kld_img| image:: blank_profile_f.jpg
+.. |kld_img| image:: capitol_blank.JPG
              :width: 100
 
 .. |mjg_img| image:: capitol_gidden.JPG
@@ -69,7 +69,7 @@ Graduate Students
 .. |cad_img| image:: capitol_dangelo.JPG
              :width: 100
 
-.. |zw_img| image:: blank_profile_m.jpg
+.. |zw_img| image:: capitol_blank.JPG
              :width: 100
 
 .. |pcs_img| image:: capitol_shriwise.JPG
@@ -78,7 +78,7 @@ Graduate Students
 .. |ljj_img| image:: capitol_jacobson.JPG
              :width: 100
 
-.. |mh_img| image:: blank_profile_m.jpg
+.. |mh_img| image:: capitol_blank.JPG
              :width: 100
 
 .. |ao_img| image:: capitol_opotowsky.JPG
@@ -92,7 +92,7 @@ Undergraduate Students
 .. |kk_img| image:: capitol_kiesling.JPG
              :width: 100
 
-.. |or_img| image:: blank_profile_m.jpg
+.. |or_img| image:: capitol_blank.JPG
              :width: 100
 
 
