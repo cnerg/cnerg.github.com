@@ -23,7 +23,7 @@ Research Staff
 .. |as_img| image:: capitol_blank.JPG
              :width: 100
 
-.. |jz_img| image:: capitol_blank.JPG
+.. |jz_img| image:: jcz.JPG
              :width: 100
 
 
