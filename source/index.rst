@@ -1,24 +1,32 @@
-Welcome to CNERG
-=================
+CNERG
+=====
 
-The Computational Nuclear Engineering Research Group focuses on the
-nuclear design and analysis of nuclear energy systems and fuel cycle
-concepts. While research activities include methods development and
-methodology integration, it is generally in support of improving the
-ability to perform nuclear analyses of engineering systems. As nuclear
-analysts, CNERG’s strengths are in modeling radiation transport and
-nuclide inventory changes.
+The **Computational Nuclear Engineering Research Group** is a `community
+<people/main.html>`_ of nuclear engineers, scientists, programmers and
+students who focus on the development of `reliable software tools
+<projects/software.html>`_ for the analysis of complex nuclear systems.
 
-The acronym CNERG is intended to be prounced like the English word
-synergy ('si-n&r-jE). According to `Merriam-Webster OnLine`_, the noun synergy
-means "a mutually advantageous conjunction or compatibility of
-distinct business participants or elements". This name is suggestive
-of many synergies that we take advantage of both inside the group and
-with our connections to others.
+Two primary `areas of activity <projects/main.html>`_ are:
+
+* radiation transport and effects in complex CAD-based geometries, and
+* agent-based modeling of advanced nuclear fuel cycles.
+
+The acronym CNERG is intended to be pronounced like the English word synergy
+('si-n&r-jE). According to `Merriam-Webster OnLine`_, the noun synergy means
+"a mutually advantageous conjunction or compatibility of distinct business
+participants or elements". This name is suggestive of many synergies that we
+take advantage of both inside our CNERG community and with our connections to
+others.
+
 
 News
 -----
 
+* **November 11, 2014** A number of presentations at the 2014 ANS Winter
+  meeting features CNERG work including:
+    * `Carlsen <people/carlsen.html>`_, et al, "Deployment Optimization with the CYCLUS Fuel Cycle Simulator"
+    * Bates, et al, "PyNE Progress Report"
+    * `Biondo <people/biondo.html>`_, et al, "Quality Assurance within the PyNE Open Source Toolkit"
 * **September 1, 2014** `Dr. Meghan McGarry <people/mcgarry.html>`_ joins
   CNERG as a post-doctoral associate to contribute to adapting
   Cyclus for use in nuclear security applications.
