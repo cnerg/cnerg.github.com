@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'UW-Madison Computational Nuclear Engineering Research Group (CNERG)'
-copyright = u'2012, Paul Wilson'
+copyright = u'2012-2014, Paul Wilson'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -101,7 +101,7 @@ html_theme = 'uwtheme'
 # documentation.
 html_theme_options = { 
 'site_title' : u'CNERG',
-'tagline' : u'UW-Madison\'s Computational Nuclear Engineering Research Group'
+'tagline' : u'Reliable Software Tools for the Analysis of Complex Nuclear Systems'
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
