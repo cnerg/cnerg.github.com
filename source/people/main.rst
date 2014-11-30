@@ -6,10 +6,10 @@ Staff and Students
 Research Staff
 --------------
 
-+-----------------------------------------------+--------------------+---------------------------------------------+----------------------------------+---------------+
-| |pphw_img|                                    | |dlh_img|          | |ad_img|                                    | |as_img|                         | |jz_img|      |
-| :doc:`Paul Wilson <pphw>`, CNERG group leader | Douglass Henderson | :doc:`Andrew Davis <adavis>`, Andrew Davis  | :doc:`Anthony Scopatz <scopatz>` | Julie Zachman |
-+-----------------------------------------------+--------------------+---------------------------------------------+----------------------------------+---------------+
++-----------------------------------------------+--------------------+---------------------------------------------+----------------------------------+----------------------------+
+| |pphw_img|                                    | |dlh_img|          | |ad_img|                                    | |as_img|                         | |jz_img|                   |
+| :doc:`Paul Wilson <pphw>`, CNERG group leader | Douglass Henderson | :doc:`Andrew Davis <adavis>`, Andrew Davis  | :doc:`Anthony Scopatz <scopatz>` | :doc:`Julie Zachman <jcz>` |
++-----------------------------------------------+--------------------+---------------------------------------------+----------------------------------+----------------------------+
 
 .. |pphw_img| image:: pphw2.jpg
               :width: 100
@@ -23,7 +23,7 @@ Research Staff
 .. |as_img| image:: capitol_blank.JPG
              :width: 100
 
-.. |jz_img| image:: capitol_blank.JPG
+.. |jz_img| image:: jcz.jpg
              :width: 100
 
 
