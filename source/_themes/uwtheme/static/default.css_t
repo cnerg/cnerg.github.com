@@ -95,7 +95,7 @@ html {
 
 body {
   margin: 40px auto 0;
-  width: 960px;
+  width: 1260px;
   color: #8E8979;
   background-color: transparent;
   font: normal 100%/1.5 Verdana, sans-serif;
@@ -315,7 +315,7 @@ body {
 /*layout*/
 
 #c_container {
-  width: 958px;
+  width: 1258px;
   border-right: 1px solid #666666;
   border-left: 1px solid #666666;
   border-bottom: 2px solid #666666;
@@ -683,7 +683,7 @@ body {
 }
 .page #content {
   margin: 0 7px 0 0;
-  width: 640px;
+  width: 940px;
   padding-top: 40px;
 }
 .page #sidebar {
