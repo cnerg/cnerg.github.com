@@ -38,4 +38,3 @@ Education
 * University of Wisconsin, Madison, WI [M.S. Nuclear Engineering, 2013]
 * Idaho State University, Pocatello, ID [B.S. Nuclear Engineering, 2011]
 
-----
