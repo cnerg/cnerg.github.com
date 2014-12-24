@@ -772,9 +772,10 @@ table {
 margin-top: 16px;
 margin-bottom: 2em;
 text-align: left;
-border: 1px solid #666;
+border: 0px solid #666;
 border-collapse: collapse;
 font-size: .9em;
+width: 100%;
 }
 caption {
 text-align: left;
