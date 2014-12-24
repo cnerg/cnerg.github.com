@@ -32,6 +32,7 @@ Find me on:
 Affiliations:
 |uw_icon|_
 |aci_icon|_
+|cvt_icon|_
 |swc_icon|_
 |ans_icon|_
 |cns_icon|_
@@ -234,6 +235,10 @@ recommendations/references <pphw_reference>`.
 .. |aci_icon| image:: aci.png
               :width: 32
 .. _aci_icon: http://aci.wisc.edu
+
+.. |cvt_icon| image:: cvt.png
+              :width: 32
+.. _cvt_icon: http://cvt.engin.umich.edu
 
 .. |swc_icon| image:: swc.png
               :width: 32
