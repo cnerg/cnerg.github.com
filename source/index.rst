@@ -1,6 +1,13 @@
 CNERG
 =====
 
+.. figure:: hab1.png
+    :align: right
+    :width: 350
+    :alt: NASA habitat module analyzed using FluDAG
+
+    *NASA habitat module analyzed using FluDAG*
+
 The **Computational Nuclear Engineering Research Group** is a `community
 <people/main.html>`_ of nuclear engineers, scientists, programmers and
 students who focus on the development of `reliable software tools

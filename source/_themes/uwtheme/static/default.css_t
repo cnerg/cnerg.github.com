@@ -697,6 +697,11 @@ body {
   width: 250px;
 }
 
+.align-right {
+  float: right;
+  padding-left: 10px;
+}
+
 #sidebar_section {
   margin: 0 0 0 10px;
   position: fixed;
