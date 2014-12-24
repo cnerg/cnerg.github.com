@@ -1,5 +1,5 @@
 Arrielle Opotowsky
-==============
+==================
 
 .. image::  opotowsky.jpg
     :align: center

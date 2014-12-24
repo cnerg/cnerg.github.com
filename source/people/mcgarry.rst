@@ -19,8 +19,8 @@ Meghan McGarry is a post-doctoral researcher in the CNERG group at the Universit
 
 
 Postdoctoral Researcher Appointment
----------------------------
-Consortium for Verification Technology.
+-----------------------------------
+`Consortium for Verification Technology <http://cvt.engin.umich.edu>`_
 
 Research Interests
 ------------------

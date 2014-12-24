@@ -25,3 +25,5 @@ News Archive
 	<source src='http://whyfiles.org/wp-content/uploads/2014/03/csi2014cnerg-Cellular.m4v' />
     </video>
     </center>
+
+.. _Cyclus: http://www.fuelcycle.org
