@@ -48,9 +48,6 @@ Graduate Students
 | :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`      | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |                                    |
 +----------------------------------+----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
 
-.. |kld_img| image:: capitol_blank.JPG
-             :width: 100
-
 .. |mjg_img| image:: capitol_gidden.JPG
              :width: 100
 
@@ -61,9 +58,6 @@ Graduate Students
              :width: 100
 
 .. |cad_img| image:: capitol_dangelo.JPG
-             :width: 100
-
-.. |zw_img| image:: capitol_blank.JPG
              :width: 100
 
 .. |pcs_img| image:: capitol_shriwise.JPG
@@ -78,16 +72,12 @@ Graduate Students
 .. |ao_img| image:: capitol_opotowsky.JPG
              :width: 100
 
-
-Undergraduate Students
-----------------------
-
-
 .. |kk_img| image:: capitol_kiesling.JPG
              :width: 100
 
-.. |or_img| image:: capitol_blank.JPG
-             :width: 100
+
+Undergraduate Students
+----------------------
 
 
 Employment Opportunties
