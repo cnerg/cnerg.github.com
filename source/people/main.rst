@@ -6,13 +6,18 @@ Staff and Students
 Research Staff
 --------------
 
-+-----------------------------------------------+--------------------+---------------------------------------------+----------------------------------+----------------------------+
-| |pphw_img|                                    | |dlh_img|          | |ad_img|                                    | |as_img|                         | |jz_img|                   |
-| :doc:`Paul Wilson <pphw>`, CNERG group leader | Douglass Henderson | :doc:`Andrew Davis <adavis>`, Andrew Davis  | :doc:`Anthony Scopatz <scopatz>` | :doc:`Julie Zachman <jcz>` |
-+-----------------------------------------------+--------------------+---------------------------------------------+----------------------------------+----------------------------+
++---------------------------+-------------------------+------------------------------+----------------------------------+----------------------------+---------------------------------+
+| |pphw_img|                | |dlh_img|               | |ad_img|                     | |as_img|                         | |jz_img|                   | |mbm_img|                       |
+|                           |                         |                              |                                  |                            |                                 |
+| :doc:`Paul Wilson <pphw>` | `Douglass Henderson`_   | :doc:`Andrew Davis <adavis>` | :doc:`Anthony Scopatz <scopatz>` | :doc:`Julie Zachman <jcz>` | :doc:`Meghan McGarry <mcgarry>` |
+|                           |                         |                              |                                  |                            |                                 |
+| Professor, CNERG leader   |  Professor              | Scientist                    | Scientist                        | Programmer                 | Post-doctoral Associate         |
++---------------------------+-------------------------+------------------------------+----------------------------------+----------------------------+---------------------------------+
 
 .. |pphw_img| image:: pphw2.jpg
               :width: 100
+
+.. _Douglass Henderson:  https://directory.engr.wisc.edu/ep/faculty/henderson_douglass
 
 .. |dlh_img| image:: capitol_blank.JPG
              :width: 100
@@ -26,16 +31,6 @@ Research Staff
 .. |jz_img| image:: jcz.jpg
              :width: 100
 
-
-Postdocs
---------
-
-+---------------------------------+
-| |mbm_img|                       |
-|                                 |
-| :doc:`Meghan McGarry <mcgarry>` |
-+---------------------------------+
-
 .. |mbm_img| image:: capitol_mcgarry.JPG
               :width: 100
 
@@ -43,16 +38,15 @@ Postdocs
 Graduate Students
 -----------------
 
-+----------------------------------+------------------------------------+----------------------------------+---------------------------------+---------------------------------------+
-| |kld_img|                        | |mjg_img|                          | |edb_img|                        | |rwc_img|                       | |cad_img|                             |  
-| :doc:`Kerry Dunn <dunn>`         |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>`   | :doc:`Robert Carlsen <carlsen>` | :doc:`Chelsea D'Angelo <dangelo>`     |  
-+----------------------------------+------------------------------------+----------------------------------+---------------------------------+---------------------------------------+
-| |zw_img|                         | |pcs_img|                          | |ljj_img|                        | |mh_img|                        | |ao_img|                              | 
-| Zach Welch                       | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`     | :doc:`Arrielle Opotowsky <opotowsky>` | 
-+----------------------------------+------------------------------------+----------------------------------+---------------------------------+---------------------------------------+
-| |kk_img|                         |                                    |                                  |                                 |                                       |
-| :doc:`Kalin Kiesling <kiesling>` |                                    |                                  |                                 |                                       |
-+----------------------------------+------------------------------------+----------------------------------+---------------------------------+---------------------------------------+
++----------------------------------+----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
+| |mjg_img|                        | |edb_img|                        | |rwc_img|                             | |cad_img|                          | |pcs_img|                          |
+|                                  |                                  |                                       |                                    |                                    |  
+|  :doc:`Matthew Gidden <mjg>`     | :doc:`Elliott Biondo <biondo>`   | :doc:`Robert Carlsen <carlsen>`       | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` |  
++----------------------------------+----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
+| |ljj_img|                        | |mh_img|                         | |ao_img|                              | |kk_img|                           |                                    |
+|                                  |                                  |                                       |                                    |                                    |
+| :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`      | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |                                    |
++----------------------------------+----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
 
 .. |kld_img| image:: capitol_blank.JPG
              :width: 100
