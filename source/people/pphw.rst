@@ -29,10 +29,14 @@ Find me on:
 |fl_icon|_
 |del_icon|_
 
+Research projects:
+|cyclus_icon|_
+|cvt_icon|_
+
+
 Affiliations:
 |uw_icon|_
 |aci_icon|_
-|cvt_icon|_
 |swc_icon|_
 |ans_icon|_
 |cns_icon|_
@@ -235,6 +239,10 @@ recommendations/references <pphw_reference>`.
 .. |aci_icon| image:: aci.png
               :width: 32
 .. _aci_icon: http://aci.wisc.edu
+
+.. |cyclus_icon| image:: cyclus.png
+              :width: 32
+.. _cyclus_icon: http://fuelcycle.org
 
 .. |cvt_icon| image:: cvt.png
               :width: 32
