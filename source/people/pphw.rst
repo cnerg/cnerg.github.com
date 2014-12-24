@@ -175,6 +175,7 @@ recommendations/references <pphw_reference>`.
    pphw_reference
 
 ----
+
 :download:`. <pphw.vcf>`
 
 .. |pphw_img| image:: pphw2.jpg
