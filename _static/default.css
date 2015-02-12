@@ -88,6 +88,9 @@ strong { font-weight: bold; }
 em { font-style: italic; }
 li h3, li p, li a { font-size: 1em; }
 
+.headerlink { color: #ffffff; }
+.headerlink:hover { color: #b70101; }
+
 html {
   color: #000;
   background: #FFFFFF url(../_static/images/background.jpg) repeat-x top;

@@ -1,0 +1,213 @@
+Method and Tools for Fusion Neutronics
+=========================================
+
+The realm of fusion neutronics includes a number of different analysis types
+and subsequently a number of different individual analysis methodologies and
+related tools.  This is a brief introduction to those analysis types,
+methodologies and tools.  As fusion neutronics is a particular application of
+the general area of radiation protection and shielding, much of this will
+apply to other systems as well.  However, fusion neutronics is characterized
+by high energy neutrons, large source terms, and substantial shielding
+requirements.
+
+Analysis Types
+--------------
+
+Radiation Transport
+~~~~~~~~~~~~~~~~~~~~
+
+The simplest type of analysis is one with the single purpose of
+estimating/predicting the flux of radiation throughout an engineering system.
+Given a description of the radiation source, tools that perform radiation
+transport simulations will determine the the flux of radiation at different
+locations, as a function of energy and angle.  It is common to integrate over
+angle to report the scalar flux as this quantity is directly related to the
+effects of this radiation.  It is also common to integrate over energy,
+although sometimes in a number of non-overlapping energy sub-domains,
+typically referred to as *groups*.
+
+There are two primary methodologies used in radiation tranpsort: discrete
+ordinates (also called S_N) and Monte Carlo.
+
+Discrete Ordinates
++++++++++++++++++++
+
+The discrete ordinates methodology is a deterministic approach that
+discretizes the full linear transport equation for numerical solution.  The
+angular domain is discretized into a number of discrete directions, known as
+discrete ordinates.  More fidelity arises from including more discrete
+directions, but the computational complexity also increases.  One parameter of
+a discrete ordinates simulation is the number of angles (S_N).  S_8
+simulations have XXX angles, S_16 simulations have YYY angles, etc.
+ 
+The scattering cross-sections are also mathematically expanded based on a set
+of basis functions, typically the set of Legendre polynomials.  More fidelity
+arises from including more terms in this expansion.  Including only the scalar
+term and first order term is effectively the same as the diffusion
+approximation.  More terms are typically included to account for anisotropy in
+neutron scattering.  Thus, another parameter of a discrete ordinates
+simulation is the number of terms in this expansiion (P_N).  The order of
+expansion also indicates the polynomial order of anisotropy that can be
+captured by this expansion.  
+
+The energy domain is also typically discretized into a number of energy
+groups, G.  A group flux is defined as the integral of the energy dependent
+flux over the domain of that group.  Group cross-section constants are defined
+such that the product of the group flux and he group cross-section is
+mathematically identical to the integral of the product of the energy
+dependent flux and the energy dependent cross-section.  Fidelity is increased
+by including more energy groups, G, since it allows the simulation to better
+capture the effects of resonances in the cross-section.  The fusion community
+has a strong preference for 175 neutron groups between 0 and 20 MeV.
+
+Finally, a discrete ordinates simulation requires a discretization of space.
+Historically, a Cartesian grid has been used to approximate space.  This is
+intrinsically an approximation to any curved surface that may exist in the
+geometry.  Fidelity is typically increased by lowering the resolution of the
+grid.  It is also possible to increase fidelity by employing advanced methods
+to determine the mixture of materials in any single mesh element.  More
+recentyl, method have been developed to implement the discrete ordinates
+simulation on tetrahedral mesh that can be generated to conform to complex
+surface boundaries.  This can increase the fidelity but add some computational
+complexity.
+
+In the United States, the fusion community has relied extensively on PARTISN
+(formerly DANTSYS), developed by LANL.  PARTISN uses an orthogonal grid and
+allows the user to determine the fidelity of the angular, energy and spatial
+discretizations.  PARTISN provides special modes for 1-D and 2-D Cartesian,
+cylindrical and spherical geometries.  These are particularly well suited to
+parametric simulation and design iterations as they require computer runtimes
+on the order of seconds to minutes.
+
+Since about 2000, Atilla, commercialized by Transpire (now Varian) as a
+spin-off from LANL, has provided a robust tool for performing discrete
+ordinates simulations on a tetrahedral mesh using a finite-elment formulation.
+Every model is intrinsically 3-dimensional, making it somewhat less suitable
+for quick parametric study and/or design iteration.  However, because it can
+faithfully represent complex geometries, it can offer much higher fidelity
+simulation that tools such as PARTISN.
+
+DENOVO, part of the Exnihilo suite from ORNL, is the newest discrete ordinates
+tool.  It only supports Cartesian grids, but because it is designed for use on
+the world's largest supercomputers, it can rely on very fine spatial
+resolution to overcome the challenges of this modeling limitation.  It is also
+intrinsically 3-D, and not always straightforward to model
+cylindrical/toroidal systems that do not fill a full octant of space.
+
+
+
+
+
+Prompt Radiation Effects
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+Delayed Radiation Effects
+
+
+
+Fusion neutronics is, in general, a subset of radiation protection and
+shielding.
+
+
+CNERG research lies at the middle of a continuum of computational
+work, with pure methods development at one end and pure systems
+analysis at the other.  CNERG’s goal is to help improve capability for
+real analysis of complex systems by investigating and implementing new
+methods in production software tools.  The primary product of our work
+is a suite of technology to enable these analyses, although much of
+our :doc:`funding <funded>` comes from analysis efforts.
+
+While both areas deal with topics at the core of nuclear engineering,
+the efforts of CNERG are divided between a neutronics_ group and a `fuel
+cycle`_ group.
+
+.. _neutronics:
+
+Neutronics
+----------
+
+The cornerstone of the CNERG neutronics group's work is the Direct
+Accelerated Geometry Monte Carlo (DAGMC_) toolkit.  This ray-tracing
+interface to the MOAB_ software library allows Monte Carlo radiation
+transport software to perform ray-tracing and related operations
+directly on CAD-based representations of complex geometry.  DAGMC has
+been successfully integrated with MCNP5 from Los Alamos National
+Laboratory to produce the DAG-MCNP5 package.
+
+Current research based on the DAGMC technology includes:
+
+**DAGMC performance improvements using novel surface meshing
+algorithms**: The benefit of the OBB-tree accelerations that are
+vital to DAGMC's performance can be undermined by a faceting of the
+CAD surfaces that produces vertices that are shared by too many
+facets: so-called *high valence vertices*.  Different faceting
+algorithms will be compared with some mesh cleanup algorithms to
+identify schemes to arrive at a faceting that is better suited to
+the OBB-tree acceleration scheme for challenging problems.
+
+**Unstructured mesh tallies with alternative estimators**: With
+complex geometry and 3-D source definitions now common-place, the
+focus turns to the ability to tally results in Monte Carlo
+simulations with better fidelity.  The Cartesian overlay mesh common
+to most solutions introduces physical approximations for complex
+geometry that does not align conveniently with such a grid.  This
+work uses conformal unstructured mesh to define the tally mesh for a
+traditional track-length estimator, and then explores alternative
+estimators such as the kernel density estimator applied at mesh nodes
+rather than across mesh elements.
+
+**High-fidelity shutdown dose workflow for activated systems**: Known
+as the *Rigorous-2-Step* method, or R2S, in fusion neutronics, this
+workflow performs a multi-group spatially resolved neutron transport
+calculation to determine neutron fluxes throughout the system, uses
+those fluxes to determine the isotopic change in the activated
+materials, and then samples the photon source that arises from that
+activation to perform a detailed photon dose calculation at various
+times after the shutdown of the neutron source.  The critical
+research & development steps are the generation of material
+definitions for Cartesian grid elements superimposed on a complex
+geometry, and the efficient sampling of a grid-based multi-group
+photon source.
+
+**Hybrid deterministic-Monte Carlo workflow**: For nearly 2 decades,
+the use of deterministic hybrid approaches to Monte Carlo variance
+reduction have been explored and refined.  Extending this capability
+to the CAD-based DAGMC transport problems requires the generation of
+a mesh for use in the deterministic solution.  Leveraging the
+improvements made for the R2S workflow above, this process should be
+straightforward and allow most of the normal hybrid technology to be
+applied directly to DAGMC-based problems.
+
+In addition, students in this area often pursue :doc:`spin-off
+projects <spinoffprojects>` through collaborations with national
+laboratories.
+
+.. _fuel cycle:
+
+Fuel Cycle
+-----------
+
+The CNERG fuel cycle group's `Cyclus <http://cyclus.github.com>`_
+project was recently selected as the base infrastructure for the
+Department of Energy's Next-Generation Fuel Cycle Simulator.  This
+project aims to address gaps in the available simulator tools by:
+
+* modeling discrete facilities and material transactions
+* using an agent-based approach with dynamically loadable plugins to
+  encapsulate behavior
+* open source development pratices to lower the barrier to adoption
+* common physics infrastructure with alternative output layers for
+  different user communities.
+
+In addition to developing the `core technology`_ as a team, the following
+research areas are also being pursued by individual CNERG members:
+
+* geologic repository model (Cyder_) with plugin architecture for repository
+  physics models
+
+.. _MOAB: http://trac.mcs.anl.gov/projects/ITAPS/wiki/MOAB
+.. _DAGMC: http://svalinn.github.com/DAGMC
+.. _core technology: http://github.com/cyclus/cyclus
+.. _Cyder: http://github.com/katyhuff/cyder

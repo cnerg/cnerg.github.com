@@ -7,7 +7,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Research Areas &mdash; CNERG</title>
+    <title>Method and Tools for Fusion Neutronics &mdash; CNERG</title>
     
     <link rel="stylesheet" href="../_static/default.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
@@ -24,9 +24,7 @@
     <script type="text/javascript" src="../_static/jquery.js"></script>
     <script type="text/javascript" src="../_static/underscore.js"></script>
     <script type="text/javascript" src="../_static/doctools.js"></script>
-    <link rel="top" title="CNERG" href="../index.html" />
-    <link rel="next" title="Funded Projects" href="funded.html" />
-    <link rel="prev" title="CNERG" href="../index.html" /> 
+    <link rel="top" title="CNERG" href="../index.html" /> 
   </head>
   <body>
      
@@ -57,14 +55,6 @@
       <ul id="menu-main" class="sf-menu">
         <li class="menu-item"><a href="../index.html">CNERG</a></li>
         <li class="menu-item" style="margin-right: 10px">
-          <a href="../index.html" title="CNERG"
-             accesskey="P">previous</a>
-          </li>
-        <li class="menu-item" >
-          <a href="funded.html" title="Funded Projects"
-             accesskey="N">next</a>
-          </li>
-        <li class="menu-item" >
           <a href="../genindex.html" title="General Index"
              accesskey="I">index</a>
           </li> 
@@ -73,7 +63,15 @@
   <div id="c_container"> 
 <div id="sidebar">
  <div id="sidebar_section"> <ul>
-<li><a class="reference internal" href="#">Research Areas</a><ul>
+<li><a class="reference internal" href="#">Method and Tools for Fusion Neutronics</a><ul>
+<li><a class="reference internal" href="#analysis-types">Analysis Types</a><ul>
+<li><a class="reference internal" href="#radiation-transport">Radiation Transport</a><ul>
+<li><a class="reference internal" href="#discrete-ordinates">Discrete Ordinates</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#prompt-radiation-effects">Prompt Radiation Effects</a></li>
+</ul>
+</li>
 <li><a class="reference internal" href="#neutronics">Neutronics</a></li>
 <li><a class="reference internal" href="#fuel-cycle">Fuel Cycle</a></li>
 </ul>
@@ -84,10 +82,95 @@
     <div id="content" class="inline-block">
           <div class="post">
             
-  <div class="toctree-wrapper compound">
+  <div class="section" id="method-and-tools-for-fusion-neutronics">
+<h1>Method and Tools for Fusion Neutronics<a class="headerlink" href="#method-and-tools-for-fusion-neutronics" title="Permalink to this headline">¶</a></h1>
+<p>The realm of fusion neutronics includes a number of different analysis types
+and subsequently a number of different individual analysis methodologies and
+related tools.  This is a brief introduction to those analysis types,
+methodologies and tools.  As fusion neutronics is a particular application of
+the general area of radiation protection and shielding, much of this will
+apply to other systems as well.  However, fusion neutronics is characterized
+by high energy neutrons, large source terms, and substantial shielding
+requirements.</p>
+<div class="section" id="analysis-types">
+<h2>Analysis Types<a class="headerlink" href="#analysis-types" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="radiation-transport">
+<h3>Radiation Transport<a class="headerlink" href="#radiation-transport" title="Permalink to this headline">¶</a></h3>
+<p>The simplest type of analysis is one with the single purpose of
+estimating/predicting the flux of radiation throughout an engineering system.
+Given a description of the radiation source, tools that perform radiation
+transport simulations will determine the the flux of radiation at different
+locations, as a function of energy and angle.  It is common to integrate over
+angle to report the scalar flux as this quantity is directly related to the
+effects of this radiation.  It is also common to integrate over energy,
+although sometimes in a number of non-overlapping energy sub-domains,
+typically referred to as <em>groups</em>.</p>
+<p>There are two primary methodologies used in radiation tranpsort: discrete
+ordinates (also called S_N) and Monte Carlo.</p>
+<div class="section" id="discrete-ordinates">
+<h4>Discrete Ordinates<a class="headerlink" href="#discrete-ordinates" title="Permalink to this headline">¶</a></h4>
+<p>The discrete ordinates methodology is a deterministic approach that
+discretizes the full linear transport equation for numerical solution.  The
+angular domain is discretized into a number of discrete directions, known as
+discrete ordinates.  More fidelity arises from including more discrete
+directions, but the computational complexity also increases.  One parameter of
+a discrete ordinates simulation is the number of angles (S_N).  S_8
+simulations have XXX angles, S_16 simulations have YYY angles, etc.</p>
+<p>The scattering cross-sections are also mathematically expanded based on a set
+of basis functions, typically the set of Legendre polynomials.  More fidelity
+arises from including more terms in this expansion.  Including only the scalar
+term and first order term is effectively the same as the diffusion
+approximation.  More terms are typically included to account for anisotropy in
+neutron scattering.  Thus, another parameter of a discrete ordinates
+simulation is the number of terms in this expansiion (P_N).  The order of
+expansion also indicates the polynomial order of anisotropy that can be
+captured by this expansion.</p>
+<p>The energy domain is also typically discretized into a number of energy
+groups, G.  A group flux is defined as the integral of the energy dependent
+flux over the domain of that group.  Group cross-section constants are defined
+such that the product of the group flux and he group cross-section is
+mathematically identical to the integral of the product of the energy
+dependent flux and the energy dependent cross-section.  Fidelity is increased
+by including more energy groups, G, since it allows the simulation to better
+capture the effects of resonances in the cross-section.  The fusion community
+has a strong preference for 175 neutron groups between 0 and 20 MeV.</p>
+<p>Finally, a discrete ordinates simulation requires a discretization of space.
+Historically, a Cartesian grid has been used to approximate space.  This is
+intrinsically an approximation to any curved surface that may exist in the
+geometry.  Fidelity is typically increased by lowering the resolution of the
+grid.  It is also possible to increase fidelity by employing advanced methods
+to determine the mixture of materials in any single mesh element.  More
+recentyl, method have been developed to implement the discrete ordinates
+simulation on tetrahedral mesh that can be generated to conform to complex
+surface boundaries.  This can increase the fidelity but add some computational
+complexity.</p>
+<p>In the United States, the fusion community has relied extensively on PARTISN
+(formerly DANTSYS), developed by LANL.  PARTISN uses an orthogonal grid and
+allows the user to determine the fidelity of the angular, energy and spatial
+discretizations.  PARTISN provides special modes for 1-D and 2-D Cartesian,
+cylindrical and spherical geometries.  These are particularly well suited to
+parametric simulation and design iterations as they require computer runtimes
+on the order of seconds to minutes.</p>
+<p>Since about 2000, Atilla, commercialized by Transpire (now Varian) as a
+spin-off from LANL, has provided a robust tool for performing discrete
+ordinates simulations on a tetrahedral mesh using a finite-elment formulation.
+Every model is intrinsically 3-dimensional, making it somewhat less suitable
+for quick parametric study and/or design iteration.  However, because it can
+faithfully represent complex geometries, it can offer much higher fidelity
+simulation that tools such as PARTISN.</p>
+<p>DENOVO, part of the Exnihilo suite from ORNL, is the newest discrete ordinates
+tool.  It only supports Cartesian grids, but because it is designed for use on
+the world&#8217;s largest supercomputers, it can rely on very fine spatial
+resolution to overcome the challenges of this modeling limitation.  It is also
+intrinsically 3-D, and not always straightforward to model
+cylindrical/toroidal systems that do not fill a full octant of space.</p>
 </div>
-<div class="section" id="research-areas">
-<h1>Research Areas<a class="headerlink" href="#research-areas" title="Permalink to this headline">¶</a></h1>
+</div>
+<div class="section" id="prompt-radiation-effects">
+<h3>Prompt Radiation Effects<a class="headerlink" href="#prompt-radiation-effects" title="Permalink to this headline">¶</a></h3>
+<p>Delayed Radiation Effects</p>
+<p>Fusion neutronics is, in general, a subset of radiation protection and
+shielding.</p>
 <p>CNERG research lies at the middle of a continuum of computational
 work, with pure methods development at one end and pure systems
 analysis at the other.  CNERG’s goal is to help improve capability for
@@ -98,6 +181,8 @@ our <a class="reference internal" href="funded.html"><em>funding</em></a> comes 
 <p>While both areas deal with topics at the core of nuclear engineering,
 the efforts of CNERG are divided between a <a class="reference internal" href="#neutronics">neutronics</a> group and a <a class="reference internal" href="#fuel-cycle">fuel
 cycle</a> group.</p>
+</div>
+</div>
 <div class="section" id="neutronics">
 <span id="id1"></span><h2>Neutronics<a class="headerlink" href="#neutronics" title="Permalink to this headline">¶</a></h2>
 <p>The cornerstone of the CNERG neutronics group&#8217;s work is the Direct
