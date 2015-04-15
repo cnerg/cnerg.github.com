@@ -1,6 +1,17 @@
 News Archive
 -------------
 
+* **October 21, 2014** `Kerry Dunn <people/dunn.html>`_ has completed her PhD thesis on "Monte Carlo
+  Mesh Tallies based on a Kernel Density Estimator Approach"
+
+* **September 1, 2014** `Dr. Meghan McGarry <people/mcgarry.html>`_ joins
+  CNERG as a post-doctoral associate to contribute to adapting
+  Cyclus for use in nuclear security applications.
+
+* **May 30, 2014** CNERG `releases v1.0.0
+  <https://github.com/cyclus/cyclus/releases/tag/1.0.0>`_ of `Cyclus kernel
+  <http://fuelcycle.org>`_
+
 * **April 15, 2014** CNERG undergraduate researcher `Kalin Kiesling
   <people/kiesling.html>`_ was awarded an ANS Graduate Scholarship for the
   2014-2015 academic year. Congratulations!!

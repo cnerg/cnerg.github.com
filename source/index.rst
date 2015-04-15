@@ -28,18 +28,19 @@ others.
 
 News
 -----
+* **April 14, 2015** CNERG staff member `Anthony Scopatz
+  <people/scopatz.html>`_ accepts a faculty position at the University of
+  South Carolina.  We'll be sad to see him go, but offer a hearty
+  congratulations!!!
+
+* **March 26, 2015** `Matthew Gidden <people/gidden.html>`_ successfully
+  defends his PhD dissertation, "An Agent-Based Modeling Framework and
+  Application for the Generic Nuclear Fuel Cycle"
 
 * **November 11, 2014** A number of presentations at the 2014 ANS Winter meeting features CNERG work including:
     * `Carlsen <people/carlsen.html>`_, et al, "Deployment Optimization with the CYCLUS Fuel Cycle Simulator"
     * Bates, et al, "PyNE Progress Report"
     * `Biondo <people/biondo.html>`_, et al, "Quality Assurance within the PyNE Open Source Toolkit"
-* **September 1, 2014** `Dr. Meghan McGarry <people/mcgarry.html>`_ joins
-  CNERG as a post-doctoral associate to contribute to adapting
-  Cyclus for use in nuclear security applications.
-
-* **May 30, 2014** CNERG `releases v1.0.0
-  <https://github.com/cyclus/cyclus/releases/tag/1.0.0>`_ of `Cyclus kernel
-  <http://fuelcycle.org>`_
 
 `News Archive <archive.html>`_
 
