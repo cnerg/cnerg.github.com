@@ -6,13 +6,20 @@ Staff and Students
 Research Staff
 --------------
 
-+---------------------------+-------------------------+------------------------------+----------------------------------+----------------------------+---------------------------------+
-| |pphw_img|                | |dlh_img|               | |ad_img|                     | |as_img|                         | |jz_img|                   | |mbm_img|                       |
-|                           |                         |                              |                                  |                            |                                 |
-| :doc:`Paul Wilson <pphw>` | `Douglass Henderson`_   | :doc:`Andrew Davis <adavis>` | :doc:`Anthony Scopatz <scopatz>` | :doc:`Julie Zachman <jcz>` | :doc:`Meghan McGarry <mcgarry>` |
-|                           |                         |                              |                                  |                            |                                 |
-| Professor, CNERG leader   |  Professor              | Scientist                    | Scientist                        | Programmer                 | Post-doctoral Associate         |
-+---------------------------+-------------------------+------------------------------+----------------------------------+----------------------------+---------------------------------+
++-----------------------------+-----------------------+---------------------------------+----------------------------------+
+| |pphw_img|                  | |dlh_img|             | |ad_img|                        | |as_img|                         |
+|                             |                       |                                 |                                  |
+| :doc:`Paul Wilson <pphw>`   | `Douglass Henderson`_ | :doc:`Andrew Davis <adavis>`    | :doc:`Anthony Scopatz <scopatz>` |
+|                             |                       |                                 |                                  |
+| Professor, CNERG leader     |  Professor            | Scientist                       | Scientist                        |
++-----------------------------+-----------------------+---------------------------------+----------------------------------+
+| |jz_img|                    | |cm_img|              | |mbm_img|                       | |mjg_img|                        |
+|                             |                       |                                 |                                  |
+| :doc:`Julie Zachman <jcz>`  | Court McLay           | :doc:`Meghan McGarry <mcgarry>` | :doc:`Matthew Gidden <mjg>`      |
+|                             |                       |                                 |                                  |
+| Programmer                  | Programmer            | Post-doctoral Associate         | Post-doctoral Associate          |
++-----------------------------+-----------------------+---------------------------------+----------------------------------+
+
 
 .. |pphw_img| image:: pphw2.jpg
               :width: 100
@@ -28,6 +35,9 @@ Research Staff
 .. |as_img| image:: capitol_blank.JPG
              :width: 100
 
+.. |cm_img| image:: capitol_blank.JPG
+             :width: 100
+
 .. |jz_img| image:: jcz.jpg
              :width: 100
 
@@ -38,15 +48,15 @@ Research Staff
 Graduate Students
 -----------------
 
-+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
-| |mjg_img|                        | |edb_img|                        | |rwc_img|                             | |cad_img|                          | |pcs_img|                          |
-|                                  |                                  |                                       |                                    |                                    |  
-|  :doc:`Matthew Gidden <mjg>`     | :doc:`Elliott Biondo <biondo>`   | :doc:`Robert Carlsen <carlsen>`       | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` |  
-+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
-| |ljj_img|                        | |mh_img|                         | |ao_img|                              | |kk_img|                           |                                    |
-|                                  |                                  |                                       |                                    |                                    |
-| :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`      | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |                                    |
-+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
++--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
+| |edb_img|                      | |rwc_img|                             | |cad_img|                          | |pcs_img|                          | |ljj_img|                        |
+|                                |                                       |                                    |                                    |                                  |  
+| :doc:`Elliott Biondo <biondo>` | :doc:`Robert Carlsen <carlsen>`       | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  
++--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
+| |mh_img|                       | |ao_img|                              | |kk_img|                           |                                    |                                  |    
+|                                |                                       |                                    |                                    |                                  |
+|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |                                    |                                  |
++--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
 
 .. |mjg_img| image:: capitol_gidden.JPG
              :width: 100
@@ -83,9 +93,9 @@ Undergraduate Students
 Employment Opportunties
 -----------------------------
 
-We are currently seeking a:
+We are currently seeking:
 
-* `post-doctoral associate in the area of agent-based fuel cycle optimization <../jobs/post-doc-2014-cyclus.html>`_
+* graduate research assistant in the area of agent-based fuel cycle optimization
 
 
 Alumni
