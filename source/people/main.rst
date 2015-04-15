@@ -102,7 +102,7 @@ Alumni
 -------------
 * `Tae Wook Ahn <http://www.oaep.go.th/index_en.php>`_, MS(2010), Exelon Nuclear
 * Geoff Bull, MS(2005), US Army
-* Kerry Dunn, PhD(2014)
+* Kerry Dunn, PhD(2014), Sandia National Laboratories (Albuquerque)
 * Eric Edwards, PhD(2007), Entergy (Palisades)
 * Ryan Grady, MS(2008), Exelon
 * Po Hu, PhD(2008), Shanghai Jiaotong Unviersity
