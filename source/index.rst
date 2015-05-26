@@ -28,8 +28,12 @@ others.
 
 News
 -----
-* **April 14, 2015** CNERG staff member `Anthony Scopatz
-  <people/scopatz.html>`_ accepts a faculty position at the University of
+  * **May 26, 2015** As part of our collaboration in the
+    `Consortium for Verification Technology <http://cvt.engin.umich.edu/>`_,
+    CNERG has funding available to support a
+    `Project or Research Assistant <jobs/pa-2015-cvt.html>`_ in the area of social-behavioral modeling of nuclear proliferation, starting immediately!
+
+  * **April 14, 2015** CNERG staff member `Anthony Scopatz <people/scopatz.html>`_ accepts a faculty position at the University of
   South Carolina.  We'll be sad to see him go, but offer a hearty
   congratulations!!!
 
