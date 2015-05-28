@@ -247,6 +247,16 @@ texinfo_documents = [
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
 
+rst_epilog = """
+.. |cyclus| raw:: html 
+
+       <span style="font-variant:small-caps;">Cyclus</span>
+
+.. |Cyclus| raw:: html 
+
+       <span style="font-variant:small-caps;">Cyclus</span>
+"""
+
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'http://docs.python.org/': None}

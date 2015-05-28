@@ -6,7 +6,7 @@ News Archive
 
 * **September 1, 2014** `Dr. Meghan McGarry <people/mcgarry.html>`_ joins
   CNERG as a post-doctoral associate to contribute to adapting
-  Cyclus for use in nuclear security applications.
+  |Cyclus| for use in nuclear security applications.
 
 * **May 30, 2014** CNERG `releases v1.0.0
   <https://github.com/cyclus/cyclus/releases/tag/1.0.0>`_ of `Cyclus kernel

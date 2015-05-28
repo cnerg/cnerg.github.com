@@ -104,7 +104,7 @@ research areas are also being pursued by individual CNERG members:
 * geologic repository model (Cyder_) with plugin architecture for repository
   physics models
 * application of social-behavioral models of individual agents to study
-  nuclear material diversion and proliferation issues.
+  `nuclear material diversion and proliferation issues <cvt.html>`_.
 
 .. _MOAB: http://trac.mcs.anl.gov/projects/ITAPS/wiki/MOAB
 .. _DAGMC: http://svalinn.github.com/DAGMC
