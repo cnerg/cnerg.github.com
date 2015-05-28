@@ -40,4 +40,4 @@ of the `Consortium for Verification Technology <http://cvt.engin.umich.edu/>`_,
 |Cyclus| is being used to study issues in
 `nuclear security and non-proliferation <cvt.html>`_.  Research areas include
 the incorporation of social-behavioral models to agent interactions, nuclear
-material tracking and foreniscs, and detector sensitivity estimation. 
+material tracking and forensics, and detector sensitivity estimation. 
