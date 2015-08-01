@@ -111,7 +111,8 @@ Alumni
 * `Brian Kiedrowski <http://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski>`_, PhD(2009), University of Michigan
 * `Matthew Klebenow <Knolls Atomic Power Laboratory>`_, BSEP(2013), EPIC Systems
 * `Ahmad Ibrahim <https://www.linkedin.com/pub/ahmad-ibrahim/13/585/161>`_, PhD(2012), Oak Ridge National Laboratory
-* Steven Jackson, Staff
+* Steven Jackson, Programmer
+* Courtlan McLay, Programmer (2015)
 * Damien Moule, MS(2011)
 * Phiphat Phruksarojanakun, PhD(2007), Thai `Office of Atoms for Peace <http://www.oaep.go.th/index_en.php>`_
 * `Kyle Oliver <http://www.kyleoliver.net/>`_, MS(2009) 
