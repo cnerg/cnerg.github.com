@@ -86,8 +86,19 @@ Graduate Students
              :width: 100
 
 
-Undergraduate Students
-----------------------
+Undergraduate Students & Interns
+---------------------------------
+
++----------------------------------+
+| |vc_img|                         |
+|                                  |
+| Vincent Cloitre, Intern (France) |
++----------------------------------+
+
+
+.. |vc_img| image:: capitol_blank.JPG
+             :width: 100
+
 
 
 Employment Opportunties
