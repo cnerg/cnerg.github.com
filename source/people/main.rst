@@ -117,6 +117,7 @@ Alumni
 * Phiphat Phruksarojanakun, PhD(2007), Thai `Office of Atoms for Peace <http://www.oaep.go.th/index_en.php>`_
 * `Kyle Oliver <http://www.kyleoliver.net/>`_, MS(2009) 
 * `Tracy Radel <https://www.linkedin.com/pub/tracy-radel/24/6b7/495>`_, MS(2007), Sandia National Laboratories
+* Olzhas Rakhimov, Research Support (2013-2014)
 * `Eric Relson <http://hackaday.io/hacker/614-gertlex>`_, MS(2013)
 * `Jeremy Roberts <http://www.mne.ksu.edu/people/faculty/roberts>`_, MS(2009), Kansas State Univeristy
 * Ben Schmitt, MS(2006), Global Nuclear Fuels
