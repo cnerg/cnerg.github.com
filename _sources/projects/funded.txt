@@ -30,6 +30,14 @@ parallel simulations.
 
 **Improving the User Experience for Fuel Cycle Simulators:** This 2011
 NEUP R&D project is focused on improving the user experience of the
-Next Generation Fuel Cycle Simulator.  In collaboration with
+Next Generation Fuel Cycle Simulator. In collaboration with
 communication scientists, with expertise in communicating
-controversial science, and computer scientists, with expertise in
+controversial science, and computer scientists with expertise in visualization
+and data investigation.
+
+**Modeling of Nuclear Material Diversion and Proliferation Issues:**  As part
+of the `Consortium for Verification Technology <http://cvt.engin.umich.edu/>`_,
+|Cyclus| is being used to study issues in
+:doc:`nuclear security and non-proliferation <cvt>`.  Research areas include
+the incorporation of social-behavioral models to agent interactions, nuclear
+material tracking and forensics, and detector sensitivity estimation. 
