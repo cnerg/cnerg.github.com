@@ -6,19 +6,19 @@ Staff and Students
 Research Staff
 --------------
 
-+-----------------------------+-----------------------+---------------------------------+----------------------------------+
-| |pphw_img|                  | |dlh_img|             | |ad_img|                        | |as_img|                         |
-|                             |                       |                                 |                                  |
-| :doc:`Paul Wilson <pphw>`   | `Douglass Henderson`_ | :doc:`Andrew Davis <adavis>`    | :doc:`Anthony Scopatz <scopatz>` |
-|                             |                       |                                 |                                  |
-| Professor, CNERG leader     |  Professor            | Scientist                       | Scientist                        |
-+-----------------------------+-----------------------+---------------------------------+----------------------------------+
-| |jz_img|                    | |cm_img|              | |mbm_img|                       | |mjg_img|                        |
-|                             |                       |                                 |                                  |
-| :doc:`Julie Zachman <jcz>`  | Court McLay           | :doc:`Meghan McGarry <mcgarry>` | :doc:`Matthew Gidden <mjg>`      |
-|                             |                       |                                 |                                  |
-| Programmer                  | Programmer            | Post-doctoral Associate         | Post-doctoral Associate          |
-+-----------------------------+-----------------------+---------------------------------+----------------------------------+
++-----------------------------+---------------------------------+---------------------------------+
+| |pphw_img|                  | |dlh_img|                       | |ad_img|                        |
+|                             |                                 |                                 |
+| :doc:`Paul Wilson <pphw>`   | `Douglass Henderson`_           | :doc:`Andrew Davis <adavis>`    |
+|                             |                                 |                                 |
+| Professor, CNERG leader     |  Professor                      | Scientist                       |
++-----------------------------+---------------------------------+---------------------------------+
+| |jz_img|                    | |mbm_img|                       | |mjg_img|                       |
+|                             |                                 |                                 |
+| :doc:`Julie Zachman <jcz>`  | :doc:`Meghan McGarry <mcgarry>` | :doc:`Matthew Gidden <mjg>`     |
+|                             |                                 |                                 |
+| Programmer                  | Post-doctoral Associate         | Post-doctoral Associate         |
++-----------------------------+---------------------------------+---------------------------------+
 
 
 .. |pphw_img| image:: pphw2.jpg
@@ -111,6 +111,7 @@ Alumni
 * `Brian Kiedrowski <http://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski>`_, PhD(2009), University of Michigan
 * `Matthew Klebenow <Knolls Atomic Power Laboratory>`_, BSEP(2013), EPIC Systems
 * `Ahmad Ibrahim <https://www.linkedin.com/pub/ahmad-ibrahim/13/585/161>`_, PhD(2012), Oak Ridge National Laboratory
+* Steven Jackson, Staff
 * Damien Moule, MS(2011)
 * Phiphat Phruksarojanakun, PhD(2007), Thai `Office of Atoms for Peace <http://www.oaep.go.th/index_en.php>`_
 * `Kyle Oliver <http://www.kyleoliver.net/>`_, MS(2009) 
@@ -119,6 +120,7 @@ Alumni
 * `Jeremy Roberts <http://www.mne.ksu.edu/people/faculty/roberts>`_, MS(2009), Kansas State Univeristy
 * Ben Schmitt, MS(2006), Global Nuclear Fuels
 * `Andy Scholbrock <https://www.linkedin.com/pub/eric-relson/12/4a7/538>`_, BS(2009), National Renewable Energy Laboratory
+* Anthony Scopatz, Scientist (2013-2015), `University of South Carolina <http://www.me.sc.edu/nuclear/academics.html>`_
 * `Tim Setter <https://www.linkedin.com/pub/tim-setter/92/254/552>`_, MS(2007), Tennesse Valley Authority
 * `Stuart Slattery <http://www.csm.ornl.gov/newsite/cees.html>`_, PhD(2013), Oak Ridge National Laboratory
 * `Rachel Slaybaugh <https://www.nuc.berkeley.edu/people/rachel-slaybaugh>`_, PhD(2012), U. California-Berkeley
