@@ -6,9 +6,10 @@ News Archive
 
 * **November 11, 2014** A number of presentations at the 2014 ANS Winter
   meeting features CNERG work including:
-    * `Carlsen <people/carlsen.html>`_, et al, "Deployment Optimization with the CYCLUS Fuel Cycle Simulator"
-    * Bates, et al, "PyNE Progress Report"
-    * `Biondo <people/biondo.html>`_, et al, "Quality Assurance within the PyNE Open Source Toolkit"
+
+  * `Carlsen <people/carlsen.html>`_, et al, "Deployment Optimization with the CYCLUS Fuel Cycle Simulator"
+  * Bates, et al, "PyNE Progress Report"
+  * `Biondo <people/biondo.html>`_, et al, "Quality Assurance within the PyNE Open Source Toolkit"
 
 * **October 21, 2014** `Kerry Dunn <people/dunn.html>`_ has completed her PhD thesis on "Monte Carlo
   Mesh Tallies based on a Kernel Density Estimator Approach"
