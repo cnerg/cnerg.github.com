@@ -7,10 +7,10 @@ The Computational Nuclear Engineering Research Group (CNERG) at UW Madison is
 currently working at the interface of international security policy and
 nuclear engineering on issues related to treaty verification for fissile
 material production, such as the Non-Proliferation Treaty or a potential
-Fissile Material Cutoff Treaty.  We have developed the |Cyclus| fuel cycle
-simulator (http://fuelcycle.org) to model current and next-generation nuclear
-fuel cycles as part of the Consortium for Verification Technology
-(http://cvt.engin.umich.edu/).  |Cyclus| is an agent-based, systems-level
+Fissile Material Cutoff Treaty.  We have developed the `Cyclus fuel cycle
+simulator <http://fuelcycle.org>`_ to model current and next-generation
+nuclear fuel cycles as part of the `Consortium for Verification Technology
+<http://cvt.engin.umich.edu/>`_.  |Cyclus| is an agent-based, systems-level
 simulator that tracks discrete material flow through the entire fuel cycle,
 from mining through burnup in reactors to a repository.
 
