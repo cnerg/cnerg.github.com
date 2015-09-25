@@ -91,10 +91,7 @@ Graduate Students
 Undergraduate Students & Interns
 ---------------------------------
 
-+----------------------------------+
-|                                  |
-+----------------------------------+
-
+None at this time.
 
 Employment Opportunties
 -----------------------------
