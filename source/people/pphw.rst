@@ -107,7 +107,7 @@ Research Interests
 ------------------
 
 In leading the `CNERG Home <http://cnerg.engr.wisc.edu>`_
-Computational Nuclear Engineering Research Group], I am interested in
+Computational Nuclear Engineering Research Group, I am interested in
 applying modern computational science practices to answer real-world
 and/or policy-driven questions in nuclear engineering.  There are
 three primary facets to this work:
