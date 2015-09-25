@@ -58,8 +58,7 @@ policy and needs. Paul joined the University of Wisconsin-Madison as
 an assistant professor in August 2001 as part of the `Energy Systems
 and Policy Hiring Initiative
 <http://www.clusters.wisc.edu/clusters/show/18>`_.  Paul currently 
-serves on the Executive Committee of the `Wisconsin Energy Institute <http://www.energy.wisc.edu>`_
-and the Steering Committee of the `Holtz Center for Science and
+serves on the Program Committee of the `Energy Analysis and Policy Graduate Certificate <http://nelson.wisc.edu/eap>`_ , the Executive Committee of the `Wisconsin Energy Institute <http://www.energy.wisc.edu>`_ and the Steering Committee of the `Holtz Center for Science and
 Technology Studies <http://sts.wisc.edu>`_.
 
 In addition to the research pursued by his `Computational Nuclear Engineering
