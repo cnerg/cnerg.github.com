@@ -107,7 +107,7 @@ research areas are also being pursued by individual CNERG members:
 * application of social-behavioral models of individual agents to study
   :doc:`nuclear material diversion and proliferation issues <cvt>`.
 
-.. _MOAB: http://trac.mcs.anl.gov/projects/ITAPS/wiki/MOAB
+.. _MOAB: http://sigma.mcs.anl.gov/moab-library/
 .. _DAGMC: http://svalinn.github.com/DAGMC
 .. _core technology: http://github.com/cyclus/cyclus
 .. _Cyder: http://github.com/katyhuff/cyder
