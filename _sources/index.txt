@@ -28,6 +28,9 @@ others.
 
 News
 -----
+* **June 10, 2015** CNERG offers first ever |Cyclus| user tutorial at ANS
+  Annual Meeting in San Antonio, TX.
+
 * **May 26, 2015** As part of our collaboration in the
   `Consortium for Verification Technology <http://cvt.engin.umich.edu/>`_,
   CNERG has funding available to support a
@@ -42,12 +45,6 @@ News
 * **March 26, 2015** `Matthew Gidden <people/gidden.html>`_ successfully
   defends his PhD dissertation, "An Agent-Based Modeling Framework and
   Application for the Generic Nuclear Fuel Cycle"
-
-* **November 11, 2014** A number of presentations at the 2014 ANS Winter
-  meeting features CNERG work including:
-    * `Carlsen <people/carlsen.html>`_, et al, "Deployment Optimization with the CYCLUS Fuel Cycle Simulator"
-    * Bates, et al, "PyNE Progress Report"
-    * `Biondo <people/biondo.html>`_, et al, "Quality Assurance within the PyNE Open Source Toolkit"
 
 `News Archive <archive.html>`_
 
