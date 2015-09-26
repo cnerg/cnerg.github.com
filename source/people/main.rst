@@ -134,7 +134,7 @@ Alumni
 * Chris Staum, MS(2006), Westinghouse
 * Zach Welch, Research Support (2013-2015), Amazon
 * John Xia, Research Staff (2014-2015)
-* Julie Zachman, Programmer (2013-2015)
+* Julie Zachman, Programmer (2013-2015), UW-Madison
 
 .. toctree::
    :maxdepth: 1
@@ -142,7 +142,6 @@ Alumni
 
    pphw
    adavis
-   jcz
    mcgarry
    mharb
    mjg
