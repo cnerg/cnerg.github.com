@@ -46,9 +46,9 @@ Graduate Students
 |                                |                                       |                                    |                                    |                                  |  
 | :doc:`Elliott Biondo <biondo>` | :doc:`Robert Carlsen <carlsen>`       | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
-| |mh_img|                       | |ao_img|                              | |kk_img|                           |                                    |                                  |    
+| |mh_img|                       | |ao_img|                              | |kk_img|                           |  |ng_img|                          |                                  |    
 |                                |                                       |                                    |                                    |                                  |
-|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |                                    |                                  |
+|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`|                                  |
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
 
 .. |edb_img| image:: hacker_biondo.JPG
@@ -74,7 +74,8 @@ Graduate Students
 
 .. |kk_img| image:: hacker_kiesling.JPG
              :width: 100
-
+.. |ng_img| image:: hacker_granda_duarte.JPG
+  	     :width: 100
 
 Undergraduate Students & Interns
 ---------------------------------
@@ -142,4 +143,4 @@ Alumni
    kiesling
    jacobson
    opotowsky
-   ../jobs/programmer-2012
+   ../jobs/programmer-2010
