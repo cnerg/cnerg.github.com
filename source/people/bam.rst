@@ -1,5 +1,5 @@
 Baptiste Mouginot
-===============
+==============================
 
 .. image::  capitol_blank.JPG
     :align: center
