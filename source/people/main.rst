@@ -74,6 +74,7 @@ Graduate Students
 
 .. |kk_img| image:: hacker_kiesling.JPG
              :width: 100
+
 .. |ng_img| image:: hacker_granda_duarte.JPG
   	     :width: 100
 
@@ -143,4 +144,5 @@ Alumni
    kiesling
    jacobson
    opotowsky
+   ../jobs/programmer-2012
    ../jobs/programmer-2010
