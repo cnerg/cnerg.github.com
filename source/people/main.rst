@@ -13,11 +13,11 @@ Research Staff
 |                                 |                                 |                                 |
 | Professor, CNERG leader         |  Professor                      | Scientist                       |
 +---------------------------------+---------------------------------+---------------------------------+
-| |mbm_img|                       | |mjg_img|                       |                                 |
+| |mbm_img|                       | |mjg_img|                       | |bam_img|                       |
 |                                 |                                 |                                 |
-| :doc:`Meghan McGarry <mcgarry>` | :doc:`Matthew Gidden <mjg>`     |                                 |
+| :doc:`Meghan McGarry <mcgarry>` | :doc:`Matthew Gidden <mjg>`     | :doc:`Baptiste Mouginot <bam>`  |
 |                                 |                                 |                                 |
-| Post-doctoral Associate         | Post-doctoral Associate         |                                 |
+| Post-doctoral Associate         | Post-doctoral Associate         |  Post-doctoral Associate        |
 +---------------------------------+---------------------------------+---------------------------------+
 
 
@@ -44,6 +44,8 @@ Research Staff
 .. |mbm_img| image:: hacker_mcgarry.JPG
               :width: 100
 
+.. |bam_img| image:: capitol_blank.JPG
+              :width: 100
 
 Graduate Students
 -----------------
