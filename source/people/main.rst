@@ -21,12 +21,12 @@ Research Staff
 +---------------------------------+---------------------------------+---------------------------------+
 
 
-.. |pphw_img| image:: pphw2.jpg
+.. |pphw_img| image:: hacker_blank.JPG
               :width: 100
 
 .. _Douglass Henderson:  https://directory.engr.wisc.edu/ep/faculty/henderson_douglass
 
-.. |dlh_img| image:: capitol_blank.JPG
+.. |dlh_img| image:: hacker_blank.JPG
              :width: 100
 
 .. |ad_img| image:: hacker_davis.JPG
