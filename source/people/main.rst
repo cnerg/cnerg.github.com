@@ -86,7 +86,7 @@ Employment Opportunties
 
 We are currently seeking:
 
-* graduate research assistant in the area of agent-based fuel cycle optimization
+* `Assistant Scientist <http://www.ohr.wisc.edu/Weblisting/External/PVLSummary.aspx?pvl_num=84303>`_
 
 
 Alumni
