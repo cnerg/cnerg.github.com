@@ -35,7 +35,7 @@ Research Staff
 .. |mbm_img| image:: hacker_mcgarry.JPG
               :width: 100
 
-.. |bam_img| image:: capitol_blank.JPG
+.. |bam_img| image:: hacker_blank.JPG
               :width: 100
 
 Graduate Students
