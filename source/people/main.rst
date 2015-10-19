@@ -145,4 +145,3 @@ Alumni
    jacobson
    opotowsky
    ../jobs/programmer-2012
-   ../jobs/programmer-2010
