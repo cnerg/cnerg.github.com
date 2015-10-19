@@ -6,19 +6,19 @@ Staff and Students
 Research Staff
 --------------
 
-+-----------------------------+---------------------------------+---------------------------------+
-| |pphw_img|                  | |dlh_img|                       | |ad_img|                        |
-|                             |                                 |                                 |
-| :doc:`Paul Wilson <pphw>`   | `Douglass Henderson`_           | :doc:`Andrew Davis <adavis>`    |
-|                             |                                 |                                 |
-| Professor, CNERG leader     |  Professor                      | Scientist                       |
-+-----------------------------+---------------------------------+---------------------------------+
-| |jz_img|                    | |mbm_img|                       | |mjg_img|                       |
-|                             |                                 |                                 |
-| :doc:`Julie Zachman <jcz>`  | :doc:`Meghan McGarry <mcgarry>` | :doc:`Matthew Gidden <mjg>`     |
-|                             |                                 |                                 |
-| Programmer                  | Post-doctoral Associate         | Post-doctoral Associate         |
-+-----------------------------+---------------------------------+---------------------------------+
++---------------------------------+---------------------------------+---------------------------------+
+| |pphw_img|                      | |dlh_img|                       | |ad_img|                        |
+|                                 |                                 |                                 |
+| :doc:`Paul Wilson <pphw>`       | `Douglass Henderson`_           | :doc:`Andrew Davis <adavis>`    |
+|                                 |                                 |                                 |
+| Professor, CNERG leader         |  Professor                      | Scientist                       |
++---------------------------------+---------------------------------+---------------------------------+
+| |mbm_img|                       | |mjg_img|                       | |bam_img|                       |
+|                                 |                                 |                                 |
+| :doc:`Meghan McGarry <mcgarry>` | :doc:`Matthew Gidden <mjg>`     | :doc:`Baptiste Mouginot <bam>`  |
+|                                 |                                 |                                 |
+| Post-doctoral Associate         | Post-doctoral Associate         |  Post-doctoral Associate        |
++---------------------------------+---------------------------------+---------------------------------+
 
 
 .. |pphw_img| image:: pphw2.jpg
@@ -29,21 +29,23 @@ Research Staff
 .. |dlh_img| image:: capitol_blank.JPG
              :width: 100
 
-.. |ad_img| image:: capitol_davis.JPG
+.. |ad_img| image:: hacker_davis.JPG
              :width: 100
 
-.. |as_img| image:: capitol_blank.JPG
+.. |as_img| image:: hacker_blank.JPG
              :width: 100
 
-.. |cm_img| image:: capitol_blank.JPG
+.. |cm_img| image:: hacker_blank.JPG
              :width: 100
 
 .. |jz_img| image:: jcz.jpg
              :width: 100
 
-.. |mbm_img| image:: capitol_mcgarry.JPG
+.. |mbm_img| image:: hacker_mcgarry.JPG
               :width: 100
 
+.. |bam_img| image:: capitol_blank.JPG
+              :width: 100
 
 Graduate Students
 -----------------
@@ -58,31 +60,31 @@ Graduate Students
 |  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |                                    |                                  |
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
 
-.. |mjg_img| image:: capitol_gidden.JPG
+.. |mjg_img| image:: hacker_gidden.JPG
              :width: 100
 
-.. |edb_img| image:: capitol_biondo.JPG
+.. |edb_img| image:: hacker_biondo.JPG
              :width: 100
 
-.. |rwc_img| image:: capitol_carlsen.JPG
+.. |rwc_img| image:: hacker_carlsen.JPG
              :width: 100
 
-.. |cad_img| image:: capitol_dangelo.JPG
+.. |cad_img| image:: hacker_dangelo.JPG
              :width: 100
 
-.. |pcs_img| image:: capitol_shriwise.JPG
+.. |pcs_img| image:: hacker_shriwise.JPG
              :width: 100
 
-.. |ljj_img| image:: capitol_jacobson.JPG
+.. |ljj_img| image:: hacker_jacobson.JPG
              :width: 100
 
-.. |mh_img| image:: capitol_blank.JPG
+.. |mh_img| image:: hacker_harb.JPG
              :width: 100
 
-.. |ao_img| image:: capitol_opotowsky.JPG
+.. |ao_img| image:: hacker_opotowsky.JPG
              :width: 100
 
-.. |kk_img| image:: capitol_kiesling.JPG
+.. |kk_img| image:: hacker_kiesling.JPG
              :width: 100
 
 
@@ -90,15 +92,8 @@ Undergraduate Students & Interns
 ---------------------------------
 
 +----------------------------------+
-| |vc_img|                         |
 |                                  |
-| Vincent Cloitre, Intern (France) |
 +----------------------------------+
-
-
-.. |vc_img| image:: capitol_blank.JPG
-             :width: 100
-
 
 
 Employment Opportunties
