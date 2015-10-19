@@ -13,11 +13,11 @@ Research Staff
 |                                 |                                 |                                 |
 | Professor, CNERG leader         |  Professor                      | Scientist                       |
 +---------------------------------+---------------------------------+---------------------------------+
-| |mbm_img|                       | |mjg_img|                       | |bam_img|                       |
+| |mbm_img|                       | |bam_img|                       |                                 |
 |                                 |                                 |                                 |
-| :doc:`Meghan McGarry <mcgarry>` | :doc:`Matthew Gidden <mjg>`     | :doc:`Baptiste Mouginot <bam>`  |
+| :doc:`Meghan McGarry <mcgarry>` | :doc:`Baptiste Mouginot <bam>`  |                                 |
 |                                 |                                 |                                 |
-| Post-doctoral Associate         | Post-doctoral Associate         |  Post-doctoral Associate        |
+| Post-doctoral Associate         | Scientist                       |                                 |
 +---------------------------------+---------------------------------+---------------------------------+
 
 
@@ -30,15 +30,6 @@ Research Staff
              :width: 100
 
 .. |ad_img| image:: hacker_davis.JPG
-             :width: 100
-
-.. |as_img| image:: hacker_blank.JPG
-             :width: 100
-
-.. |cm_img| image:: hacker_blank.JPG
-             :width: 100
-
-.. |jz_img| image:: jcz.jpg
              :width: 100
 
 .. |mbm_img| image:: hacker_mcgarry.JPG
@@ -59,9 +50,6 @@ Graduate Students
 |                                |                                       |                                    |                                    |                                  |
 |  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |                                    |                                  |
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
-
-.. |mjg_img| image:: hacker_gidden.JPG
-             :width: 100
 
 .. |edb_img| image:: hacker_biondo.JPG
              :width: 100
@@ -107,6 +95,7 @@ Alumni
 * Geoff Bull, MS(2005), US Army
 * Kerry Dunn, PhD(2014), Sandia National Laboratories (Albuquerque)
 * Eric Edwards, PhD(2007), Entergy (Palisades)
+* `Matthew Gidden <http://www.iiasa.ac.at/>`_, PhD(2015), 
 * Ryan Grady, MS(2008), Exelon
 * Po Hu, PhD(2008), Shanghai Jiaotong Unviersity
 * `Katy Huff <http://katyhuff.github.io/>`_, PhD(2013), U. California - Berkeley
