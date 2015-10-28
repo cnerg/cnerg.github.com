@@ -21,7 +21,7 @@ Research Staff
 +---------------------------------+---------------------------------+---------------------------------+
 
 
-.. |pphw_img| image:: hacker_blank.JPG
+.. |pphw_img| image:: hacker_wilson.JPG
               :width: 100
 
 .. _Douglass Henderson:  https://directory.engr.wisc.edu/ep/faculty/henderson_douglass
@@ -35,7 +35,7 @@ Research Staff
 .. |mbm_img| image:: hacker_mcgarry.JPG
               :width: 100
 
-.. |bam_img| image:: hacker_blank.JPG
+.. |bam_img| image:: hacker_mouginot.JPG
               :width: 100
 
 Graduate Students
