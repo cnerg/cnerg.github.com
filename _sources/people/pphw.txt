@@ -13,6 +13,20 @@ Paul P.H. Wilson
 | Madison, WI 53706
 
 
+Research projects:
+|cyclus_icon|_
+|cvt_icon|_
+
+
+Affiliations:
+|uw_icon|_
+|aci_icon|_
+|swc_icon|_
+|ans_icon|_
+|cns_icon|_
+|naygn_icon|_
+|asee_icon|_
+
 Find me on:
 |cal_icon|_
 |gh_icon|_
@@ -28,15 +42,6 @@ Find me on:
 |li_icon|_
 |fl_icon|_
 |del_icon|_
-
-Affiliations:
-|uw_icon|_
-|aci_icon|_
-|swc_icon|_
-|ans_icon|_
-|cns_icon|_
-|naygn_icon|_
-|asee_icon|_
 
 ----
 
@@ -170,6 +175,7 @@ recommendations/references <pphw_reference>`.
    pphw_reference
 
 ----
+
 :download:`. <pphw.vcf>`
 
 .. |pphw_img| image:: pphw2.jpg
@@ -234,6 +240,14 @@ recommendations/references <pphw_reference>`.
 .. |aci_icon| image:: aci.png
               :width: 32
 .. _aci_icon: http://aci.wisc.edu
+
+.. |cyclus_icon| image:: cyclus.png
+              :width: 32
+.. _cyclus_icon: http://fuelcycle.org
+
+.. |cvt_icon| image:: cvt.png
+              :width: 32
+.. _cvt_icon: http://cvt.engin.umich.edu
 
 .. |swc_icon| image:: swc.png
               :width: 32

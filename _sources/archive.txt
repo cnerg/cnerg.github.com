@@ -1,6 +1,27 @@
 News Archive
 -------------
 
+* **March 23, 2015** Vincent Cloitre joins CNERG on a 5 month internship from
+  France to study the economic aspects of fuel cycle transitions.
+
+* **November 11, 2014** A number of presentations at the 2014 ANS Winter
+  meeting features CNERG work including:
+
+  * `Carlsen <people/carlsen.html>`_, et al, "Deployment Optimization with the CYCLUS Fuel Cycle Simulator"
+  * Bates, et al, "PyNE Progress Report"
+  * `Biondo <people/biondo.html>`_, et al, "Quality Assurance within the PyNE Open Source Toolkit"
+
+* **October 21, 2014** `Kerry Dunn <people/dunn.html>`_ has completed her PhD thesis on "Monte Carlo
+  Mesh Tallies based on a Kernel Density Estimator Approach"
+
+* **September 1, 2014** `Dr. Meghan McGarry <people/mcgarry.html>`_ joins
+  CNERG as a post-doctoral associate to contribute to adapting
+  |Cyclus| for use in nuclear security applications.
+
+* **May 30, 2014** CNERG `releases v1.0.0
+  <https://github.com/cyclus/cyclus/releases/tag/1.0.0>`_ of `Cyclus kernel
+  <http://fuelcycle.org>`_
+
 * **April 15, 2014** CNERG undergraduate researcher `Kalin Kiesling
   <people/kiesling.html>`_ was awarded an ANS Graduate Scholarship for the
   2014-2015 academic year. Congratulations!!
@@ -25,3 +46,5 @@ News Archive
 	<source src='http://whyfiles.org/wp-content/uploads/2014/03/csi2014cnerg-Cellular.m4v' />
     </video>
     </center>
+
+.. _Cyclus: http://www.fuelcycle.org
