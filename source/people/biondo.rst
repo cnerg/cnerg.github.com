@@ -4,7 +4,6 @@ Elliott Biondo
 Contact Information
 -------------------
 
-
 | 434 Engineering Research Building
 | 1500 Engineering Drive
 | Madison, WI 53706
@@ -12,28 +11,33 @@ Contact Information
 
 ----
 
-
 Graduate Appointment
 ---------------------
 
-Nuclear Regulatory Commission Fellow 
- 
+Nuclear Regulatory Commission Graduate Fellowship
 
 Research Interests
 ------------------
-* Rigorous 2-step activation 
-* Monte Carlo radiation transport
+
+* Monte Carlo and deterministic radiation transport
 * Monte Carlo variance reduction
-* Radiation systems analysis
+* Nuclear systems analysis
+* Scientific computing
 
 Current Projects
 ----------------
- *  `r2s-act  <https://github.com/svalinn/r2s-act>`_
- *  `PyNE  <https://github.com/pyne/pyne>`_
+
+* Thesis: "Hybrid Monte Carlo/Deterministic Neutron Transport for Shutdown Dose Rate Analysis"
+* Python for Nuclear Engineering (`PyNE  <https://github.com/pyne/pyne>`_) toolkit
+
+  * Cartesian- and tetrahedral-mesh-based shutdown dose rate analysis on CAD geometry with DAG-MCNP5 and ALARA
+  * Implementation of the Consistent Adjoint-Driven Importance Sampling method (CADIS) and the Forward-Weighted (FW)-CADIS method with DAG-MCNP5 and PartiSN
 
 Previous Projects
 -----------------
- * r2s-act analysis for `Shine Medical Technologies <http://shinemed.com/>`_
+
+* Added support for CAD geometry within the ADVANTG code base as an intern at Oak Ridge National Laboratory
+* Shutdown dose rate analysis for `Shine Medical Technologies <http://shinemed.com/>`_
 
 Education 
 ----------
