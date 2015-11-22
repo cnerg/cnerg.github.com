@@ -16,7 +16,7 @@ Paul P.H. Wilson
 Research projects:
 |cyclus_icon|_
 |cvt_icon|_
-
+|aciref_icon|_
 
 Affiliations:
 |uw_icon|_
@@ -58,9 +58,17 @@ policy and needs. Paul joined the University of Wisconsin-Madison as
 an assistant professor in August 2001 as part of the `Energy Systems
 and Policy Hiring Initiative
 <http://www.clusters.wisc.edu/clusters/show/18>`_.  Paul currently 
-serves on the Executive Committee of the `Wisconsin Energy Institute <http://www.energy.wisc.edu>`_
-and the Steering Committee of the `Holtz Center for Science and
-Technology Studies <http://sts.wisc.edu>`_.
+serves on the Program Committee (Interim Chair) of the `Energy Analysis and Policy Graduate Certificate <http://nelson.wisc.edu/eap>`_ , the Executive Committee of the `Wisconsin Energy Institute <http://www.energy.wisc.edu>`_ and the Steering Committee of the `Holtz Center for Science and
+Technology Studies <http://sts.wisc.edu>`_, and the Governance Committee of the
+`Nelson Institute <http://nelson.wisc.edu>`_ for Environmental Studies.
+
+In addition to the research pursued by his `Computational Nuclear Engineering
+Research Group (CNERG) <http://cnerg.engr.wisc.edu>`_, Paul has served in a
+number of advisory and consultant roles.  From 2001-2003, he was a member of
+the U.S. Department of Energy's Generation IV Technology Roadmap Committee.
+In 2010, he was engaged as a consultant to the CEA Saclay, ERC Petten, the
+Karlsruhe Institute of Technology, and the `Blue Ribbon Commission on America's
+Nuclear Energy Future <http://energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pdf>`_.
 
 Born in Edinburgh, Scotland, and raised in Fort Saskatchewan, Alberta,
 Canada, Paul specialized in the Nuclear Power option of the
@@ -99,7 +107,7 @@ Research Interests
 ------------------
 
 In leading the `CNERG Home <http://cnerg.engr.wisc.edu>`_
-Computational Nuclear Engineering Research Group], I am interested in
+Computational Nuclear Engineering Research Group, I am interested in
 applying modern computational science practices to answer real-world
 and/or policy-driven questions in nuclear engineering.  There are
 three primary facets to this work:
@@ -248,6 +256,10 @@ recommendations/references <pphw_reference>`.
 .. |cvt_icon| image:: cvt.png
               :width: 32
 .. _cvt_icon: http://cvt.engin.umich.edu
+
+.. |aciref_icon| image:: ACIREF.png
+              :height: 32
+.. _aciref_icon: http://aci-ref.org
 
 .. |swc_icon| image:: swc.png
               :width: 32

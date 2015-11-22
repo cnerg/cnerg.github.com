@@ -13,37 +13,30 @@ Research Staff
 |                                 |                                 |                                 |
 | Professor, CNERG leader         |  Professor                      | Scientist                       |
 +---------------------------------+---------------------------------+---------------------------------+
-| |mbm_img|                       | |mjg_img|                       |                                 |
+| |mbm_img|                       | |bam_img|                       |                                 |
 |                                 |                                 |                                 |
-| :doc:`Meghan McGarry <mcgarry>` | :doc:`Matthew Gidden <mjg>`     |                                 |
+| :doc:`Meghan McGarry <mcgarry>` | :doc:`Baptiste Mouginot <bam>`  |                                 |
 |                                 |                                 |                                 |
-| Post-doctoral Associate         | Post-doctoral Associate         |                                 |
+| Post-doctoral Associate         | Scientist                       |                                 |
 +---------------------------------+---------------------------------+---------------------------------+
 
 
-.. |pphw_img| image:: pphw2.jpg
+.. |pphw_img| image:: hacker_wilson.JPG
               :width: 100
 
 .. _Douglass Henderson:  https://directory.engr.wisc.edu/ep/faculty/henderson_douglass
 
-.. |dlh_img| image:: capitol_blank.JPG
+.. |dlh_img| image:: hacker_blank.JPG
              :width: 100
 
 .. |ad_img| image:: hacker_davis.JPG
              :width: 100
 
-.. |as_img| image:: hacker_blank.JPG
-             :width: 100
-
-.. |cm_img| image:: hacker_blank.JPG
-             :width: 100
-
-.. |jz_img| image:: jcz.jpg
-             :width: 100
-
 .. |mbm_img| image:: hacker_mcgarry.JPG
               :width: 100
 
+.. |bam_img| image:: hacker_mouginot.JPG
+              :width: 100
 
 Graduate Students
 -----------------
@@ -53,13 +46,10 @@ Graduate Students
 |                                |                                       |                                    |                                    |                                  |  
 | :doc:`Elliott Biondo <biondo>` | :doc:`Robert Carlsen <carlsen>`       | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
-| |mh_img|                       | |ao_img|                              | |kk_img|                           |                                    |                                  |    
+| |mh_img|                       | |ao_img|                              | |kk_img|                           |  |ng_img|                          |                                  |    
 |                                |                                       |                                    |                                    |                                  |
-|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |                                    |                                  |
+|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`|                                  |
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
-
-.. |mjg_img| image:: hacker_gidden.JPG
-             :width: 100
 
 .. |edb_img| image:: hacker_biondo.JPG
              :width: 100
@@ -85,21 +75,20 @@ Graduate Students
 .. |kk_img| image:: hacker_kiesling.JPG
              :width: 100
 
+.. |ng_img| image:: hacker_granda_duarte.JPG
+  	     :width: 100
 
 Undergraduate Students & Interns
 ---------------------------------
 
-+----------------------------------+
-|                                  |
-+----------------------------------+
-
+None at this time.
 
 Employment Opportunties
 -----------------------------
 
 We are currently seeking:
 
-* graduate research assistant in the area of agent-based fuel cycle optimization
+* `Assistant Scientist <http://www.ohr.wisc.edu/Weblisting/External/PVLSummary.aspx?pvl_num=84303>`_
 
 
 Alumni
@@ -108,6 +97,7 @@ Alumni
 * Geoff Bull, MS(2005), US Army
 * Kerry Dunn, PhD(2014), Sandia National Laboratories (Albuquerque)
 * Eric Edwards, PhD(2007), Entergy (Palisades)
+* `Matthew Gidden <http://www.iiasa.ac.at/>`_, PhD(2015), 
 * Ryan Grady, MS(2008), Exelon
 * Po Hu, PhD(2008), Shanghai Jiaotong Unviersity
 * `Katy Huff <http://katyhuff.github.io/>`_, PhD(2013), U. California - Berkeley
@@ -135,6 +125,7 @@ Alumni
 * Chris Staum, MS(2006), Westinghouse
 * Zach Welch, Research Support (2013-2015), Amazon
 * John Xia, Research Staff (2014-2015)
+* Julie Zachman, Programmer (2013-2015), UW-Madison
 
 .. toctree::
    :maxdepth: 1
@@ -142,7 +133,6 @@ Alumni
 
    pphw
    adavis
-   jcz
    mcgarry
    mharb
    mjg
