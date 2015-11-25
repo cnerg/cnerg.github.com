@@ -144,4 +144,6 @@ Alumni
    kiesling
    jacobson
    opotowsky
+   granda
+   bam
    ../jobs/programmer-2012
