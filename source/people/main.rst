@@ -46,9 +46,9 @@ Graduate Students
 |                                |                                       |                                    |                                    |                                  |  
 | :doc:`Elliott Biondo <biondo>` | :doc:`Robert Carlsen <carlsen>`       | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
-| |mh_img|                       | |ao_img|                              | |kk_img|                           |  |ng_img|                          |                                  |    
+| |mh_img|                       | |ao_img|                              | |kk_img|                           |  |ng_img|                          | |yp_img|                         |    
 |                                |                                       |                                    |                                    |                                  |
-|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`|                                  |
+|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <YoungHui>`  |
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
 
 .. |edb_img| image:: hacker_biondo.JPG
@@ -78,6 +78,9 @@ Graduate Students
 .. |ng_img| image:: hacker_granda_duarte.JPG
   	     :width: 100
 
+.. |yp_img| image:: hacker_blank.JPG
+  	     :width: 100 
+		 
 Undergraduate Students & Interns
 ---------------------------------
 
