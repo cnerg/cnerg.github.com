@@ -1,7 +1,7 @@
 Baptiste Mouginot
 ==============================
 
-.. image::  capitol_blank.JPG
+.. image::  hacker_mouginot.JPG
     :align: center
     :width: 200
 
