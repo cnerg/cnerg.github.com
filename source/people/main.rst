@@ -17,7 +17,7 @@ Research Staff
 |                                 |                                 |                                 |
 | :doc:`Meghan McGarry <mcgarry>` | :doc:`Baptiste Mouginot <bam>`  |                                 |
 |                                 |                                 |                                 |
-| Post-doctoral Associate         | Scientist                       |                                 |
+| Scientist                       | Scientist                       |                                 |
 +---------------------------------+---------------------------------+---------------------------------+
 
 
@@ -86,10 +86,7 @@ None at this time.
 Employment Opportunties
 -----------------------------
 
-We are currently seeking:
-
-* `Assistant Scientist <http://www.ohr.wisc.edu/Weblisting/External/PVLSummary.aspx?pvl_num=84303>`_
-
+None at this time.
 
 Alumni
 -------------
