@@ -150,8 +150,8 @@ body {
   position: absolute;
   top: 16px;
   left: 87px;
-  width: 343px;
-  height: 4em;
+  width: 500px;
+  height: 72px;
   overflow: hidden;
 }
 .home #siteTitle {
