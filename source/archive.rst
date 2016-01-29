@@ -1,6 +1,15 @@
 News Archive
 -------------
 
+* **April 14, 2015** CNERG staff member
+  `Anthony Scopatz <http://www.ergs.sc.edu/people/scopatz.html>`_ accepts a faculty position at the
+  University of South Carolina.  We'll be sad to see him go, but offer a hearty
+  congratulations!!!
+
+* **March 26, 2015** `Matthew Gidden <people/gidden.html>`_ successfully
+  defends his PhD dissertation, "An Agent-Based Modeling Framework and
+  Application for the Generic Nuclear Fuel Cycle"
+
 * **March 23, 2015** Vincent Cloitre joins CNERG on a 5 month internship from
   France to study the economic aspects of fuel cycle transitions.
 
