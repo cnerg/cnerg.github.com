@@ -1,5 +1,8 @@
-Lucas Jacobson
+Lucas J. Jacobson
 ===============
+
+.. image:: jacobson_avatar.jpg
+    :align: center
 
 Contact Information
 -------------------
