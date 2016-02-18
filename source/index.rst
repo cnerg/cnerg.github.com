@@ -28,6 +28,20 @@ others.
 
 News
 -----
+* **January 28, 2016** `The National Academies of Sciences, Engineering and
+  Medicine <http://nas.edu/>`_ releases a `report
+  <http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=21818>`_ on
+  "Reducing the Use of Highly Enriched Uranium in Civilian Research Reactors".
+  `Paul Wilson <people/pphw.html>`_ was one of the report authors and
+  participated in the webinar release.
+
+* **October 2015** CNERG begins participation in a new project that will
+  measure the spatial flux distribution during a pulse of the UW Nuclear
+  Reactor by developing a new MCNP model for simulation.
+
+* **Fall 2015** New students `Nancy Granda-Duarte <people/granda.html>`_ and
+  `Young Hui Park <people/park.html>`_ join the CNERG Neutronics group.
+
 * **June 10, 2015** CNERG offers first ever |Cyclus| user tutorial at ANS
   Annual Meeting in San Antonio, TX.
 
@@ -37,14 +51,6 @@ News
   `Project or Research Assistant <jobs/pa-2015-cvt.html>`_ in the area of
   social-behavioral modeling of nuclear proliferation, starting immediately!
   
-* **April 14, 2015** CNERG staff member
-  `Anthony Scopatz <people/scopatz.html>`_ accepts a faculty position at the
-  University of South Carolina.  We'll be sad to see him go, but offer a hearty
-  congratulations!!!
-
-* **March 26, 2015** `Matthew Gidden <people/gidden.html>`_ successfully
-  defends his PhD dissertation, "An Agent-Based Modeling Framework and
-  Application for the Generic Nuclear Fuel Cycle"
 
 `News Archive <archive.html>`_
 
