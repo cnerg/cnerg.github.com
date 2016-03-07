@@ -29,14 +29,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="523.01341"
-     inkscape:cy="467.9059"
+     inkscape:cy="296.47733"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-7"
      showgrid="false"
      inkscape:window-width="1517"
      inkscape:window-height="1028"
      inkscape:window-x="49"
-     inkscape:window-y="24"
+     inkscape:window-y="31"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -202,7 +202,7 @@
              id="tspan3814-4"
              x="247.81508"
              y="558.5509"
-             style="fill:#c00000;fill-opacity:1">Compuational Nuclear Engineering Research Group</tspan></text>
+             style="fill:#c00000;fill-opacity:1">Computational Nuclear Engineering Research Group</tspan></text>
         <path
            sodipodi:type="arc"
            style="fill:#809040;fill-opacity:1;stroke:none"
@@ -376,7 +376,7 @@
              id="tspan3814-0"
              x="260.48837"
              y="881.09741"
-             style="fill:#ffffff;fill-opacity:1">Compuational Nuclear Engineering Research Group</tspan></text>
+             style="fill:#ffffff;fill-opacity:1">Computational Nuclear Engineering Research Group</tspan></text>
         <path
            sodipodi:type="arc"
            style="fill:#809040;fill-opacity:1;stroke:none"
