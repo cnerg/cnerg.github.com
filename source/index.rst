@@ -29,7 +29,7 @@ others.
 News
 -----
 * **March 29, 2016** `Robert Carlsen <people/carlsen.html>`_ defended his PhD
-  dissertation, highligting contributions in nuclear fuel cycle optimization
+  dissertation, highlighting contributions in nuclear fuel cycle optimization
   and the concept of hedging strategies for nuclear technology deployment.
 
 * **March, 2016** `Elliott Biondo <people/biondo.html>`_ is the lead author on
