@@ -75,11 +75,11 @@ Undergraduate Opportunities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 CNERG is happy to provide opportunities for interested undergraduates to
-become involved in our computational research.  Like most research groups,
+become involved in our computational research.  As with most research groups,
 there are frequently tasks and assignments that are appropriate for an
 undergraduate who is just developing their research skills.  The following
-paragraphs will hopefully give you an idea of what to expect if you joined our
-CNERG community.
+paragraphs will hopefully give you an idea of what to expect if you were to
+join our CNERG community.
 
 Many research groups will assign repetitive tasks to undergraduates that
 require minimal skills as a way for them to contribute and learn about the
