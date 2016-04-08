@@ -17,20 +17,20 @@ from mining through burnup in reactors to a repository.
 We seek a research assistant to develop synthetic satellite images of nuclear
 facilities for monitoring and verification.  Satellite images can provide
 information on material shipments, production and maintenance staffing, physical
- and environmental impact, etc.  Synthetic images will be designed with
- changeable features at different times that are correlated with other fuel
- cycle signals.  These images will be used in Cyclus to study the clandestine
- material diversion from declared fuel cycles.  Due to funding restrictions,
- only US citizens can be considered.
+and environmental impact, etc.  Synthetic images will be designed with 
+changeable features at different times that are correlated with other fuel 
+cycle signals.  These images will be used in Cyclus to study the clandestine 
+material diversion from declared fuel cycles.  Due to funding restrictions, 
+only US citizens can be considered.
 
 Experience
 ----------
 
 * Masters or PhD student in Nuclear Engineering, Computer Science, Physics,
-  Math or related field
+  Math, Astronomy, Atmospheric Science, Geography or related field
 * Interest in international security and nuclear non-proliferation OR
 * Experience with image processing and analysis
-* No programming experience required, but must be willing to learn 
+* Some programming experience desired
 
 
 Specific Duties
@@ -47,7 +47,7 @@ Specific Duties
 
 To be considered for a Research Assistant position (50% plus tuition
 remission), please send a letter of interest, resume, and unofficial
-transcript to  cnerg-cvt _at_ lists.wisc.edu
+transcript to Paul Wilson or Meghan McGarry at cnerg-cvt _at_ lists.wisc.edu   
 
 
 
