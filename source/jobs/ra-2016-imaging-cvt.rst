@@ -45,9 +45,9 @@ Specific Duties
   create fake images. Program will be flexible/extensible for additional
   features in the future.
 
-To be considered for an hourly Research Assistant position (50% plus tuition
+To be considered for a Research Assistant position (50% plus tuition
 remission), please send a letter of interest, resume, and unofficial
-transcript to wilsonp _at_ engr.wisc.edu.  For further questions please
-contact either wilsonp _at_ engr.wisc.edu or mbmcgarry _at_ wisc.edu.
+transcript to  cnerg-cvt _at_ lists.wisc.edu
+
 
 
