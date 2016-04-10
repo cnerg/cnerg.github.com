@@ -28,6 +28,12 @@ others.
 
 News
 -----
+* **April 10, 2016** CNERG is looking for a new research assistant in
+  `Synthetic Image Generation for Nuclear Non-proliferation
+  <jobs/ra-2016-imaging-cvt.html>`_.  We anticipate that a successful
+  candidate may come from one of many different fields of science and
+  engineering.
+
 * **March 29, 2016** `Robert Carlsen <people/carlsen.html>`_ defended his PhD
   dissertation, highlighting contributions in nuclear fuel cycle optimization
   and the concept of hedging strategies for nuclear technology deployment.
