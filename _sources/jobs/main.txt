@@ -16,7 +16,7 @@ Current Opennings
 .. toctree::
    :maxdepth: 1
 
-   pa-2015-cvt
+   ra-2016-imaging-cvt
    post-doc-2014-cyclus
 
 
