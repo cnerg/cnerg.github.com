@@ -1,6 +1,18 @@
 News Archive
 -------------
 
+* **Fall 2015** New students `Nancy Granda-Duarte <people/granda.html>`_ and
+  `Young Hui Park <people/park.html>`_ join the CNERG Neutronics group.
+
+* **June 10, 2015** CNERG offers first ever |Cyclus| user tutorial at ANS
+  Annual Meeting in San Antonio, TX.
+
+* **May 26, 2015** As part of our collaboration in the
+  `Consortium for Verification Technology <http://cvt.engin.umich.edu/>`_,
+  CNERG has funding available to support a
+  `Project or Research Assistant <jobs/pa-2015-cvt.html>`_ in the area of
+  social-behavioral modeling of nuclear proliferation, starting immediately!
+
 * **April 14, 2015** CNERG staff member
   `Anthony Scopatz <http://www.ergs.sc.edu/people/scopatz.html>`_ accepts a faculty position at the
   University of South Carolina.  We'll be sad to see him go, but offer a hearty

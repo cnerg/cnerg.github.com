@@ -28,7 +28,23 @@ others.
 
 News
 -----
-* **February 18, 2016** Dr. Meghan McGarry authors a blog post for `The Union 
+* **April 10, 2016** CNERG is looking for a new research assistant in
+  `Synthetic Image Generation for Nuclear Non-proliferation
+  <jobs/ra-2016-imaging-cvt.html>`_.  We anticipate that a successful
+  candidate may come from one of many different fields of science and
+  engineering.
+
+* **March 29, 2016** `Robert Carlsen <people/carlsen.html>`_ defended his PhD
+  dissertation, highlighting contributions in nuclear fuel cycle optimization
+  and the concept of hedging strategies for nuclear technology deployment.
+
+* **March, 2016** `Elliott Biondo <people/biondo.html>`_ is the lead author on
+  a new paper `"Shutdown dose rate analysis with CAD geometry,
+  Cartesian/tetrahedral mesh, and advanced variance reduction"
+  <http://www.sciencedirect.com/science/article/pii/S0920379616302009>`_
+  published in Fusion Engineering and Design.
+
+* **February 18, 2016** `Dr. Meghan McGarry <people/mcgarry.html>`_ authors a blog post for `The Union 
   of Concerned Scientists <http://www.ucsusa.org/>`_ titled `Integrating Nuclear
   Science and Policy for a New Generation  
   <http://allthingsnuclear.org/guest-commentary/integrating-nuclear-science-and-policy-for-a-new-generation>`_. 
@@ -46,17 +62,6 @@ News
   measure the spatial flux distribution during a pulse of the UW Nuclear
   Reactor by developing a new MCNP model for simulation.
 
-* **Fall 2015** New students `Nancy Granda-Duarte <people/granda.html>`_ and
-  `Young Hui Park <people/park.html>`_ join the CNERG Neutronics group.
-
-* **June 10, 2015** CNERG offers first ever |Cyclus| user tutorial at ANS
-  Annual Meeting in San Antonio, TX.
-
-* **May 26, 2015** As part of our collaboration in the
-  `Consortium for Verification Technology <http://cvt.engin.umich.edu/>`_,
-  CNERG has funding available to support a
-  `Project or Research Assistant <jobs/pa-2015-cvt.html>`_ in the area of
-  social-behavioral modeling of nuclear proliferation, starting immediately!
   
 
 `News Archive <archive.html>`_
