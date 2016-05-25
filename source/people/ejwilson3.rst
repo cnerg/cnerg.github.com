@@ -11,8 +11,8 @@ Ellis Wilson is an undergraduate assistant in CNERG.  He's just helping out wher
 
 He was born and raised in Madison, Wisconsin, and he is now attending UW Madison.
 
-Researh Interests
------------------
+Research Interests
+------------------
 
 * Scientific computing/software development
 * Try to convert me to some more!
