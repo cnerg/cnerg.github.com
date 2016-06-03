@@ -16,7 +16,6 @@ Current Opennings
 .. toctree::
    :maxdepth: 1
 
-   ra-2016-imaging-cvt
 
 Graduate Student Opportunities
 -----------------------------------------
@@ -105,6 +104,7 @@ Recent Positions (Now closed)
 .. toctree::
    :maxdepth: 1
 
+   ra-2016-imaging-cvt
    pa-2015-cvt
    post-doc-2014-cyclus
    post-doc-2012-cyclus
