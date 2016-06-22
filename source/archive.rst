@@ -1,6 +1,12 @@
 News Archive
 -------------
 
+* **April 10, 2016** CNERG is looking for a new research assistant in
+  `Synthetic Image Generation for Nuclear Non-proliferation
+  <jobs/ra-2016-imaging-cvt.html>`_.  We anticipate that a successful
+  candidate may come from one of many different fields of science and
+  engineering.
+
 * **Fall 2015** New students `Nancy Granda-Duarte <people/granda.html>`_ and
   `Young Hui Park <people/park.html>`_ join the CNERG Neutronics group.
 
