@@ -84,7 +84,11 @@ Graduate Students
 Undergraduate Students & Interns
 ---------------------------------
 
-None at this time.
++------------------------------------+
+|                                    |
+|                                    |
+|  :doc:`Ellis Wilson <ejwilson3>`   |
++------------------------------------+
 
 Employment Opportunties
 -----------------------------
