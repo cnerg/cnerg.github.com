@@ -29,6 +29,11 @@ others.
 News
 -----
 
+* **August, 2016** `Robert Carlsen <people/calrsen.html>`_ is the lead author
+  on a new paper `Challenging Fuel Cycle Modeling Assumptions: Facility and
+  Time-Step Discretization Effects
+  <http://www.ans.org/pubs/journals/nt/a_38930>`_ in Nuclear Technology
+
 * **July 21, 2016** `Elliott Biondo <people/biondo.html>`_ defended his PhD
   dissertation, describing a complete approach to variance reduction for
   shutdown dose rate problems and demonstrating substantial speedup in such
