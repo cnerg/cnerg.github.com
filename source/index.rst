@@ -29,6 +29,11 @@ others.
 News
 -----
 
+* **July 21, 2016** `Elliott Biondo <people/biondo.html>`_ defended his PhD
+  dissertation, describing a complete approach to variance reduction for
+  shutdown dose rate problems and demonstrating substantial speedup in such
+  problems.
+
 * **March 29, 2016** `Robert Carlsen <people/carlsen.html>`_ defended his PhD
   dissertation, highlighting contributions in nuclear fuel cycle optimization
   and the concept of hedging strategies for nuclear technology deployment.
@@ -41,22 +46,10 @@ News
 
 * **February 18, 2016** `Dr. Meghan McGarry <people/mcgarry.html>`_ authors a blog post for `The Union 
   of Concerned Scientists <http://www.ucsusa.org/>`_ titled `Integrating Nuclear
-  Science and Policy for a New Generation  
-  <http://allthingsnuclear.org/guest-commentary/integrating-nuclear-science-and-policy-for-a-new-generation>`_. 
+  Science and Policy for a New Generation       <http://allthingsnuclear.org/guest-commentary/integrating-nuclear-science-and-policy-for-a-new-generation>`_. 
   The post describes her experience at the `Pugwash Conference <http://pugwash.org/>`_ 
   and general takeaways on the communication between nuclear scientists and 
   policy makers.
-* **January 28, 2016** `The National Academies of Sciences, Engineering and
-  Medicine <http://nas.edu/>`_ releases a `report
-  <http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=21818>`_ on
-  "Reducing the Use of Highly Enriched Uranium in Civilian Research Reactors".
-  `Paul Wilson <people/pphw.html>`_ was one of the report authors and
-  participated in the webinar release.
-
-* **October 2015** CNERG begins participation in a new project that will
-  measure the spatial flux distribution during a pulse of the UW Nuclear
-  Reactor by developing a new MCNP model for simulation.
-
   
 
 `News Archive <archive.html>`_
