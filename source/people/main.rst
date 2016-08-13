@@ -104,7 +104,7 @@ Alumni
 * `Matthew Gidden <http://www.mattgidden.com>`_, PhD(2015), International Institute for Applied Systems Analysis (`IIASA <http://www.iiasa.ac.at/>`_) 
 * Ryan Grady, MS(2008), Exelon
 * Po Hu, PhD(2008), Shanghai Jiaotong Unviersity
-* `Katy Huff <http://katyhuff.github.io/>`_, PhD(2013), U. California - Berkeley
+* `Katy Huff <http://katyhuff.github.io/>`_, PhD(2013), `U. Illinois at Urbana-Champaign <http://npre.illinois.edu/>`_
 * Paul Humrickhouse, MS(2005), Idaho National Laboratory
 * `Brian Kiedrowski <http://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski>`_, PhD(2009), University of Michigan
 * `Matthew Klebenow <Knolls Atomic Power Laboratory>`_, BSEP(2013), EPIC Systems
