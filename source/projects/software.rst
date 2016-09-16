@@ -16,7 +16,7 @@ One of the missions of CNERG is to publish software for the analysis of nuclear 
 
 * `Cyclus <http://cyclus.github.com>`_ is an open-source agent-based
   platform for analyzing nuclear fuel cycles.
-* `DataTransferKit <http://cnerg.github.com/DataTransferKit>`_
+* `DataTransferKit <http://ornl-cees.github.io/DataTransferKit>`_
   provides parallel mesh searching and field mapping services for
   arbitrary physics codes based on the concept of geometric
   rendezevous.

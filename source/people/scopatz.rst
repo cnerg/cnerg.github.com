@@ -40,8 +40,7 @@ Research Interests
 
 Current Projects
 ----------------
-*  `Cyclus  <https://github.com/pyne/pyne>`_
+*  `Cyclus  <https://github.com/cyclus/cyclus>`_
 *  `PyNE  <https://github.com/pyne/pyne>`_
 * et al.
 
-----

@@ -16,21 +16,17 @@ Current Opennings
 .. toctree::
    :maxdepth: 1
 
-   programmer-2013-cyclus
-   post-doc-2012-mesh
-   post-doc-2012-cyclus
 
-Fall 2013 Graduate Student Opportunities
+Graduate Student Opportunities
 -----------------------------------------
 
-CNERG is planning to add 2-4 new graduate students in the Fall 2013
-semester with projects in the general areas identified below.  All of
-these tasks will require programming and software development and
-students with demonstrated experience with `Software Carpentry`_
-skills will be preferred.  Prospective students are encouraged to
-`apply for graduate study in our department
-<http://www.grad.wisc.edu/education/admissions/>`_ and draw specific
-attention to these topics, indiciating what unique knowledge or
+Specific opportunities, if any, are listed above. There may also be 
+opportunities for exceptional students in the general areas identified
+below.  All of these tasks will require programming and software development
+and students with demonstrated experience with `Software Carpentry`_ skills
+will be preferred.  Prospective students are encouraged to `apply for graduate
+study in our department <http://www.grad.wisc.edu/education/admissions/>`_ and
+draw specific attention to these topics, indiciating what unique knowledge or
 experiences they will bring to these tasks.
 
 PhD Topics
@@ -46,11 +42,6 @@ PhD Topics
   investigate the trade-off between mesh resolution, solution fidelity
   and statistical error, relying on a combination of nuclear
   engineering and applied math.
-
-* **Scalable mixed mesh data transfer** This will extend the existing
-  capability of the DataTransferKit to support surface-surface
-  transfer, using a combination of applied math and computational
-  geometry knowledge.
 
 * **Socioeconomic Metrics for Advanced Nuclear Fuel Cycles** This will
   develop software algorithms to convert fundamental fuel cycle
@@ -69,7 +60,7 @@ Master's Topics
   resources, Open Science Grid, and Amazon EC2.  The tools will be
   implemented in PyNE for robustness and longevity.
 
-* **Systematic Study of Material Homogenization in Radiaiton
+* **Systematic Study of Material Homogenization in Radiation
   Shielding** This project will include a number of numerical
   experiments to determine the impacts of homogenization on the
   results of Monte Carlo radiation transport simulations.  These will
@@ -79,16 +70,47 @@ Master's Topics
   the region of interest.  The impacts of homogenization on R2S
   activation workflows is a natural extension of this work.
 
-* **Variance Reduction in Complex 3-D Geometries** This will extend
-  our collaboration with ORNL on their CADIS/FW-CADIS methods, but
-  applying them to CAD-based geometries and consideration of complex
-  source distributions, using knowledge of nuclear engineering with
-  some applied math.
+Undergraduate Opportunities
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CNERG is happy to provide opportunities for interested undergraduates to
+become involved in our computational research.  As with most research groups,
+there are frequently tasks and assignments that are appropriate for an
+undergraduate who is just developing their research skills.  The following
+paragraphs will hopefully give you an idea of what to expect if you were to
+join our CNERG community.
+
+Many research groups will assign repetitive tasks to undergraduates that
+require minimal skills as a way for them to contribute and learn about the
+research.  An overarching principle of our computational group is to automate
+repetitive tasks by writing software.  A primary consequence of this is a
+relatively steep learning curve for new undergraduates who join the CNERG
+community, whether for the computational tools we use in our work or the
+software development skills we use to develop new capability.
+
+When you join the CNERG team as an undergraduate, you will be assigned some
+exploratory tasks intended to improve the automation of our workflows and
+effectiveness of our researchers.  You will probably be assigned to work
+closely with a graduate student who will be the primary mentor of your work.
+Ideally, you will be able to spend nearly 10 hours/week on this work in order
+to make adequate progress and avoid the inefficiency of context switching
+every time you return to this work.  It may not be possible to offer you a
+private desk for this work.
 
 
 Recent Positions (Now closed)
 ------------------------------
 
-* :doc:`August 2012: Systems Programmer <programmer-2012>`
+.. toctree::
+   :maxdepth: 1
+
+   ra-2016-imaging-cvt
+   pa-2015-cvt
+   post-doc-2014-cyclus
+   post-doc-2012-cyclus
+   post-doc-2012-mesh
+   programmer-2012
+   programmer-2013-cyclus
+
 
 .. _`Software Carpentry`: http://software-carpentry.org/4_0/

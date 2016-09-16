@@ -15,6 +15,8 @@
       <ul id="menu-main" class="sf-menu">
         {%- block rootrellink %}
         <li class="menu-item"><a href="{{ pathto(master_doc) }}">{{ shorttitle|e }}</a></li>
+        <li class="menu-item"><a href="{{ pathto("people/main") }}">People</a></li>
+        <li class="menu-item"><a href="{{ pathto("papers/main") }}">Publications</a></li>
         {%- endblock %}
         {%- for rellink in rellinks|reverse %}
         <li class="menu-item" {% if loop.first %}style="margin-right: 10px"{% endif %}>
@@ -38,8 +40,10 @@
 
 {%- block header %} 
 <div id="page-div" class="page">
-<div id="header"><a id="uwhome" href="http://www.wisc.edu"><img src="http://cnergdata.engr.wisc.edu/_static/images/wordmark.gif" alt="University of Wisconsin–Madison" width="260" height="11" /></a> <a id="crest" href="http://www.wisc.edu"><img src="http://cnergdata.engr.wisc.edu/_static/images/crest.png" alt="" width="70" height="106" /></a>
-    <h1 id="siteTitle"><a href="/"><span>{{ theme_site_title }}</span></a></h1>
+<div id="header">
+    <a id="uwhome" href="http://www.wisc.edu"><img src="{{ pathto("_static/images/wordmark.gif",1) }}" alt="University of Wisconsin–Madison" width="260" height="11" /></a> 
+    <a id="crest" href="http://www.wisc.edu"><img src="{{ pathto("_static/images/crest.png",1) }}" alt="" width="70" height="106" /></a>
+    <h1 id="siteTitle"><a href="{{ pathto(master_doc) }}"><img src="{{ pathto("_static/images/logo.png",1) }}" alt="" height="50x" /></a></h1>
     <div id="tagline"><span>{{ theme_tagline }}</span></div>
     <ul id="globalnav">
       <li id="uwsearch"><a href="http://www.wisc.edu/search/">UW Search</a></li>

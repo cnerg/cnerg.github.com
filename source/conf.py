@@ -25,7 +25,10 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.intersphinx', 'sphinx.ext.todo']
+extensions = ['sphinx.ext.autodoc', 
+              'sphinx.ext.intersphinx', 
+              'sphinx.ext.todo', 
+              'sphinxcontrib.bibtex']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -41,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'UW-Madison Computational Nuclear Engineering Research Group (CNERG)'
-copyright = u'2012, Paul Wilson'
+copyright = u'2012-2014, Paul Wilson'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -98,7 +101,7 @@ html_theme = 'uwtheme'
 # documentation.
 html_theme_options = { 
 'site_title' : u'CNERG',
-'tagline' : u'UW-Madison\'s Computational Nuclear Engineering Research Group'
+'tagline' : u'Reliable Software Tools for the Analysis of Complex Nuclear Systems'
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
@@ -243,6 +246,16 @@ texinfo_documents = [
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
+
+rst_epilog = """
+.. |cyclus| raw:: html 
+
+       <span style="font-variant:small-caps;">Cyclus</span>
+
+.. |Cyclus| raw:: html 
+
+       <span style="font-variant:small-caps;">Cyclus</span>
+"""
 
 
 # Example configuration for intersphinx: refer to the Python standard library.

@@ -3,7 +3,6 @@
 Requesting a Reference or Recommendation from Paul Wilson
 =========================================================
 
-
 Background
 ----------
 
@@ -13,6 +12,10 @@ for employment, fellowships/scholarships, or graduate school
 admission.  Since it is in your best interest to receive the best
 possible recommendation or reference, I have prepared these guidelines
 to help optimize the process.
+
+The first section helps you decide if I am the right person to provide this
+reference.  If you have already decided this and/or I have already agreed, you
+can jump to the next section.
 
 Choosing the Right Person
 -------------------------
@@ -47,6 +50,7 @@ Why are you the right person for this opportunity
 For each opportunity in which you would like me to act as a reference,
 please provide information about why you are the right/best person to
 fill that opportunity.  This would include:
+
  * description of opportunity, such as:
      * job description/position listing
      * graduate program description
