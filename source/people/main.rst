@@ -41,6 +41,7 @@ Research Staff
 Graduate Students
 -----------------
 
+<<<<<<< HEAD
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
 | |edb_img|                      | |rwc_img|                             | |cad_img|                          | |pcs_img|                          | |ljj_img|                        |
 |                                |                                       |                                    |                                    |                                  |  
@@ -54,6 +55,18 @@ Graduate Students
 |                                |                                       |                                    |                                    |                                  |
 |  :doc:`Owen Selles <selles>`   |                                       |                                    |                                    |                                  |
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
+=======
++---------------------------+------------------------------------+----------------------------------+----------------+-------------------------------------+
+| |kld_img|                 | |mjg_img|                          | |edb_img|                        | |rwc_img|      | |cad_img|                           |  
+| :doc:`Kerry Dunn <dunn>`  |  :doc:`Matthew Gidden <mjg>`       | :doc:`Elliott Biondo <biondo>`   | Robert Carlsen | :doc:`Chelsea D'Angelo <dangelo>`   |  
++---------------------------+------------------------------------+----------------------------------+----------------+-------------------------------------+
+| |zw_img|                  | |pcs_img|                          | |ljj_img|                        | |mh_img|       | |ao_img|                            | 
+| Zach Welch                | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  Moataz Harb   | Arrielle Opotowsky                  | 
++---------------------------+------------------------------------+----------------------------------+----------------+-------------------------------------+
+
+.. |kld_img| image:: blank_profile_f.jpg
+             :width: 100
+>>>>>>> fdf6fa5fe80afb8ac4ce6d5ad10b33250dd34c47
 
 
 .. |edb_img| image:: hacker_biondo.JPG
@@ -62,7 +75,11 @@ Graduate Students
 .. |rwc_img| image:: hacker_carlsen.JPG
              :width: 100
 
+<<<<<<< HEAD
 .. |cad_img| image:: hacker_dangelo.JPG
+=======
+.. |cad_img| image:: dangelo.jpg
+>>>>>>> fdf6fa5fe80afb8ac4ce6d5ad10b33250dd34c47
              :width: 100
 
 .. |pcs_img| image:: hacker_shriwise.JPG
@@ -86,11 +103,24 @@ Graduate Students
 .. |yp_img| image:: hacker_park.JPG
   	     :width: 100 
 
+<<<<<<< HEAD
 .. |sel_img| image:: hacker_blank.JPG
   	     :width: 100 
 
 Undergraduate Students & Interns
 ---------------------------------
+=======
++----------------------------------+-----------------+
+| |kk_img|                         | |or_img|        |
+| :doc:`Kalin Kiesling <kiesling>` | Olzhas Rakhimov |
++----------------------------------+-----------------+
+
+.. |kk_img| image:: kiesling.png
+             :width: 100
+
+.. |or_img| image:: blank_profile_m.jpg
+             :width: 100
+>>>>>>> fdf6fa5fe80afb8ac4ce6d5ad10b33250dd34c47
 
 +------------------------------------+
 |                                    |
