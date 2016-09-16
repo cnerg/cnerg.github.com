@@ -50,6 +50,11 @@ Graduate Students
 |                                |                                       |                                    |                                    |                                  |
 |  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
+| |sel_img|                      |                                       |                                    |                                    |                                  |    
+|                                |                                       |                                    |                                    |                                  |
+|  :doc:`Owen Selles <selles>`   |                                       |                                    |                                    |                                  |
++--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
+
 
 .. |edb_img| image:: hacker_biondo.JPG
              :width: 100
@@ -79,6 +84,9 @@ Graduate Students
   	     :width: 100
 
 .. |yp_img| image:: hacker_park.JPG
+  	     :width: 100 
+
+.. |sel_img| image:: hacker_blank.JPG
   	     :width: 100 
 
 Undergraduate Students & Interns
