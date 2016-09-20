@@ -97,9 +97,9 @@ None at this time.
 Alumni
 -------------
 * `Tae Wook Ahn <http://www.oaep.go.th/index_en.php>`_, MS(2010), Exelon Nuclear
-* Elliott Biondo, PhD(2016), Idaho National Laboratory
+* Elliott Biondo, PhD(2016), Oak Ridge National Laboratory
 * Geoff Bull, MS(2005), US Army
-* Robert Carlsen, PhD(2016), Oak Ridge National Laboratory
+* Robert Carlsen, PhD(2016), Idaho National Laboratory
 * Kerry Dunn, PhD(2014), Sandia National Laboratories (Albuquerque)
 * Eric Edwards, PhD(2007), Entergy (Palisades)
 * `Matthew Gidden <http://www.mattgidden.com>`_, PhD(2015), International Institute for Applied Systems Analysis (`IIASA <http://www.iiasa.ac.at/>`_) 
