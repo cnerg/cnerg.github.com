@@ -12,8 +12,8 @@ Contact Information
 | 1500 Engineering Drive
 | Madison, WI 53706
 
-`kkiesling@wisc.edu <mailto:kkiesling@wisc.edu>`_
-`krkiesling@gmail.com <mailto:krkiesling@gmail.com>`_
+| `kkiesling@wisc.edu <mailto:kkiesling@wisc.edu>`_
+| `krkiesling@gmail.com <mailto:krkiesling@gmail.com>`_
 
 Research Interests
 -------------------
