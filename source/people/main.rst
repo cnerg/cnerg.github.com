@@ -41,26 +41,17 @@ Research Staff
 Graduate Students
 -----------------
 
-+--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
-| |edb_img|                      | |rwc_img|                             | |cad_img|                          | |pcs_img|                          | |ljj_img|                        |
-|                                |                                       |                                    |                                    |                                  |  
-| :doc:`Elliott Biondo <biondo>` | :doc:`Robert Carlsen <carlsen>`       | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  
-+--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
-| |mh_img|                       | |ao_img|                              | |kk_img|                           |  |ng_img|                          | |yp_img|                         |    
-|                                |                                       |                                    |                                    |                                  |
-|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |
-+--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
-| |sel_img|                      |                                       |                                    |                                    |                                  |    
-|                                |                                       |                                    |                                    |                                  |
-|  :doc:`Owen Selles <selles>`   |                                       |                                    |                                    |                                  |
-+--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
++------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
+| |cad_img|                          | |pcs_img|                          | |ljj_img|                        | |mh_img|                       | |ao_img|                              |
+|                                    |                                    |                                  |                                |                                       |  
+| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` |  
++------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
+| |kk_img|                           |  |ng_img|                          | |yp_img|                         | |sel_img|                      |                                       |
+|                                    |                                    |                                  |                                |                                       |
+| :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Owen Selles <selles>`   |                                       |
++------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 
 
-.. |edb_img| image:: hacker_biondo.JPG
-             :width: 100
-
-.. |rwc_img| image:: hacker_carlsen.JPG
-             :width: 100
 
 .. |cad_img| image:: hacker_dangelo.JPG
              :width: 100
@@ -106,7 +97,9 @@ None at this time.
 Alumni
 -------------
 * `Tae Wook Ahn <http://www.oaep.go.th/index_en.php>`_, MS(2010), Exelon Nuclear
+* Elliott Biondo, PhD(2016), Oak Ridge National Laboratory
 * Geoff Bull, MS(2005), US Army
+* Robert Carlsen, PhD(2016), Idaho National Laboratory
 * Kerry Dunn, PhD(2014), Sandia National Laboratories (Albuquerque)
 * Eric Edwards, PhD(2007), Entergy (Palisades)
 * `Matthew Gidden <http://www.mattgidden.com>`_, PhD(2015), International Institute for Applied Systems Analysis (`IIASA <http://www.iiasa.ac.at/>`_) 
