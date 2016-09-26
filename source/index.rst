@@ -29,7 +29,7 @@ others.
 News
 -----
 
-* **October 2015** CNERG begins support of the `Spallation Neutron
+* **October 2016** CNERG begins support of the `Spallation Neutron
   Source <https://neutrons.ornl.gov/sns>`_ and its design of a `second target
   station <https://neutrons.ornl.gov/sts>`_ using DAG-MCNP6.
 
