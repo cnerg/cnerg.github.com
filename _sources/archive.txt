@@ -1,11 +1,22 @@
 News Archive
 -------------
 
+* **January 28, 2016** `The National Academies of Sciences, Engineering and
+  Medicine <http://nas.edu/>`_ releases a `report
+  <http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=21818>`_ on
+  "Reducing the Use of Highly Enriched Uranium in Civilian Research Reactors".
+  `Paul Wilson <people/pphw.html>`_ was one of the report authors and
+  participated in the webinar release.
+
 * **April 10, 2016** CNERG is looking for a new research assistant in
   `Synthetic Image Generation for Nuclear Non-proliferation
   <jobs/ra-2016-imaging-cvt.html>`_.  We anticipate that a successful
   candidate may come from one of many different fields of science and
   engineering.
+
+* **October 2015** CNERG begins participation in a new project that will
+  measure the spatial flux distribution during a pulse of the UW Nuclear
+  Reactor by developing a new MCNP model for simulation.
 
 * **Fall 2015** New students `Nancy Granda-Duarte <people/granda.html>`_ and
   `Young Hui Park <people/park.html>`_ join the CNERG Neutronics group.
