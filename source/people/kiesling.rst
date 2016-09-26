@@ -23,9 +23,8 @@ Find me on:
 Research Interests
 -------------------
 
- * Neutronics
+ * Software development for neutronics applications
  * Scientific computing
-
 
 Education
 ----------
