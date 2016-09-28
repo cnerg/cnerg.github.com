@@ -1,6 +1,19 @@
 News Archive
 -------------
 
+* **March, 2016** `Elliott Biondo <people/biondo.html>`_ is the lead author on
+  a new paper `"Shutdown dose rate analysis with CAD geometry,
+  Cartesian/tetrahedral mesh, and advanced variance reduction"
+  <http://www.sciencedirect.com/science/article/pii/S0920379616302009>`_
+  published in Fusion Engineering and Design.
+
+* **February 18, 2016** `Dr. Meghan McGarry <people/mcgarry.html>`_ authors a blog post for `The Union 
+  of Concerned Scientists <http://www.ucsusa.org/>`_ titled `Integrating Nuclear
+  Science and Policy for a New Generation       <http://allthingsnuclear.org/guest-commentary/integrating-nuclear-science-and-policy-for-a-new-generation>`_. 
+  The post describes her experience at the `Pugwash Conference <http://pugwash.org/>`_ 
+  and general takeaways on the communication between nuclear scientists and 
+  policy makers.
+  
 * **January 28, 2016** `The National Academies of Sciences, Engineering and
   Medicine <http://nas.edu/>`_ releases a `report
   <http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=21818>`_ on
