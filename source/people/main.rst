@@ -127,7 +127,7 @@ Alumni
 * `Rachel Slaybaugh <https://www.nuc.berkeley.edu/people/rachel-slaybaugh>`_, PhD(2012), U. California-Berkeley
 * Brandon Smith, PhD(2011), Los Alamos National Laboratory
 * `Patrick Snouffer <https://www.linkedin.com/pub/patrick-snouffer/11/8a5/594>`_, MS(2011), Sandia National Laboratories
-* Chris Staum, MS(2006), Westinghouse
+* Chris Staum, MS(2006), `Exelon <http://www.exeloncorp.com>`_
 * Zach Welch, Research Support (2013-2015), Amazon
 * John Xia, Research Staff (2014-2015)
 * Julie Zachman, Programmer (2013-2015), UW-Madison
