@@ -29,7 +29,7 @@ others.
 News
 -----
 
-* **October 2016** Watch `Meghan McGarry <people/mcgarry.html>`_ give a talk on using |Cyclus| for  `State-Level Decision-Making in a Regional Model of Proliferation Risk <https://youtu.be/3HySc2oVYQU?list=PLmNrnoyQ30KvxZdAAz2MPDv-1lkTcUS>`_ at the 2016 CVT Workshop in Ann Arbor.
+* **October 2016** Watch `Meghan McGarry <people/mcgarry.html>`_ give a talk on using |Cyclus| for  `State-Level Decision-Making in a Regional Model of Proliferation Risk <https://youtu.be/3HySc2oVYQU?list=PLmNrnoyQ30KvxZdAAz2MPDv-1lkTcUS>`_ at the `2016 CVT Workshop <https://cvt.engin.umich.edu/cvt-workshop-2016/>`_ in Ann Arbor.
   
 * **October 2016** CNERG begins support of the `Spallation Neutron
   Source <https://neutrons.ornl.gov/sns>`_ and its design of a `second target
