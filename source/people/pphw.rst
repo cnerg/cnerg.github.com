@@ -6,7 +6,7 @@ Paul P.H. Wilson
 |pphw_img|
 
 | |vcard_icon|_ 
-| `wilsonp@engr.wisc.edu <mailto:wilsonp@engr.wisc.edu>`_
+| `paul.wilson@wisc.edu <mailto:wilsonp@engr.wisc.edu>`_
 | 608/263-0807
 | 419 Engineering Research Building
 | `1500 Engineering Dr <https://www.google.com/maps/place/Engineering+Dr,+University+of+Wisconsin-Madison,+Madison,+WI+53706/@43.0722616,-89.4113922,17z/data=!3m1!4b1!4m2!3m1!1s0x8807acc6ec542427:0x8e97163cfd1719a0>`_
@@ -45,22 +45,20 @@ Find me on:
 
 ----
 
-Paul Wilson is a Professor of Nuclear Engineering in the
-`University of Wisconsin-Madison <http://www.wisc.edu>`_'s `Department
-of Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty
-Director of the `Advanced Computing Initiative <http://aci.wisc.edu>`_.  
-His research interests
-bring together technical and policy issues: analysis methods of
-isotopic inventories in nuclear systems and the implications on
-nuclear non-proliferation policy, and the development of next
-generation nuclear power systems to fulfill a role in future energy
-policy and needs. Paul joined the University of Wisconsin-Madison as
-an assistant professor in August 2001 as part of the `Energy Systems
-and Policy Hiring Initiative
-<http://www.clusters.wisc.edu/clusters/show/18>`_.  Paul currently 
-serves on the Program Committee (Interim Chair) of the `Energy Analysis and Policy Graduate Certificate <http://nelson.wisc.edu/eap>`_ , the Executive Committee of the `Wisconsin Energy Institute <http://www.energy.wisc.edu>`_ and the Steering Committee of the `Holtz Center for Science and
-Technology Studies <http://sts.wisc.edu>`_, and the Governance Committee of the
-`Nelson Institute <http://nelson.wisc.edu>`_ for Environmental Studies.
+Paul Wilson is the Grainger Professor of Nuclear Engineering in the
+`University of Wisconsin-Madison <http://www.wisc.edu>`_'s `Department of
+Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty Director of
+the `Advanced Computing Initiative <http://aci.wisc.edu>`_.  His research
+interests focus on developing improved tools for computational modeling of
+complex nuclear energy systems, with applications in radiation shielding,
+nuclear waste management, nuclear non-proliferation and energy policy. Paul
+joined the University of Wisconsin-Madison as an assistant professor in August
+2001 as part of the `Energy Systems and Policy Hiring Initiative
+<http://www.clusters.wisc.edu/clusters/show/18>`_.  Paul currently serves on
+the Program Committee of the `Energy Analysis and Policy Graduate Certificate
+<http://nelson.wisc.edu/eap>`_ , the Executive Committee of the `Wisconsin
+Energy Institute <http://www.energy.wisc.edu>`_ and the Governance Committee
+of the `Nelson Institute <http://nelson.wisc.edu>`_ for Environmental Studies.
 
 In addition to the research pursued by his `Computational Nuclear Engineering
 Research Group (CNERG) <http://cnerg.engr.wisc.edu>`_, Paul has served in a

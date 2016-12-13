@@ -19,7 +19,7 @@ Paul Wilson is the Grainger Professor of Nuclear Engineering in the
 Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty Director of
 the `Advanced Computing Initiative <http://aci.wisc.edu>`_.  His research
 interests focus on developing improved tools for computational modeling of
-complex nuclear energy systems, with applications to radiation shielding,
+complex nuclear energy systems, with applications in radiation shielding,
 nuclear waste management, nuclear non-proliferation and energy policy.  Hired
 as part of the `Energy Systems and Policy Hiring Initiative
 <http://www.clusters.wisc.edu/clusters/show/18>`_, he serves on leadership
