@@ -6,7 +6,7 @@ Paul P.H. Wilson
 |pphw_img|
 
 | |vcard_icon|_ 
-| `paul.wilson@wisc.edu <mailto:wilsonp@engr.wisc.edu>`_
+| `paul.wilson@wisc.edu <mailto:paul.wilson@wisc.edu>`_
 | 608/263-0807
 | 419 Engineering Research Building
 | `1500 Engineering Dr <https://www.google.com/maps/place/Engineering+Dr,+University+of+Wisconsin-Madison,+Madison,+WI+53706/@43.0722616,-89.4113922,17z/data=!3m1!4b1!4m2!3m1!1s0x8807acc6ec542427:0x8e97163cfd1719a0>`_
