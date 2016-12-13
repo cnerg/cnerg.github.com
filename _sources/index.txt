@@ -29,6 +29,8 @@ others.
 News
 -----
 
+* **October 2016** Watch `Meghan McGarry <people/mcgarry.html>`_ give a talk on using |Cyclus| for  `State-Level Decision-Making in a Regional Model of Proliferation Risk <https://youtu.be/3HySc2oVYQU?list=PLmNrnoyQ30KvxZdAAz2MPDv-1lkTcUS>`_ at the `2016 CVT Workshop <https://cvt.engin.umich.edu/cvt-workshop-2016/>`_ in Ann Arbor.
+  
 * **October 2016** CNERG begins support of the `Spallation Neutron
   Source <https://neutrons.ornl.gov/sns>`_ and its design of a `second target
   station <https://neutrons.ornl.gov/sts>`_ using DAG-MCNP6.
@@ -36,7 +38,7 @@ News
 * **August, 2016** `Robert Carlsen <people/calrsen.html>`_ is the lead author
   on a new paper `Challenging Fuel Cycle Modeling Assumptions: Facility and
   Time-Step Discretization Effects
-  <http://www.ans.org/pubs/journals/nt/a_38930>`_ in Nuclear Technology
+  <http://www.ans.org/pubs/journals/nt/a_38930>`_ in Nuclear Technology.
 
 * **July 21, 2016** `Elliott Biondo <people/biondo.html>`_ defended his PhD
   dissertation, describing a complete approach to variance reduction for
