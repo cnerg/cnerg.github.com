@@ -181,6 +181,7 @@ recommendations/references <pphw_reference>`.
    :hidden:
 
    pphw_reference
+   pphw_introduction
 
 ----
 
