@@ -1,5 +1,5 @@
 Lucas J. Jacobson
-===============
+=================
 
 .. image:: jacobson_avatar.png
     :align: center
