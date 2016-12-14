@@ -46,9 +46,9 @@ Graduate Students
 |                                    |                                    |                                  |                                |                                       |  
 | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` |  
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
-| |kk_img|                           |  |ng_img|                          | |yp_img|                         | |sel_img|                      |                                       |
+| |kk_img|                           |  |ng_img|                          | |yp_img|                         | |sel_img|                      | |drew_img|                            |
 |                                    |                                    |                                  |                                |                                       |
-| :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Owen Selles <selles>`   |                                       |
+| :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Owen Selles <selles>`   | :doc:`Drew Buys <buys>`               |
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 
 
@@ -78,6 +78,9 @@ Graduate Students
   	     :width: 100 
 
 .. |sel_img| image:: hacker_blank.JPG
+  	     :width: 100 
+
+.. |drew_img| image:: hacker_blank.JPG
   	     :width: 100 
 
 Undergraduate Students & Interns
