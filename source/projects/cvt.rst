@@ -43,9 +43,9 @@ Oct 2016 - "State-Level Decision-Making in a Regional Model of Proliferation Ris
 
 Sept 2016 - "Cyclus Nuclear Fuel Cycle Simulator as a Synthetic Testbed of Systems-Level Diversion Signatures",  Holtz Center for Science and Technology Studies, University of Wisconsin-Madison
 
-July 2016 - ``Cyclus as a Synthetic Testbed of Systems-Level Diversion Signatures'', 57th INMM Annual Meeting, Atlanta, GA
+July 2016 - "Cyclus as a Synthetic Testbed of Systems-Level Diversion Signatures", 57th INMM Annual Meeting, Atlanta, GA
 
-June 2016 - ``Using Cyclus to Generate Synthetic Multi-modal, Systems-Level Observables'', University and Industry Technical Interchange, Raleigh, NC
+June 2016 - "Using Cyclus to Generate Synthetic Multi-modal, Systems-Level Observables", University and Industry Technical Interchange, Raleigh, NC
 
 Oct 2015 - "Modeling Material Diversion with the Cyclus Fuel Cycle Simulator",  International Student Young Pugwash Meeting, Nagasaki, Japan \\
 
