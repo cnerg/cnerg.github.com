@@ -66,6 +66,7 @@ More Information
    infrastructure
    projects/workflow
    Intranet <https://drive.google.com/a/wisc.edu/folderview?id=0B0PIxd5nzgICQVYwV2ozVmRxWkk&usp=sharing>
+   upload
 
 .. toctree::
    :maxdepth: 1
