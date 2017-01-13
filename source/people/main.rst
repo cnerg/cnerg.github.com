@@ -144,10 +144,7 @@ Alumni
    mcgarry
    mharb
    mjg
-   carlsen
    shriwise
-   biondo
-   scopatz
    dangelo
    kiesling
    jacobson
@@ -155,4 +152,7 @@ Alumni
    granda
    bam
    park
+   buys
+   ejwilson3
+   selles
    ../jobs/programmer-2012
