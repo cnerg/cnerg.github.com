@@ -86,12 +86,11 @@ Graduate Students
 Undergraduate Students & Interns
 ---------------------------------
 
-+------------------------------------+
-|                                    |
-|                                    |
-| * :doc:`Ellis Wilson <ejwilson3>`  |
-| * :doc:`Alex Swenson <aaswenson>`  |
-+------------------------------------+
++------------------------------------+------------------------------------+
+|                                    |                                    |
+|                                    |                                    |
+| :doc:`Ellis Wilson <ejwilson3>`    |  :doc:`Alex Swenson <aaswenson>`   | 
++------------------------------------+------------------------------------+
 
 Employment Opportunties
 -----------------------------

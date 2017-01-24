@@ -1,10 +1,9 @@
 Alexander Swenson
-=============
+=================
 
 Contact Information
 -------------------
 | `E-mail <aaswenson@wisc.edu>`_
-
 ----
 
 Alex is an undergraduate assistant in CNERG.  He is helping with MCNP model verification for the University of Wisconsin Nuclear Reactor.
