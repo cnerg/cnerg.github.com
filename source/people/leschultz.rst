@@ -1,14 +1,14 @@
-Ellis Wilson
+Lane Schultz
 =============
 
 Contact Information
 -------------------
-| `E-mail <ejwilson3@wisc.edu>`_
+| `E-mail <lsschultz@wisc.edu>`_
 
 ----
 
-e Schultz is an undergraduate in the SURE program. He is helping with automation of data Visualization.
-He was born in Gallup, New Mexido, and now attending Fort Lewis College in Durango, Colorado.
+Lane E. Schultz is an undergraduate in the SURE program. He is helping with automation of data Visualization.
+He was born in Gallup, New Mexico, and is now attending Fort Lewis College in Durango, Colorado.
 
 Research Interests
 ------------------
@@ -22,9 +22,6 @@ Current Projects
 * Visualization with VisIt
 
 Education
----------
-
-* Education
 ---------
 
 * Fort Lewis College, Durango, Colorado [current undergraduate in general engineering]
