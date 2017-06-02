@@ -91,6 +91,10 @@ Undergraduate Students & Interns
 |                                    |                                    |
 | :doc:`Ellis Wilson <ejwilson3>`    |  :doc:`Alex Swenson <aaswenson>`   | 
 +------------------------------------+------------------------------------+
+|                                    |                                    |
+|                                    |                                    |
+| :doc:`Lane Schultz <leschultz>`    |                                    |
++------------------------------------+------------------------------------+
 
 Employment Opportunties
 -----------------------------
