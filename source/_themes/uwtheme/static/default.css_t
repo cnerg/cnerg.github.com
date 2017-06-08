@@ -707,7 +707,7 @@ body {
 
 #sidebar_section {
   margin: 0 0 0 10px;
-  position: fixed;
+  /* position: fixed;*/
   width: 245px;
 }
 
