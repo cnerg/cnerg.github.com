@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'UW-Madison Computational Nuclear Engineering Research Group (CNERG)'
-copyright = u'2012-2014, Paul Wilson'
+copyright = u'2012-2017, Paul Wilson'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
