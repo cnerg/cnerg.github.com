@@ -98,8 +98,8 @@ every time you return to this work.  It may not be possible to offer you a
 private desk for this work.
 
 
-Recent Positions (Now closed)
-------------------------------
+Recent Positions
+----------------
 
 .. toctree::
    :maxdepth: 1

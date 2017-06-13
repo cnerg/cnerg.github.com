@@ -1,5 +1,5 @@
-Systems Programmer (UW PVL# 74230)
-==================================
+CLOSED: Systems Programmer (UW PVL# 74230)
+==========================================
 
 The Computational Nuclear Engineering Reasearch Group (CNERG) is
 actively developing a software library to enable the direct analysis

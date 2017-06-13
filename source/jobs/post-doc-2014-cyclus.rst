@@ -1,5 +1,5 @@
-Post-Doctoral Associate Opportunity (2014): Agent-based Fuel Cycle Optimization
-================================================================================
+CLOSED: Post-Doctoral Associate Opportunity (2014): Agent-based Fuel Cycle Optimization
+=======================================================================================
 
 *[Updated: March 25, 2014]*
 

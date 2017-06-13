@@ -1,10 +1,3 @@
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   funded
-   spinoffprojects
-   cvt
 
 Research Areas
 ================
