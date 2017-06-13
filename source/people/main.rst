@@ -104,7 +104,7 @@ Alumni
 * Geoff Bull, MS(2005), US Army
 * Robert Carlsen, PhD(2016), `Idaho National Laboratory <http://www.inl.gov>`_
 * Kerry Dunn, PhD(2014), `Sandia National Laboratories (Albuquerque) <http://www.sandia.gov>`_
-* Eric Edwards, PhD(2007), Entergy (Palisades)
+* Eric Edwards, PhD(2007), `Shine Medical Technologies <http://shinemed.com>`_
 * `Matthew Gidden <http://www.mattgidden.com>`_, PhD(2015), `International Institute for Applied Systems Analysis (IIASA) <http://www.iiasa.ac.at/>`_
 * Ryan Grady, MS(2008), Exelon
 * Po Hu, PhD(2008), Shanghai Jiaotong Unviersity
@@ -119,7 +119,7 @@ Alumni
 * Damien Moule, MS(2011)
 * Phiphat Phruksarojanakun, PhD(2007), Thai `Office of Atoms for Peace <http://www.oaep.go.th/index_en.php>`_
 * `Kyle Oliver <http://www.kyleoliver.net/>`_, MS(2009) 
-* `Tracy Radel <https://www.linkedin.com/pub/tracy-radel/24/6b7/495>`_, MS(2007), Shine Medical 
+* `Tracy Radel <https://www.linkedin.com/pub/tracy-radel/24/6b7/495>`_, MS(2007), `Shine Medical Technologies <http://shinemed.com>`_
 * Olzhas Rakhimov, Research Support (2013-2014)
 * `Eric Relson <http://hackaday.io/hacker/614-gertlex>`_, MS(2013)
 * `Jeremy Roberts <http://www.mne.ksu.edu/people/faculty/roberts>`_, MS(2009), `Kansas State Univeristy <http://www.ksu.edu>`_
@@ -129,7 +129,7 @@ Alumni
 * `Tim Setter <https://www.linkedin.com/pub/tim-setter/92/254/552>`_, MS(2007), Tennesse Valley Authority
 * `Stuart Slattery <http://www.csm.ornl.gov/newsite/cees.html>`_, PhD(2013), `Oak Ridge National Laboratory <http://www.ornl.gov>`_
 * `Rachel Slaybaugh <https://www.nuc.berkeley.edu/people/rachel-slaybaugh>`_, PhD(2012), U. California-Berkeley
-* Brandon Smith, PhD(2011), Los Alamos National Laboratory
+* Brandon Smith, PhD(2011), `Los Alamos National Laboratory <http://www.lanl.gov>`_
 * `Patrick Snouffer <https://www.linkedin.com/pub/patrick-snouffer/11/8a5/594>`_, MS(2011), `Sandia National Laboratories <http://www.sandia.gov>`_
 * Chris Staum, MS(2006), `Exelon <http://www.exeloncorp.com>`_
 * Zach Welch, Research Support (2013-2015), Amazon
