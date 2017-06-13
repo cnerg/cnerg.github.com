@@ -1,5 +1,5 @@
-Research Assistant Opportunity (2016): Synthetic Image Generation for Nuclear Non-proliferation
-==================================================================================================
+CLOSED: Research Assistant Opportunity (2016): Synthetic Image Generation for Nuclear Non-proliferation
+=======================================================================================================
 
 *[Updated: March 31, 2016]*
 

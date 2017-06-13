@@ -175,11 +175,6 @@ otherwise act as a reference, for current and former students.  If you
 are seeking my support, please read my :doc:`guidelines for providing
 recommendations/references <pphw_reference>`.
 
-.. toctree::
-   :hidden:
-
-   pphw_reference
-   pphw_introduction
 
 ----
 
