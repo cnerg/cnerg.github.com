@@ -14,9 +14,9 @@ Paul P.H. Wilson
 
 
 Research projects:
+|svalinn_icon|_
 |cyclus_icon|_
 |cvt_icon|_
-|aciref_icon|_
 
 Affiliations:
 |uw_icon|_
@@ -47,8 +47,7 @@ Find me on:
 
 Paul Wilson is the Grainger Professor of Nuclear Engineering in the
 `University of Wisconsin-Madison <http://www.wisc.edu>`_'s `Department of
-Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty Director of
-the `Advanced Computing Initiative <http://aci.wisc.edu>`_.  His research
+Engineering Physics <http://www.engr.wisc.edu/ep>`_.  His research
 interests focus on developing improved tools for computational modeling of
 complex nuclear energy systems, with applications in radiation shielding,
 nuclear waste management, nuclear non-proliferation and energy policy. Paul
@@ -175,11 +174,6 @@ otherwise act as a reference, for current and former students.  If you
 are seeking my support, please read my :doc:`guidelines for providing
 recommendations/references <pphw_reference>`.
 
-.. toctree::
-   :hidden:
-
-   pphw_reference
-   pphw_introduction
 
 ----
 
@@ -256,9 +250,9 @@ recommendations/references <pphw_reference>`.
               :width: 32
 .. _cvt_icon: http://cvt.engin.umich.edu
 
-.. |aciref_icon| image:: ACIREF.png
+.. |svalinn_icon| image:: svalinn.png
               :height: 32
-.. _aciref_icon: http://aci-ref.org
+.. _svalinn_icon: http://svalinn.github.io
 
 .. |swc_icon| image:: swc.png
               :width: 32

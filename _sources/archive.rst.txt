@@ -1,13 +1,33 @@
 News Archive
 -------------
 
-* **March, 2016** `Elliott Biondo <people/biondo.html>`_ is the lead author on
+* **October 2016** Watch Meghan McGarry give a talk on using |Cyclus| for  `State-Level Decision-Making in a Regional Model of Proliferation Risk <https://youtu.be/3HySc2oVYQU?list=PLmNrnoyQ30KvxZdAAz2MPDv-1lkTcUS>`_ at the `2016 CVT Workshop <https://cvt.engin.umich.edu/cvt-workshop-2016/>`_ in Ann Arbor.
+  
+* **October 2016** CNERG begins support of the `Spallation Neutron
+  Source <https://neutrons.ornl.gov/sns>`_ and its design of a `second target
+  station <https://neutrons.ornl.gov/sts>`_ using DAG-MCNP6.
+
+* **August, 2016** Robert Carlsen is the lead author
+  on a new paper `Challenging Fuel Cycle Modeling Assumptions: Facility and
+  Time-Step Discretization Effects
+  <http://www.ans.org/pubs/journals/nt/a_38930>`_ in Nuclear Technology.
+
+* **July 21, 2016** Elliott Biondo defended his PhD
+  dissertation, describing a complete approach to variance reduction for
+  shutdown dose rate problems and demonstrating substantial speedup in such
+  problems.
+
+* **March 29, 2016** Robert Carlsen defended his PhD
+  dissertation, highlighting contributions in nuclear fuel cycle optimization
+  and the concept of hedging strategies for nuclear technology deployment.
+
+* **March, 2016** Elliott Biondo is the lead author on
   a new paper `"Shutdown dose rate analysis with CAD geometry,
   Cartesian/tetrahedral mesh, and advanced variance reduction"
   <http://www.sciencedirect.com/science/article/pii/S0920379616302009>`_
   published in Fusion Engineering and Design.
 
-* **February 18, 2016** `Dr. Meghan McGarry <people/mcgarry.html>`_ authors a blog post for `The Union 
+* **February 18, 2016** Dr. Meghan McGarry authors a blog post for `The Union 
   of Concerned Scientists <http://www.ucsusa.org/>`_ titled `Integrating Nuclear
   Science and Policy for a New Generation       <http://allthingsnuclear.org/guest-commentary/integrating-nuclear-science-and-policy-for-a-new-generation>`_. 
   The post describes her experience at the `Pugwash Conference <http://pugwash.org/>`_ 
@@ -58,14 +78,14 @@ News Archive
 * **November 11, 2014** A number of presentations at the 2014 ANS Winter
   meeting features CNERG work including:
 
-  * `Carlsen <people/carlsen.html>`_, et al, "Deployment Optimization with the CYCLUS Fuel Cycle Simulator"
+  * Carlsen, et al, "Deployment Optimization with the CYCLUS Fuel Cycle Simulator"
   * Bates, et al, "PyNE Progress Report"
-  * `Biondo <people/biondo.html>`_, et al, "Quality Assurance within the PyNE Open Source Toolkit"
+  * Biondo, et al, "Quality Assurance within the PyNE Open Source Toolkit"
 
 * **October 21, 2014** `Kerry Dunn <people/dunn.html>`_ has completed her PhD thesis on "Monte Carlo
   Mesh Tallies based on a Kernel Density Estimator Approach"
 
-* **September 1, 2014** `Dr. Meghan McGarry <people/mcgarry.html>`_ joins
+* **September 1, 2014** Dr. Meghan McGarry joins
   CNERG as a post-doctoral associate to contribute to adapting
   |Cyclus| for use in nuclear security applications.
 

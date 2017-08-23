@@ -1,0 +1,82 @@
+CNERG Philosophy
+================
+
+Mission
++++++++
+
+Build a `welcoming community`_ that fosters the `professional and personal
+growth`_ of new generations of scientists who develop `advanced computational
+tools`_ that deepen our understanding of the peaceful uses of `nuclear science
+and technology`_.
+
+
+Welcoming Community
+-------------------
+
+The CNERG community should be welcoming to all who seek to contribute to its
+`mission`_.  This begins with a collective commitment to the
+:doc:`code of conduct <conduct>`.
+
+We all do our best work when we feel respected by our peers and our
+contributions are valued.  Every member of CNERG is responsible for creating
+this environment of mutual respect and value.  The group is made up of
+individuals with a wide range of personal and educational histories and goals.
+Being sensitive to these differences is an important part of your professional
+development.
+ 
+Fostering a sense of community requires regular interaction and individual
+investment in that community.  The simplest way to contribute is by attending
+group meetings and spending time in your office during common hours.  The
+combination of formal and informal interactions that results from these two
+simple steps creates a sense of familiarity that will directly contribute to
+our combined success.
+
+     
+Nuclear Science and Technology
+------------------------------
+
+The defining characteristic of CNERG research is the physics of nuclear
+reactions and the radiation that they produce.  This puts our work at the
+heart of nuclear engineering, with specific topics that are both central and
+unique to the discipline.
+
+
+Advanced Computational Tools
+----------------------------
+
+While there may be diversity among the projects being pursued within CNERG, a
+common thread is a desire to improve the understanding of nuclear energy
+systems.  This leads to a research philosophy that puts us on the boundary
+between methods development and systems analysis, delivering real analysis
+capability.  Where some research groups focus on theoretical methods
+development with little regard for realistic problems, and others focus on
+using other people’s computational tools to analyze systems, we focus on
+delivering new capability to analyze real systems.  This can include the
+development of new methods and often requires the analysis of real systems to
+test the delivered capability, but CNERG’s strength is in delivering robust
+tools that extend the types of analysis that are available for nuclear energy
+systems.  A key outcome of this philosophy is a strong reliance on skills
+associated with software engineering, and the development of such skill sets
+among CNERG members.
+
+
+Professional and Personal Growth
+--------------------------------
+
+As an academic research group, the growth of all members of CNERG is an
+important facet of our `mission`_.  While such growth should be possible in
+many work places, it has a defining role in ours.  For some, this includes
+their formal education as a student of the `University of Wisconsin`_.
+
+Healthy Environment
+-------------------
+
+A healthy physical, intellectual and emotional environment is a pre-requisite
+to everyone's success.  
+
+* necessary for success
+* limitations of physical environment
+* supportive emotional and intellectual environment
+
+
+

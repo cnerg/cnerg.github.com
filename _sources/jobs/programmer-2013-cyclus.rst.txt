@@ -1,5 +1,5 @@
-Systems Programmer (UW PVL# 75373)
-==================================
+CLOSED: Systems Programmer (UW PVL# 75373)
+==========================================
 
 
 The Computational Nuclear Engineering Research Group (CNERG) is
