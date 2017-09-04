@@ -127,26 +127,34 @@ Teaching
 My primary teaching responsibilities are aligned with the research
 interests of CNERG:
 
+* `EP 271. Engineering Problem Solving I
+  <http://courses.engr.wisc.edu/course.php?deptCode=EP&courseNumber=271>`_ 
 * `NE 406. Nuclear Reactor Analysis
-  <http://www.engr.wisc.edu/ep/neep/courses/neep406.html>`_ - uses
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=406>`_ - uses
   industry-relevant software to develop deeper intuition of reactor
   physics through virtual laboratory projects
+* `NE 411. Nuclear Reactor Engineering
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=411>`_
+* `EP 476. Introduction to Scientific Computing for Engineering Physics
+  <http://courses.engr.wisc.edu/course.php?deptCode=EP&courseNumber=476>`_ 
 * `NE 506. Practicum in Monte Carlo Radiation Transport
-  <http://www.engr.wisc.edu/ep/neep/courses/neep506.html>`_ - teaches
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=506>`_ - teaches
   the fundamentals of Monte Carlo radiation transport and then
   explores their implementation in the widely used `MCNP
   <http://mcnp.lanl.gov>`_ software
 * `NE 571. Economic and Environmental Aspects of Nuclear Energy
-  <http://www.engr.wisc.edu/ep/neep/courses/neep571.html>`_ - after a
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=571>`_ - after a
   module in basic engineering economics, explores the economic,
   political and environmental aspects of nuclear energy in the past
   and in the future
-* NE 555. Nuclear Reactor Dynamics
+* `NE 555. Nuclear Reactor Dynamics
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=555>`_
 
-I have also recently joined the faculty team who teach
-`InterEng 102. Introduction to Society's Engineering Grand Challenges
-<http://www.engr.wisc.edu/interegr/courses/interegr102.html>`_.  This
-course introduces first year students to the role of engineering in
+I have been part of the faculty team who taught `InterEng 102. Introduction to
+Society's Engineering Grand Challenges
+<http://www.engr.wisc.edu/interegr/courses/interegr102.html>`_ on a number of
+occasions.  Although this course is no longer offered, it used an interesting
+structure to introduce first year students to the role of engineering in
 society's grand challenges through case studies and team projects.
 
 Outreach
