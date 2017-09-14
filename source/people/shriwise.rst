@@ -14,6 +14,11 @@ Contact Information
 | shriwise@wisc.edu
 | Phone (608) 446-8173
 
+.. image:: github.png
+   :height: 30px
+   :width: 30px
+   :target: https://github.com/pshriwise
+
 .. image:: twitter-logo.png
    :height: 30px
    :width: 30px
