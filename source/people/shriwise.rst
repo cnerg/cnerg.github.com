@@ -2,8 +2,8 @@ Patrick C. Shriwise
 ==============================
 
 .. image::  pcs.jpg
-    :align: center
-
+   :align: center
+		    	    
 Contact Information
 --------------------
 
@@ -13,7 +13,12 @@ Contact Information
 | Madison, WI 53703
 | shriwise@wisc.edu
 | Phone (608) 446-8173
-| `Twitter <https://www.twitter.com/pshriwise>`_
+
+.. image:: twitter-logo.png
+   :height: 30px
+   :width: 30px
+   :target: https://twitter.com/pshriwise
+	       
 
 Graduate Appointment
 --------------------
