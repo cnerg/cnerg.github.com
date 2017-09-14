@@ -61,7 +61,8 @@ Graduate Students
 
 .. |pcs_img| image:: shriwise-bitmoji.png
              :width: 200
-
+             :target: shriwise.html
+	    
 .. |ljj_img| image:: hacker_jacobson.JPG
              :width: 100
 
