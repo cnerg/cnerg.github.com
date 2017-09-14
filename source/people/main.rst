@@ -59,8 +59,8 @@ Graduate Students
 .. |cad_img| image:: hacker_dangelo.JPG
              :width: 100
 
-.. |pcs_img| image:: hacker_shriwise.JPG
-             :width: 100
+.. |pcs_img| image:: shriwise-bitmoji.png
+             :width: 200
 
 .. |ljj_img| image:: hacker_jacobson.JPG
              :width: 100
