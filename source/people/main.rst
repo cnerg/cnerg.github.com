@@ -69,8 +69,8 @@ Graduate Students
 .. |mh_img| image:: hacker_harb.JPG
              :width: 100
 
-.. |ao_img| image:: hacker_opotowsky.JPG
-             :width: 100
+.. |ao_img| image:: opotowsky_bitmoji_computer.png
+             :width: 200
 
 .. |kk_img| image:: kiesling-bitmoji-1.png
              :width: 200
