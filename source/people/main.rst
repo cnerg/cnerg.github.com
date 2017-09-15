@@ -72,8 +72,9 @@ Graduate Students
 .. |ao_img| image:: hacker_opotowsky.JPG
              :width: 100
 
-.. |kk_img| image:: hacker_kiesling.JPG
-             :width: 100
+.. |kk_img| image:: kiesling-bitmoji-1.png
+             :width: 200
+             :target: kiesling.html
 
 .. |ng_img| image:: hacker_granda_duarte.JPG
   	     :width: 100
