@@ -1,7 +1,7 @@
 Patrick C. Shriwise
 ==============================
 
-.. image::  pcs.jpg
+.. image:: shriwise-bitmoji-frisbee.png
    :align: center
 		    	    
 Contact Information
