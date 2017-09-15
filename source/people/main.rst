@@ -59,7 +59,7 @@ Graduate Students
 .. |cad_img| image:: hacker_dangelo.JPG
              :width: 100
 
-.. |pcs_img| image:: shriwise-bitmoji.png
+.. |pcs_img| image:: shriwise-bitmoji-emoji.png
              :width: 200
              :target: shriwise.html
 	    
