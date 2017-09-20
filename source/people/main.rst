@@ -14,8 +14,8 @@ Research Staff
 | Professor, CNERG leader         | Scientist                       | Scientist                       |
 +---------------------------------+---------------------------------+---------------------------------+
 
-.. |pphw_img| image:: hacker_wilson.JPG
-              :width: 100
+.. |pphw_img| image:: pphw-bitmoji.png
+              :width: 200
 
 .. |ad_img| image:: hacker_davis.JPG
              :width: 100
