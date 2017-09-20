@@ -14,8 +14,8 @@ Research Staff
 | Professor, CNERG leader         | Scientist                       | Scientist                       |
 +---------------------------------+---------------------------------+---------------------------------+
 
-.. |pphw_img| image:: hacker_wilson.JPG
-              :width: 100
+.. |pphw_img| image:: pphw-bitmoji.png
+              :width: 200
 
 .. |ad_img| image:: hacker_davis.JPG
              :width: 100
@@ -59,20 +59,22 @@ Graduate Students
 .. |cad_img| image:: hacker_dangelo.JPG
              :width: 100
 
-.. |pcs_img| image:: hacker_shriwise.JPG
-             :width: 100
-
+.. |pcs_img| image:: shriwise-bitmoji-emoji.png
+             :width: 200
+             :target: shriwise.html
+	    
 .. |ljj_img| image:: hacker_jacobson.JPG
              :width: 100
 
 .. |mh_img| image:: hacker_harb.JPG
              :width: 100
 
-.. |ao_img| image:: hacker_opotowsky.JPG
-             :width: 100
+.. |ao_img| image:: opotowsky_bitmoji.png
+             :width: 200
 
-.. |kk_img| image:: hacker_kiesling.JPG
-             :width: 100
+.. |kk_img| image:: kiesling-bitmoji-1.png
+             :width: 200
+             :target: kiesling.html
 
 .. |ng_img| image:: hacker_granda_duarte.JPG
   	     :width: 100
