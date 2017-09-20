@@ -67,7 +67,8 @@ Current Projects
 
 Education
 --------------------
-- University of Wisconsin, Madison, WI [current graduate student]
+- University of Wisconsin, Madison, WI  [PhD Nuclear Engineering & Engineering Physics, current]
+- University of Wisconsin, Madison, WI  [MS Nuclear Engineering & Engineering Physics, 2013]
 - Kansas State University Manhattan, KS [BS in ME, minor in NE]
 
 
