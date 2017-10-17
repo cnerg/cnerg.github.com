@@ -18,7 +18,7 @@ Contact Information
 Graduate Appointment
 --------------------
 
-I am a joint PdD. student currently working on sub-voxel activion in shutdown dose rate calculations of fusion energy systems.
+I am a joint PhD. student currently working on sub-voxel activion in shutdown dose rate calculations of fusion energy systems.
 
 Research Interests
 --------------------
