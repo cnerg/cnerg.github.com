@@ -45,7 +45,7 @@ Contact Information
 Graduate Appointment
 --------------------
 
-I am a research student currently working to improve the robustness and performance of the DAGMC toolkit.
+I am a PhD student  working to improve the robustness and performance of the DAGMC toolkit.
 
 Research Interests
 --------------------
