@@ -16,7 +16,6 @@ Current Opennings
 .. toctree::
    :maxdepth: 1
 
-   ra-2016-imaging-cvt
 
 Graduate Student Opportunities
 -----------------------------------------
@@ -99,12 +98,13 @@ every time you return to this work.  It may not be possible to offer you a
 private desk for this work.
 
 
-Recent Positions (Now closed)
-------------------------------
+Recent Positions
+----------------
 
 .. toctree::
    :maxdepth: 1
 
+   ra-2016-imaging-cvt
    pa-2015-cvt
    post-doc-2014-cyclus
    post-doc-2012-cyclus

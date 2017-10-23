@@ -1,5 +1,5 @@
-Project/Research Assistant Opportunity (2015): Social-Behavioral Modeling of Nuclear Proliferation
-==================================================================================================
+CLOSED: Project/Research Assistant Opportunity (2015): Social-Behavioral Modeling of Nuclear Proliferation
+===========================================================================================================
 
 *[Updated: August 21, 2015]*
 

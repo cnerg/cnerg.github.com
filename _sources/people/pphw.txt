@@ -6,7 +6,7 @@ Paul P.H. Wilson
 |pphw_img|
 
 | |vcard_icon|_ 
-| `wilsonp@engr.wisc.edu <mailto:wilsonp@engr.wisc.edu>`_
+| `paul.wilson@wisc.edu <mailto:paul.wilson@wisc.edu>`_
 | 608/263-0807
 | 419 Engineering Research Building
 | `1500 Engineering Dr <https://www.google.com/maps/place/Engineering+Dr,+University+of+Wisconsin-Madison,+Madison,+WI+53706/@43.0722616,-89.4113922,17z/data=!3m1!4b1!4m2!3m1!1s0x8807acc6ec542427:0x8e97163cfd1719a0>`_
@@ -14,9 +14,9 @@ Paul P.H. Wilson
 
 
 Research projects:
+|svalinn_icon|_
 |cyclus_icon|_
 |cvt_icon|_
-|aciref_icon|_
 
 Affiliations:
 |uw_icon|_
@@ -45,22 +45,19 @@ Find me on:
 
 ----
 
-Paul Wilson is a Professor of Nuclear Engineering in the
-`University of Wisconsin-Madison <http://www.wisc.edu>`_'s `Department
-of Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty
-Director of the `Advanced Computing Initiative <http://aci.wisc.edu>`_.  
-His research interests
-bring together technical and policy issues: analysis methods of
-isotopic inventories in nuclear systems and the implications on
-nuclear non-proliferation policy, and the development of next
-generation nuclear power systems to fulfill a role in future energy
-policy and needs. Paul joined the University of Wisconsin-Madison as
-an assistant professor in August 2001 as part of the `Energy Systems
-and Policy Hiring Initiative
-<http://www.clusters.wisc.edu/clusters/show/18>`_.  Paul currently 
-serves on the Program Committee (Interim Chair) of the `Energy Analysis and Policy Graduate Certificate <http://nelson.wisc.edu/eap>`_ , the Executive Committee of the `Wisconsin Energy Institute <http://www.energy.wisc.edu>`_ and the Steering Committee of the `Holtz Center for Science and
-Technology Studies <http://sts.wisc.edu>`_, and the Governance Committee of the
-`Nelson Institute <http://nelson.wisc.edu>`_ for Environmental Studies.
+Paul Wilson is the Grainger Professor of Nuclear Engineering in the
+`University of Wisconsin-Madison <http://www.wisc.edu>`_'s `Department of
+Engineering Physics <http://www.engr.wisc.edu/ep>`_.  His research
+interests focus on developing improved tools for computational modeling of
+complex nuclear energy systems, with applications in radiation shielding,
+nuclear waste management, nuclear non-proliferation and energy policy. Paul
+joined the University of Wisconsin-Madison as an assistant professor in August
+2001 as part of the `Energy Systems and Policy Hiring Initiative
+<http://www.clusters.wisc.edu/clusters/show/18>`_.  Paul currently serves on
+the Program Committee of the `Energy Analysis and Policy Graduate Certificate
+<http://nelson.wisc.edu/eap>`_ , the Executive Committee of the `Wisconsin
+Energy Institute <http://www.energy.wisc.edu>`_ and the Governance Committee
+of the `Nelson Institute <http://nelson.wisc.edu>`_ for Environmental Studies.
 
 In addition to the research pursued by his `Computational Nuclear Engineering
 Research Group (CNERG) <http://cnerg.engr.wisc.edu>`_, Paul has served in a
@@ -130,26 +127,34 @@ Teaching
 My primary teaching responsibilities are aligned with the research
 interests of CNERG:
 
+* `EP 271. Engineering Problem Solving I
+  <http://courses.engr.wisc.edu/course.php?deptCode=EP&courseNumber=271>`_ 
 * `NE 406. Nuclear Reactor Analysis
-  <http://www.engr.wisc.edu/ep/neep/courses/neep406.html>`_ - uses
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=406>`_ - uses
   industry-relevant software to develop deeper intuition of reactor
   physics through virtual laboratory projects
+* `NE 411. Nuclear Reactor Engineering
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=411>`_
+* `EP 476. Introduction to Scientific Computing for Engineering Physics
+  <http://courses.engr.wisc.edu/course.php?deptCode=EP&courseNumber=476>`_ 
 * `NE 506. Practicum in Monte Carlo Radiation Transport
-  <http://www.engr.wisc.edu/ep/neep/courses/neep506.html>`_ - teaches
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=506>`_ - teaches
   the fundamentals of Monte Carlo radiation transport and then
   explores their implementation in the widely used `MCNP
   <http://mcnp.lanl.gov>`_ software
 * `NE 571. Economic and Environmental Aspects of Nuclear Energy
-  <http://www.engr.wisc.edu/ep/neep/courses/neep571.html>`_ - after a
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=571>`_ - after a
   module in basic engineering economics, explores the economic,
   political and environmental aspects of nuclear energy in the past
   and in the future
-* NE 555. Nuclear Reactor Dynamics
+* `NE 555. Nuclear Reactor Dynamics
+  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=555>`_
 
-I have also recently joined the faculty team who teach
-`InterEng 102. Introduction to Society's Engineering Grand Challenges
-<http://www.engr.wisc.edu/interegr/courses/interegr102.html>`_.  This
-course introduces first year students to the role of engineering in
+I have been part of the faculty team who taught `InterEng 102. Introduction to
+Society's Engineering Grand Challenges
+<http://www.engr.wisc.edu/interegr/courses/interegr102.html>`_ on a number of
+occasions.  Although this course is no longer offered, it used an interesting
+structure to introduce first year students to the role of engineering in
 society's grand challenges through case studies and team projects.
 
 Outreach
@@ -177,10 +182,6 @@ otherwise act as a reference, for current and former students.  If you
 are seeking my support, please read my :doc:`guidelines for providing
 recommendations/references <pphw_reference>`.
 
-.. toctree::
-   :hidden:
-
-   pphw_reference
 
 ----
 
@@ -257,9 +258,9 @@ recommendations/references <pphw_reference>`.
               :width: 32
 .. _cvt_icon: http://cvt.engin.umich.edu
 
-.. |aciref_icon| image:: ACIREF.png
+.. |svalinn_icon| image:: svalinn.png
               :height: 32
-.. _aciref_icon: http://aci-ref.org
+.. _svalinn_icon: http://svalinn.github.io
 
 .. |swc_icon| image:: swc.png
               :width: 32
