@@ -35,9 +35,9 @@ Graduate Students
 |                                    |                                    |                                  |                                |                                       |
 | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Owen Selles <selles>`   |    :doc:`Xiaokang Zhang <xzhang>`     |
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
-|                                    |  |km_img|                          |                                  |                                |                                       |
+| |aaswenson|                        |  |km_img|                          |                                  |                                |                                       |
 |                                    |                                    |                                  |                                |                                       |
-|                                    |  :doc:`Katie Mummah <mummah>`      |                                  |                                |                                       |
+| :doc:`Alex Swenson <aaswenson>`    |  :doc:`Katie Mummah <mummah>`      |                                  |                                |                                       |
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 
 .. toctree::
@@ -96,14 +96,17 @@ Graduate Students
 .. |km_img| image:: hacker_blank.JPG
          :width: 100
 
+.. |aaswenson| image:: aaswenson.JPG
+  	     :width: 100 
+
 Undergraduate Students & Interns
 ---------------------------------
 
-+------------------------------------+------------------------------------+------------------------------------+
-|                                    |                                    |                                    |
-|                                    |                                    |                                    |
-| :doc:`Ellis Wilson <ejwilson3>`    | :doc:`Alex Swenson <aaswenson>`    | :doc:`Lane Schultz <leschultz>`    |
-+------------------------------------+------------------------------------+------------------------------------+
++------------------------------------+------------------------------------+
+|                                    |                                    |
+|                                    |                                    |
+| :doc:`Ellis Wilson <ejwilson3>`    | :doc:`Lane Schultz <leschultz>`    |
++------------------------------------+------------------------------------+
 
 Employment Opportunties
 -----------------------------
