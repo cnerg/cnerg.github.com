@@ -24,7 +24,7 @@ Find me on:
 Graduate Appointment
 ---------------------
 
-Fellow, Consortium for Verification Technology
+Fellow, `Consortium for Verification Technology <https://cvt.engin.umich.edu/>`_
 
 Research Interests
 -------------------
@@ -53,4 +53,4 @@ Education
 
 .. |wb_icon| image:: website-logo.png
               :width: 32
-.. _wb_icon: https://nuclearkatie.com
+.. _wb_icon: http://nuclearkatie.com
