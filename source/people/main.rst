@@ -106,6 +106,7 @@ Undergraduate Students & Interns
 |                                    |                                    |                                    |
 | :doc:`Ellis Wilson <ejwilson3>`    | :doc:`Samuel Stern <sstern>`       | :doc:`Lane Schultz <leschultz>`    |
 +------------------------------------+------------------------------------+------------------------------------+
+=======
 
 Employment Opportunties
 -----------------------------
