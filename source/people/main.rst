@@ -28,12 +28,16 @@ Graduate Students
 
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 | |cad_img|                          | |pcs_img|                          | |ljj_img|                        | |mh_img|                       | |ao_img|                              |
-|                                    |                                    |                                  |                                |                                       |  
-| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` |  
+|                                    |                                    |                                  |                                |                                       |
+| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` |
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 | |kk_img|                           |  |ng_img|                          | |yp_img|                         | |sel_img|                      |    |xzhang_img|                       |
 |                                    |                                    |                                  |                                |                                       |
 | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Owen Selles <selles>`   |    :doc:`Xiaokang Zhang <xzhang>`     |
++------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
+|                                    |  |km_img|                          |                                  |                                |                                       |
+|                                    |                                    |                                  |                                |                                       |
+|                                    |  :doc:`Katie Mummah <mummah>`      |                                  |                                |                                       |
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 
 .. toctree::
@@ -52,10 +56,11 @@ Graduate Students
    granda
    park
    selles
+   mummah
    ejwilson3
    aaswenson
    leschultz
-   xzhang   
+   xzhang
 
 .. |cad_img| image:: hacker_dangelo.JPG
              :width: 100
@@ -63,7 +68,7 @@ Graduate Students
 .. |pcs_img| image:: hacker_shriwise.JPG
              :width: 100
              :target: shriwise.html
-	    
+
 .. |ljj_img| image:: hacker_jacobson.JPG
              :width: 100
 
@@ -80,13 +85,16 @@ Graduate Students
   	     :width: 100
 
 .. |yp_img| image:: hacker_park.JPG
-  	     :width: 100 
+  	     :width: 100
 
 .. |sel_img| image:: hacker_blank.JPG
-  	     :width: 100 
+  	     :width: 100
 
 .. |xzhang_img| image:: hacker_blank.JPG
-  	     :width: 100 
+  	     :width: 100
+
+.. |km_img| image:: hacker_blank.JPG
+         :width: 100
 
 Undergraduate Students & Interns
 ---------------------------------
@@ -123,7 +131,7 @@ Alumni
 * Courtlan McLay, Programmer (2015)
 * Damien Moule, MS(2011)
 * Phiphat Phruksarojanakun, PhD(2007), Thai `Office of Atoms for Peace <http://www.oaep.go.th/index_en.php>`_
-* `Kyle Oliver <http://www.kyleoliver.net/>`_, MS(2009) 
+* `Kyle Oliver <http://www.kyleoliver.net/>`_, MS(2009)
 * `Tracy Radel <https://www.linkedin.com/pub/tracy-radel/24/6b7/495>`_, MS(2007), `Shine Medical Technologies <http://shinemed.com>`_
 * Olzhas Rakhimov, Research Support (2013-2014)
 * `Eric Relson <http://hackaday.io/hacker/614-gertlex>`_, MS(2013)
@@ -140,4 +148,3 @@ Alumni
 * Zach Welch, Research Support (2013-2015), Amazon
 * John Xia, Research Staff (2014-2015)
 * Julie Zachman, Programmer (2013-2015), UW-Madison
-
