@@ -3,6 +3,9 @@ CNERG Documentation
 
 (Note: Sphinx versions higher than 1.1.2 are required.)
 
+Help to update the CNERG can be found
+[here](https://docs.google.com/document/d/1s8DR-TDpMsZ3Sl_vQJZDEtbrFVOfium1BRJlWVjeRig/edit).
+
 A 2 branch system has been implemented to maintain a clean process of
 rebuilding this site.
 
