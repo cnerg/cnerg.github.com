@@ -100,13 +100,18 @@ all the required dependencies to build the website cnerg/cenrg_XXXX.
 
 1. go into your folder hosting cnerg website sources
 
-2. run the docker container: `docker run -v $PWD:/local_drive -it baaaaam/cnerg`
+2. run the docker container: 
 
-3. go into the mounted folder in docker: `cd /local_drive`
+    ```docker run -v $PWD:/local_drive -it baaaaam/cnerg```
 
-4. build a preview of the website: `make gh-preview`
+3. go into the mounted folder in docker: 
+    ```cd /local_drive```
 
-5. quit docker: `exit`
+4. build a preview of the website: 
+    ```make gh-preview```
 
-you can now preview your modify version of the website: `open
-gh-build/index.htlm`
+5. quit docker: 
+    ```exit```
+
+6. preview your modify version of the website: 
+    ```open gh-build/index.htlm````
