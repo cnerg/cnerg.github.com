@@ -114,4 +114,5 @@ all the required dependencies to build the website cnerg/cenrg_XXXX.
     ```exit```
 
 6. preview your modify version of the website: 
+
     ```open gh-build/index.htlm````
