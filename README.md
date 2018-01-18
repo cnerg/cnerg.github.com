@@ -113,6 +113,4 @@ all the required dependencies to build the website cnerg/cenrg_XXXX.
 5. quit docker: 
     ```exit```
 
-6. preview your modify version of the website: 
-
-    ```open gh-build/index.htlm````
+6. preview your modify version of the website using your prefered web browser.
