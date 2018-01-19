@@ -103,7 +103,7 @@ please clone it first):
 
 1. run the docker container: 
 
-    ```docker run -v $PWD:/local_drive -it http://cnerg.github.io```
+    ```docker run -v $PWD:/local_drive -it cnerg/cnerg.github.io-deps```
 
 2. go into the mounted folder in docker: 
     ```cd /local_drive```
