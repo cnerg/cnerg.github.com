@@ -96,13 +96,14 @@ Best practice for managing a pull request
 Use docker to build and preview the website
 --------------------------------------------
 To build CNERG website using docker you can use the cnerg container containing
-all the required dependencies to build the website cnerg/cenrg_XXXX.
+all the required dependencies to build the website
+`cnerg/cnerg.github.io-deps`.
 From the directory containing the website repository (if you don't have one yet
 please clone it first):
 
 1. run the docker container: 
 
-    ```docker run -v $PWD:/local_drive -it baaaaam/cnerg```
+    ```docker run -v $PWD:/local_drive -it http://cnerg.github.io```
 
 2. go into the mounted folder in docker: 
     ```cd /local_drive```
