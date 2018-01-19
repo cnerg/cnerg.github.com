@@ -5,7 +5,7 @@ CNERG Documentation
 
 Documentation about adding a new person to the CNERG website can be found
 [here](https://docs.google.com/document/d/1s8DR-TDpMsZ3Sl_vQJZDEtbrFVOfium1BRJlWVjeRig/edit).
-It also contains some informations on downloading and building the website.
+It also contains some information on downloading and building the website.
 
 
 A 2 branch system has been implemented to maintain a clean process of
