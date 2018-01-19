@@ -97,20 +97,20 @@ Use docker to build and preview the website
 --------------------------------------------
 To build CNERG website using docker you can use the cnerg container containing
 all the required dependencies to build the website cnerg/cenrg_XXXX.
+From the directory containing the website repository (if you don't have one yet
+please clone it first):
 
-1. go into your folder hosting cnerg website sources
-
-2. run the docker container: 
+1. run the docker container: 
 
     ```docker run -v $PWD:/local_drive -it baaaaam/cnerg```
 
-3. go into the mounted folder in docker: 
+2. go into the mounted folder in docker: 
     ```cd /local_drive```
 
-4. build a preview of the website: 
+3. build a preview of the website: 
     ```make gh-preview```
 
-5. quit docker: 
+4. quit docker: 
     ```exit```
 
-6. preview your modify version of the website using your prefered web browser.
+5. preview your modify version of the website using your prefered web browser.
