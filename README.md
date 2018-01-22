@@ -114,4 +114,4 @@ please clone it first):
 4. quit docker: 
     ```exit```
 
-5. preview your modify version of the website using your prefered web browser.
+5. preview your modified version of the website using your prefered web browser.
