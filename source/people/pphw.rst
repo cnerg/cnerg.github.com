@@ -55,9 +55,8 @@ joined the University of Wisconsin-Madison as an assistant professor in August
 2001 as part of the `Energy Systems and Policy Hiring Initiative
 <http://www.clusters.wisc.edu/clusters/show/18>`_.  Paul currently serves on
 the Program Committee of the `Energy Analysis and Policy Graduate Certificate
-<http://nelson.wisc.edu/eap>`_ , the Executive Committee of the `Wisconsin
-Energy Institute <http://www.energy.wisc.edu>`_ and the Governance Committee
-of the `Nelson Institute <http://nelson.wisc.edu>`_ for Environmental Studies.
+<http://nelson.wisc.edu/eap>`_ and the Executive Committee of the `Wisconsin
+Energy Institute <http://www.energy.wisc.edu>`_.
 
 In addition to the research pursued by his `Computational Nuclear Engineering
 Research Group (CNERG) <http://cnerg.engr.wisc.edu>`_, Paul has served in a
@@ -128,27 +127,27 @@ My primary teaching responsibilities are aligned with the research
 interests of CNERG:
 
 * `EP 271. Engineering Problem Solving I
-  <http://courses.engr.wisc.edu/course.php?deptCode=EP&courseNumber=271>`_ 
+  <http://guide.wisc.edu/courses/e_p/>`_ 
 * `NE 406. Nuclear Reactor Analysis
-  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=406>`_ - uses
+  <http://guide.wisc.edu/courses/n_e/>`_ - uses
   industry-relevant software to develop deeper intuition of reactor
   physics through virtual laboratory projects
 * `NE 411. Nuclear Reactor Engineering
-  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=411>`_
+  <http://guide.wisc.edu/courses/n_e/>`_
 * `EP 476. Introduction to Scientific Computing for Engineering Physics
-  <http://courses.engr.wisc.edu/course.php?deptCode=EP&courseNumber=476>`_ 
+  <http://guide.wisc.edu/courses/e_p/>`_ 
 * `NE 506. Practicum in Monte Carlo Radiation Transport
-  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=506>`_ - teaches
+  <http://guide.wisc.edu/courses/n_e/>`_ - teaches
   the fundamentals of Monte Carlo radiation transport and then
   explores their implementation in the widely used `MCNP
   <http://mcnp.lanl.gov>`_ software
 * `NE 571. Economic and Environmental Aspects of Nuclear Energy
-  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=571>`_ - after a
+  <http://guide.wisc.edu/courses/n_e/>`_ - after a
   module in basic engineering economics, explores the economic,
   political and environmental aspects of nuclear energy in the past
   and in the future
 * `NE 555. Nuclear Reactor Dynamics
-  <http://courses.engr.wisc.edu/course.php?deptCode=NE&courseNumber=555>`_
+  <http://guide.wisc.edu/courses/n_e/>`_
 
 I have been part of the faculty team who taught `InterEng 102. Introduction to
 Society's Engineering Grand Challenges
