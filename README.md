@@ -97,3 +97,26 @@ Best practice for managing a pull request
 
      ```make gh-publish```
 
+
+Use docker to build and preview the website
+--------------------------------------------
+To build CNERG website using docker you can use the cnerg container containing
+all the required dependencies to build the website
+`cnerg/cnerg.github.io-deps`.
+From the directory containing the website repository (if you don't have one yet
+please clone it first):
+
+1. run the docker container: 
+
+    ```docker run -v $PWD:/local_drive -it cnerg/cnerg.github.io-deps```
+
+2. go into the mounted folder in docker: 
+    ```cd /local_drive```
+
+3. build a preview of the website: 
+    ```make gh-preview```
+
+4. quit docker: 
+    ```exit```
+
+5. preview your modified version of the website using your prefered web browser.
