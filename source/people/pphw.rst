@@ -187,9 +187,9 @@ recommendations/references <pphw_reference>`.
 
 :download:`. <pphw.vcf>`
 
-.. |pphw_img| image:: pphw2.jpg
-              :width: 400
-
+.. |pphw_img| image:: pphw3.jpg
+              :height: 400
+            
 .. |fb_icon| image:: facebook.png
               :width: 32
 .. _fb_icon: http://facebook.com/gonuke
