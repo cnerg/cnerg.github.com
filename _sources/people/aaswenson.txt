@@ -6,23 +6,21 @@ Contact Information
 
 | `E-mail <aaswenson@wisc.edu>`_
 
-Alex is an undergraduate assistant in CNERG.  He is helping with MCNP model verification for the University of Wisconsin Nuclear Reactor.
 
-He is originally from Milwaukee, now in his 5th year at UW-Madison.
+Graduate Appointment
+---------------------
+
+Research assistant performing system optimization for a space reactor system. 
 
 Research Interests
-------------------
+-------------------
 
-* Scientific computing/software development
-* Computational neutronics
-* Reactor physics
-
-Current Projects
-----------------
-
-* UWNR Modeling
+ * Monte Carlo radiation transport
+ * Reactor physics 
 
 Education
----------
+----------
 
-* University of Wisconsin, Madison, WI [current undergraduate]
+ * University of Wisconsin, Madison, WI, B.S in Nuclear Engineering (2017)
+ * University of Wisconsin, Madison, WI, M.S in Nuclear Engineering and
+   Engineering Physics (current)
