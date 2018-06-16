@@ -30,7 +30,7 @@ Graduate Students
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 | |cad_img|                          | |pcs_img|                          | |ljj_img|                        | |mh_img|                       | |ao_img|                              |
 |                                    |                                    |                                  |                                |                                       |
-| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` |
+| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` | :doc:`Moataz Harb <mharb>`     | :doc:`Arrielle Opotowsky <opotowsky>` |
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 | |kk_img|                           |  |ng_img|                          | |yp_img|                         | |xzhang_img|                   |  |aaswenson|                          |
 |                                    |                                    |                                  |                                |                                       |
