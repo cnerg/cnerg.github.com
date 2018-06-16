@@ -2,14 +2,14 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Paul Wilson
 N:Wilson;Paul;;;
-EMAIL;TYPE=INTERNET:wilsonp@engr.wisc.edu
+EMAIL;TYPE=INTERNET:paul.wilson@wisc.edu
 EMAIL;TYPE=INTERNET:uwgonuke@gmail.com
 TEL:608-218-4780
 TEL;TYPE=CELL:608-469-9615
 TEL;TYPE=WORK:608-263-0807
 item1.TEL:605-562-0020\,\,474061617\,\,1438
 item1.X-ABLabel:Bridge
-ADR;TYPE=WORK:;;419 ERB;1500 Engineering Dr;Madison\, WI 53706;;
+ADR;TYPE=WORK:;;443 ERB;1500 Engineering Dr;Madison\, WI 53706;;
 ORG:U. Wisconsin-Madison
 TITLE: Professor
 END:VCARD

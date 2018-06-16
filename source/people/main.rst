@@ -7,18 +7,19 @@ Research Staff
 --------------
 
 +---------------------------------+---------------------------------+---------------------------------+
-| |pphw_img|                      | |ad_img|                        | |bam_img|                       |
+| |pphw_img|_                     | |tb_img|                        | |bam_img|                       |
 |                                 |                                 |                                 |
-| :doc:`Paul Wilson <pphw>`       | :doc:`Andrew Davis <adavis>`    | :doc:`Baptiste Mouginot <bam>`  |
+| :doc:`Paul Wilson <pphw>`       | Tim Bohm                        | :doc:`Baptiste Mouginot <bam>`  |
 |                                 |                                 |                                 |
 | Professor, CNERG leader         | Scientist                       | Scientist                       |
 +---------------------------------+---------------------------------+---------------------------------+
 
-.. |pphw_img| image:: hacker_wilson.JPG
+.. |pphw_img| image:: pphw4.jpg
               :width: 100
-
-.. |ad_img| image:: hacker_davis.JPG
-             :width: 100
+.. _pphw_img: pphw.html
+                      
+.. |tb_img| image:: hacker_blank.JPG
+         :width: 100
 
 .. |bam_img| image:: hacker_mouginot.JPG
               :width: 100
@@ -29,15 +30,15 @@ Graduate Students
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 | |cad_img|                          | |pcs_img|                          | |ljj_img|                        | |mh_img|                       | |ao_img|                              |
 |                                    |                                    |                                  |                                |                                       |
-| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` |
+| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` | :doc:`Moataz Harb <mharb>`     | :doc:`Arrielle Opotowsky <opotowsky>` |
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
-| |kk_img|                           |  |ng_img|                          | |yp_img|                         | |sel_img|                      |    |xzhang_img|                       |
+| |kk_img|                           |  |ng_img|                          | |yp_img|                         | |xzhang_img|                   |  |aaswenson|                          |
 |                                    |                                    |                                  |                                |                                       |
-| :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Owen Selles <selles>`   |    :doc:`Xiaokang Zhang <xzhang>`     |
+| :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      | :doc:`Xiaokang Zhang <xzhang>` |  :doc:`Alex Swenson <aaswenson>`      |
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
-| |aaswenson|                        |  |km_img|                          |                                  |                                |                                       |
+|  |km_img|                          |                                    |                                  |                                |                                       |
 |                                    |                                    |                                  |                                |                                       |
-| :doc:`Alex Swenson <aaswenson>`    |  :doc:`Katie Mummah <mummah>`      |                                  |                                |                                       |
+|  :doc:`Katie Mummah <mummah>`      |                                    |                                  |                                |                                       |
 +------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
 
 .. toctree::
@@ -102,11 +103,11 @@ Graduate Students
 Undergraduate Students & Interns
 ---------------------------------
 
-+------------------------------------+------------------------------------+------------------------------------+
-|                                    |                                    |                                    |
-|                                    |                                    |                                    |
-| :doc:`Ellis Wilson <ejwilson3>`    | :doc:`Samuel Stern <sstern>`       | :doc:`Lane Schultz <leschultz>`    |
-+------------------------------------+------------------------------------+------------------------------------+
++------------------------------------+------------------------------------+
+|                                    |                                    |
+|                                    |                                    |
+| :doc:`Ellis Wilson <ejwilson3>`    | :doc:`Samuel Stern <sstern>`       |
++------------------------------------+------------------------------------+
 
 Employment Opportunties
 -----------------------------
@@ -118,12 +119,15 @@ Alumni
 * `Tae Wook Ahn <http://www.oaep.go.th/index_en.php>`_, MS(2010), Exelon Nuclear
 * Elliott Biondo, PhD(2016), `Oak Ridge National Laboratory <http://www.ornl.gov>`_
 * Geoff Bull, MS(2005), US Army
+* Drew Buys, PA (2017)
 * Robert Carlsen, PhD(2016), `Idaho National Laboratory <http://www.inl.gov>`_
+* Andrew Davis, Scientist (2012-2017), `Culham Centre for Fusion Energy <http://www.ccfe.ac.uk/>`_
 * Kerry Dunn, PhD(2014), `Sandia National Laboratories (Albuquerque) <http://www.sandia.gov>`_
 * Eric Edwards, PhD(2007), `Shine Medical Technologies <http://shinemed.com>`_
 * `Matthew Gidden <http://www.mattgidden.com>`_, PhD(2015), `International Institute for Applied Systems Analysis (IIASA) <http://www.iiasa.ac.at/>`_
 * Ryan Grady, MS(2008), Exelon
 * Po Hu, PhD(2008), Shanghai Jiaotong Unviersity
+* Chris Hoffman, MS(2017)
 * `Katy Huff <http://katyhuff.github.io/>`_, PhD(2013), `U. Illinois at Urbana-Champaign <http://npre.illinois.edu/>`_
 * Paul Humrickhouse, MS(2005), `Idaho National Laboratory <http://www.inl.gov>`_
 * `Brian Kiedrowski <http://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski>`_, PhD(2009), University of Michigan
@@ -141,6 +145,8 @@ Alumni
 * `Jeremy Roberts <http://www.mne.ksu.edu/people/faculty/roberts>`_, MS(2009), `Kansas State Univeristy <http://www.ksu.edu>`_
 * Ben Schmitt, MS(2006), Global Nuclear Fuels
 * `Andy Scholbrock <https://www.linkedin.com/pub/eric-relson/12/4a7/538>`_, BS(2009), `National Renewable Energy Laboratory <http://www.nrel.gov>`_
+* Lane Schultz, REU (2017), Fort Lewis College    
+* Owen Selles, PA (2017), UW-Madison
 * Anthony Scopatz, Scientist (2013-2015), `University of South Carolina <http://www.me.sc.edu/nuclear/academics.html>`_
 * `Tim Setter <https://www.linkedin.com/pub/tim-setter/92/254/552>`_, MS(2007), Tennesse Valley Authority
 * `Stuart Slattery <http://www.csm.ornl.gov/newsite/cees.html>`_, PhD(2013), `Oak Ridge National Laboratory <http://www.ornl.gov>`_
