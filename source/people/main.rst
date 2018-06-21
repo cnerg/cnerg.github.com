@@ -17,7 +17,7 @@ Research Staff
 .. |pphw_img| image:: pphw4.jpg
               :width: 100
 .. _pphw_img: pphw.html
-                      
+
 .. |tb_img| image:: hacker_blank.JPG
          :width: 100
 
@@ -81,24 +81,25 @@ Graduate Students
 
 .. |kk_img| image:: hacker_kiesling.JPG
              :width: 100
+             :target: kiesling.html
 
 .. |ng_img| image:: hacker_granda_duarte.JPG
-  	     :width: 100
+         :width: 100
 
 .. |yp_img| image:: hacker_park.JPG
-  	     :width: 100
+         :width: 100
 
 .. |sel_img| image:: hacker_blank.JPG
-  	     :width: 100
+         :width: 100
 
 .. |xzhang_img| image:: hacker_blank.JPG
-  	     :width: 100
+         :width: 100
 
 .. |km_img| image:: hacker_blank.JPG
          :width: 100
 
 .. |aaswenson| image:: aaswenson.JPG
-  	     :width: 100 
+         :width: 100
 
 Undergraduate Students & Interns
 ---------------------------------
@@ -145,7 +146,7 @@ Alumni
 * `Jeremy Roberts <http://www.mne.ksu.edu/people/faculty/roberts>`_, MS(2009), `Kansas State Univeristy <http://www.ksu.edu>`_
 * Ben Schmitt, MS(2006), Global Nuclear Fuels
 * `Andy Scholbrock <https://www.linkedin.com/pub/eric-relson/12/4a7/538>`_, BS(2009), `National Renewable Energy Laboratory <http://www.nrel.gov>`_
-* Lane Schultz, REU (2017), Fort Lewis College    
+* Lane Schultz, REU (2017), Fort Lewis College
 * Owen Selles, PA (2017), UW-Madison
 * Anthony Scopatz, Scientist (2013-2015), `University of South Carolina <http://www.me.sc.edu/nuclear/academics.html>`_
 * `Tim Setter <https://www.linkedin.com/pub/tim-setter/92/254/552>`_, MS(2007), Tennesse Valley Authority
