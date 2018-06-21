@@ -86,9 +86,8 @@ Generation in Nuclear [NA-YGN] <http://www.na-ygn.org>`_, an
 organization created to provide unique opportunities to young
 professionals in all fields of nuclear science & technology. Paul has
 been active in the `American Nuclear Society <http://www.ans.org>`_
-for over 15 years, including membership in various committees and
-chairing the Student Sections Committee and the Special Committee on
-Electronic Communications and Publications.  Paul also represented the
+for over 20 years, and currently serves on its Board of Directors.
+Paul also represented the
 ANS and NA-YGN at the `international climate change negotiations
 <http://unfccc.int/>`_ in Buenos Aires, Argentina (1998), and Bonn,
 Germany (1999). He is a member of the American and Canadian Nuclear
