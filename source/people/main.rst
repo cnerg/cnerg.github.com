@@ -79,7 +79,7 @@ Graduate Students
 .. |ao_img| image:: hacker_opotowsky.JPG
              :width: 100
 
-.. |kk_img| image:: hacker_kiesling.JPG
+.. |kk_img| image:: kiesling.png
              :width: 100
              :target: kiesling.html
 
