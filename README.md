@@ -120,3 +120,32 @@ please clone it first):
     ```exit```
 
 5. preview your modified version of the website using your prefered web browser.
+
+Use docker to publish the website
+----------------------------------
+To build CNERG website using docker you can use the cnerg container containing
+all the required dependencies to build the website
+`cnerg/cnerg.github.io-deps`.
+
+This is separated into two steps since this is easier than making your git
+config info available inside the docker container.
+
+From the directory containing the website repository (if you don't have one yet
+please clone it first):
+
+1. run the docker container: 
+
+    ```docker run -u $UID -v $PWD:/local_drive -it cnerg/cnerg.github.io-deps```
+
+2. go into the mounted folder in docker: 
+    ```cd /local_drive```
+
+3. stage the updated website for publication
+    ```make docker-gh-stage```
+
+4. quit docker: 
+    ```exit```
+
+5. publish the updated website
+     ```make docker-gh-push```
+
