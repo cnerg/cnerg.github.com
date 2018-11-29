@@ -39,6 +39,7 @@ More Information
    papers/main
    infrastructure
    projects/workflow
+   CODE_OF_CONDUCT
    Intranet <https://drive.google.com/a/wisc.edu/folderview?id=0B0PIxd5nzgICQVYwV2ozVmRxWkk&usp=sharing>
    upload
 
