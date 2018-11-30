@@ -30,7 +30,7 @@ More Information
 
 .. toctree::
    :maxdepth: 1
- 
+
    archive
    projects/main
    projects/software
@@ -39,7 +39,7 @@ More Information
    papers/main
    infrastructure
    projects/workflow
-   CODE_OF_CONDUCT
+   codeofconduct
    Intranet <https://drive.google.com/a/wisc.edu/folderview?id=0B0PIxd5nzgICQVYwV2ozVmRxWkk&usp=sharing>
    upload
 
