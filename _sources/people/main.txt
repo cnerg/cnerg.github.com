@@ -27,19 +27,19 @@ Research Staff
 Graduate Students
 -----------------
 
-+------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
-| |cad_img|                          | |pcs_img|                          | |ljj_img|                        | |mh_img|                       | |ao_img|                              |
-|                                    |                                    |                                  |                                |                                       |
-| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` | :doc:`Moataz Harb <mharb>`     | :doc:`Arrielle Opotowsky <opotowsky>` |
-+------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
-| |kk_img|                           |  |ng_img|                          | |yp_img|                         | |xzhang_img|                   |  |aaswenson|                          |
-|                                    |                                    |                                  |                                |                                       |
-| :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      | :doc:`Xiaokang Zhang <xzhang>` |  :doc:`Alex Swenson <aaswenson>`      |
-+------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
-|  |km_img|                          |                                    |                                  |                                |                                       |
-|                                    |                                    |                                  |                                |                                       |
-|  :doc:`Katie Mummah <mummah>`      |                                    |                                  |                                |                                       |
-+------------------------------------+------------------------------------+----------------------------------+--------------------------------+---------------------------------------+
++------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
+| |cad_img|                          | |ljj_img|                        | |mh_img|                         | |ao_img|                              | |kk_img|                           |
+|                                    |                                  |                                  |                                       |                                    |
+| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Lucas Jacobson <jacobson>` | :doc:`Moataz Harb <mharb>`       | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |
++------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
+|  |ng_img|                          | |yp_img|                         |  |aaswenson|                     |  |km_img|                             | |kb_img|                           |
+|                                    |                                  |                                  |                                       |                                    |
+| :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Alex Swenson <aaswenson>` |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       |
++------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
+| |xzhang_img|                       |                                  |                                  |                                       |                                    |
+|                                    |                                  |                                  |                                       |                                    |
+| :doc:`Xiaokang Zhang <xzhang>`     |                                  |                                  |                                       |                                    | 
++------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
 
 .. toctree::
    :maxdepth: 1
@@ -98,17 +98,20 @@ Graduate Students
 .. |km_img| image:: hacker_blank.JPG
          :width: 100
 
+.. |kb_img| image:: hacker_blank.JPG
+         :width: 100
+
 .. |aaswenson| image:: aaswenson.JPG
          :width: 100
 
 Undergraduate Students & Interns
 ---------------------------------
 
-+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
-|                                    |                                    |                                    |                                    |
-|                                    |                                    |                                    |                                    |
-| :doc:`Ellis Wilson <ejwilson3>`    | :doc:`Samuel Stern <sstern>`       | :doc:`Piper Lincoln <plincoln>`    | :doc:`Matthew Nyberg <mnyberg>`    |
-+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
++------------------------------------+------------------------------------+------------------------------------+
+|                                    |                                    |                                    |
+|                                    |                                    |                                    |
+| :doc:`Samuel Stern <sstern>`       | :doc:`Piper Lincoln <plincoln>`    | :doc:`Matthew Nyberg <mnyberg>`    |
++------------------------------------+------------------------------------+------------------------------------+
 
 Employment Opportunties
 -----------------------------
@@ -152,9 +155,11 @@ Alumni
 * `Tim Setter <https://www.linkedin.com/pub/tim-setter/92/254/552>`_, MS(2007), Tennesse Valley Authority
 * `Stuart Slattery <http://www.csm.ornl.gov/newsite/cees.html>`_, PhD(2013), `Oak Ridge National Laboratory <http://www.ornl.gov>`_
 * `Rachel Slaybaugh <https://www.nuc.berkeley.edu/people/rachel-slaybaugh>`_, PhD(2012), U. California-Berkeley
+* `Patrick Shriwise <https://pshriwise.github.io>`_, PhD(2018), `Argonne National Laboratory <http://www.anl.gov>`_
 * Brandon Smith, PhD(2011), `Los Alamos National Laboratory <http://www.lanl.gov>`_
 * `Patrick Snouffer <https://www.linkedin.com/pub/patrick-snouffer/11/8a5/594>`_, MS(2011), `Sandia National Laboratories <http://www.sandia.gov>`_
 * Chris Staum, MS(2006), `Exelon <http://www.exeloncorp.com>`_
 * Zach Welch, Research Support (2013-2015), Amazon
+* Ellis Wilson, BSEP(2018)    
 * John Xia, Research Staff (2014-2015)
 * Julie Zachman, Programmer (2013-2015), UW-Madison
