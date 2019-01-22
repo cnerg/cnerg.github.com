@@ -32,13 +32,9 @@ Graduate Students
 |                                    |                                  |                                  |                                       |                                    |
 | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Lucas Jacobson <jacobson>` | :doc:`Moataz Harb <mharb>`       | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |
 +------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
-|  |ng_img|                          | |yp_img|                         |  |aaswenson|                     |  |km_img|                             | |kb_img|                           |
+|  |ng_img|                          | |yp_img|                         |  |km_img|                        | |kb_img|                              | |xzhang_img|                       |
 |                                    |                                  |                                  |                                       |                                    |
-| :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Alex Swenson <aaswenson>` |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       |
-+------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
-| |xzhang_img|                       |                                  |                                  |                                       |                                    |
-|                                    |                                  |                                  |                                       |                                    |
-| :doc:`Xiaokang Zhang <xzhang>`     |                                  |                                  |                                       |                                    | 
+| :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`    | Katie Biegel                          | :doc:`Xiaokang Zhang <xzhang>`     |
 +------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
 
 .. toctree::
@@ -159,6 +155,7 @@ Alumni
 * Brandon Smith, PhD(2011), `Los Alamos National Laboratory <http://www.lanl.gov>`_
 * `Patrick Snouffer <https://www.linkedin.com/pub/patrick-snouffer/11/8a5/594>`_, MS(2011), `Sandia National Laboratories <http://www.sandia.gov>`_
 * Chris Staum, MS(2006), `Exelon <http://www.exeloncorp.com>`_
+* Alex Swenson, MS(2019), `Shine Medical Technologies <https://shinemed.com/>`_    
 * Zach Welch, Research Support (2013-2015), Amazon
 * Ellis Wilson, BSEP(2018)    
 * John Xia, Research Staff (2014-2015)
