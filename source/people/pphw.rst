@@ -55,8 +55,7 @@ University of Wisconsin-Madison as an assistant professor in August 2001 as
 part of the `Energy Systems and Policy Hiring Initiative
 <http://www.clusters.wisc.edu/clusters/show/18>`_.  Paul currently serves as
 Chair of the `Energy Analysis and Policy Graduate Certificate
-<http://eap.wisc.edu/>`_ and on the Executive Committee of the
-`Wisconsin Energy Institute <http://www.energy.wisc.edu>`_ and the Governance
+<http://eap.wisc.edu/>`_ and on the Governance
 Committee of the `Nelson Institute for Environmental Studies
 <http://nelson.wisc.edu>`_.
 
