@@ -16,6 +16,7 @@ Current Opennings
 .. toctree::
    :maxdepth: 1
 
+   post-doc-2019-eti
 
 Graduate Student Opportunities
 -----------------------------------------
