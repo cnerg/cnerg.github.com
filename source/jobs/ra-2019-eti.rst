@@ -1,5 +1,5 @@
-Post-Doctoral Associate Opportunity (2019): Data Science for Nuclear Non-Proliferation
-=======================================================================================
+Research Assistant Opportunity (2019): Data Science for Nuclear Non-Proliferation
+=================================================================================
 
 *[Updated: March 27, 2019]*
 
@@ -26,35 +26,17 @@ data analytics algorithms to nuclear non-proliferation data sets, through the
 development of a framework that integrates both new and existing algorithms
 and data streams.
 
-Degree and area of specialization
-----------------------------------
+Experience and Desired Skills
+------------------------------
 
-* PhD in Computer Science, Electrical Engineering, Statistics, Industrial
-  Engineering, Nuclear Engineering or related field
+Candidates will be evaluated aginst the following criteria:
 
-Required experience
----------------------
-
-* Demonstrated experience with development and testing of machine learning
-  and/or data fusion algorithms
-
-* Some experience with components of a modern team-based software development processes:
-
-    * version control (e.g. git)
-    * bug/issue tracking (e.g. github)
-    * test driven development (e.g. google test and pytest)
-    * automatic documentation (e.g. doxygen and sphinx)
-    * build & configuration management (e.g. cmake, make)
-
-* Strong oral and written communication skills
-
-Desired Experience
-------------------
-
-* Demonstrated experience with the application of machine learning and/or data
-  fusion algorithms to real-world problems
-* Experience working across disciplinary boundaries for the application of
-  data analytics algorithms
+* Undergraduate experience in Nuclear Engineering, Computer Science,
+  Statistics,  Electrical Engineering, or relevant other field
+* Experience with machine learning, data fusion and data analytics
+* Experience with software development
+* Interest the application of data analytics methods for problems in nuclear non-proliferation
+* Communication and collaboration skills
 
 Specific Duties
 ---------------
@@ -63,19 +45,19 @@ Specific Duties
   applications, or surrogate applications as defined by consortium partners
 * Develop systems for integration of various data streams and various algorithms
   to support real-world applications of algorithms     
-* Mentor and advise graduate student and undergraduate researchers
 * Collaborate with multiple research groups across consortium    
 * Author publications for refereed journals and important conference proceedings
-
     
 
-| **Salary:** $50,000-70,000 depending on background and experience
+| **Salary:** $26,000 (50% Engineering Physics Research Assistantship)
 | **Start:** ASAP
 
 U.S. citizenship or permanent residency status is required by the program
 sponsor.
 
-To apply, please send a application materials to Paul Wilson at paul.wilson@wisc.edu
+To be considered for a Research Assistant position (50% appointment plus
+tuition remission), please send a letter of interest, resume, and unofficial
+transcript to Paul Wilson at paul.wilson@wisc.edu.
 
 For further questions please contact Paul Wilson at paul.wilson@wisc.edu
 
