@@ -22,14 +22,18 @@ xs
 Experience and Desired Skills
 ------------------------------
 
-Candidates will be evaluated aginst the following criteria:
+Candidates will be evaluated against the following criteria:
 
 * Undergraduate experience in Nuclear Engineering, Physics, or relevant other field
-* Experience with modeling and simulation of nuclear fuel cycle facilities
-* Experience with software development
-* Interest the application of modeling and simulation for problems in nuclear non-proliferation
+* Interest in the application of modeling and simulation for problems in nuclear non-proliferation
 * Communication and collaboration skills
 
+While not necessary, the following skills are also preferred:
+  
+* Experience with modeling and simulation of nuclear fuel cycle facilities
+* Experience with software development
+
+  
 Specific Duties
 ---------------
 

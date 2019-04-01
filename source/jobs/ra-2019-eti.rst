@@ -29,14 +29,17 @@ and data streams.
 Experience and Desired Skills
 ------------------------------
 
-Candidates will be evaluated aginst the following criteria:
+Candidates will be evaluated against the following criteria:
 
 * Undergraduate experience in Nuclear Engineering, Computer Science,
-  Statistics,  Electrical Engineering, or relevant other field
+  Statistics, Electrical Engineering, or relevant other field
+* Interest in the application of data analytics methods for problems in nuclear non-proliferation
+* Communication and collaboration skills
+
+While not necessary, the following skills are also preferred
+  
 * Experience with machine learning, data fusion and data analytics
 * Experience with software development
-* Interest the application of data analytics methods for problems in nuclear non-proliferation
-* Communication and collaboration skills
 
 Specific Duties
 ---------------

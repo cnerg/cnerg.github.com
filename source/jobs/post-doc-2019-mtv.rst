@@ -66,7 +66,7 @@ Specific Duties
 U.S. citizenship or permanent residency status is required by the program
 sponsor.
 
-To apply, please send a application materials to Paul Wilson at paul.wilson@wisc.edu
+To apply, please send a letter of interest and CV to Paul Wilson at paul.wilson@wisc.edu
 
 For further questions please contact Paul Wilson at paul.wilson@wisc.edu
 
