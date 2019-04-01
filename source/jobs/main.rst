@@ -16,7 +16,11 @@ Current Opennings
 .. toctree::
    :maxdepth: 1
 
-
+   post-doc-2019-eti
+   post-doc-2019-mtv
+   ra-2019-eti
+   ra-2019-mtv
+   
 Graduate Student Opportunities
 -----------------------------------------
 
@@ -32,17 +36,23 @@ experiences they will bring to these tasks.
 PhD Topics
 ~~~~~~~~~~
 
-* **Robust workflows for CAD-based Monte Carlo radiation transport**
-  This will require understanding of computational geometry, mesh
-  generation, and manipulation of mesh to improve the robustness of
-  analysis workflows to imperfections in the geometry or the geometry
-  processing steps.
+* **Hybrid Acceleration Schemes for Multi-physics Problems Driven by Monte
+  Carlo Radiation Transport** Work in this area will extend existing
+  methodologies for accelerating Monte Carlo radiation transport for
+  multi-physics problems, looking at a wider variety of other physics coupling
+  and over different regions of phase space.
 
-* **Adaptivity for Advanced Monte Carlo Mesh Tallies** This will
-  investigate the trade-off between mesh resolution, solution fidelity
-  and statistical error, relying on a combination of nuclear
-  engineering and applied math.
+* **Shape Optimization for Radiation Transport** This will explore algorithms
+  for optimizing the shape of engineered systems to achieve specific
+  performance goals.  Such methods are widespread in other engineering
+  disciplines but are not yet widely adopted for radiation transport problems.
 
+* **Data Science Approaches for Nuclear Non-Proliferatin** A growing set of
+  data streams is available for use by various agencies for the detection of
+  the misuse of nuclear material and nuclear facilities.  This project will
+  explore the use of novel algorithms and methodologies for the automated
+  analysis of these data streams to support decision making.
+  
 * **Socioeconomic Metrics for Advanced Nuclear Fuel Cycles** This will
   develop software algorithms to convert fundamental fuel cycle
   simulation results into quantities that are relevant for
@@ -50,6 +60,12 @@ PhD Topics
 
 Master's Topics
 ~~~~~~~~~~~~~~~~
+
+* **Robust workflows for CAD-based Monte Carlo radiation transport**
+  This will require understanding of computational geometry, mesh
+  generation, and manipulation of mesh to improve the robustness of
+  analysis workflows to imperfections in the geometry or the geometry
+  processing steps.
 
 * **Generalized High Throughput Support for Monte Carlo Radiation
   Transport** This project will develop scripts and tools to
@@ -60,15 +76,6 @@ Master's Topics
   resources, Open Science Grid, and Amazon EC2.  The tools will be
   implemented in PyNE for robustness and longevity.
 
-* **Systematic Study of Material Homogenization in Radiation
-  Shielding** This project will include a number of numerical
-  experiments to determine the impacts of homogenization on the
-  results of Monte Carlo radiation transport simulations.  These will
-  include the impact of homogenization on high-fidelity results in two
-  primary configurations: homogenized shield between the source and
-  region of interest, and homogenization of a region that neighbors
-  the region of interest.  The impacts of homogenization on R2S
-  activation workflows is a natural extension of this work.
 
 Undergraduate Opportunities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
