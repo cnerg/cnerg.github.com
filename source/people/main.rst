@@ -108,6 +108,10 @@ Undergraduate Students & Interns
 |                                    |                                    |                                    |
 | :doc:`Samuel Stern <sstern>`       | :doc:`Piper Lincoln <plincoln>`    | :doc:`Matthew Nyberg <mnyberg>`    |
 +------------------------------------+------------------------------------+------------------------------------+
+|                                    |                                    |                                    |
+|                                    |                                    |                                    |
+| :doc:`Brad Laufenberg <laufenberg>`|                                    |                                    |
++------------------------------------+------------------------------------+------------------------------------+
 
 Employment Opportunties
 -----------------------------
