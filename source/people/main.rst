@@ -27,15 +27,15 @@ Research Staff
 Graduate Students
 -----------------
 
-+------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
-| |cad_img|                          | |ljj_img|                        | |mh_img|                         | |ao_img|                              | |kk_img|                           |
-|                                    |                                  |                                  |                                       |                                    |
-| :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Lucas Jacobson <jacobson>` | :doc:`Moataz Harb <mharb>`       | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   |
-+------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
-|  |ng_img|                          | |yp_img|                         |  |km_img|                        | |kb_img|                              | |xzhang_img|                       |
-|                                    |                                  |                                  |                                       |                                    |
-| :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`    | Katie Biegel                          | :doc:`Xiaokang Zhang <xzhang>`     |
-+------------------------------------+----------------------------------+----------------------------------+---------------------------------------+------------------------------------+
++----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
+| |ljj_img|                        | |ao_img|                              | |kk_img|                           |  |ng_img|                          |
+|                                  |                                       |                                    |                                    |
+| :doc:`Lucas Jacobson <jacobson>` | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`|
++----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
+| |yp_img|                         |  |km_img|                             | |kb_img|                           | |xzhang_img|                       |
+|                                  |                                       |                                    |                                    |
+| :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       | :doc:`Xiaokang Zhang <xzhang>`     |
++----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
 
 .. toctree::
    :maxdepth: 1
@@ -44,19 +44,12 @@ Graduate Students
    pphw
    adavis
    bam
-   dangelo
-   shriwise
    jacobson
-   mharb
    opotowsky
    kiesling
    granda
    park
-   selles
    mummah
-   ejwilson3
-   aaswenson
-   leschultz
    xzhang
 
 .. |cad_img| image:: hacker_dangelo.JPG
@@ -103,15 +96,12 @@ Graduate Students
 Undergraduate Students & Interns
 ---------------------------------
 
-+------------------------------------+------------------------------------+------------------------------------+
-|                                    |                                    |                                    |
-|                                    |                                    |                                    |
-| :doc:`Samuel Stern <sstern>`       | :doc:`Piper Lincoln <plincoln>`    | :doc:`Matthew Nyberg <mnyberg>`    |
-+------------------------------------+------------------------------------+------------------------------------+
-|                                    |                                    |                                    |
-|                                    |                                    |                                    |
-| :doc:`Brad Laufenberg <laufenberg>`|                                    |                                    |
-+------------------------------------+------------------------------------+------------------------------------+
+
++------------------------------------+------------------------------------+-------------------------------------+
+|                                    |                                    |                                     |
+|                                    |                                    |                                     |
+| :doc:`Piper Lincoln <plincoln>`    | :doc:`Matthew Nyberg <mnyberg>`    | :doc:`Brad Laufenberg <laufenberg>` |
++------------------------------------+------------------------------------+-------------------------------------+
 
 Employment Opportunties
 -----------------------------
@@ -126,6 +116,7 @@ Alumni
 * Drew Buys, PA (2017)
 * Robert Carlsen, PhD(2016), `Idaho National Laboratory <http://www.inl.gov>`_
 * Andrew Davis, Scientist (2012-2017), `Culham Centre for Fusion Energy <http://www.ccfe.ac.uk/>`_
+* Chelsea D'Angelo, PhD(2019), `Los Alamos National Laboratory <http://www.lanl.gov>`_
 * Kerry Dunn, PhD(2014), `Sandia National Laboratories (Albuquerque) <http://www.sandia.gov>`_
 * Eric Edwards, PhD(2007), `Shine Medical Technologies <http://shinemed.com>`_
 * `Matthew Gidden <http://www.mattgidden.com>`_, PhD(2015), `International Institute for Applied Systems Analysis (IIASA) <http://www.iiasa.ac.at/>`_
@@ -136,6 +127,7 @@ Alumni
 * Paul Humrickhouse, MS(2005), `Idaho National Laboratory <http://www.inl.gov>`_
 * `Brian Kiedrowski <http://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski>`_, PhD(2009), University of Michigan
 * `Matthew Klebenow <Knolls Atomic Power Laboratory>`_, BSEP(2013), EPIC Systems
+* Moataz Harb. PhD(2019), `Karlsruhe Institute of Technology <http://www.kit.edu>`_
 * `Ahmad Ibrahim <https://www.linkedin.com/pub/ahmad-ibrahim/13/585/161>`_, PhD(2012), `Oak Ridge National Laboratory <http://www.ornl.gov>`_
 * Steven Jackson, Programmer
 * Meghan McGarry, Scientist (2014-2017), `Lawrence Livermore National Laboratory <http://www.llnl.gov>`_
