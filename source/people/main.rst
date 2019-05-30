@@ -151,6 +151,7 @@ Alumni
 * Brandon Smith, PhD(2011), `Los Alamos National Laboratory <http://www.lanl.gov>`_
 * `Patrick Snouffer <https://www.linkedin.com/pub/patrick-snouffer/11/8a5/594>`_, MS(2011), `Sandia National Laboratories <http://www.sandia.gov>`_
 * Chris Staum, MS(2006), `Exelon <http://www.exeloncorp.com>`_
+* Samual Stern, BSEP(2019), `U. Wisconsin-Milwaukee <http://uwm.edu>`_    
 * Alex Swenson, MS(2019), `Shine Medical Technologies <https://shinemed.com/>`_
 * Zach Welch, Research Support (2013-2015), Amazon
 * Ellis Wilson, BSEP(2018)
