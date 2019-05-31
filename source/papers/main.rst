@@ -1,6 +1,12 @@
 Publications
 ============
 
+Most Recent 10 Publications
+-----------------------------
+
+.. bibliography:: recent.bib
+   :all:
+
 Refereed Journal Publications
 -----------------------------
 
@@ -19,8 +25,3 @@ Refereed Conference Abstracts
 .. bibliography:: abstracts.bib
    :all:
 
-Test auto publications
------------------------------
-
-.. bibliography:: pubs.bib
-   :all:

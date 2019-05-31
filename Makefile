@@ -89,7 +89,7 @@ docker-gh-push:
 htmlclean cleanhtml: clean html
 
 zotero: 
-	wget -i zotero/zotero.api.request --header="`cat zotero/zotero.key.header`" -O source/papers/pubs.bib
+	wget -i zotero/zotero.api.request --header="`cat zotero/zotero.key.header`" -O source/papers/recent.bib
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
