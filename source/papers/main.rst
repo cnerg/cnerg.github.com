@@ -18,3 +18,9 @@ Refereed Conference Abstracts
 
 .. bibliography:: abstracts.bib
    :all:
+
+Test auto publications
+-----------------------------
+
+.. bibliography:: pubs.bib
+   :all:

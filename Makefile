@@ -20,7 +20,7 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(G
 # the i18n builder cannot share the environment and doctrees with the others
 I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(GH_SOURCE_DIR)
 
-.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext
+.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext zotero
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
@@ -87,6 +87,9 @@ docker-gh-push:
 	git checkout $(GH_SOURCE_BRANCH)
 
 htmlclean cleanhtml: clean html
+
+zotero: 
+	wget -i zotero/zotero.api.request --header="`cat zotero/zotero.key.header`" -O source/papers/pubs.bib
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
