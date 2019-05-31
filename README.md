@@ -19,6 +19,10 @@ files should be made in the `source` branch.
 content that is derived by Sphinx from the `source` branch.  These
 files should not be editted directly.
 
+It is now possible to
+[automatically update the publication list from Zotero](zotero/README.md).
+
+
 Best practice workflow for contributing to site changes
 --------------------------------------------------------
 
