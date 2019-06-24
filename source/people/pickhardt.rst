@@ -12,12 +12,12 @@ Contact Information
 
 Activities
 ----------
-*Soccer
-*Tennis
-*FBLA
-*NHS
+* Soccer
+* Tennis
+* FBLA
+* NHS
 
 Education
 ---------
-|DeForest Area High School, Junior
+| DeForest Area High School, Junior
 
