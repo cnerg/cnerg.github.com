@@ -102,6 +102,10 @@ Undergraduate Students & Interns
 |                                    |                                    |                                     |
 | :doc:`Piper Lincoln <plincoln>`    | :doc:`Matthew Nyberg <mnyberg>`    | :doc:`Brad Laufenberg <laufenberg>` |
 +------------------------------------+------------------------------------+-------------------------------------+
+|                                    |                                    |                                     |
+|                                    |                                    |                                     |
+|:doc:`Eliot Pickhardt <epickhardt>` |                                    |                                     |
++------------------------------------+------------------------------------+-------------------------------------+
 
 Employment Opportunties
 -----------------------------
