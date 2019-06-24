@@ -2,7 +2,7 @@ Eliot Pickhardt
 ================
 .. image::  pickhardt.jpg
     :align: center
-    :width: 2000
+    :width: 200
     
 
 Contact Information
