@@ -3,7 +3,7 @@ Eliot Pickhardt
 .. image::  pickhardt.jpg
     :align: center
     :width: 200
-    :height: 500
+    :height: 1000
 
 Contact Information
 --------------------
