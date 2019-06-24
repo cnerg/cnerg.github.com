@@ -1,10 +1,7 @@
 Eliot Pickhardt
 ================
 
-..image::pickhardt.jpg
-    :align:center
-    :width: 100
-    
+
 Conact Information
 -------------------
 |417 W Mohawk Trail
