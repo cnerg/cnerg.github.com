@@ -2,13 +2,13 @@ Eliot Pickhardt
 ================
 
 
-Conact Information
--------------------
-|417 W Mohawk Trail
-|DeForest, WI, 53532
-|(608)-417-9679
-|`_eliotpickhar@gmail.com <mailto:eliotpickhar@gmail.com>`_
-|ep09772@deforestschools.org
+Contact Information
+--------------------
+| 417 W Mohawk Trail
+| DeForest, WI 53532
+| `eliotpickhar@gmail.com <mailto:eliotpickhar@gmail.com>`_
+
+  
 
 Activities
 ----------
