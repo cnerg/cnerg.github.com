@@ -6,13 +6,13 @@ Staff and Students
 Research Staff
 --------------
 
-+---------------------------------+---------------------------------+---------------------------------+
-| |pphw_img|_                     | |tb_img|                        | |bam_img|                       |
-|                                 |                                 |                                 |
-| :doc:`Paul Wilson <pphw>`       | Tim Bohm                        | :doc:`Baptiste Mouginot <bam>`  |
-|                                 |                                 |                                 |
-| Professor, CNERG leader         | Scientist                       | Scientist                       |
-+---------------------------------+---------------------------------+---------------------------------+
++---------------------------------+---------------------------------+---------------------------------+---------------------------------+
+| |pphw_img|_                     | |tb_img|                        | |bam_img|                       | |aco_img|                       |
+|                                 |                                 |                                 |                                 |
+| :doc:`Paul Wilson <pphw>`       | Tim Bohm                        | :doc:`Baptiste Mouginot <bam>`  | Anna Caldwell-Overdier          |
+|                                 |                                 |                                 |                                 |
+| Professor, CNERG leader         | Scientist                       | Scientist                       | Associate Researcher            |
++---------------------------------+---------------------------------+---------------------------------+---------------------------------+
 
 .. |pphw_img| image:: pphw4.jpg
               :width: 100
@@ -22,6 +22,9 @@ Research Staff
          :width: 100
 
 .. |bam_img| image:: hacker_mouginot.JPG
+              :width: 100
+
+.. |aco_img| image:: aco.JPG
               :width: 100
 
 Graduate Students
@@ -44,6 +47,7 @@ Graduate Students
    pphw
    adavis
    bam
+   aco
    jacobson
    opotowsky
    kiesling
@@ -151,7 +155,7 @@ Alumni
 * Brandon Smith, PhD(2011), `Los Alamos National Laboratory <http://www.lanl.gov>`_
 * `Patrick Snouffer <https://www.linkedin.com/pub/patrick-snouffer/11/8a5/594>`_, MS(2011), `Sandia National Laboratories <http://www.sandia.gov>`_
 * Chris Staum, MS(2006), `Exelon <http://www.exeloncorp.com>`_
-* Samual Stern, BSEP(2019), `U. Wisconsin-Milwaukee <http://uwm.edu>`_    
+* Samual Stern, BSEP(2019), `U. Wisconsin-Milwaukee <http://uwm.edu>`_
 * Alex Swenson, MS(2019), `Shine Medical Technologies <https://shinemed.com/>`_
 * Zach Welch, Research Support (2013-2015), Amazon
 * Ellis Wilson, BSEP(2018)
