@@ -1,5 +1,8 @@
 Anna Caldwell-Overdier
 ==============================
+.. image::  aco.JPG
+    :align: center
+    :width: 300
 
 Contact Information
 -------------------
@@ -15,9 +18,10 @@ Contact Information
 Research Interests
 ------------------
 * Nuclear nonproliferation
+* Nuclear forensics
 * Data science
 
 
 Education
 ------------------
-*Wellesley College, Wellesley, MA [B.A. in political science, 2019]
+* Wellesley College, Wellesley, MA [B.A. in political science, 2019]

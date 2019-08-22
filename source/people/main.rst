@@ -6,13 +6,13 @@ Staff and Students
 Research Staff
 --------------
 
-+---------------------------------+---------------------------------+---------------------------------+---------------------------------+
-| |pphw_img|_                     | |tb_img|                        | |bam_img|                       | |aco_img|                       |
-|                                 |                                 |                                 |                                 |
-| :doc:`Paul Wilson <pphw>`       | Tim Bohm                        | :doc:`Baptiste Mouginot <bam>`  | Anna Caldwell-Overdier          |
-|                                 |                                 |                                 |                                 |
-| Professor, CNERG leader         | Scientist                       | Scientist                       | Associate Researcher            |
-+---------------------------------+---------------------------------+---------------------------------+---------------------------------+
++---------------------------------+---------------------------------+---------------------------------+---------------------------------------+
+| |pphw_img|_                     | |tb_img|                        | |bam_img|                       | |aco_img|                             |
+|                                 |                                 |                                 |                                       |
+| :doc:`Paul Wilson <pphw>`       | Tim Bohm                        | :doc:`Baptiste Mouginot <bam>`  | :doc:`Anna Caldwell-Overdier <anna>`  |
+|                                 |                                 |                                 |                                       |
+| Professor, CNERG leader         | Scientist                       | Scientist                       | Associate Researcher                  |
++---------------------------------+---------------------------------+---------------------------------+---------------------------------------+
 
 .. |pphw_img| image:: pphw4.jpg
               :width: 100
@@ -26,6 +26,7 @@ Research Staff
 
 .. |aco_img| image:: aco.JPG
               :width: 100
+
 
 Graduate Students
 -----------------
@@ -47,7 +48,7 @@ Graduate Students
    pphw
    adavis
    bam
-   aco
+   anna
    jacobson
    opotowsky
    kiesling
