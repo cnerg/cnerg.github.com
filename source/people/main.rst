@@ -24,7 +24,7 @@ Research Staff
 .. |bam_img| image:: hacker_mouginot.JPG
               :width: 100
 
-.. |aco_img| image:: aco.JPG
+.. |aco_img| image:: aco.jpg
               :width: 100
 
 
