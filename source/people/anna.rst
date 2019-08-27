@@ -1,6 +1,6 @@
 Anna Caldwell-Overdier
 ==============================
-.. image::  aco.JPG
+.. image::  aco.jpg
     :align: center
     :width: 300
 
