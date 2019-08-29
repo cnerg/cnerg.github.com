@@ -40,6 +40,10 @@ Graduate Students
 |                                  |                                       |                                    |                                    |
 | :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       | :doc:`Xiaokang Zhang <xzhang>`     |
 +----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
+| |st_img|                         |
+|                                  |
+| :doc:`Jordan Stomps <stomps>`    |
++----------------------------------+
 
 .. toctree::
    :maxdepth: 1
@@ -56,6 +60,7 @@ Graduate Students
    park
    mummah
    xzhang
+   stomps
 
 .. |cad_img| image:: hacker_dangelo.JPG
              :width: 100
@@ -96,6 +101,9 @@ Graduate Students
          :width: 100
 
 .. |aaswenson| image:: aaswenson.JPG
+         :width: 100
+
+.. |stomps| image:: stomps_cover.jpg
          :width: 100
 
 Undergraduate Students & Interns
