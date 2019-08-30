@@ -14,7 +14,6 @@ Contact Information
 
 | `stomps@wisc.edu <mailto:stomps@wisc.edu>`_
 
-Connect:
 |gh_icon|_
 |li_icon|_
 
@@ -27,8 +26,8 @@ Research Interests
 -------------------
 
  * Gen. IV Nuclear Reactors
- * Computational Modelling Methods
- * Fuel cycle modeling
+ * Computational Modeling Methods
+ * Fuel Cycle Analysis
 
 Education
 ----------

@@ -40,10 +40,10 @@ Graduate Students
 |                                  |                                       |                                    |                                    |
 | :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       | :doc:`Xiaokang Zhang <xzhang>`     |
 +----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
-| |st_img|                         |
-|                                  |
-| :doc:`Jordan Stomps <stomps>`    |
-+----------------------------------+
+| |st_img|                         |                                       +                                    +                                    +
+|                                  |                                       +                                    +                                    +
+| :doc:`Jordan Stomps <stomps>`    |                                       +                                    +                                    +
++----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
 
 .. toctree::
    :maxdepth: 1
@@ -103,7 +103,7 @@ Graduate Students
 .. |aaswenson| image:: aaswenson.JPG
          :width: 100
 
-.. |stomps| image:: stomps_cover.jpg
+.. |st_img| image:: stomps.jpg
          :width: 100
 
 Undergraduate Students & Interns
