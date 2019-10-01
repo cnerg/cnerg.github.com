@@ -1,38 +1,24 @@
 Louis Evantio Hartono
 ==============================
 
-.. image::  xiaokang_zhang.jpg
-    :align: center
-    :width: 300
 
 Contact Information
 --------------------
 
-| Rm. 434
-| Engineering Research Building
-| 1500 Engineering Drive
-| Madison, WI 53703
-| xzhang965@wisc.edu
-| Phone (608) 515-2262
+| 1423 Monroe St Apt #302
+| Madison, WI 53711
+| lehartono@wisc.edu
+| Phone (608) 332-6704
 
-Graduate Appointment
 --------------------
 
-I am a joint PhD. student currently working on sub-voxel activation in shutdown dose rate calculations of fusion energy systems.
-
-Research Interests
---------------------
-
-- Shutdown Dose Rate Calculations
-- Neutronics Analysis of Fusion Energy Systems
+I am a sophomore majoring in Industrial Engineering and Economics with mathematical emphasis
 
 Current Projects
 --------------------
-- `PyNE <pyne.io>`_
-- Edit R2S process
+- Computational Tool Development for Nuclear Fuel Cycle Analysis
 
 Education
 --------------------
-- University of Wisconsin, Madison, WI [current joint PhD. student]
-- University of Science and Technology of China, Heifei, China [current PhD. student]
+- University of Wisconsin, Madison, WI [current undergraduate. student]
 
