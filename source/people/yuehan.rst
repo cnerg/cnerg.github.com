@@ -1,5 +1,5 @@
 Yuehan Qin
-================
+==========
 Contact Information
 --------------------
 `yqin43@wisc.edu <mailto:yqin43@wisc.edu>`_
