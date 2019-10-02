@@ -11,5 +11,5 @@ Research Interests
 * Software Development
 * More TBD!
 Education
-----------
+---------
 * University of Wisconsin-Madison, WI, B.S. in Computer Science (Current)
