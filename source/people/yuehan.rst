@@ -7,7 +7,7 @@ Contact Information
 Yuehan is an undergraduate assistant in CNERG. She is hoping to help out however she can!
 
 Research Interests
--------------------
+------------------
 * Software Development
 * More TBD!
 Education
