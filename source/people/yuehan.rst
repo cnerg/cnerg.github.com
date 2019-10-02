@@ -1,7 +1,7 @@
 Yuehan Qin
 ==========
 Contact Information
---------------------
+-------------------
 `yqin43@wisc.edu <mailto:yqin43@wisc.edu>`_
 
 Yuehan is an undergraduate assistant in CNERG. She is hoping to help out however she can!
