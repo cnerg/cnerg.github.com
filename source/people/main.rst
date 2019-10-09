@@ -115,7 +115,6 @@ None at this time.
 
 Alumni
 -------------
-* Xiaokang Zhang, Visiting Student Researcher (2017-2019), University of Science and Technology of China
 * `Tae Wook Ahn <http://www.oaep.go.th/index_en.php>`_, MS(2010), Exelon Nuclear
 * Elliott Biondo, PhD(2016), `Oak Ridge National Laboratory <http://www.ornl.gov>`_
 * Geoff Bull, MS(2005), US Army
@@ -163,3 +162,4 @@ Alumni
 * Ellis Wilson, BSEP(2018)
 * John Xia, Research Staff (2014-2015)
 * Julie Zachman, Programmer (2013-2015), UW-Madison
+* Xiaokang Zhang, Visiting Student Researcher (2017-2019), University of Science and Technology of China
