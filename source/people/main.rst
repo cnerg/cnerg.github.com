@@ -36,13 +36,9 @@ Graduate Students
 |                                  |                                       |                                    |                                    |
 | :doc:`Lucas Jacobson <jacobson>` | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`|
 +----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
-| |yp_img|                         |  |km_img|                             | |kb_img|                           | |xzhang_img|                       |
+| |yp_img|                         |  |km_img|                             | |kb_img|                           |  |st_img|                          |
 |                                  |                                       |                                    |                                    |
-| :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       | :doc:`Xiaokang Zhang <xzhang>`     |
-+----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
-| |st_img|                         |                                       +                                    +                                    +
-|                                  |                                       +                                    +                                    +
-| :doc:`Jordan Stomps <stomps>`    |                                       +                                    +                                    +
+| :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       |  :doc:`Jordan Stomps <stomps>`     |
 +----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
 
 .. toctree::
@@ -59,7 +55,6 @@ Graduate Students
    granda
    park
    mummah
-   xzhang
    stomps
 
 .. |cad_img| image:: hacker_dangelo.JPG
@@ -91,9 +86,6 @@ Graduate Students
 .. |sel_img| image:: hacker_blank.JPG
          :width: 100
 
-.. |xzhang_img| image:: hacker_blank.JPG
-         :width: 100
-
 .. |km_img| image:: mummah_bmp_avatar.jpg
          :width: 150
 
@@ -123,6 +115,7 @@ None at this time.
 
 Alumni
 -------------
+* Xiaokang Zhang, Visiting scholar (2017-2019), University of Science and Technology of China
 * `Tae Wook Ahn <http://www.oaep.go.th/index_en.php>`_, MS(2010), Exelon Nuclear
 * Elliott Biondo, PhD(2016), `Oak Ridge National Laboratory <http://www.ornl.gov>`_
 * Geoff Bull, MS(2005), US Army
