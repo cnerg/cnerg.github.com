@@ -36,9 +36,9 @@ Graduate Students
 |                                  |                                       |                                    |                                    |
 | :doc:`Lucas Jacobson <jacobson>` | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`|
 +----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
-| |yp_img|                         |  |km_img|                             | |kb_img|                           | |xzhang_img|                       |
+| |yp_img|                         |  |km_img|                             | |kb_img|                           |  |st_img|                          |
 |                                  |                                       |                                    |                                    |
-| :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       | :doc:`Xiaokang Zhang <xzhang>`     |
+| :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       |  :doc:`Jordan Stomps <stomps>`     |
 +----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
 
 .. toctree::
@@ -55,7 +55,7 @@ Graduate Students
    granda
    park
    mummah
-   xzhang
+   stomps
 
 .. |cad_img| image:: hacker_dangelo.JPG
              :width: 100
@@ -86,9 +86,6 @@ Graduate Students
 .. |sel_img| image:: hacker_blank.JPG
          :width: 100
 
-.. |xzhang_img| image:: hacker_blank.JPG
-         :width: 100
-
 .. |km_img| image:: mummah_bmp_avatar.jpg
          :width: 150
 
@@ -96,6 +93,9 @@ Graduate Students
          :width: 100
 
 .. |aaswenson| image:: aaswenson.JPG
+         :width: 100
+
+.. |st_img| image:: stomps.jpg
          :width: 100
 
 Undergraduate Students & Interns
@@ -162,3 +162,4 @@ Alumni
 * Ellis Wilson, BSEP(2018)
 * John Xia, Research Staff (2014-2015)
 * Julie Zachman, Programmer (2013-2015), UW-Madison
+* Xiaokang Zhang, Visiting Student Researcher (2017-2019), University of Science and Technology of China
