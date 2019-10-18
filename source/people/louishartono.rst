@@ -5,10 +5,9 @@ Louis Evantio Hartono
 Contact Information
 -------------------
 
-| 1423 Monroe St Apt #302
-| Madison, WI 53711
+| 434 Engineering Research Building
+| 1500 Engineering Drive
 | lehartono@wisc.edu
-| Phone (608) 332-6704
 
 --------------------
 
