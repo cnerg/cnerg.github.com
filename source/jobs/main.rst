@@ -16,10 +16,8 @@ Current Opennings
 .. toctree::
    :maxdepth: 1
 
-   post-doc-2019-eti
-   post-doc-2019-mtv
-   ra-2019-eti
-   ra-2019-mtv
+   post-doc-2019-nuc-sec
+   ra-2020-mtv
    
 Graduate Student Opportunities
 -----------------------------------------
@@ -47,7 +45,7 @@ PhD Topics
   performance goals.  Such methods are widespread in other engineering
   disciplines but are not yet widely adopted for radiation transport problems.
 
-* **Data Science Approaches for Nuclear Non-Proliferatin** A growing set of
+* **Data Science Approaches for Nuclear Non-Proliferation** A growing set of
   data streams is available for use by various agencies for the detection of
   the misuse of nuclear material and nuclear facilities.  This project will
   explore the use of novel algorithms and methodologies for the automated
@@ -111,6 +109,9 @@ Recent Positions
 .. toctree::
    :maxdepth: 1
 
+   post-doc-2019-eti
+   post-doc-2019-mtv
+   ra-2019-mtv
    ra-2016-imaging-cvt
    pa-2015-cvt
    post-doc-2014-cyclus
