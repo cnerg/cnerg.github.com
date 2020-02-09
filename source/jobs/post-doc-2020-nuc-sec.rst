@@ -1,7 +1,7 @@
 Post-Doctoral Associate Opportunity (2019): Modeling, Simulation & Data Science for  Nuclear Non-proliferation
 ==============================================================================================================
 
-*[Updated: December 1, 2019]*
+*[Updated: February 9, 2020]*
 
 The Computational Nuclear Engineering Research Group (CNERG) is participating
 in a pair of new research consortium supported by the Nuclear
