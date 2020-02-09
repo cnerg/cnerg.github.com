@@ -1,4 +1,4 @@
-Research Assistant Opportunity (2019): Nuclear Facility Modeling for Nuclear Non-proliferation
+Research Assistant Opportunity (2020): Nuclear Facility Modeling for Nuclear Non-proliferation
 ==============================================================================================
 
 *[Updated: December 1, 2019]*
@@ -18,7 +18,7 @@ computational models.  Working in collaboration with other consortium
 partners, the primary measurables of interest will be identified and the
 models will be improved to increase the reliability of simulating those
 measurable quantities.
-xs
+
 Experience and Desired Skills
 ------------------------------
 
