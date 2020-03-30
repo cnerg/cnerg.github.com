@@ -1,6 +1,11 @@
+.. raw:: html
+
+  <div style="float: right;"><a class="twitter-timeline" data-height="700" data-width="220" href="https://twitter.com/gonuke" >News from uw_cnerg</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
 Paul P.H. Wilson
 ==================
 
+         
 **Professor**
 
 |pphw_img|
