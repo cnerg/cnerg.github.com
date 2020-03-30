@@ -58,7 +58,8 @@ gh-preview html:
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
 
 gh-publish:
-	git checkout $(GH_PUBLISH_BRANCH)
+	git fetch $(UPSTREAM_REPO)
+	git checkout -B $(GH_PUBLISH_BRANCH) $(UPSTREAM_REPO)/$(GH_PUBLISH_BRANCH)
 	git checkout $(GH_SOURCE_BRANCH) -- $(GH_SOURCE_DIR)
 	git reset HEAD 
 	make clean
@@ -71,7 +72,8 @@ gh-publish:
 	git checkout $(GH_SOURCE_BRANCH)
 
 docker-gh-stage:
-	git checkout $(GH_PUBLISH_BRANCH)
+	git fetch $(UPSTREAM_REPO)
+	git checkout -B $(GH_PUBLISH_BRANCH) $(UPSTREAM_REPO)/$(GH_PUBLISH_BRANCH)
 	git checkout $(GH_SOURCE_BRANCH) -- $(GH_SOURCE_DIR)
 	git reset HEAD 
 	make clean
