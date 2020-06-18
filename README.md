@@ -15,7 +15,7 @@ rebuilding this site.
 Sphinx configuration used to build the site.  All direct editing of
 files should be made in the `source` branch.
 
-2. The `master` branch contains the processed and published web
+2. The `main` branch contains the processed and published web
 content that is derived by Sphinx from the `source` branch.  These
 files should not be editted directly.
 

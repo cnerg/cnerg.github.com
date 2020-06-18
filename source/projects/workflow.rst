@@ -27,13 +27,13 @@ and more stable are touched less often while those which are used for day-to-day
 development are touched more frequently.  Branches often fall into one of the 
 following categories, in order of decreasing importance:
 
-1. **master:** This is the most stable branch and represents code that *definitely*
+1. **main:** This is the most stable branch and represents code that *definitely*
    works.  This branch should only be pushed to at release time.
 2. **staging** or **develop:** This branch is the merge branch for all developers.
    It represents the place where reconciliation between various updates happen.
    As such, it is sort of a communal playground.  Everyone is there and things
    probably work but may not quite be ready for prime time.  At release time, 
-   it is this branch which becomes merged with the master branch.
+   it is this branch which becomes merged with the main branch.
 3. **topical:** These branches exist so that you may hack at will on implementing
    a feature or fix a bug.  There may be many of these simultaneously.  These
    branches are merged into develop.  Such branches are the wild west and nothing
@@ -65,8 +65,8 @@ and the less impact that mistake has in the code base overall.  Also failure is
 how you learn.  Furthermore, such failures are how you clarify exactly what a 
 piece of code should be doing.  
 
-By frequently merging the master, staging, and relevant topical branched from 
-upstream (newk/newk) to your repository (you/newk) or from master to stanging and
+By frequently merging the main, staging, and relevant topical branched from 
+upstream (newk/newk) to your repository (you/newk) or from main to stanging and
 staging to topical (awesome), you are ensuring that the code you are working on 
 continues to function.  If something breaks, you can take care of it then in that 
 moment while everything is still fresh in your mind.  By waiting to merge or rebase 
