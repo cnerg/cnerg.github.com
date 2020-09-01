@@ -40,6 +40,10 @@ Graduate Students
 |                                  |                                       |                                    |                                    |
 | :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       |  :doc:`Jordan Stomps <stomps>`     |
 +----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
+| |cm_img|                         |                                       |                                    |                                    |
+|                                  |                                       |                                    |                                    |
+| :doc:`Connor Moreno <moreno>`    |                                       |                                    |                                    |
++----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
 
 .. toctree::
    :maxdepth: 1
@@ -56,6 +60,7 @@ Graduate Students
    park
    mummah
    stomps
+   moreno
 
 .. |cad_img| image:: hacker_dangelo.JPG
              :width: 100
@@ -96,6 +101,9 @@ Graduate Students
          :width: 100
 
 .. |st_img| image:: stomps.jpg
+         :width: 100
+
+.. |cm_img| image:: moreno.jpeg
          :width: 100
 
 Undergraduate Students & Interns
