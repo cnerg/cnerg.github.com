@@ -145,7 +145,7 @@ Alumni
 * `Brian Kiedrowski <http://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski>`_, PhD(2009), University of Michigan
 * `Matthew Klebenow <Knolls Atomic Power Laboratory>`_, BSEP(2013), EPIC Systems
 * Moataz Harb. PhD(2019), `Karlsruhe Institute of Technology <http://www.kit.edu>`_
-* Louis Hartono, reserach intern
+* Louis Hartono, research intern
 * `Ahmad Ibrahim <https://www.linkedin.com/pub/ahmad-ibrahim/13/585/161>`_, PhD(2012), `Oak Ridge National Laboratory <http://www.ornl.gov>`_
 * Steven Jackson, Programmer
 * `Piper Lincoln <https://www.linkedin.com/in/piperlincoln/>`_, BS(2020), General Dynamics Mission Systems
