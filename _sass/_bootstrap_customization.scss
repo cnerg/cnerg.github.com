@@ -148,6 +148,8 @@ label {
 
 .cnerg-person-list-item {
   display: inline-block;
-  width: 30%;
+  width: 30%;  // need something to make this responsive for narrow browsers
   text-align: center;
 }
+
+h1 { color: $red; }
