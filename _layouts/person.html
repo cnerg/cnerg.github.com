@@ -7,8 +7,8 @@ layout: default
   </header>
 
   <section>
-    {% if page.twitter != null  %}
-    <div style="float: right;"><a class="twitter-timeline" data-height="800" data-width="220" href="https://twitter.com/{{ page.twitter }} ">News from gonuke</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+    {% if page.services.twitter != null  %}
+    <div style="float: right;"><a class="twitter-timeline" data-height="800" data-width="220" href="https://twitter.com/{{ page.services.twitter }} ">News from gonuke</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
     {% endif %}
     <table>
         <tr>
@@ -28,27 +28,19 @@ layout: default
                 {% endif %}
                 {{ page.city_state_zip }}</br>
                 <p></p>
-                {% if page.github != null %}
-                <a href="https://github.com/{{ page.github }}" target="_blank"><img class="cnerg-service-icon" src="../services/github.png"></a>
-                {% endif %}
-                {% if page.bitbucket != null %}
-                <a href="https://bitbucket.org/{{ page.bitbucket }}" target="_blank"><img class="cnerg-service-icon" src="../services/bitbucket.png"></a>
-                {% endif %}
-                {% if page.stackoverflow != null %}
-                <a href="https://stackoverflow.com/users/{{ page.stackoverflow }}" target="_blank"><img class="cnerg-service-icon" src="../services/stackoverflow.png"></a>
-                {% endif %}
-                {% if page.scholar != null %}
-                <a href="https://scholar.google.com/citations?user={{ page.scholar }}&hl=enusers/" target="_blank"><img class="cnerg-service-icon" src="../services/scholar.jpg"></a>
-                {% endif %}
-                {% if page.facebook != null %}
-                <a href="https://facebook.com/{{ page.facebook }}" target="_blank"><img class="cnerg-service-icon" src="../services/facebook.png"></a>
-                {% endif %}
-                {% if page.linkedin != null %}
-                <a href="https://linkedin.com/in/{{ page.linkedin }}" target="_blank"><img class="cnerg-service-icon" src="../services/linkedin.png"></a>
-                {% endif %}
+                {% for service in page.services %}
+                {% assign key = service[0] %}
+                {% assign username = service[1] %}
+                {% assign baseurl = site.data.services[key].baseurl %}
+                {% assign icon = site.data.services[key].icon %}
+                <a href="{{ baseurl }}{{ username }}" target="_blank">
+                  <img class="cnerg-service-icon" src="/services/icons/{{ icon }}" alt="icon for {{ key }}">
+                </a>
+                {% endfor %}
             </td>
         </tr>
     </table>
+
 
     {{ content }}
   </section>
