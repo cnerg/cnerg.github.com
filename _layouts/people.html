@@ -10,11 +10,13 @@ layout: default
   <section>
     {% for group in site.data.people %}
       <h2> {{ group.group }}</h2>
-    {% for person in group.people %}
+      {% for person in group.people %}
       <div class="cnerg-person-list-item">
-        <a href="{{ person.url }}"><img class="cnerg-headshot" src="{{ person.url }}/{{ person.image }}"><br/>{{ person.name }}</a>
+        <a href="{{ person.url }}"><img class="cnerg-headshot" src="{{ person.url }}/{{ person.image }}"><br/>
+        <b>{{ person.name }}</b> <br/>
+        {{ person.role }}</a>
       </div>
-    {% endfor %}
+      {% endfor %}
     {% endfor %}
   </section>
 

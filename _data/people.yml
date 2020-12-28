@@ -1,6 +1,7 @@
 - group: 'Staff'
   people:
   - name: "Dr. Paul P.H. Wilson"
+    role: "Professor, CNERG leader"
     url: "pphw"
     image: "pphw4.jpg"
   - name: "Dr. Baptiste Mouginot"
