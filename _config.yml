@@ -41,3 +41,7 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
+collections:
+  opportunities:
+      output: true

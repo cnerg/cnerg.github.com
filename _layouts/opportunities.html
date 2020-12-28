@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article>
+
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <section>    
+    {{ content }}
+  </section>
+
+ <section>
+    <h2>Current Openings</h2>
+    <dl>
+    {% for opportunity in site.opportunities %}
+    <dt><a href="{{ opportunity.url }}">{{ opportunity.title }}</a></dt>
+    <dd>{{ opportunity.desc }}<br/>
+    Posted: {{ opportunity.posted | date: date_format }}, Closes: {{ opportunity.closes | date: date_format }}</dd>
+    {% endfor %}
+    </dl>
+</section>
+
+</article>
