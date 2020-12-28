@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article>
+
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <section>
+    {% for group in site.data.people %}
+      <h2> {{ group.group }}</h2>
+    {% for person in group.people %}
+      <div class="cnerg-person-list-item">
+        <a href="{{ person.url }}"><img class="cnerg-headshot" src="{{ person.url }}/{{ person.image }}"><br/>{{ person.name }}</a>
+      </div>
+    {% endfor %}
+    {% endfor %}
+  </section>
+
+</article>

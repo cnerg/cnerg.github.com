@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<article>
+
+  <header>
+  </header>
+
+  <section>
+    {% if page.twitter != null  %}
+    <div style="float: right;"><a class="twitter-timeline" data-height="800" data-width="220" href="https://twitter.com/{{ page.twitter }} ">News from gonuke</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+    {% endif %}
+    <table>
+        <tr>
+            <td><img class="cnerg-person-headshot" src="{{ page.image }}"></td>
+            <td valign="top">
+                <h1>{{ page.title | escape }}</h1>
+                <h2>{{ page.role | escape}}</h2>
+                <a href="mailto:{{ page.email }}">{{ page.email }}</a></br>
+                {{ page.phone }}</br>
+                {{ page.room }}</br>
+                {% if page.google_map != null %}
+                <a href="{{ page.google_map }}" target=_blank>
+                    {{ page.address }}</br>
+                </a>
+                {% else %}
+                {{ page.address }}</br>
+                {% endif %}
+                {{ page.city_state_zip }}</br>
+                <p></p>
+                {% if page.github != null %}
+                <a href="https://github.com/{{ page.github }}" target="_blank"><img class="cnerg-service-icon" src="../services/github.png"></a>
+                {% endif %}
+                {% if page.bitbucket != null %}
+                <a href="https://bitbucket.org/{{ page.bitbucket }}" target="_blank"><img class="cnerg-service-icon" src="../services/bitbucket.png"></a>
+                {% endif %}
+                {% if page.stackoverflow != null %}
+                <a href="https://stackoverflow.com/users/{{ page.stackoverflow }}" target="_blank"><img class="cnerg-service-icon" src="../services/stackoverflow.png"></a>
+                {% endif %}
+                {% if page.scholar != null %}
+                <a href="https://scholar.google.com/citations?user={{ page.scholar }}&hl=enusers/" target="_blank"><img class="cnerg-service-icon" src="../services/scholar.jpg"></a>
+                {% endif %}
+                {% if page.facebook != null %}
+                <a href="https://facebook.com/{{ page.facebook }}" target="_blank"><img class="cnerg-service-icon" src="../services/facebook.png"></a>
+                {% endif %}
+                {% if page.linkedin != null %}
+                <a href="https://linkedin.com/in/{{ page.linkedin }}" target="_blank"><img class="cnerg-service-icon" src="../services/linkedin.png"></a>
+                {% endif %}
+            </td>
+        </tr>
+    </table>
+
+    {{ content }}
+  </section>
+
+</article>

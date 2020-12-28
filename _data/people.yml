@@ -1,0 +1,20 @@
+- group: 'Staff'
+  people:
+  - name: "Dr. Paul P.H. Wilson"
+    url: "pphw"
+    image: "pphw4.jpg"
+  - name: "Dr. Baptiste Mouginot"
+    url: "bam"
+  - name: "Dr. Tim Bohm"
+    url: "tdb"
+
+- group: 'Graduate Students'
+  people:
+  - name: "Kalin Kiesling"
+    url: "krk"
+
+
+- group: 'Undergraduate Students'
+  people:
+  - name: "Yuehan Qin"
+    url: "yq"
