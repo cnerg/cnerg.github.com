@@ -17,6 +17,7 @@ services:
   scholar: pWHnbUgAAAAJ
   facebook: gonuke
   linkedin: gonuke
+twitter-feed: true
 ---
 
 Paul Wilson is the Grainger Professor of Nuclear Engineering and current
