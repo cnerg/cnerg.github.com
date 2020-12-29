@@ -29,6 +29,8 @@
       suburl: "/community/manual/resources/"
     - subtitle: "Roles"
       suburl: "/community/manual/roles/"
+    - subtitle: "Emotional Health"
+      suburl: "/community/manual/emotional_health.html"
 
 - title: "Publications"
   url: "/publications"
