@@ -1,4 +1,4 @@
-- group: 'Staff'
+- group: 'Faculty & Staff'
   people:
   - name: "Dr. Paul P.H. Wilson"
     role: "Professor, CNERG leader"
@@ -6,16 +6,69 @@
     image: "pphw4.jpg"
   - name: "Dr. Baptiste Mouginot"
     url: "bam"
+    role: "Scientist"
+    image: "hacker_mouginot.jpg"
   - name: "Dr. Tim Bohm"
     url: "tdb"
+    role: "Scientist"
+  - name: "Anna Caldwell-Overdier"
+    url: "ac-o"
+    role: "Researcher"
+    image: "aco.jpg"
 
 - group: 'Graduate Students'
   people:
+  - name: "Philip Britt"
+    url: "psb"
+    role: "PhD Dissertator, US NRC Fellow"
+    image: britt.jpg
   - name: "Kalin Kiesling"
     url: "krk"
+    role: "PhD Candidate, USNRC Fellow, Wisconsin Distinguished Graduate Fellow"
+    image: kiesling.png
+  - name: "Arrielle Opotowsky"
+    url: "aco"
+    role: "PhD Dissertator, Nuclear Forensics Graduate Fellow, NSF Fellow, GERS"
+    image: opotowsky.jpg
+  - name: "Lucas Jacobson"
+    url: "ljj"
+    role: "PhD Candidate"
+    image: jacobson_avatar.png
+  - name: "Young Hui Park"
+    url: "yhp"
+    role: "PhD Candidate"
+    image: hacker_park.jpg
+  - name: "Nancy Granda-Duarte"
+    url: "ngd"
+    role: "PhD Candidate, GERS"
+    image: hacker_granda_duarte.jpg
+  - name: "Katie Mummah"
+    url: "kam"
+    role: "PhD Candidate"
+    image: mummah.jpg
+  - name: "Katie Biegel"
+    url: "keb"
+    role: "PhD Candidate, Argonne National Laboratory Graduate Fellow"
+  - name: "Jordan Stomps"
+    url: "js"
+    role: "PhD Candidate"
+    image: stomps.jpg
+  - name: "Connor Moreno"
+    url: "cam"
+    role: "PhD Student, GERS"
+    image: moreno.jpg
+
 
 
 - group: 'Undergraduate Students'
   people:
   - name: "Yuehan Qin"
     url: "yq"
+    role: "Undergraduate Researcher"
+  - name: "Matthew Nyberg"
+    url: "mn"
+    role: "Undergraduate Researcher"
+  - name: "Bradly Laufenberg"
+    url: "bl"
+    role: "Undergraduate Researcher"
+    image: laufenberg.jpg

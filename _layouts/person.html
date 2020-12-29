@@ -7,8 +7,9 @@ layout: default
   </header>
 
   <section>
-    {% if page.services.twitter != null  %}
-    <div style="float: right;"><a class="twitter-timeline" data-height="800" data-width="220" href="https://twitter.com/{{ page.services.twitter }} ">News from gonuke</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+    <p><a href="/">CNERG</a> / <a href="../">Members of CNERG Community</a></p>
+    {% if page.services.twitter != null  and page.twitter-feed == true %}
+    <div style="float: right;"><a class="twitter-timeline" data-height="800" data-width="220" href="https://twitter.com/{{ page.services.twitter }} ">News from {{ pages.services.twitter }}</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
     {% endif %}
     <table>
         <tr>
@@ -16,7 +17,9 @@ layout: default
             <td valign="top">
                 <h1>{{ page.title | escape }}</h1>
                 <h2>{{ page.role | escape}}</h2>
-                <a href="mailto:{{ page.email }}">{{ page.email }}</a></br>
+                {% for address in page.email %}
+                <a href="mailto:{{ address }}">{{ address }}</a></br>
+                {% endfor %}
                 {{ page.phone }}</br>
                 {{ page.room }}</br>
                 {% if page.google_map != null %}
@@ -37,6 +40,9 @@ layout: default
                   <img class="cnerg-service-icon" src="/services/icons/{{ icon }}" alt="icon for {{ key }}">
                 </a>
                 {% endfor %}
+                {% if page.personal_website != null %}
+                <br/><a href="{{ page.personal_website }}">Personal Website</a>
+                {% endif %}
             </td>
         </tr>
     </table>
