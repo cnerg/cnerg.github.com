@@ -1,0 +1,29 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarColor02">
+        <ul class="navbar-nav mr-auto">
+            {% for item in site.data.navbar %}
+            {% if item.subcategories != null %}
+            <li class="nav-itme dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ item.url }}" >{{ item.title }}</a>
+                <div class="dropdown-menu" aria-labelledby="download">
+            {% for subcategory in item.subcategories %}
+                  <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ subcategory.suburl }}">{{ subcategory.subtitle }}</a>
+            {% endfor %}
+                </dive>
+            {% else %}
+            <li class="nav-item">
+                <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+            {% endif %}
+            </li>
+            {% endfor %}
+      </ul>
+      </div>
+    </div>
+  </nav>
+  
+

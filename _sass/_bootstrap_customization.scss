@@ -2,327 +2,210 @@
 // As example you can start by importing the _bootswatch.scss file from one of the
 // theme provided by https://bootswatch.com .
 
-// Minty 4.3.1
+// Simplex 4.5.3
 // Bootswatch
+
 
 // Variables ===================================================================
 
-$web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
+$web-font-path: "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" !default;
 @import url($web-font-path);
+
+// Mixins ======================================================================
+
+@mixin btn-shadow($color){
+  @include gradient-y-three-colors(lighten($color, 3%), $color, 6%, darken($color, 3%));
+  filter: none;
+  border: 1px solid darken($color, 6.5%);
+}
 
 // Navbar ======================================================================
 
 .navbar {
-  font-family: $headings-font-family;
+  border-width: 1px;
+  border-style: solid;
+
+  &-fixed-top {
+    border-width: 0 0 1px;
+  }
+
+  &-fixed-bottom {
+    border-top-width: 1px 0 0 0;
+    border-style: solid;
+  }
+}
+
+.bg-primary {
+  background-color: $primary !important;
+  border-color: darken($primary, 6.5%) !important;
 }
 
 .bg-dark {
-  background-color: $secondary !important;
+  border-color: darken($dark, 6.5%) !important;
 }
 
-.border-dark {
-  border-color: $secondary !important;
+.bg-light {
+  border-color: darken($white, 6.5%);
 }
 
 // Buttons =====================================================================
 
-.btn {
-  font-family: $headings-font-family;
+.btn-primary,
+.btn-primary:hover {
+  @include btn-shadow($primary);
+}
 
-  &,
+.btn-secondary,
+.btn-secondary:hover {
+  @include btn-shadow($secondary);
+}
+
+.btn-secondary:focus,
+.btn-secondary:not([disabled]):not(.disabled):active,
+.btn-secondary:not([disabled]):not(.disabled).active {
+  box-shadow: 0 0 0 .2rem rgba($gray-200, .5);
+}
+
+.btn-success,
+.btn-success:hover {
+  @include btn-shadow($success);
+}
+
+.btn-info,
+.btn-info:hover {
+  @include btn-shadow($info);
+}
+
+.btn-warning,
+.btn-warning:hover {
+  @include btn-shadow($warning);
+}
+
+.btn-danger,
+.btn-danger:hover {
+  @include btn-shadow($danger);
+}
+
+.btn-dark,
+.btn-dark:hover {
+  @include btn-shadow($dark);
+}
+
+.btn-light,
+.btn-light:hover {
+  @include btn-shadow($light);
+}
+
+.btn-outline-secondary {
+  border-color: $gray-400;
+  color: $gray-400;
+
   &:hover {
+    background-color: $gray-400;
     color: $white;
-  }
-
-  &-light,
-  &-light:hover {
-    color: $gray-700;
-  }
-
-  &-link,
-  &-link:hover {
-    color: $primary;
-  }
-
-  &-link.disabled:hover {
-    color: $gray-600;
-  }
-
-  &-outline-primary {
-    color: $primary;
-  }
-
-  &-outline-secondary {
-    color: $secondary;
-  }
-
-  &-outline-success {
-    color: $success;
-  }
-
-  &-outline-info {
-    color: $info;
-  }
-
-  &-outline-warning {
-    color: $warning;
-  }
-
-  &-outline-danger {
-    color: $danger;
-  }
-
-  &-outline-dark {
-    color: $dark;
-  }
-
-  &-outline-light {
-    color: $light;
   }
 }
 
 // Typography ==================================================================
 
-// Tables ======================================================================
-
-.table {
-
-  &-primary,
-  &-secondary,
-  &-success,
-  &-info,
-  &-warning,
-  &-danger {
-    color: #fff;
-  }
-
-  &-primary {
-    &, > th, > td {
-      background-color: $primary;
-    }
-  }
-
-  &-secondary {
-    &, > th, > td {
-      background-color: $secondary;
-    }
-  }
-
-  &-light {
-    &, > th, > td {
-      background-color: $light;
-    }
-  }
-
-  &-dark {
-    &, > th, > td {
-      background-color: $dark;
-    }
-  }
-
-  &-success {
-    &, > th, > td {
-      background-color: $success;
-    }
-  }
-
-  &-info {
-    &, > th, > td {
-      background-color: $info;
-    }
-  }
-
-  &-danger {
-    &, > th, > td {
-      background-color: $danger;
-    }
-  }
-
-  &-warning {
-    &, > th, > td {
-      background-color: $warning;
-    }
-  }
-
-  &-active {
-    &, > th, > td {
-      background-color: $table-active-bg;
-    }
-  }
-
-  &-hover {
-
-    .table-primary:hover {
-      &, > th, > td {
-        background-color: darken($primary, 5%);
-      }
-    }
-
-    .table-secondary:hover {
-      &, > th, > td {
-        background-color: darken($secondary, 5%);
-      }
-    }
-
-    .table-light:hover {
-      &, > th, > td {
-        background-color: darken($light, 5%);
-      }
-    }
-
-    .table-dark:hover {
-      &, > th, > td {
-        background-color: darken($dark, 5%);
-      }
-    }
-
-    .table-success:hover {
-      &, > th, > td {
-        background-color: darken($success, 5%);
-      }
-    }
-
-    .table-info:hover {
-      &, > th, > td {
-        background-color: darken($info, 5%);
-      }
-    }
-
-    .table-danger:hover {
-      &, > th, > td {
-        background-color: darken($danger, 5%);
-      }
-    }
-
-    .table-warning:hover {
-      &, > th, > td {
-        background-color: darken($warning, 5%);
-      }
-    }
-
-    .table-active:hover {
-      &, > th, > td {
-        background-color: $table-active-bg;
-      }
-    }
-  }
-
-  .thead-dark th {
-    background-color: $primary;
-    border-color: $table-border-color;
-    font-family: $headings-font-family;
-  }
+.text-secondary {
+  color: $gray-600 !important;
 }
 
 // Forms =======================================================================
 
-legend {
-  font-family: $headings-font-family;
+legend,
+label {
+  color: $headings-color;
 }
 
-// Navs ========================================================================
-
-.dropdown-menu {
-  font-family: $font-family-sans-serif;
-}
+// Navs =======================================================================
 
 .breadcrumb {
-  a {
-    color: $navbar-dark-color;
-  }
+  border: 1px solid darken($white, 6.5%);
+}
 
-  a:hover {
-    color: $white;
+.pagination {
+  .page-link:hover {
     text-decoration: none;
   }
 }
 
-// Indicators ==================================================================
+// CNERG ========================================================================
 
-.alert {
-  color: $white;
-
-  h1, h2, h3, h4, h5, h6 {
-    color: inherit;
-  }
-
-  a,
-  .alert-link {
-    color: $white;
-  }
-
-  &-primary {
-    &, > th, > td {
-      background-color: $primary;
-    }
-  }
-
-  &-secondary {
-    &, > th, > td {
-      background-color: $secondary;
-    }
-  }
-
-  &-success {
-    &, > th, > td {
-      background-color: $success;
-    }
-  }
-
-  &-info {
-    &, > th, > td {
-      background-color: $info;
-    }
-  }
-
-  &-danger {
-    &, > th, > td {
-      background-color: $danger;
-    }
-  }
-
-  &-warning {
-    &, > th, > td {
-      background-color: $warning;
-    }
-  }
-
-  &-dark {
-    &, > th, > td {
-      background-color: $dark;
-    }
-  }
-
-  &-light {
-    &, > th, > td {
-      background-color: $light;
-    }
-  }
-
-  &-light {
-    &,
-    & a:not(.btn),
-    & .alert-link {
-      color: $body-color;
-    }
-  }
+.cnerg-headshot {
+  height: 150px;
 }
 
-.badge {
-  color: $white;
-
-  &-light {
-    color: $gray-700;
-  }
+.cnerg-person-headshot {
+  height: 350px;
+  width: auto;
 }
 
-// Progress bars ===============================================================
+.cnerg-service-icon {
+  height: 24px;
+}
 
-// Containers ==================================================================
+.cnerg-person-list-item {
+  display: inline-block;
+  width: 30%;  // need something to make this responsive for narrow browsers
+  text-align: center;
+}
 
-.card,
-.list-group-item {
-  h1, h2, h3, h4, h5, h6 {
-    color: inherit;
-  }
+h1 { color: $primary; }
+h3 { font-style: italic;}
+
+.col-sm-3, .col-sm-4 { text-align: center; }
+
+.cnerg-center { text-align: center;}
+
+// borrowed from ARFC
+.portfolio-item {
+  right: 0;
+  margin: 0 0 15px;
+}
+
+.portfolio-item .portfolio-link {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.portfolio-item .portfolio-link .portfolio-hover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  -webkit-transition: all ease .5s;
+  -moz-transition: all ease .5s;
+  transition: all ease .5s;
+  background: rgba(200,50,50,.9); /* Fallback when no plugin support */
+}
+
+.portfolio-item .portfolio-link .portfolio-hover:hover {
+  opacity: 1;
+}
+
+.portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 20px;
+  margin-top: -12px;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+}
+
+
+.portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content .lg-plus {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 20px;
+  margin-top: -24px;
+  text-align: center;
+  font-size: 64px;
+  color: #fff;
 }

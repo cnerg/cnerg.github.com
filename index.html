@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article>
+
+<section>
+  <h1 class="cnerg-center">Mission: <br/>{{ site.data.mission_and_values.mission }}</h1>
+</section>
+<hr>
+  <section>
+    <div class="container">
+      <div class="row row-no-gutters">
+        <div class="col-sm-9">
+          <div class="row">
+            {% for area in site.data.areas %}
+            <div class="col-sm-4">
+              <h2>{{ area.title }}</h2>
+            </div>
+            {% endfor %}
+            </div>
+            <div class="row">
+              {% for area in site.data.areas %}
+              <div class="col-sm-4 portfolio-item">
+                <a href="{{ area.url }}" class="portfolio-link">
+                  <div class="portfolio-hover">
+                    <div class="portfolio-hover-content">
+                      <div class="lg-plus">
+                        +
+                      </div>
+                    </div>
+                </div>
+                <img src="assets/images/{{ area.image }}" alt="{{ area.alt-text }}"></a><br/>
+              </div>
+              {% endfor %}
+              </div>
+              <div class="row">
+                {% for area in site.data.areas %}
+                <div class="col-sm-4">
+                  {{ area.desc }}
+                </div>
+                {% endfor %}
+                </div>
+                    </div>
+        <div class="col-sm-3"><a class="twitter-timeline" data-height="800" data-width="220" href="https://twitter.com/uw_cnerg ">News from UW CNERG</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+</article>

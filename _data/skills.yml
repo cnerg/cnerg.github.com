@@ -1,0 +1,5 @@
+- title: Compiling and linking code
+  desc: When working with compiled code (e.g. C++), it is valuable to understand the steps
+  links:
+    - url: http://some.site.com
+      text: Foo bar

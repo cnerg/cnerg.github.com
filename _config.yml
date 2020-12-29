@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CNERG: Computational Nuclear Engineering Research Group"
+title: "Computational Nuclear Engineering Research Group"
 email: "cnerg@office365.wisc.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   Reliable Software Tools for the Analysis of Complex Nuclear Energy Systems
+
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: uw_cnerg
@@ -40,3 +41,7 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
+collections:
+  opportunities:
+    output: true

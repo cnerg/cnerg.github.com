@@ -1,0 +1,21 @@
+twitter:
+  baseurl: "https://twitter.com/"
+  icon: "twitter.png"
+github:
+  baseurl: "https://github.com/"
+  icon: "github.png"
+bitbucket:
+  baseurl: "https://bitbucket.org/"
+  icon: "bitbucket.png"
+stackoverflow:
+  baseurl: "https://stackoverflow.com/users/"
+  icon: "stackoverflow.png"
+scholar:
+  baseurl: "https://scholar.google.com/citations?hl=enusers/&user="
+  icon: "scholar.jpg"
+facebook:
+  baseurl: "https://facebook.com/"
+  icon: "facebook.png"
+linkedin:
+  baseurl: "https://linkedin.com/in/"
+  icon: "linkedin.png"

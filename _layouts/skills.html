@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<article>
+
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <section>    
+    {{ content }}
+  </section>
+
+ <section>
+    <h2>Specific skills to consider</h2>
+    <dl>
+    {% for skill in site.data.skills %}
+    <dt>{{ skill.title }}</dt>
+    <dd>{{ skill.desc }}
+        <ul>
+            {% for link in skill.links %}
+            <a href="{{ link.url }}">{{ link.text }}</a>
+            {% endfor %}
+        </ul>
+    </dd>
+
+    {% endfor %}
+    </dl>
+</section>
+
+
+
+</article>

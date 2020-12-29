@@ -1,0 +1,14 @@
+- title: Radiation Transport in Complex Geometries
+  url: https://svalinn.github.io
+  image: hab1.png
+  alt-text: Cut-away of NASA habitat module showing radiation deposition
+  desc: Open source software tools that support Monte Carlo radiation transport on complex CAD-based geometries, with workflows that 
+
+- title: Nuclear Fuel Cycle Analysis
+  url: https://fuelcycle.org
+  image: cyclus.png
+  alt-text: Cyclus logo - a gear with a letter C inscribed
+  desc: Open source software tools that allow flexible modeling of nuclear fuel cycles over varying time and physical fidelities.
+
+- title: Nuclear Security and  Nonproliferation
+  desc: Simluation of nuclear fuel cycle facilities and application of data science techniques to their signatures
