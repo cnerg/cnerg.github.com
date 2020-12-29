@@ -1,6 +1,7 @@
 ---
-layout: tools
-title: Research tools
+layout: desc_list
+title: Research Tools
+data: tools
 ---
 
 

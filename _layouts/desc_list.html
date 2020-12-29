@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+{% assign data = site.data[page.data] %}
+
 <article>
 
   <header>
@@ -12,13 +15,13 @@ layout: default
   </section>
 
  <section>
-    <h2>Specific skills to consider</h2>
+    <h2>Specific {{ page.data }} to consider</h2>
     <dl>
-    {% for skill in site.data.skills %}
-    <dt>{{ skill.title }}</dt>
-    <dd>{{ skill.desc }}
+    {% for item in data %}
+    <dt>{{ item.title }}</dt>
+    <dd>{{ item.desc }}
         <ul>
-            {% for link in skill.links %}
+            {% for link in item.links %}
             <a href="{{ link.url }}">{{ link.text }}</a>
             {% endfor %}
         </ul>

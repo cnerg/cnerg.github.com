@@ -1,6 +1,7 @@
 ---
-layout: skills
+layout: desc_list
 title: Research Skills
+data: skills
 ---
 
 There are many individual skills and tools that are used to be a successful and
@@ -16,4 +17,3 @@ the details of compiling and installing software packages in the various
 computing environments where you need them, whether developed within our group
 or elsewhere, is an important skill.
 
-support for tasks that are on the critical path to your research progress.
