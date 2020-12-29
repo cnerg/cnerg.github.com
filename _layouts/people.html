@@ -7,17 +7,28 @@ layout: default
     <h1>{{ page.title | escape }}</h1>
   </header>
 
-  <section>
     {% for group in site.data.people %}
+    <section>
       <h2> {{ group.group }}</h2>
       {% for person in group.people %}
-      <div class="cnerg-person-list-item">
-        <a href="{{ person.url }}"><img class="cnerg-headshot" src="{{ person.url }}/{{ person.image }}"><br/>
-        <b>{{ person.name }}</b> <br/>
+      {% assign start_row = forloop.index | modulo : 4 %}
+      {% if start_row == 1 %}
+      <div class="row">
+      {% endif %}
+        <div class="col-sm-3">
+          {% if person.image != null %}
+          <a href="{{ person.url }}"><img class="cnerg-headshot" src="{{ person.url }}/{{ person.image }}"><br/>
+          {% else %}
+          <a href="{{ person.url }}"><img class="cnerg-headshot" src="hacker_blank.jpg"><br/>
+          {% endif %}
+          <b>{{ person.name }}</b> <br/>
         {{ person.role }}</a>
-      </div>
-      {% endfor %}
+        </div>
+    {% if start_row == 0 %}
+    </div>
+    {% endif %}
     {% endfor %}
-  </section>
+    </section>
+    {% endfor %}
 
 </article>
