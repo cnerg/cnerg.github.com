@@ -62,4 +62,7 @@
     - subtitle: "Cyclus"
       suburl: "https://fuelcycle.org"
       target: "_blank"
+    - subtitle: "FRENSIE"
+      suburl: "https://github.com/FRENSIE/FRENSIE"
+      target: "_blank"
 
