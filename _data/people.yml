@@ -72,3 +72,307 @@
     url: "bl"
     role: "Undergraduate Researcher"
     image: laufenberg.jpg
+
+- group: 'Alumni'
+  people:
+  - name: Tae Wook Ahn
+    url: 
+    year: 2010
+    role: MS
+    employer: Exelon Nuclear
+    employer_url:
+  - name: Elliott Biondo
+    url:
+    year: 2016
+    role: PhD
+    employer: Oak Ridge National Laboratory
+    employer_url: http://www.ornl.gov
+  - name: Goeff Bull
+    url: 
+    year: 2005
+    role: MS
+    employer: US Army
+    employer_url:
+  - name: Drew Buys
+    url: 
+    year: 2017
+    role: Project Assistant
+    employer: 
+    employer_url:
+  - name: Robert Carlsen
+    url: 
+    year: 2016
+    role: PhD
+    employer: Idaho National Laboratory
+    employer_url: http://www.inl.gov
+  - name: Andrew Davis
+    url: 
+    year: 2012-2017
+    role: Scientist
+    employer: Culham Centre for Fusion Energy
+    employer_url: http://www.ccfe.ac.uk
+  - name: "Chelsea D'Angelo"
+    year: 2019
+    role: PhD
+    employer: Los Alamos National Laboratory
+    employer_url: http://www.lanl.gov
+  - name: Kerry (Dunn) Bossler
+    url: 
+    year: 2014
+    role: PhD
+    employer: Sandia National Laboratories
+    employer_url: http://www.sandia.gov
+  - name: Eric Edwards
+    url: 
+    year: 2007
+    role: PhD
+    employer: Shine Medical Technologies 
+    employer_url: http://shinemed.com
+  - name: Matthew Gidden
+    url: http://www.mattgidden.com
+    year: 2015
+    role: PhD
+    employer: Climate Analytics
+    employer_url: http://climateanalytics.org
+  - name: Ryan Grady
+    url: 
+    year: 2008
+    role: MS
+    employer: Exelon Nuclear
+    employer_url:
+  - name: "Moataz Harb"
+    role: PhD
+    year: 2019
+    employer: Karlsruhe Institute of Technology
+    employer_url: http://www.kit.edu  
+  - name: Chris Hoffman
+    url: 
+    year: 2017
+    role: MS
+    employer: 
+    employer_url:
+  - name: Po Hu
+    url: 
+    year: 2008
+    role: PhD
+    employer: Shanghai Jiaotong University
+    employer_url:
+  - name: Katy Huff
+    url: http://katyhuff.github.io
+    year: 2013
+    role: PhD
+    employer: University of Illinois 
+    employer_url: http://npre.illinois.edu  
+  - name: Paul Humrickhouse
+    url: 
+    year: 2005
+    role: MS
+    employer: Idaho National Laboratory
+    employer_url: http://www.inl.gov
+  - name: Brian Kiedrowski
+    url: http://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski
+    year: 2009
+    role: PhD
+    employer: University of Michigan
+    employer_url: http://ners.engin.umich.edu
+  - name: Matthew Klebenow
+    url: 
+    year: 2013
+    role: BS Engineering Physics
+    employer: EPIC Systems
+    employer_url: 
+  - name: Louis Hartono
+    url: 
+    year: 2020
+    role: Research Intern
+    employer: 
+    employer_url: 
+  - name: Ahmad Ibrahim
+    url: https://www.linkedin.com/pub/ahmad-ibrahim/13/585/161
+    year: 2012
+    role: PhD
+    employer: 
+    employer_url: 
+  - name: Steven Jackson
+    url: 
+    year: 2013
+    role: Programmer
+    employer: 
+    employer_url: 
+  - name: Piper Lincoln
+    url: https://www.linkedin.com/in/piperlincoln
+    year: 2020
+    role: BS Engineering Mechanics
+    employer: General Dynamics Mission Systems
+    employer_url: 
+  - name: Meghan McGarry
+    url: 
+    year: 2014-2017
+    role: Scientist
+    employer: Lawrence Livermore National Laboratory
+    employer_url: http://www.llnl.gov
+  - name: Courtlan McLay
+    url: 
+    year: 2015
+    role: Programmer
+    employer: 
+    employer_url: 
+  - name: Damien Moule
+    url: 
+    year: 2011 
+    role: MS
+    employer: 
+    employer_url: 
+  - name: Phiphat Phruksarojanakun
+    url: 
+    year: 2007
+    role: PhD
+    employer: Thai Office of Atoms for Peace 
+    employer_url: http://www.oaep.go.th/index_en.php
+  - name: Eliot Pickhardt
+    url: 
+    year: 2019
+    role: High School Intern
+    employer: 
+    employer_url: 
+  - name: Kyle Oliver
+    url: http://www.kyleoliver.net
+    year: 2009
+    role: MS
+    employer: 
+    employer_url: 
+  - name: Tracy Radel
+    url: https://www.linkedin.com/pub/tracy-radel/24/6b7/538
+    year: 2007
+    role: MS
+    employer: Shine Medicatl Technologies
+    employer_url: http://www.shinemed.com
+  - name: Olzhas Rakhimov
+    url: 
+    year: 2014
+    role: Research Intern
+    employer: 
+    employer_url: 
+  - name: Eric Relson
+    url: http://hackaday.io/hacker/614-gertlex
+    year: 2013
+    role: MS
+    employer: 
+    employer_url: 
+  - name: Jeremy Roberts
+    url: http://www.mne.ksu.edu/people/roberts
+    year: 2009
+    role: MS
+    employer: Kansas State University
+    employer_url: http://www.kse.edu
+  - name: Ben Schmitt
+    url: 
+    year: 2006
+    role: MS
+    employer: Global Nuclear Fuels
+    employer_url: 
+  - name: Andy Scholbrock
+    url: 
+    year: 2009
+    role: BS Engineering Physics
+    employer: National Renewable Energy Laboratory
+    employer_url: http://www.nrel.gov
+  - name: Lane Schultz
+    url: 
+    year: 2017
+    role: Research Intern
+    employer: 
+    employer_url: 
+  - name: Owen Selles
+    url: 
+    year: 2017
+    role: Project Assistant
+    employer: New Jersey Department of Environmental Protection
+    employer_url: https://www.nj.gov/dep/
+  - name: Anthony Scopatz
+    url: 
+    year: 2013-2015
+    role: Scientist
+    employer: Quansight
+    employer_url: http://quansight.com
+  - name: Tim Setter 
+    url: 
+    year: 2007
+    role: MS
+    employer: Tennessee Valley Authority
+    employer_url: 
+  - name: Stuart Slattery
+    url: http://www.csm.ornl.gov/newsite/cees.html
+    year: 2013
+    role: PhD
+    employer: Oak Ridge National Laboratory 
+    employer_url: http://www.ornl.gov
+  - name: Rachel Slaybaugh
+    url: https://www.nuc.berkeley.edu/people/rachel-slaybaugh
+    year: 2012
+    role: PhD
+    employer: University of California-Berkeley
+    employer_url: https://www.nuc.berkeley.edu
+  - name: Patrick Shriwise
+    url: https://pshriwise.github.io
+    year: 2018
+    role: PhD
+    employer: Argonne National Laboratory
+    employer_url: https://www.anl.gov
+  - name: Chris Staum
+    url: 
+    year: 2006
+    role: MS
+    employer: Exelon Nuclear
+    employer_url: http://www.exeloncorp.com
+  - name: Samuel Stern
+    url: 
+    year: 2019
+    role: BS Engineering Physics
+    employer: 
+    employer_url: 
+  - name: Alex Swenson
+    url: 
+    year: 2019
+    role: MS
+    employer: Shine Medical Technologies
+    employer_url: https://shinemed.com
+  - name: Zach Welch
+    url: 
+    year: 2013-2015
+    role: Research Support
+    employer: Amazon
+    employer_url: 
+  - name: Ellis Wilson
+    url: 
+    year: 2018
+    role: BS Engineering Physics
+    employer: 
+    employer_url: 
+  - name: John Xia
+    url: 
+    year: 2014-2015
+    role: Researcher
+    employer: 
+    employer_url: 
+  - name: Juie Zachman
+    url: 
+    year: 2013-2015
+    role: Programmer
+    employer: University of Wisconsin-Madison
+    employer_url: 
+  - name: Xiaokang Zhang
+    url: 
+    year: 2017-2019
+    role: Visiting Student Researcher
+    employer: University of Science and Technology of China
+    employer_url: 
+
+
+
+
+
+
+
+
+

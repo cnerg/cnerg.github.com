@@ -8,6 +8,7 @@ layout: default
   </header>
 
     {% for group in site.data.people %}
+    {% if group.group != "Alumni" %}
     <section>
       <h2> {{ group.group }}</h2>
       {% for person in group.people %}
@@ -29,6 +30,28 @@ layout: default
     {% endif %}
     {% endfor %}
     </section>
+    {% else %}
+    <section>
+      <h2>{{ group.group }}</h2>
+      <ol>
+        {% for person in group.people %}
+        <li>
+          {% if person.url != null %}
+          <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>,
+          {% else %}
+          {{ person.name }},
+          {% endif %}
+          ({{ person.role }}, {{ person.year }}), 
+          {% if person.employer_url != null %}
+          <a href="{{ person.employer_url }}" target="_blank">{{ person.employer }}</a>
+          {% else %}
+          {{ person.employer }}
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
     {% endfor %}
 
 </article>
