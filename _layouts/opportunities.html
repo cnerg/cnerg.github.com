@@ -15,11 +15,28 @@ layout: default
     <h2>Current Openings</h2>
     <dl>
     {% for opportunity in site.opportunities %}
+    {% if opportunity.active == true %}
     <dt><a href="{{ opportunity.url }}">{{ opportunity.title }}</a></dt>
     <dd>{{ opportunity.desc }}<br/>
     Posted: {{ opportunity.posted | date: date_format }}, Closes: {{ opportunity.closes | date: date_format }}</dd>
+    {% endif %}
     {% endfor %}
     </dl>
 </section>
+
+<section>
+  <h2>Past Openings</h2>
+  <dl>
+  {% for opportunity in site.opportunities %}
+  {% if opportunity.active == false %}
+  <dt><a href="{{ opportunity.url }}">{{ opportunity.title }}</a></dt>
+  <dd>{{ opportunity.desc }}<br/>
+  Posted: {{ opportunity.posted | date: date_format }}, Closed: {{ opportunity.closes | date: date_format }}</dd>
+  {% endif %}
+  {% endfor %}
+  </dl>
+</section>
+
+
 
 </article>
