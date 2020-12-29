@@ -1,9 +1,15 @@
+email:
+  baseurl: "mailto:"
+  icon: email.png
+  cnerg: cnerg.admin@office365.wisc.edus
 twitter:
   baseurl: "https://twitter.com/"
   icon: "twitter.png"
+  cnerg: uw_cnerg
 github:
   baseurl: "https://github.com/"
   icon: "github.png"
+  cnerg: CNERG
 bitbucket:
   baseurl: "https://bitbucket.org/"
   icon: "bitbucket.png"
@@ -19,3 +25,7 @@ facebook:
 linkedin:
   baseurl: "https://linkedin.com/in/"
   icon: "linkedin.png"
+zotero:
+  baseurl: "https://zotero.org/"
+  icon: zotero.png
+  cnerg: groups/10058/cnerg/library

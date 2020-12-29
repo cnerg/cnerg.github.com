@@ -2,33 +2,19 @@
 <div class="py-5 border-top">
   <div class="container">
 
-    <p class="h5 mb-3">{{ site.title | escape }}</p>
-
     <div class="row">
-
-      <div class="col-sm">
-        <ul class="list-unstyled">
-          <li>
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-          </li>
-          {%- if site.email -%}
-            <li>
-              <a href="mailto:{{ site.email }}">
-                {{ site.email }}
-              </a>
-            </li>
-          {%- endif -%}
-        </ul>
-      </div>
-
-
-      <div class="col-sm text-right">
-        <p>{{- site.description | escape -}}</p>
-
+      <div class="col-sm" style="text-align: center;">
+        <p>
+          {% for service in site.data.services %}
+          {% if service[1].cnerg != null %}
+            <a href="{{ service[1].baseurl }}{{ service[1].cnerg }}" target="_blank">
+              <img class="cnerg-service-icon" src="{{ site.baseurl }}/services/icons/{{ service[1].icon }}" alt="icon for {{ service[0] }}">
+            </a>
+          {% endif %}
+          {% endfor %}
+        </p>
+      <p>&copy; 2020-2021  {{ site.title | escape }}<br/>
+        {{- site.description | escape -}}</p>
         <p>
           <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
         </p>
