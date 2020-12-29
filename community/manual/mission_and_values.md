@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CNERG Mission & Values
+title: CNERG Mission, Vision & Values
 ---
 
 ## Mission
