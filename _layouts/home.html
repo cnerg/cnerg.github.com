@@ -3,13 +3,24 @@ layout: default
 ---
 <article>
 
-  <header>
-    <h1>{{ page.title | escape }}</h1>
-  </header>
-  <div style="float: right;"><a class="twitter-timeline" data-height="800" data-width="220" href="https://twitter.com/uw_cnerg ">News from UW CNERG</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
+<section>
+  <h1 style="text-align: center; color: #000000">Mission: <br/>{{ site.data.mission_and_values.mission }}</h1>
+</section>
+<hr>
   <section>
-    {{ content }}
+    <div class="container">
+      <div class="row">
+        {% for area in site.data.areas %}
+        <div class="col-sm-3">
+          <a href="{{ area.url }}"><h2>{{ area.title }}</h2>
+          <img src="assets/images/{{ area.image }}" alt="{{ area.alt-text }}"><br/>
+          {{ area.desc }}
+          </a>
+        </div>
+        {% endfor %}
+        <div class="col-sm-3"><a class="twitter-timeline" data-height="800" data-width="220" href="https://twitter.com/uw_cnerg ">News from UW CNERG</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+      </div>
+    </div>
   </section>
 
 </article>
