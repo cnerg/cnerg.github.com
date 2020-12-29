@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Computational Nuclear Engineering Research Group"
-email: "cnerg@office365.wisc.edu"
+email: "cnerg.admin@office365.wisc.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   Reliable Software Tools for the Analysis of Complex Nuclear Energy Systems
 
