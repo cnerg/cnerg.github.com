@@ -22,7 +22,7 @@
     - subtitle: "Guides"
       suburl: "community/manual/guides/"
     - subtitle: "Tools"
-      suburl: "community/manual/tools/"
+      suburl: "community/manual/tools.html"
     - subtitle: "Policies"
       suburl: "community/manual/policies/"
     - subtitle: "Resources"
