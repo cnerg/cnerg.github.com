@@ -5,97 +5,6 @@ title: CNERG Community Expectations
 * TOC
 {:toc}
 
-## Community Interactions
-
-Fostering a sense of community requires regular interaction and individual
-investment in that community.  The simplest way to contribute is by attending
-group meetings and spending time in your office during common hours.  The
-combination of formal and informal interactions that results from these two
-simple steps creates a sense of familiarity that will directly contribute to our
-combined success.
-
-### Meeting Attendance
-
-In order to make productive contributions to the group you are required to
-attend and actively participate in appropriate CNERG meetings.  These meetings
-are an important opportunity for all CNERG members to learn about and identify
-new connections to other members’ research.  Furthermore, by being an active
-participant in the research group, you can share your experience and expertise
-to improve the quality of all the projects being pursued by the group.  It may
-at times seem as though the work of others is not related to your own, but
-making an effort to understand their work will add creative energy to your own
-work and allow you to recognize the overlaps that are sure to exist.
-
-### Office Hours
-
-Choosing when you will spend time in the office as a professional is a matter of
-finding a balance between your personal lifestyle and work habits and being
-available to your advisor and colleagues for impromptu meetings and
-consultations.  It is therefore necessary to establish some regular work-day
-hours when you can generally be found in your office.
-
-### Working with Scientists
-
-The CNERG community includes scientists and other staff who are a valuable part
-of your support network.  Whether or not they have a formal role in evaluating
-your work, their guidance and input to your work should be considered in the
-same way as guidance and input from your advisor.  Similarly, you should expect
-their role in your research to be similar to that of your advisor, including
-co-authorship on publications, when appropriate.
-
-### Working with PhD Committees
-
-The members of your PhD committee should be considered a valuable resource to
-support your research progress.  While it may be common to select these
-individuals for the expertise that they will bring to evaluating your finished
-work, this same expertise is often useful during the process of completing that
-work.  There are likely to be facets of your research for which those committee
-members can provide more valuable advice than your advisor, and they should be
-consulted on those topics.  This will both improve the quality of the final work
-and also keep your committee members abreast of your progress, helping them
-better understand your completed work with less effort.
-
-## Professional Development and Growth
-
-### Literature Review
-
-An important part of being a successful researcher is understanding the work
-that has already been done in your field and finding a place for your research
-in that body of research.  Learning to use the literature review tools to locate
-relevant articles and then reading those articles will not only provide you with
-valuable information, but will also guide your research to ensure it can be an
-original contribution.  We will work together to identify the best strategies
-for finding useful and interesting articles.  Over time, you will become
-proficient at finding good quality articles that are relevant to your work.
-Reading other people’s published work will also contribute to improved writing
-skills.  A goal of a detailed reading of one publication per month is a good
-minimum standard.
-
-### Seminars
-
-The Engineering Physics department conducts a regular seminar series with a wide
-range of topics from all the research areas of the department.  These seminars
-are generally scheduled on Tuesdays at 12 PM and you should receive notification
-from the department office.  All graduate students in the EP department are
-expected to attend these seminars.  While it may be tempting to dismiss some
-topics as unrelated to your work, this is an opportunity to learn about a wide
-variety of interesting research.  More importantly, it is common to find
-connections to your own work, even if they are weak connections, and in so doing
-you will develop a deeper understanding of the work you are pursuing.
-
-### Technical Conferences and Professional Networks
-
-You are encouraged to attend technical conferences even if you are not
-presenting CNERG research, but should not expect to receive financial support.
-The personal interactions that are possible in face-to-face meetings are
-uniquely valuable and are likely to provide near term input to your research and
-professional development as well as establish your place in a professional
-network for the long term.  We will work together to identify important and
-relevant conferences and creating ties to other scientists working in your
-field.  Over time you will become connected to a network of peers and
-colleagues. Travel to ANS National Meetings and Student Conferences can be
-organized in conjunction with the UW-ANS Student Section.
-
 
 ## Advisor Expectations
 
@@ -197,3 +106,95 @@ comfortable at presenting your work to peers in a variety of formats and
 environments. You are encouraged to submit your work to technical conferences
 and will receive reasonable travel support to present your work.  Travel to ANS
 Student conferences will generally not be supported.
+
+## Community Interactions
+
+Fostering a sense of community requires regular interaction and individual
+investment in that community.  The simplest way to contribute is by attending
+group meetings and spending time in your office during common hours.  The
+combination of formal and informal interactions that results from these two
+simple steps creates a sense of familiarity that will directly contribute to our
+combined success.
+
+### Meeting Attendance
+
+In order to make productive contributions to the group you are required to
+attend and actively participate in appropriate CNERG meetings.  These meetings
+are an important opportunity for all CNERG members to learn about and identify
+new connections to other members’ research.  Furthermore, by being an active
+participant in the research group, you can share your experience and expertise
+to improve the quality of all the projects being pursued by the group.  It may
+at times seem as though the work of others is not related to your own, but
+making an effort to understand their work will add creative energy to your own
+work and allow you to recognize the overlaps that are sure to exist.
+
+### Office Hours
+
+Choosing when you will spend time in the office as a professional is a matter of
+finding a balance between your personal lifestyle and work habits and being
+available to your advisor and colleagues for impromptu meetings and
+consultations.  It is therefore necessary to establish some regular work-day
+hours when you can generally be found in your office.
+
+### Working with Scientists
+
+The CNERG community includes scientists and other staff who are a valuable part
+of your support network.  Whether or not they have a formal role in evaluating
+your work, their guidance and input to your work should be considered in the
+same way as guidance and input from your advisor.  Similarly, you should expect
+their role in your research to be similar to that of your advisor, including
+co-authorship on publications, when appropriate.
+
+### Working with PhD Committees
+
+The members of your PhD committee should be considered a valuable resource to
+support your research progress.  While it may be common to select these
+individuals for the expertise that they will bring to evaluating your finished
+work, this same expertise is often useful during the process of completing that
+work.  There are likely to be facets of your research for which those committee
+members can provide more valuable advice than your advisor, and they should be
+consulted on those topics.  This will both improve the quality of the final work
+and also keep your committee members abreast of your progress, helping them
+better understand your completed work with less effort.
+
+## Professional Development and Growth
+
+### Literature Review
+
+An important part of being a successful researcher is understanding the work
+that has already been done in your field and finding a place for your research
+in that body of research.  Learning to use the literature review tools to locate
+relevant articles and then reading those articles will not only provide you with
+valuable information, but will also guide your research to ensure it can be an
+original contribution.  We will work together to identify the best strategies
+for finding useful and interesting articles.  Over time, you will become
+proficient at finding good quality articles that are relevant to your work.
+Reading other people’s published work will also contribute to improved writing
+skills.  A goal of a detailed reading of one publication per month is a good
+minimum standard.
+
+### Seminars
+
+The Engineering Physics department conducts a regular seminar series with a wide
+range of topics from all the research areas of the department.  These seminars
+are generally scheduled on Tuesdays at 12 PM and you should receive notification
+from the department office.  All graduate students in the EP department are
+expected to attend these seminars.  While it may be tempting to dismiss some
+topics as unrelated to your work, this is an opportunity to learn about a wide
+variety of interesting research.  More importantly, it is common to find
+connections to your own work, even if they are weak connections, and in so doing
+you will develop a deeper understanding of the work you are pursuing.
+
+### Technical Conferences and Professional Networks
+
+You are encouraged to attend technical conferences even if you are not
+presenting CNERG research, but should not expect to receive financial support.
+The personal interactions that are possible in face-to-face meetings are
+uniquely valuable and are likely to provide near term input to your research and
+professional development as well as establish your place in a professional
+network for the long term.  We will work together to identify important and
+relevant conferences and creating ties to other scientists working in your
+field.  Over time you will become connected to a network of peers and
+colleagues. Travel to ANS National Meetings and Student Conferences can be
+organized in conjunction with the UW-ANS Student Section.
+
