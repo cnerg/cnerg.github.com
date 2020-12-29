@@ -18,7 +18,7 @@ email: "cnerg@office365.wisc.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   Reliable Software Tools for the Analysis of Complex Nuclear Energy Systems
 
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "new-website" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: uw_cnerg
 github_username:  cnerg
