@@ -42,7 +42,7 @@ layout: default
               {% assign baseurl = site.data.services[key].baseurl %}
               {% assign icon = site.data.services[key].icon %}
               <a href="{{ baseurl }}{{ username }}" target="_blank">
-                <img class="cnerg-service-icon" src="/services/icons/{{ icon }}" alt="icon for {{ key }}">
+                <img class="cnerg-service-icon" src="{{ site.baseurl }}/services/icons/{{ icon }}" alt="icon for {{ key }}">
               </a>
               {% endfor %}
               {% if page.personal_website != null %}
