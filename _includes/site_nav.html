@@ -9,15 +9,15 @@
             {% for item in site.data.navbar %}
             {% if item.subcategories != null %}
             <li class="nav-itme dropdown">
-                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ item.url }}" >{{ item.title }}</a>
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/{{ item.url }}" >{{ item.title }}</a>
                 <div class="dropdown-menu" aria-labelledby="download">
             {% for subcategory in item.subcategories %}
-                  <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ subcategory.suburl }}">{{ subcategory.subtitle }}</a>
+                  <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ site.baseurl }}/{{ subcategory.suburl }}">{{ subcategory.subtitle }}</a>
             {% endfor %}
                 </dive>
             {% else %}
             <li class="nav-item">
-                <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+                <a class="nav-link" href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a>
             {% endif %}
             </li>
             {% endfor %}
