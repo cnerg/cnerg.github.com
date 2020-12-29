@@ -1,0 +1,10 @@
+- title: Git
+  desc: Version control system that encourages safe, collaborative software development
+  links:
+    - url: http://swcarpentry.github.io/git-novice/
+      text: Learn about git from Software Carpentry
+- title: Github
+  desc: Web-based interface to publicly accessible git repositories with advanced capability for collaborative software development
+  links:
+    - url: http://github.com/signup
+      text: Signup for an account
