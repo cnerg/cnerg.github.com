@@ -44,4 +44,4 @@ exclude:
 
 collections:
   opportunities:
-      output: true
+    output: true
