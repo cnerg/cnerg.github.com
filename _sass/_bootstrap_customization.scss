@@ -157,3 +157,54 @@ h1 { color: $primary; }
 .col-sm-3, .col-sm-4 { text-align: center; }
 
 .cnerg-center { text-align: center;}
+
+// borrowed from ARFC
+.portfolio-item {
+  right: 0;
+  margin: 0 0 15px;
+}
+
+.portfolio-item .portfolio-link {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.portfolio-item .portfolio-link .portfolio-hover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  -webkit-transition: all ease .5s;
+  -moz-transition: all ease .5s;
+  transition: all ease .5s;
+  background: rgba(200,50,50,.9); /* Fallback when no plugin support */
+}
+
+.portfolio-item .portfolio-link .portfolio-hover:hover {
+  opacity: 1;
+}
+
+.portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 20px;
+  margin-top: -12px;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+}
+
+
+.portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content .lg-plus {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 20px;
+  margin-top: -24px;
+  text-align: center;
+  font-size: 64px;
+  color: #fff;
+}

@@ -20,8 +20,16 @@ layout: default
             </div>
             <div class="row">
               {% for area in site.data.areas %}
-              <div class="col-sm-4">
-                <a href="{{ area.url }}"><img src="assets/images/{{ area.image }}" alt="{{ area.alt-text }}"></a><br/>
+              <div class="col-sm-4 portfolio-item">
+                <a href="{{ area.url }}" class="portfolio-link">
+                  <div class="portfolio-hover">
+                    <div class="portfolio-hover-content">
+                      <div class="lg-plus">
+                        +
+                      </div>
+                    </div>
+                </div>
+                <img src="assets/images/{{ area.image }}" alt="{{ area.alt-text }}"></a><br/>
               </div>
               {% endfor %}
               </div>
