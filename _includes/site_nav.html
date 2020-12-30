@@ -12,7 +12,11 @@
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/{{ item.url }}" >{{ item.title }}</a>
                 <div class="dropdown-menu" aria-labelledby="download">
             {% for subcategory in item.subcategories %}
+              {% if subcategory.suburl == null %}
+                  <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ subcategory.exturl }}">{{ subcategory.subtitle }}</a>
+              {% else %}
                   <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ site.baseurl }}/{{ subcategory.suburl }}">{{ subcategory.subtitle }}</a>
+              {% endif %}
             {% endfor %}
                 </dive>
             {% else %}
