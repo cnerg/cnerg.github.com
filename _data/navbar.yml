@@ -17,20 +17,25 @@
       suburl: "community/manual/mission_and_values.html"
     - subtitle: "Community Expectations"
       suburl: "community/manual/expectations.html"
+    - subtitle: Code of Conduct
+      suburl: "community/manual/code_of_conduct.html"
+    - subtitle: "Policies"
+      suburl: "community/manual/policies/"
+    - subtitle: "Roles"
+      suburl: "community/manual/roles/"
+    - subtitle: "Emotional Health"
+      suburl: "community/manual/emotional_health.html"
+    - subtitle: divider
     - subtitle: "Skills"
       suburl: "community/manual/skills.html"
     - subtitle: "Guides"
       suburl: "community/manual/guides/"
     - subtitle: "Tools"
       suburl: "community/manual/tools.html"
-    - subtitle: "Policies"
-      suburl: "community/manual/policies/"
     - subtitle: "Resources"
       suburl: "community/manual/resources/"
-    - subtitle: "Roles"
-      suburl: "community/manual/roles/"
-    - subtitle: "Emotional Health"
-      suburl: "community/manual/emotional_health.html"
+    - subtitle: Intranet
+      exturl: "https://drive.google.com/drive/u/1/folders/0AOzx5AA80HbuUk9PVA"
 
 - title: "Publications"
   url: "/publications"
@@ -68,3 +73,5 @@
       exturl: "https://github.com/FRENSIE/FRENSIE"
       target: "_blank"
 
+- title: "Upload to CNERG"
+  url: "upload.html"
