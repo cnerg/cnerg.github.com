@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+{% assign max_authors = 5 %}
+
+<article>
+
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <section>    
+    {{ content }}
+  </section>
+
+ <section>
+     <div class="row">
+         <div class="col-sm-12">
+             <ol>
+    {% for item in site.data.pub %}
+    {% assign data = item["data"] %}
+    {% if data["itemType"] == "journalArticle" %}
+        <li>
+            {% for author in data["creators"] limit:max_authors %}
+            {{ author["firstName"] }} {{ author["lastName"] }},
+            {% endfor %}
+            {% if data["creators"].size > max_authors %}
+            <span class="font-italic">et al,</span>
+            {% endif %}
+            "{{ data["title"] }}",
+            <span class="font-italic">{{ data["publicationTitle"] }}</span>,
+            <span class="font-weight-bold">{{ data["volume"] }}</span>,
+            pp. {{ data["pages"] }} ({{ data["date"] }})
+            <div class="row">
+              <div class="col-sm-2 text-center">
+                <a data-toggle="collapse" href="#x{{ data['key'] }}" aria-expanded="false" aria-controls="x{{ data['key'] }}">Abstract</a>
+            </div>
+            <div class="col-sm-2 text-center">
+                <a href="{{ data['url'] }}" target="_blank">DOI</a>
+            </div></div>
+            <div id="x{{ data['key'] }}" class="collapse"><div class="card card-body">{{ data['abstractNote'] }}</div></div>
+        </li>
+    {% endif %}
+    {% endfor %}
+</ol>
+</div>
+</div>
+</section>
+
+
+
+</article>
