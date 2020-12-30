@@ -20,20 +20,20 @@
     - subtitle: Code of Conduct
       suburl: "community/manual/code_of_conduct.html"
     - subtitle: "Policies"
-      suburl: "community/manual/policies/"
-    - subtitle: "Roles"
-      suburl: "community/manual/roles/"
-    - subtitle: "Emotional Health"
-      suburl: "community/manual/emotional_health.html"
+      suburl: "community/manual/policies.html"
+    - subtitle: "Tasks & Roles"
+      suburl: "community/manual/tasks_roles.html"
+    - subtitle: "Health & Wellness"
+      suburl: "community/manual/health_wellness.html"
     - subtitle: divider
     - subtitle: "Skills"
       suburl: "community/manual/skills.html"
     - subtitle: "Guides"
-      suburl: "community/manual/guides/"
+      suburl: "community/manual/guides.html"
     - subtitle: "Tools"
       suburl: "community/manual/tools.html"
     - subtitle: "Resources"
-      suburl: "community/manual/resources/"
+      suburl: "community/manual/resources.html"
     - subtitle: Intranet
       exturl: "https://drive.google.com/drive/u/1/folders/0AOzx5AA80HbuUk9PVA"
 

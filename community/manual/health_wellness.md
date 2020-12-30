@@ -1,7 +1,23 @@
 ---
 layout: page
-title: Emotional Health
+title: Health and Wellness
 ---
+
+## Work-Life Balance and Boundaries
+
+The CNERG community [values](mission_and_values.md) the health and wellness of
+all of its members.  The biggest way that we support each other's health and
+wellness is by establishing healthy work-life balance and boundaries.  While
+each member of CNERG is free to work at any time, including initiating
+communication with others, responses (on all platforms) are only expected during
+reasonable business hours.  In addition, routine meetings will always be
+scheduled within reasonable business hours.
+
+Occasional exceptions to this can be arranged through mutual discussion, but
+every member of CNERG is empowered to question whether the exception is
+necessary.
+
+## Emotional Health
 
 Many graduate students experience periods of stress during their time as
 students, often with an impact on their overall emotional/mental health.  You
