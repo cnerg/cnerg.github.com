@@ -1,6 +1,8 @@
 ---
 layout: pubs
-title: Publications
+title: Journal Publications
+data_source: pub
+itemType: journalArticle
 ---
 
 
