@@ -1,7 +1,7 @@
 [
     {
         "key": "QECSDSE9",
-        "version": 23200,
+        "version": 24980,
         "library": {
             "type": "group",
             "id": 10058,
@@ -41,14 +41,25 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "D'Angelo",
             "parsedDate": "2019-05-16",
             "numChildren": 5
         },
-        "bibtex": "\n@phdthesis{dangelo_variance_2019,\n\ttitle = {Variance {Reduction} for {Multi}-physics {Analysis} of {Moving} {Systems}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {D'Angelo, Chelsea},\n\tmonth = may,\n\tyear = {2019},\n}\n",
+        "bibtex": "\n@phdthesis{dangelo_variance_2019,\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Variance {Reduction} for {Multi}-physics {Analysis} of {Moving} {Systems}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {D'Angelo, Chelsea},\n\tmonth = may,\n\tyear = {2019},\n}\n",
         "data": {
             "key": "QECSDSE9",
-            "version": 23200,
+            "version": 24980,
             "itemType": "thesis",
             "title": "Variance Reduction for Multi-physics Analysis of Moving Systems",
             "creators": [
@@ -59,7 +70,7 @@
                 }
             ],
             "abstractNote": "",
-            "thesisType": "",
+            "thesisType": "PhD Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "",
             "date": "05/16/2019",
@@ -80,12 +91,12 @@
             ],
             "relations": {},
             "dateAdded": "2019-08-12T12:15:40Z",
-            "dateModified": "2019-08-12T12:15:40Z"
+            "dateModified": "2020-12-30T03:34:58Z"
         }
     },
     {
         "key": "DX9W8A98",
-        "version": 23853,
+        "version": 24980,
         "library": {
             "type": "group",
             "id": 10058,
@@ -140,12 +151,12 @@
             "parsedDate": "2019-03-15",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{harb_propagation_2019,\n\ttype = {pdf},\n\ttitle = {{PROPAGATION} {OF} {STATISTICAL} {UNCERTAINTY} {IN} {MESH}-{BASED} {SHUTDOWN} {DOSE} {RATE} {CALCULATIONS}},\n\tabstract = {In fusion energy systems (FES), high energy neutrons are emitted from the\nplasma source - due to the D-T fusion reaction - enabling them to penetrate deep in the materials surrounding the core. Energy is then deposited along the path of the neutrons due to interactions with nuclides, resulting in - besides nuclear heating - two main effects; radiation damage and transmutation. Radiation damage causes changes in the macroscopic properties of the materials due to microscopic changes that result from interactions of high energy neutrons with nuclides. Transmutation is caused by the absorption of neutrons by nuclides in the medium and almost always results in the production of radioactive nuclides. Such radioactive nuclides are of importance to FES design and operation as they persist after the shutdown of the facility due to their long half lives. Efforts are directed to quantify the shutdown dose rate (SDR) that results from gamma emitting nuclides produced by transmutation. Monte Carlo (MC) methods are favored over deterministic methods for the simulation of particles transport in FES due to complexity of the models and to reduce the uncertainties/errors of the predicted particle flux distributions due to approximations. The rigorous 2-step method (R2S) relies on dedicated activation calculations to predict the photon emission density distribution, and is widely used for SDR quantification. It involves a neutron transport step, activation analysis to obtain the photon emission density, and a photon transport step to calculate the SDR.\nIt is often the case that neutrons suffer attenuation in traversing the medium from the plasma source - due to interactions with nuclides - and that results in a steep gradient in the neutron flux. Variance reduction (VR) tools have been developed with the primary goal of pushing neutrons - simulated particles - to regions of the phase-space that are of importance for the quantities under consideration in order to reduce the uncertainty in the MC results. The recently developed Group- wise Transmutation - Consistent Adjoint Driven Importance Sampling (GT CADIS) method provides a capability to obtain the photon emission density distribution as a function of the energy dependent group-wise neutron flux distribution via linearization of the transmutation operator. Using the photon emission density it is possible to overcome previous difficulties of the error propagation in the R2S workflow. One primary concern with the R2S workflow is that only the contribution of the photon transport step is considered as a measure of the uncertainty of the calculated SDR, while the contribution from the neutron transport step remains undefined. Previous methods have tried to tackle this issue but there was always difficulty in obtaining the correlation of the neutron fluxes and that resulted in implementing either impractical approximations or just calculating the upper and lower bounds of the uncertainty of the SDR.\nIn this document, the R2S workflow has been investigated. First, issues related to the neutron transport step and the uncertainty of the photon emission density have been addressed. Second, a scheme was developed to propagate the statistical uncertainty of the neutron transport step to the SDR. Starting with the neutron transport step, a variation of the main R2S that aimed at increasing the resolution while reducing the computational expenses was found to introduce systematic errors that might undermine the gain in the computational cost. One of the difficulties in propagating the neutron flux uncertainty to the photon emission density is obtaining the correlation values between the neutron fluxes in different energy groups and mesh voxels. By utilizing the GT method, an approximation to the calculation of the correlation coefficients has been investigated building on the fact that using group-wise transmutation the correlation terms needed were greatly reduced. It was discovered that the correlation between the neutron fluxes in different energy groups is a function of the material composition. That facilitated obtaining the needed correlation matrix and quantifying the uncertainty of the photon emission density. A method to propagate the photon source uncertainty to the SDR by random sampling was developed and was demonstrated to be efficient on various types of numerical experiments as well as a production level problem.},\n\tlanguage = {English},\n\tschool = {Wisconsin Madison},\n\tauthor = {Harb, Moataz S.},\n\tmonth = mar,\n\tyear = {2019},\n\tkeywords = {Correlation, Error Propagation, FESS-FNSF, R2S, SDR},\n}\n",
+        "bibtex": "\n@phdthesis{harb_propagation_2019,\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Propagation of {Statistical} {Uncertainty} in {Mesh}-{Based} {Shutdown} {Dose} {Rate} {Calculations}},\n\tabstract = {In fusion energy systems (FES), high energy neutrons are emitted from the\nplasma source - due to the D-T fusion reaction - enabling them to penetrate deep in the materials surrounding the core. Energy is then deposited along the path of the neutrons due to interactions with nuclides, resulting in - besides nuclear heating - two main effects; radiation damage and transmutation. Radiation damage causes changes in the macroscopic properties of the materials due to microscopic changes that result from interactions of high energy neutrons with nuclides. Transmutation is caused by the absorption of neutrons by nuclides in the medium and almost always results in the production of radioactive nuclides. Such radioactive nuclides are of importance to FES design and operation as they persist after the shutdown of the facility due to their long half lives. Efforts are directed to quantify the shutdown dose rate (SDR) that results from gamma emitting nuclides produced by transmutation. Monte Carlo (MC) methods are favored over deterministic methods for the simulation of particles transport in FES due to complexity of the models and to reduce the uncertainties/errors of the predicted particle flux distributions due to approximations. The rigorous 2-step method (R2S) relies on dedicated activation calculations to predict the photon emission density distribution, and is widely used for SDR quantification. It involves a neutron transport step, activation analysis to obtain the photon emission density, and a photon transport step to calculate the SDR.\nIt is often the case that neutrons suffer attenuation in traversing the medium from the plasma source - due to interactions with nuclides - and that results in a steep gradient in the neutron flux. Variance reduction (VR) tools have been developed with the primary goal of pushing neutrons - simulated particles - to regions of the phase-space that are of importance for the quantities under consideration in order to reduce the uncertainty in the MC results. The recently developed Group- wise Transmutation - Consistent Adjoint Driven Importance Sampling (GT CADIS) method provides a capability to obtain the photon emission density distribution as a function of the energy dependent group-wise neutron flux distribution via linearization of the transmutation operator. Using the photon emission density it is possible to overcome previous difficulties of the error propagation in the R2S workflow. One primary concern with the R2S workflow is that only the contribution of the photon transport step is considered as a measure of the uncertainty of the calculated SDR, while the contribution from the neutron transport step remains undefined. Previous methods have tried to tackle this issue but there was always difficulty in obtaining the correlation of the neutron fluxes and that resulted in implementing either impractical approximations or just calculating the upper and lower bounds of the uncertainty of the SDR.\nIn this document, the R2S workflow has been investigated. First, issues related to the neutron transport step and the uncertainty of the photon emission density have been addressed. Second, a scheme was developed to propagate the statistical uncertainty of the neutron transport step to the SDR. Starting with the neutron transport step, a variation of the main R2S that aimed at increasing the resolution while reducing the computational expenses was found to introduce systematic errors that might undermine the gain in the computational cost. One of the difficulties in propagating the neutron flux uncertainty to the photon emission density is obtaining the correlation values between the neutron fluxes in different energy groups and mesh voxels. By utilizing the GT method, an approximation to the calculation of the correlation coefficients has been investigated building on the fact that using group-wise transmutation the correlation terms needed were greatly reduced. It was discovered that the correlation between the neutron fluxes in different energy groups is a function of the material composition. That facilitated obtaining the needed correlation matrix and quantifying the uncertainty of the photon emission density. A method to propagate the photon source uncertainty to the SDR by random sampling was developed and was demonstrated to be efficient on various types of numerical experiments as well as a production level problem.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Harb, Moataz S.},\n\tmonth = mar,\n\tyear = {2019},\n\tkeywords = {Correlation, Error Propagation, FESS-FNSF, R2S, SDR},\n}\n",
         "data": {
             "key": "DX9W8A98",
-            "version": 23853,
+            "version": 24980,
             "itemType": "thesis",
-            "title": "PROPAGATION OF STATISTICAL UNCERTAINTY IN MESH-BASED SHUTDOWN DOSE RATE CALCULATIONS",
+            "title": "Propagation of Statistical Uncertainty in Mesh-Based Shutdown Dose Rate Calculations",
             "creators": [
                 {
                     "creatorType": "author",
@@ -154,8 +165,8 @@
                 }
             ],
             "abstractNote": "In fusion energy systems (FES), high energy neutrons are emitted from the\nplasma source - due to the D-T fusion reaction - enabling them to penetrate deep in the materials surrounding the core. Energy is then deposited along the path of the neutrons due to interactions with nuclides, resulting in - besides nuclear heating - two main effects; radiation damage and transmutation. Radiation damage causes changes in the macroscopic properties of the materials due to microscopic changes that result from interactions of high energy neutrons with nuclides. Transmutation is caused by the absorption of neutrons by nuclides in the medium and almost always results in the production of radioactive nuclides. Such radioactive nuclides are of importance to FES design and operation as they persist after the shutdown of the facility due to their long half lives. Efforts are directed to quantify the shutdown dose rate (SDR) that results from gamma emitting nuclides produced by transmutation. Monte Carlo (MC) methods are favored over deterministic methods for the simulation of particles transport in FES due to complexity of the models and to reduce the uncertainties/errors of the predicted particle flux distributions due to approximations. The rigorous 2-step method (R2S) relies on dedicated activation calculations to predict the photon emission density distribution, and is widely used for SDR quantification. It involves a neutron transport step, activation analysis to obtain the photon emission density, and a photon transport step to calculate the SDR.\nIt is often the case that neutrons suffer attenuation in traversing the medium from the plasma source - due to interactions with nuclides - and that results in a steep gradient in the neutron flux. Variance reduction (VR) tools have been developed with the primary goal of pushing neutrons - simulated particles - to regions of the phase-space that are of importance for the quantities under consideration in order to reduce the uncertainty in the MC results. The recently developed Group- wise Transmutation - Consistent Adjoint Driven Importance Sampling (GT CADIS) method provides a capability to obtain the photon emission density distribution as a function of the energy dependent group-wise neutron flux distribution via linearization of the transmutation operator. Using the photon emission density it is possible to overcome previous difficulties of the error propagation in the R2S workflow. One primary concern with the R2S workflow is that only the contribution of the photon transport step is considered as a measure of the uncertainty of the calculated SDR, while the contribution from the neutron transport step remains undefined. Previous methods have tried to tackle this issue but there was always difficulty in obtaining the correlation of the neutron fluxes and that resulted in implementing either impractical approximations or just calculating the upper and lower bounds of the uncertainty of the SDR.\nIn this document, the R2S workflow has been investigated. First, issues related to the neutron transport step and the uncertainty of the photon emission density have been addressed. Second, a scheme was developed to propagate the statistical uncertainty of the neutron transport step to the SDR. Starting with the neutron transport step, a variation of the main R2S that aimed at increasing the resolution while reducing the computational expenses was found to introduce systematic errors that might undermine the gain in the computational cost. One of the difficulties in propagating the neutron flux uncertainty to the photon emission density is obtaining the correlation values between the neutron fluxes in different energy groups and mesh voxels. By utilizing the GT method, an approximation to the calculation of the correlation coefficients has been investigated building on the fact that using group-wise transmutation the correlation terms needed were greatly reduced. It was discovered that the correlation between the neutron fluxes in different energy groups is a function of the material composition. That facilitated obtaining the needed correlation matrix and quantifying the uncertainty of the photon emission density. A method to propagate the photon source uncertainty to the SDR by random sampling was developed and was demonstrated to be efficient on various types of numerical experiments as well as a production level problem.",
-            "thesisType": "pdf",
-            "university": "Wisconsin Madison",
+            "thesisType": "PhD Nuclear Engineering and Engineering Physics",
+            "university": "University of Wisconsin-Madison",
             "place": "",
             "date": "03/15/2019",
             "numPages": "",
@@ -191,12 +202,12 @@
             ],
             "relations": {},
             "dateAdded": "2019-04-25T12:14:36Z",
-            "dateModified": "2019-09-13T20:06:40Z"
+            "dateModified": "2020-12-30T03:35:48Z"
         }
     },
     {
         "key": "FUVUGPT8",
-        "version": 22412,
+        "version": 24980,
         "library": {
             "type": "group",
             "id": 10058,
@@ -250,10 +261,10 @@
             "creatorSummary": "Swenson",
             "numChildren": 9
         },
-        "bibtex": "\n@phdthesis{swenson_surrogate_2019,\n\taddress = {Department of Engineering Physics},\n\ttitle = {Surrogate {Reactor} {Modeling} for {Space} {Electrical} {System} {Mass} {Optimization}},\n\tabstract = {Long-term space exploration to Mars and other parts of the solar system will\nrequire significant amounts of electrical power. Nuclear reactors have long been\nconsidered to meet these power needs. Minimizing the total system mass of\nelectrical systems is crucial to minimize launch costs. A surrogate reactor\nmodel was developed to optimize the mass of a nuclear reactor for space\napplications. The model was designed to be used in conjunction with power cycle\ncomponent mass models to explore the tradeoff between component masses of \nwith the goal of minimizing the total mass of the system. The\nreactor mass model needed to rapidly execute in order to be useful in an\noptimization algorithm. To this end, a surrogate mass model was developed that\ndid not rely on high-fidelity reactor physics and finite element analysis tools.\nThe model included a reactivity constraint to support a 10 year mission life and\na thermal constraint to ensure fuel integrity.\n\nThe reactor mass model was coupled to an external power cycle model through flow\ninputs. Coolant flow conditions at the inlet and outlet of the core define\nthermophysical properties and core thermal power requirements that were used by\nthe thermal hydraulic model to estimate required volumetric power densities in\nthe reactor core.\n\nThe reactivity constraint was modeled as a beginning of life (BOL) excess reactivity\ntarget. The target was chosen using a large dataset of depletion calculations\nand was deemed sufficient to ensurve the optimized designs had sufficient excess reactivity\nto sustain 10 years of full-power operation. Important neutronics and operational\nparameters were also tested in this dataset to determine which parameters were\nmost effective for use in a reduced-order reactivity model.\n\nA reduced-order surrogate reactivity model was developed to constrain a\nminimum-mass reactor to a target BOL reactivity. The reduced-order model was\ncreated from a large dataset of criticality calculations using MCNP6.1. This\nmodel was used to constrain the reactor geometry in the thermal hydraulic model.\nThousands of MCNP keff calculations were performed to generate a relationship\nbetween core radius, fuel fraction, reflector thickness, and keff. This dataset\nwas represented with trilinear interpolation in order to develop a\nmass-minimized relationship between core radius and fuel fraction that met the\ntarget excess reactivity.\n\nThe reactor mass model was ultimately a neutronically-constrained thermal\nhydraulic model. The reactivity model was used to constrain the core radius as\na function of fuel fraction in the thermal hydraulic model. The thermal\nhydraulic model used a root-finding routine to find a fuel fraction that met\nthe required thermal input from an external power cycle model. The model used 1D\nheat transfer models to determine the fuel fraction that, combined with a constrained\ncore radius, could generate the required thermal input. The result was a\nmass-optimized, fully constrained reactor design that met coolability and reactivity\nrequirements for a 10 year mission and the given power cycle inputs.},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Swenson, Alexander},\n\tmonth = jan,\n\tyear = {2019},\n}\n",
+        "bibtex": "\n@phdthesis{swenson_surrogate_2019,\n\taddress = {Department of Engineering Physics},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Surrogate {Reactor} {Modeling} for {Space} {Electrical} {System} {Mass} {Optimization}},\n\tabstract = {Long-term space exploration to Mars and other parts of the solar system will\nrequire significant amounts of electrical power. Nuclear reactors have long been\nconsidered to meet these power needs. Minimizing the total system mass of\nelectrical systems is crucial to minimize launch costs. A surrogate reactor\nmodel was developed to optimize the mass of a nuclear reactor for space\napplications. The model was designed to be used in conjunction with power cycle\ncomponent mass models to explore the tradeoff between component masses of \nwith the goal of minimizing the total mass of the system. The\nreactor mass model needed to rapidly execute in order to be useful in an\noptimization algorithm. To this end, a surrogate mass model was developed that\ndid not rely on high-fidelity reactor physics and finite element analysis tools.\nThe model included a reactivity constraint to support a 10 year mission life and\na thermal constraint to ensure fuel integrity.\n\nThe reactor mass model was coupled to an external power cycle model through flow\ninputs. Coolant flow conditions at the inlet and outlet of the core define\nthermophysical properties and core thermal power requirements that were used by\nthe thermal hydraulic model to estimate required volumetric power densities in\nthe reactor core.\n\nThe reactivity constraint was modeled as a beginning of life (BOL) excess reactivity\ntarget. The target was chosen using a large dataset of depletion calculations\nand was deemed sufficient to ensurve the optimized designs had sufficient excess reactivity\nto sustain 10 years of full-power operation. Important neutronics and operational\nparameters were also tested in this dataset to determine which parameters were\nmost effective for use in a reduced-order reactivity model.\n\nA reduced-order surrogate reactivity model was developed to constrain a\nminimum-mass reactor to a target BOL reactivity. The reduced-order model was\ncreated from a large dataset of criticality calculations using MCNP6.1. This\nmodel was used to constrain the reactor geometry in the thermal hydraulic model.\nThousands of MCNP keff calculations were performed to generate a relationship\nbetween core radius, fuel fraction, reflector thickness, and keff. This dataset\nwas represented with trilinear interpolation in order to develop a\nmass-minimized relationship between core radius and fuel fraction that met the\ntarget excess reactivity.\n\nThe reactor mass model was ultimately a neutronically-constrained thermal\nhydraulic model. The reactivity model was used to constrain the core radius as\na function of fuel fraction in the thermal hydraulic model. The thermal\nhydraulic model used a root-finding routine to find a fuel fraction that met\nthe required thermal input from an external power cycle model. The model used 1D\nheat transfer models to determine the fuel fraction that, combined with a constrained\ncore radius, could generate the required thermal input. The result was a\nmass-optimized, fully constrained reactor design that met coolability and reactivity\nrequirements for a 10 year mission and the given power cycle inputs.},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Swenson, Alexander},\n\tmonth = jan,\n\tyear = {2019},\n}\n",
         "data": {
             "key": "FUVUGPT8",
-            "version": 22412,
+            "version": 24980,
             "itemType": "thesis",
             "title": "Surrogate Reactor Modeling for Space Electrical System Mass Optimization",
             "creators": [
@@ -264,7 +275,7 @@
                 }
             ],
             "abstractNote": "Long-term space exploration to Mars and other parts of the solar system will\nrequire significant amounts of electrical power. Nuclear reactors have long been\nconsidered to meet these power needs. Minimizing the total system mass of\nelectrical systems is crucial to minimize launch costs. A surrogate reactor\nmodel was developed to optimize the mass of a nuclear reactor for space\napplications. The model was designed to be used in conjunction with power cycle\ncomponent mass models to explore the tradeoff between component masses of \nwith the goal of minimizing the total mass of the system. The\nreactor mass model needed to rapidly execute in order to be useful in an\noptimization algorithm. To this end, a surrogate mass model was developed that\ndid not rely on high-fidelity reactor physics and finite element analysis tools.\nThe model included a reactivity constraint to support a 10 year mission life and\na thermal constraint to ensure fuel integrity.\n\nThe reactor mass model was coupled to an external power cycle model through flow\ninputs. Coolant flow conditions at the inlet and outlet of the core define\nthermophysical properties and core thermal power requirements that were used by\nthe thermal hydraulic model to estimate required volumetric power densities in\nthe reactor core.\n\nThe reactivity constraint was modeled as a beginning of life (BOL) excess reactivity\ntarget. The target was chosen using a large dataset of depletion calculations\nand was deemed sufficient to ensurve the optimized designs had sufficient excess reactivity\nto sustain 10 years of full-power operation. Important neutronics and operational\nparameters were also tested in this dataset to determine which parameters were\nmost effective for use in a reduced-order reactivity model.\n\nA reduced-order surrogate reactivity model was developed to constrain a\nminimum-mass reactor to a target BOL reactivity. The reduced-order model was\ncreated from a large dataset of criticality calculations using MCNP6.1. This\nmodel was used to constrain the reactor geometry in the thermal hydraulic model.\nThousands of MCNP keff calculations were performed to generate a relationship\nbetween core radius, fuel fraction, reflector thickness, and keff. This dataset\nwas represented with trilinear interpolation in order to develop a\nmass-minimized relationship between core radius and fuel fraction that met the\ntarget excess reactivity.\n\nThe reactor mass model was ultimately a neutronically-constrained thermal\nhydraulic model. The reactivity model was used to constrain the core radius as\na function of fuel fraction in the thermal hydraulic model. The thermal\nhydraulic model used a root-finding routine to find a fuel fraction that met\nthe required thermal input from an external power cycle model. The model used 1D\nheat transfer models to determine the fuel fraction that, combined with a constrained\ncore radius, could generate the required thermal input. The result was a\nmass-optimized, fully constrained reactor design that met coolability and reactivity\nrequirements for a 10 year mission and the given power cycle inputs.",
-            "thesisType": "",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Department of Engineering Physics",
             "date": "2019-01-11 1/11/19",
@@ -285,12 +296,12 @@
             ],
             "relations": {},
             "dateAdded": "2019-02-05T01:13:42Z",
-            "dateModified": "2019-02-17T23:01:28Z"
+            "dateModified": "2020-12-30T03:35:57Z"
         }
     },
     {
         "key": "KV8BMAXT",
-        "version": 22243,
+        "version": 24980,
         "library": {
             "type": "group",
             "id": 10058,
@@ -330,14 +341,25 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Shriwise",
             "parsedDate": "2018-06-08",
             "numChildren": 5
         },
-        "bibtex": "\n@phdthesis{shriwise_geometry_2018,\n\taddress = {Madison, WI},\n\ttype = {{PhD} {Dissertation}},\n\ttitle = {Geometry {Query} {Optimizations} in {CAD}-{Based} {Tessellations} for {Monte} {Carlo} {Radiation} {Transport}},\n\turl = {https://github.com/pshriwise/dissertation/blob/master/document/dissertation.pdf},\n\tlanguage = {English},\n\tschool = {University of Wisconsin - Madison},\n\tauthor = {Shriwise, Patrick},\n\tmonth = jun,\n\tyear = {2018},\n\tkeywords = {CAD, dagmc, mesh, monte carlo, performance, ray tracing},\n}\n",
+        "bibtex": "\n@phdthesis{shriwise_geometry_2018,\n\taddress = {Madison, WI},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Geometry {Query} {Optimizations} in {CAD}-{Based} {Tessellations} for {Monte} {Carlo} {Radiation} {Transport}},\n\turl = {https://github.com/pshriwise/dissertation/blob/master/document/dissertation.pdf},\n\tlanguage = {English},\n\tschool = {University of Wisconsin - Madison},\n\tauthor = {Shriwise, Patrick},\n\tmonth = jun,\n\tyear = {2018},\n\tkeywords = {CAD, dagmc, mesh, monte carlo, performance, ray tracing},\n}\n",
         "data": {
             "key": "KV8BMAXT",
-            "version": 22243,
+            "version": 24980,
             "itemType": "thesis",
             "title": "Geometry Query Optimizations in CAD-Based Tessellations for Monte Carlo Radiation Transport",
             "creators": [
@@ -348,7 +370,7 @@
                 }
             ],
             "abstractNote": "",
-            "thesisType": "PhD Dissertation",
+            "thesisType": "PhD Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin - Madison",
             "place": "Madison, WI",
             "date": "June 8th, 2018",
@@ -388,12 +410,12 @@
             ],
             "relations": {},
             "dateAdded": "2018-12-21T19:15:11Z",
-            "dateModified": "2018-12-21T19:15:11Z"
+            "dateModified": "2020-12-30T03:36:06Z"
         }
     },
     {
         "key": "6VTPU3C5",
-        "version": 21903,
+        "version": 24980,
         "library": {
             "type": "group",
             "id": 10058,
@@ -448,10 +470,10 @@
             "parsedDate": "2016-07-21",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{biondo_hybrid_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Hybrid {Monte} {Carlo}/{Deterministic} {Neutron} {Transport} for {Shutdown} {Dose} {Rate} {Analysis}},\n\turl = {http://search.proquest.com.ezproxy.library.wisc.edu/docview/1811943415?accountid=465},\n\tabstract = {In fusion energy systems (FES) neutrons are born from a burning plasma and subsequently activate surrounding system components. The photon dose rate after shutdown from the resultant radionuclides must be quantified for maintenance planning. This shutdown dose rate (SDR) is calculated by coupling neutron transport, activation analysis, and photon transport. The size, complexity, and attenuating configuration of FES motivate the use of hybrid Monte Carlo (MC)/deterministic neutron transport. The Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method can be used to optimize MC neutron transport for this purpose. This requires the formulation of an adjoint neutron source that approximates the transmutation process. In this work one such formulation is introduced which is valid when a specific set of transmutation criteria are met, referred to as the Single Neutron Interaction and Low Burnup (SNILB) criteria. These criteria are quantitatively evaluated for typical FES scenarios and are shown to be met within a reasonable margin. Groupwise Transmutation (GT)-CADIS, proposed here, is an implementation of MS-CADIS that calculates this adjoint neutron source using a series of irradiation calculations. For a simple SDR problem, GT-CADIS provides speedups of 200 ± 100 relative to global variance reduction with the Forward Weighted (FW)-CADIS method and 90,000 ± 50,000 relative to analog. When the SNILB criteria are egregiously violated, GT-CADIS modifications are proposed and are shown to provide significant performance improvements. Finally, GT-CADIS is applied to a production-level problem involving a Spherical Tokamak Fusion Nuclear Science Facility (ST-FNSF) device. This work shows that GT-CADIS is broadly applicable to FES scenarios and will significantly reduce the computational resources necessary for SDR analysis.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin, Madison},\n\tauthor = {Biondo, Elliott Dean},\n\tmonth = jul,\n\tyear = {2016},\n}\n",
+        "bibtex": "\n@phdthesis{biondo_hybrid_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Hybrid {Monte} {Carlo}/{Deterministic} {Neutron} {Transport} for {Shutdown} {Dose} {Rate} {Analysis}},\n\turl = {http://search.proquest.com.ezproxy.library.wisc.edu/docview/1811943415?accountid=465},\n\tabstract = {In fusion energy systems (FES) neutrons are born from a burning plasma and subsequently activate surrounding system components. The photon dose rate after shutdown from the resultant radionuclides must be quantified for maintenance planning. This shutdown dose rate (SDR) is calculated by coupling neutron transport, activation analysis, and photon transport. The size, complexity, and attenuating configuration of FES motivate the use of hybrid Monte Carlo (MC)/deterministic neutron transport. The Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method can be used to optimize MC neutron transport for this purpose. This requires the formulation of an adjoint neutron source that approximates the transmutation process. In this work one such formulation is introduced which is valid when a specific set of transmutation criteria are met, referred to as the Single Neutron Interaction and Low Burnup (SNILB) criteria. These criteria are quantitatively evaluated for typical FES scenarios and are shown to be met within a reasonable margin. Groupwise Transmutation (GT)-CADIS, proposed here, is an implementation of MS-CADIS that calculates this adjoint neutron source using a series of irradiation calculations. For a simple SDR problem, GT-CADIS provides speedups of 200 ± 100 relative to global variance reduction with the Forward Weighted (FW)-CADIS method and 90,000 ± 50,000 relative to analog. When the SNILB criteria are egregiously violated, GT-CADIS modifications are proposed and are shown to provide significant performance improvements. Finally, GT-CADIS is applied to a production-level problem involving a Spherical Tokamak Fusion Nuclear Science Facility (ST-FNSF) device. This work shows that GT-CADIS is broadly applicable to FES scenarios and will significantly reduce the computational resources necessary for SDR analysis.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Biondo, Elliott Dean},\n\tmonth = jul,\n\tyear = {2016},\n}\n",
         "data": {
             "key": "6VTPU3C5",
-            "version": 21903,
+            "version": 24980,
             "itemType": "thesis",
             "title": "Hybrid Monte Carlo/Deterministic Neutron Transport for Shutdown Dose Rate Analysis",
             "creators": [
@@ -463,7 +485,7 @@
             ],
             "abstractNote": "In fusion energy systems (FES) neutrons are born from a burning plasma and subsequently activate surrounding system components. The photon dose rate after shutdown from the resultant radionuclides must be quantified for maintenance planning. This shutdown dose rate (SDR) is calculated by coupling neutron transport, activation analysis, and photon transport. The size, complexity, and attenuating configuration of FES motivate the use of hybrid Monte Carlo (MC)/deterministic neutron transport. The Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method can be used to optimize MC neutron transport for this purpose. This requires the formulation of an adjoint neutron source that approximates the transmutation process. In this work one such formulation is introduced which is valid when a specific set of transmutation criteria are met, referred to as the Single Neutron Interaction and Low Burnup (SNILB) criteria. These criteria are quantitatively evaluated for typical FES scenarios and are shown to be met within a reasonable margin. Groupwise Transmutation (GT)-CADIS, proposed here, is an implementation of MS-CADIS that calculates this adjoint neutron source using a series of irradiation calculations. For a simple SDR problem, GT-CADIS provides speedups of 200 ± 100 relative to global variance reduction with the Forward Weighted (FW)-CADIS method and 90,000 ± 50,000 relative to analog. When the SNILB criteria are egregiously violated, GT-CADIS modifications are proposed and are shown to provide significant performance improvements. Finally, GT-CADIS is applied to a production-level problem involving a Spherical Tokamak Fusion Nuclear Science Facility (ST-FNSF) device. This work shows that GT-CADIS is broadly applicable to FES scenarios and will significantly reduce the computational resources necessary for SDR analysis.",
             "thesisType": "PhD Nuclear Engineering and Engineering Physics",
-            "university": "University of Wisconsin, Madison",
+            "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
             "date": "July 21, 2016",
             "numPages": "179",
@@ -486,7 +508,7 @@
             ],
             "relations": {},
             "dateAdded": "2016-08-20T14:20:24Z",
-            "dateModified": "2017-09-04T21:06:33Z"
+            "dateModified": "2020-12-30T03:36:20Z"
         }
     },
     {
@@ -574,7 +596,7 @@
     },
     {
         "key": "SCJ8W3Z9",
-        "version": 21761,
+        "version": 25007,
         "library": {
             "type": "group",
             "id": 10058,
@@ -629,10 +651,10 @@
             "parsedDate": "2015-03",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{gidden_agent-based_2015,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {An {Agent}-{Based} {Modeling} {Framework} and {Application} for the {Generic} {Nuclear} {Fuel} {Cycle}},\n\tabstract = {Key components of a novel methodology and implementation of an agent-based, dynamic nuclear fuel\ncycle simulator,\nCyclus\n, are presented. The nuclear fuel cycle is a complex, physics-dependent supply\nchain. To date, existing dynamic simulators have not treated constrained fuel supply, time-dependent,\nisotopic-quality based demand, or fuel fungibility particularly well. Utilizing an agent-based methodology\nthat incorporates sophisticated graph theory and operations research techniques can overcome these\ndeficiencies. This work describes a simulation kernel and agents that interact with it, highlighting the\nDynamic Resource Exchange (DRE), the supply-demand framework at the heart of the kernel. The key\nagent-DRE interaction mechanisms are described, which enable complex entity interaction through the\nuse of physics and socio-economic models. The translation of an exchange instance to a variant of the\nMulticommodity Transportation Problem, which can be solved feasibly or optimally, follows. An extensive\ninvestigation of solution performance and fidelity is then presented. Finally, recommendations for future\nusers of\nCyclus\nand the DRE are provided.},\n\tschool = {University of Wisconsin},\n\tauthor = {Gidden, Matthew J.},\n\tmonth = mar,\n\tyear = {2015},\n}\n",
+        "bibtex": "\n@phdthesis{gidden_agent-based_2015,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {An {Agent}-{Based} {Modeling} {Framework} and {Application} for the {Generic} {Nuclear} {Fuel} {Cycle}},\n\tabstract = {Key components of a novel methodology and implementation of an agent-based, dynamic nuclear fuel\ncycle simulator,\nCyclus\n, are presented. The nuclear fuel cycle is a complex, physics-dependent supply\nchain. To date, existing dynamic simulators have not treated constrained fuel supply, time-dependent,\nisotopic-quality based demand, or fuel fungibility particularly well. Utilizing an agent-based methodology\nthat incorporates sophisticated graph theory and operations research techniques can overcome these\ndeficiencies. This work describes a simulation kernel and agents that interact with it, highlighting the\nDynamic Resource Exchange (DRE), the supply-demand framework at the heart of the kernel. The key\nagent-DRE interaction mechanisms are described, which enable complex entity interaction through the\nuse of physics and socio-economic models. The translation of an exchange instance to a variant of the\nMulticommodity Transportation Problem, which can be solved feasibly or optimally, follows. An extensive\ninvestigation of solution performance and fidelity is then presented. Finally, recommendations for future\nusers of\nCyclus\nand the DRE are provided.},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Gidden, Matthew J.},\n\tmonth = mar,\n\tyear = {2015},\n}\n",
         "data": {
             "key": "SCJ8W3Z9",
-            "version": 21761,
+            "version": 25007,
             "itemType": "thesis",
             "title": "An Agent-Based Modeling Framework and Application for the Generic Nuclear Fuel Cycle",
             "creators": [
@@ -644,7 +666,7 @@
             ],
             "abstractNote": "Key components of a novel methodology and implementation of an agent-based, dynamic nuclear fuel\ncycle simulator,\nCyclus\n, are presented. The nuclear fuel cycle is a complex, physics-dependent supply\nchain. To date, existing dynamic simulators have not treated constrained fuel supply, time-dependent,\nisotopic-quality based demand, or fuel fungibility particularly well. Utilizing an agent-based methodology\nthat incorporates sophisticated graph theory and operations research techniques can overcome these\ndeficiencies. This work describes a simulation kernel and agents that interact with it, highlighting the\nDynamic Resource Exchange (DRE), the supply-demand framework at the heart of the kernel. The key\nagent-DRE interaction mechanisms are described, which enable complex entity interaction through the\nuse of physics and socio-economic models. The translation of an exchange instance to a variant of the\nMulticommodity Transportation Problem, which can be solved feasibly or optimally, follows. An extensive\ninvestigation of solution performance and fidelity is then presented. Finally, recommendations for future\nusers of\nCyclus\nand the DRE are provided.",
             "thesisType": "PhD Nuclear Engineering and Engineering Physics",
-            "university": "University of Wisconsin",
+            "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
             "date": "March 2015",
             "numPages": "186",
@@ -664,7 +686,7 @@
             ],
             "relations": {},
             "dateAdded": "2015-04-19T21:14:21Z",
-            "dateModified": "2018-02-17T23:41:33Z"
+            "dateModified": "2020-12-30T15:03:45Z"
         }
     },
     {
@@ -847,7 +869,7 @@
     },
     {
         "key": "KV5A4HR7",
-        "version": 21761,
+        "version": 25007,
         "library": {
             "type": "group",
             "id": 10058,
@@ -891,10 +913,10 @@
             "parsedDate": "2013-07-25",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{klebenow_development_2013,\n\taddress = {Madison, WI, United States},\n\ttype = {B.{S}. {Engineering} {Physics}},\n\ttitle = {Development of a {Modern}, {Modular} and {Maintainable} {Transmutation} {Solver}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Klebenow, Matthew},\n\tmonth = jul,\n\tyear = {2013},\n}\n",
+        "bibtex": "\n@phdthesis{klebenow_development_2013,\n\taddress = {Madison, WI, United States},\n\ttype = {{BS} {Engineering} {Physics}},\n\ttitle = {Development of a {Modern}, {Modular} and {Maintainable} {Transmutation} {Solver}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Klebenow, Matthew},\n\tmonth = jul,\n\tyear = {2013},\n}\n",
         "data": {
             "key": "KV5A4HR7",
-            "version": 21761,
+            "version": 25007,
             "itemType": "thesis",
             "title": "Development of a Modern, Modular and Maintainable Transmutation Solver",
             "creators": [
@@ -905,7 +927,7 @@
                 }
             ],
             "abstractNote": "",
-            "thesisType": "B.S. Engineering Physics",
+            "thesisType": "BS Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
             "date": "7/25/2013",
@@ -926,7 +948,7 @@
             ],
             "relations": {},
             "dateAdded": "2016-11-27T20:06:11Z",
-            "dateModified": "2018-02-17T23:42:19Z"
+            "dateModified": "2020-12-30T15:03:35Z"
         }
     },
     {
@@ -1271,7 +1293,7 @@
     },
     {
         "key": "Z7X27PVS",
-        "version": 1,
+        "version": 25006,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1315,10 +1337,10 @@
             "parsedDate": "2011-05",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{arabidze_natural_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {M.{S}. {Environment} and {Resources}},\n\ttitle = {Natural {Gas} {Sector} in {Georgia}: {Challenges} and {Options} for {Security}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Arabidze, Marina},\n\tmonth = may,\n\tyear = {2011},\n}\n",
+        "bibtex": "\n@phdthesis{arabidze_natural_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Environment} and {Resources}},\n\ttitle = {Natural {Gas} {Sector} in {Georgia}: {Challenges} and {Options} for {Security}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Arabidze, Marina},\n\tmonth = may,\n\tyear = {2011},\n}\n",
         "data": {
             "key": "Z7X27PVS",
-            "version": 1,
+            "version": 25006,
             "itemType": "thesis",
             "title": "Natural Gas Sector in Georgia: Challenges and Options for Security",
             "creators": [
@@ -1329,7 +1351,7 @@
                 }
             ],
             "abstractNote": "",
-            "thesisType": "M.S. Environment and Resources",
+            "thesisType": "MS Environment and Resources",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
             "date": "May 2011",
@@ -1350,12 +1372,12 @@
             ],
             "relations": {},
             "dateAdded": "2012-11-10T17:45:13Z",
-            "dateModified": "2012-11-10T17:46:43Z"
+            "dateModified": "2020-12-30T15:03:21Z"
         }
     },
     {
         "key": "5WKCU3AF",
-        "version": 22412,
+        "version": 25007,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1393,10 +1415,10 @@
             "parsedDate": "2011",
             "numChildren": 0
         },
-        "bibtex": "\n@phdthesis{nygaard_notitle_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {M.{S}. {Nuclear} {Engineering} and {Engineering} {Physics}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Nygaard, Erik},\n\tyear = {2011},\n}\n",
+        "bibtex": "\n@phdthesis{nygaard_notitle_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Nygaard, Erik},\n\tyear = {2011},\n}\n",
         "data": {
             "key": "5WKCU3AF",
-            "version": 22412,
+            "version": 25007,
             "itemType": "thesis",
             "title": "",
             "creators": [
@@ -1407,7 +1429,7 @@
                 }
             ],
             "abstractNote": "",
-            "thesisType": "M.S. Nuclear Engineering and Engineering Physics",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
             "date": "2011",
@@ -1428,7 +1450,7 @@
             ],
             "relations": {},
             "dateAdded": "2016-11-27T21:57:05Z",
-            "dateModified": "2019-02-17T23:00:46Z"
+            "dateModified": "2020-12-30T15:03:12Z"
         }
     },
     {
@@ -1615,7 +1637,7 @@
     },
     {
         "key": "TRW3NJ9V",
-        "version": 19878,
+        "version": 25006,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1659,10 +1681,10 @@
             "parsedDate": "2010",
             "numChildren": 3
         },
-        "bibtex": "\n@phdthesis{ahn_discrete_2010,\n\taddress = {Madison, WI, United States},\n\ttype = {M.{S}. {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Discrete and {Multi}-{Region} {Economic} {Modeling} of a {Global} {Nuclear} {Fuel} {Cycle} on {GENIUSv2}},\n\tabstract = {Globalization of nuclear technologies and developments on advanced fuel cycles have been steadily growing. This stimulated the development of various systems\n analysis tools for nuclear fuel cycle simulations. There have also been particular\n interests on global-scale economic models that can capture different economic,\n political, social, and technical impacts on the nuclear fuel cycle. In support of the\nAdvanced Fuel Cycle Initiatives and the Global Nuclear Energy Partnership, the\n Simulation Institute for Nuclear Energy Modeling and Analysis (SINEMA) project\n attempted to develop an integrated approach that can interconnect different fuel\n cycle analysis tools. The Global Evaluation of Nuclear Infrastructure Utilization\n Scenarios (GENIUS) was originally developed to be the nuclear enterprise model in\n the SINEMA project for policy and decision makers. Currently, its successor,\n GENIUSv2, is being developed at the University of Wisconsin-Madison. This thesis\n implements an economic model that uses the capabilities of GENIUSv2 to calculate\n streams of monthly costs of various global-scale nuclear fuel cycle scenarios.\n Discrete monthly calculations allow the user to capture economic impacts of any\n variations that occur over time. The region-institution-facility hierarchical modeling\n capability in GENIUSv2 provides the user flexibility to observe economic impacts at\n facility, institutional, and regional levels. The economic impacts at a facility level\n were observed by implementing user-defined unplanned outages throughout the\n lifetime of the reactor. The economic impacts at institutional and regional levels\n were also observed by imposing political and/or technical trade disruptions\n between facilities.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Ahn, Tae Wook},\n\tyear = {2010},\n}\n",
+        "bibtex": "\n@phdthesis{ahn_discrete_2010,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Discrete and {Multi}-{Region} {Economic} {Modeling} of a {Global} {Nuclear} {Fuel} {Cycle} on {GENIUSv2}},\n\tabstract = {Globalization of nuclear technologies and developments on advanced fuel cycles have been steadily growing. This stimulated the development of various systems\n analysis tools for nuclear fuel cycle simulations. There have also been particular\n interests on global-scale economic models that can capture different economic,\n political, social, and technical impacts on the nuclear fuel cycle. In support of the\nAdvanced Fuel Cycle Initiatives and the Global Nuclear Energy Partnership, the\n Simulation Institute for Nuclear Energy Modeling and Analysis (SINEMA) project\n attempted to develop an integrated approach that can interconnect different fuel\n cycle analysis tools. The Global Evaluation of Nuclear Infrastructure Utilization\n Scenarios (GENIUS) was originally developed to be the nuclear enterprise model in\n the SINEMA project for policy and decision makers. Currently, its successor,\n GENIUSv2, is being developed at the University of Wisconsin-Madison. This thesis\n implements an economic model that uses the capabilities of GENIUSv2 to calculate\n streams of monthly costs of various global-scale nuclear fuel cycle scenarios.\n Discrete monthly calculations allow the user to capture economic impacts of any\n variations that occur over time. The region-institution-facility hierarchical modeling\n capability in GENIUSv2 provides the user flexibility to observe economic impacts at\n facility, institutional, and regional levels. The economic impacts at a facility level\n were observed by implementing user-defined unplanned outages throughout the\n lifetime of the reactor. The economic impacts at institutional and regional levels\n were also observed by imposing political and/or technical trade disruptions\n between facilities.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Ahn, Tae Wook},\n\tyear = {2010},\n}\n",
         "data": {
             "key": "TRW3NJ9V",
-            "version": 19878,
+            "version": 25006,
             "itemType": "thesis",
             "title": "Discrete and Multi-Region Economic Modeling of a Global Nuclear Fuel Cycle on GENIUSv2",
             "creators": [
@@ -1673,7 +1695,7 @@
                 }
             ],
             "abstractNote": "Globalization of nuclear technologies and developments on advanced fuel cycles have been steadily growing. This stimulated the development of various systems\n analysis tools for nuclear fuel cycle simulations. There have also been particular\n interests on global-scale economic models that can capture different economic,\n political, social, and technical impacts on the nuclear fuel cycle. In support of the\nAdvanced Fuel Cycle Initiatives and the Global Nuclear Energy Partnership, the\n Simulation Institute for Nuclear Energy Modeling and Analysis (SINEMA) project\n attempted to develop an integrated approach that can interconnect different fuel\n cycle analysis tools. The Global Evaluation of Nuclear Infrastructure Utilization\n Scenarios (GENIUS) was originally developed to be the nuclear enterprise model in\n the SINEMA project for policy and decision makers. Currently, its successor,\n GENIUSv2, is being developed at the University of Wisconsin-Madison. This thesis\n implements an economic model that uses the capabilities of GENIUSv2 to calculate\n streams of monthly costs of various global-scale nuclear fuel cycle scenarios.\n Discrete monthly calculations allow the user to capture economic impacts of any\n variations that occur over time. The region-institution-facility hierarchical modeling\n capability in GENIUSv2 provides the user flexibility to observe economic impacts at\n facility, institutional, and regional levels. The economic impacts at a facility level\n were observed by implementing user-defined unplanned outages throughout the\n lifetime of the reactor. The economic impacts at institutional and regional levels\n were also observed by imposing political and/or technical trade disruptions\n between facilities.",
-            "thesisType": "M.S. Nuclear Engineering and Engineering Physics",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
             "date": "2010",
@@ -1694,12 +1716,12 @@
             ],
             "relations": {},
             "dateAdded": "2013-11-13T20:46:23Z",
-            "dateModified": "2013-11-13T20:49:17Z"
+            "dateModified": "2020-12-30T15:03:02Z"
         }
     },
     {
         "key": "HBH5EWGG",
-        "version": 21761,
+        "version": 25007,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1743,12 +1765,12 @@
             "parsedDate": "2009",
             "numChildren": 6
         },
-        "bibtex": "\n@phdthesis{oliver_geniusv2:_2009,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {{GENIUSV2}: {SOFTWARE} {DESIGN} {AND} {MATHEMATICAL} {FORMULATIONS} {FOR} {MULTI}-{REGION} {DISCRETE} {NUCLEAR} {FUEL} {CYCLE} {SIMULATION} {AND} {ANALYSIS}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Oliver, Kyle M.},\n\tyear = {2009},\n}\n",
+        "bibtex": "\n@phdthesis{oliver_geniusv2_2009,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {{GENIUSv2}: {Software} {Design} and {Mathematical} {Formulations} for {Multi}-{Region} {Discrete}  {Nuclear} {Fuel} {Cycle} {Simulation} and {Analysis}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Oliver, Kyle M.},\n\tyear = {2009},\n}\n",
         "data": {
             "key": "HBH5EWGG",
-            "version": 21761,
+            "version": 25007,
             "itemType": "thesis",
-            "title": "GENIUSV2: SOFTWARE DESIGN AND MATHEMATICAL FORMULATIONS FOR MULTI-REGION DISCRETE NUCLEAR FUEL CYCLE SIMULATION AND ANALYSIS",
+            "title": "GENIUSv2: Software Design and Mathematical Formulations for Multi-Region Discrete  Nuclear Fuel Cycle Simulation and Analysis",
             "creators": [
                 {
                     "creatorType": "author",
@@ -1778,7 +1800,7 @@
             ],
             "relations": {},
             "dateAdded": "2013-09-04T20:14:28Z",
-            "dateModified": "2018-02-17T23:42:58Z"
+            "dateModified": "2020-12-30T15:02:53Z"
         }
     },
     {
@@ -1951,7 +1973,7 @@
     },
     {
         "key": "JCVBJ8KI",
-        "version": 21761,
+        "version": 25007,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1995,12 +2017,12 @@
             "parsedDate": "2008",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{priaulx_development_2008,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {{DEVELOPMENT} {OF} {A} {PARCS}/{HELIOS} {MODEL} {FOR} {THE} {UNIVERSITY} {OF} {WISCONSIN} {NUCLEAR} {REACTOR}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Priaulx, Michael},\n\tyear = {2008},\n}\n",
+        "bibtex": "\n@phdthesis{priaulx_development_2008,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Development of a {PARCS}/{HELIOS} {Model} for the {University} of {Wisconsin} {Nuclear} {Reactor}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Priaulx, Michael},\n\tyear = {2008},\n}\n",
         "data": {
             "key": "JCVBJ8KI",
-            "version": 21761,
+            "version": 25007,
             "itemType": "thesis",
-            "title": "DEVELOPMENT OF A PARCS/HELIOS MODEL FOR THE UNIVERSITY OF WISCONSIN NUCLEAR REACTOR",
+            "title": "Development of a PARCS/HELIOS Model for the University of Wisconsin Nuclear Reactor",
             "creators": [
                 {
                     "creatorType": "author",
@@ -2030,7 +2052,175 @@
             ],
             "relations": {},
             "dateAdded": "2016-11-27T22:05:38Z",
-            "dateModified": "2018-02-17T23:43:17Z"
+            "dateModified": "2020-12-30T15:02:01Z"
+        }
+    },
+    {
+        "key": "WR6HI27D",
+        "version": 25006,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/WR6HI27D",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/WR6HI27D",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/4NHVDMZP",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 742105
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Grady",
+            "parsedDate": "2008",
+            "numChildren": 3
+        },
+        "bibtex": "\n@phdthesis{grady_development_2008,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Development of {Economic} {Accounting} for {Nuclear} {Waste} in {Fuel} {Cycle} {Analysis}},\n\tabstract = {This research focuses on the development of an economic model for waste\n entering a repository. This work couples a repository loading model with an economic\n accounting system to determine a cost based on repository usage.\n \n\nThe repository loading model determines the amount of repository space used by\n an arbitrary waste stream. Using the economic model in VISION.econ, the arbitrary\n waste stream can be assigned a cost. The cost for the space used is calibrated by\n computing the cost per meter of repository space if spent fuel is directly emplaced. This\n allows for accurate comparison between direct disposal and different recycling schemes.\n The length-based disposal cost accounts for fuel from different fuel types, burnups, and\n High-Level Waste (HLW) with an arbitrary isotope mix.\n\nKey derivatives of this work are an accounting system that can account for the\n repository savings of reprocessing and the ability to compare direct disposal to\n reprocessing with varying separation schemes. From this work, it was determined that the\n current mass-based accounting system for HLW disposal costs can be significantly\n different than the length-based accounting system proposed in this work when advanced\n reprocessing schemes are implemented. Furthermore, this work shows the length-based\n accounting system may be needed to find the disposal cost at which reprocessing is\neconomically equivalent to direct disposal.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Grady, Ryan},\n\tyear = {2008},\n}\n",
+        "data": {
+            "key": "WR6HI27D",
+            "version": 25006,
+            "itemType": "thesis",
+            "title": "Development of Economic Accounting for Nuclear Waste in Fuel Cycle Analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ryan",
+                    "lastName": "Grady"
+                }
+            ],
+            "abstractNote": "This research focuses on the development of an economic model for waste\n entering a repository. This work couples a repository loading model with an economic\n accounting system to determine a cost based on repository usage.\n \n\nThe repository loading model determines the amount of repository space used by\n an arbitrary waste stream. Using the economic model in VISION.econ, the arbitrary\n waste stream can be assigned a cost. The cost for the space used is calibrated by\n computing the cost per meter of repository space if spent fuel is directly emplaced. This\n allows for accurate comparison between direct disposal and different recycling schemes.\n The length-based disposal cost accounts for fuel from different fuel types, burnups, and\n High-Level Waste (HLW) with an arbitrary isotope mix.\n\nKey derivatives of this work are an accounting system that can account for the\n repository savings of reprocessing and the ability to compare direct disposal to\n reprocessing with varying separation schemes. From this work, it was determined that the\n current mass-based accounting system for HLW disposal costs can be significantly\n different than the length-based accounting system proposed in this work when advanced\n reprocessing schemes are implemented. Furthermore, this work shows the length-based\n accounting system may be needed to find the disposal cost at which reprocessing is\neconomically equivalent to direct disposal.",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
+            "university": "University of Wisconsin-Madison",
+            "place": "Madison, WI, United States",
+            "date": "2008",
+            "numPages": "90",
+            "language": "English",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "6259B6TV"
+            ],
+            "relations": {},
+            "dateAdded": "2013-11-13T20:43:37Z",
+            "dateModified": "2020-12-30T15:01:21Z"
+        }
+    },
+    {
+        "key": "DQVPWQ5T",
+        "version": 25006,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/DQVPWQ5T",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/DQVPWQ5T",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/X6G6TC9H",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 269170
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Scholbrock",
+            "parsedDate": "2008",
+            "numChildren": 3
+        },
+        "bibtex": "\n@phdthesis{scholbrock_attribute_2008,\n\taddress = {Madison, WI, United States},\n\ttype = {{BS} {Engineering} {Physics}},\n\ttitle = {Attribute {Management} in {ACIS} {Based} {Geometry} {Files}},\n\tabstract = {Computer aided design provides for a means to represent physical quantities in a computer as well as the concepts related to it in order to provide an efficient design process.  Using computer simulation over physical tests allow for quicker and cheaper results. However much of the potential that computer aided design has to offer is not being utilized due to the cumbersome interfaces that currently stand between engineers and computers. Specifically when dealing with attributes (labels that help define physical properties of the geometric representation) current geometry tools do not provide means to adapt attributes as needed in the simulation based design process. This research looks into creating a tool to apply and manipulate attributes on geometric entities while providing an efficient means for a user to interact with a geometric model.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Scholbrock, Andrew},\n\tyear = {2008},\n}\n",
+        "data": {
+            "key": "DQVPWQ5T",
+            "version": 25006,
+            "itemType": "thesis",
+            "title": "Attribute Management in ACIS Based Geometry Files",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Scholbrock"
+                }
+            ],
+            "abstractNote": "Computer aided design provides for a means to represent physical quantities in a computer as well as the concepts related to it in order to provide an efficient design process.  Using computer simulation over physical tests allow for quicker and cheaper results. However much of the potential that computer aided design has to offer is not being utilized due to the cumbersome interfaces that currently stand between engineers and computers. Specifically when dealing with attributes (labels that help define physical properties of the geometric representation) current geometry tools do not provide means to adapt attributes as needed in the simulation based design process. This research looks into creating a tool to apply and manipulate attributes on geometric entities while providing an efficient means for a user to interact with a geometric model.",
+            "thesisType": "BS Engineering Physics",
+            "university": "University of Wisconsin-Madison",
+            "place": "Madison, WI, United States",
+            "date": "2008",
+            "numPages": "35",
+            "language": "English",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "6259B6TV"
+            ],
+            "relations": {},
+            "dateAdded": "2012-11-10T17:42:24Z",
+            "dateModified": "2020-12-30T15:00:12Z"
         }
     },
     {
@@ -2118,8 +2308,8 @@
         }
     },
     {
-        "key": "WR6HI27D",
-        "version": 19878,
+        "key": "EGFFCEWU",
+        "version": 25006,
         "library": {
             "type": "group",
             "id": 10058,
@@ -2133,18 +2323,18 @@
         },
         "links": {
             "self": {
-                "href": "https://api.zotero.org/groups/10058/items/WR6HI27D",
+                "href": "https://api.zotero.org/groups/10058/items/EGFFCEWU",
                 "type": "application/json"
             },
             "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/WR6HI27D",
+                "href": "https://www.zotero.org/groups/10058/items/EGFFCEWU",
                 "type": "text/html"
             },
             "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/4NHVDMZP",
+                "href": "https://api.zotero.org/groups/10058/items/7CUDCCZX",
                 "type": "application/json",
                 "attachmentType": "application/pdf",
-                "attachmentSize": 742105
+                "attachmentSize": 3388126
             }
         },
         "meta": {
@@ -2159,29 +2349,29 @@
                     }
                 }
             },
-            "creatorSummary": "Grady",
-            "parsedDate": "2008",
-            "numChildren": 3
+            "creatorSummary": "Radel",
+            "parsedDate": "2007",
+            "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{grady_development_2008,\n\taddress = {Madison, WI, United States},\n\ttype = {M.{S}. {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Development of {Economic} {Accounting} for {Nuclear} {Waste} in {Fuel} {Cycle} {Analysis}},\n\tabstract = {This research focuses on the development of an economic model for waste\n entering a repository. This work couples a repository loading model with an economic\n accounting system to determine a cost based on repository usage.\n \n\nThe repository loading model determines the amount of repository space used by\n an arbitrary waste stream. Using the economic model in VISION.econ, the arbitrary\n waste stream can be assigned a cost. The cost for the space used is calibrated by\n computing the cost per meter of repository space if spent fuel is directly emplaced. This\n allows for accurate comparison between direct disposal and different recycling schemes.\n The length-based disposal cost accounts for fuel from different fuel types, burnups, and\n High-Level Waste (HLW) with an arbitrary isotope mix.\n\nKey derivatives of this work are an accounting system that can account for the\n repository savings of reprocessing and the ability to compare direct disposal to\n reprocessing with varying separation schemes. From this work, it was determined that the\n current mass-based accounting system for HLW disposal costs can be significantly\n different than the length-based accounting system proposed in this work when advanced\n reprocessing schemes are implemented. Furthermore, this work shows the length-based\n accounting system may be needed to find the disposal cost at which reprocessing is\neconomically equivalent to direct disposal.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Grady, Ryan},\n\tyear = {2008},\n}\n",
+        "bibtex": "\n@phdthesis{radel_repository_2007,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Repository {Modeling} for {Fuel} {Cycle} {Scenario} {Analysis}},\n\tabstract = {This research is focused on developing a model to determine repository loading for an arbitrary isotopic vector based on thermal heat loads for Yucca Mountain. The model will be implemented into a fuel cycle scenario analysis code to investigate repository benefit of various fuel cycles from an integrated systems perspective.\n\nThree limiting temperature cases were previously identified from dose limits on the repository: the drift wall at emplacement and closure must remain below 200 °C and the mid- drift point must remain below 96 °C at all times. Based on a pre-existing detailed thermal model of Yucca Mountain, streamlined models were developed for these limiting cases, each with a functional form that captures the appropriate transient effects. The emplacement limit was dependent on the initial heat load as well as the rate at which the heat load was changing. The closure limit was approximated by a constant heat load limit, as the decay heat does not change rapidly near the time of closure. The model for the mid-drift limit uses superposition of individual isotope contributions to the mid-drift temperature rather than decay heat values.\n\nImplementation in the VISION systems analysis code, offers a powerful tool for studying the effects of an intergraded fuel cycle on repository loading values. A complete repository loading model has never been coupled with a fuel cycle systems code. Effects of delays in the fuel cycle, changes in separation processes, variations in reactor combinations, and other dynamic fuel cycle parameters can now be investigated using this model. \n\nResults discussed in this paper show that an increase in separation efficiency above 0.2\\% would have less than a 1\\% impact on repository loading. However, separation of Cs and Sr into an alternate waste steam results in increased loading of 285 times over a traditional once through cycle for some fuel cycle scenarios. The ability to have a varying time until closure in the systems model also shows a significant impact, reducing the benefit over a once through cycle from 5 times to 2.4 times because of temperature limits at closure.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Radel, Tracy E.},\n\tyear = {2007},\n}\n",
         "data": {
-            "key": "WR6HI27D",
-            "version": 19878,
+            "key": "EGFFCEWU",
+            "version": 25006,
             "itemType": "thesis",
-            "title": "Development of Economic Accounting for Nuclear Waste in Fuel Cycle Analysis",
+            "title": "Repository Modeling for Fuel Cycle Scenario Analysis",
             "creators": [
                 {
                     "creatorType": "author",
-                    "firstName": "Ryan",
-                    "lastName": "Grady"
+                    "firstName": "Tracy E.",
+                    "lastName": "Radel"
                 }
             ],
-            "abstractNote": "This research focuses on the development of an economic model for waste\n entering a repository. This work couples a repository loading model with an economic\n accounting system to determine a cost based on repository usage.\n \n\nThe repository loading model determines the amount of repository space used by\n an arbitrary waste stream. Using the economic model in VISION.econ, the arbitrary\n waste stream can be assigned a cost. The cost for the space used is calibrated by\n computing the cost per meter of repository space if spent fuel is directly emplaced. This\n allows for accurate comparison between direct disposal and different recycling schemes.\n The length-based disposal cost accounts for fuel from different fuel types, burnups, and\n High-Level Waste (HLW) with an arbitrary isotope mix.\n\nKey derivatives of this work are an accounting system that can account for the\n repository savings of reprocessing and the ability to compare direct disposal to\n reprocessing with varying separation schemes. From this work, it was determined that the\n current mass-based accounting system for HLW disposal costs can be significantly\n different than the length-based accounting system proposed in this work when advanced\n reprocessing schemes are implemented. Furthermore, this work shows the length-based\n accounting system may be needed to find the disposal cost at which reprocessing is\neconomically equivalent to direct disposal.",
-            "thesisType": "M.S. Nuclear Engineering and Engineering Physics",
+            "abstractNote": "This research is focused on developing a model to determine repository loading for an arbitrary isotopic vector based on thermal heat loads for Yucca Mountain. The model will be implemented into a fuel cycle scenario analysis code to investigate repository benefit of various fuel cycles from an integrated systems perspective.\n\nThree limiting temperature cases were previously identified from dose limits on the repository: the drift wall at emplacement and closure must remain below 200 °C and the mid- drift point must remain below 96 °C at all times. Based on a pre-existing detailed thermal model of Yucca Mountain, streamlined models were developed for these limiting cases, each with a functional form that captures the appropriate transient effects. The emplacement limit was dependent on the initial heat load as well as the rate at which the heat load was changing. The closure limit was approximated by a constant heat load limit, as the decay heat does not change rapidly near the time of closure. The model for the mid-drift limit uses superposition of individual isotope contributions to the mid-drift temperature rather than decay heat values.\n\nImplementation in the VISION systems analysis code, offers a powerful tool for studying the effects of an intergraded fuel cycle on repository loading values. A complete repository loading model has never been coupled with a fuel cycle systems code. Effects of delays in the fuel cycle, changes in separation processes, variations in reactor combinations, and other dynamic fuel cycle parameters can now be investigated using this model. \n\nResults discussed in this paper show that an increase in separation efficiency above 0.2% would have less than a 1% impact on repository loading. However, separation of Cs and Sr into an alternate waste steam results in increased loading of 285 times over a traditional once through cycle for some fuel cycle scenarios. The ability to have a varying time until closure in the systems model also shows a significant impact, reducing the benefit over a once through cycle from 5 times to 2.4 times because of temperature limits at closure.",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
-            "date": "2008",
-            "numPages": "90",
+            "date": "2007",
+            "numPages": "92",
             "language": "English",
             "shortTitle": "",
             "url": "",
@@ -2197,13 +2387,13 @@
                 "6259B6TV"
             ],
             "relations": {},
-            "dateAdded": "2013-11-13T20:43:37Z",
-            "dateModified": "2013-11-13T20:46:14Z"
+            "dateAdded": "2013-11-13T21:25:19Z",
+            "dateModified": "2020-12-30T15:01:13Z"
         }
     },
     {
-        "key": "DQVPWQ5T",
-        "version": 19185,
+        "key": "G79X7K4R",
+        "version": 25006,
         "library": {
             "type": "group",
             "id": 10058,
@@ -2217,18 +2407,18 @@
         },
         "links": {
             "self": {
-                "href": "https://api.zotero.org/groups/10058/items/DQVPWQ5T",
+                "href": "https://api.zotero.org/groups/10058/items/G79X7K4R",
                 "type": "application/json"
             },
             "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/DQVPWQ5T",
+                "href": "https://www.zotero.org/groups/10058/items/G79X7K4R",
                 "type": "text/html"
             },
             "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/X6G6TC9H",
+                "href": "https://api.zotero.org/groups/10058/items/8ICA7SW4",
                 "type": "application/json",
                 "attachmentType": "application/pdf",
-                "attachmentSize": 269170
+                "attachmentSize": 906940
             }
         },
         "meta": {
@@ -2243,29 +2433,29 @@
                     }
                 }
             },
-            "creatorSummary": "Scholbrock",
-            "parsedDate": "2008",
+            "creatorSummary": "Setter",
+            "parsedDate": "2007",
             "numChildren": 3
         },
-        "bibtex": "\n@phdthesis{scholbrock_attribute_2008,\n\taddress = {Madison, WI, United States},\n\ttype = {B.{S}. {Engineering} {Physics}},\n\ttitle = {Attribute {Management} in {ACIS} {Based} {Geometry} {Files}},\n\tabstract = {Computer aided design provides for a means to represent physical quantities in a computer as well as the concepts related to it in order to provide an efficient design process.  Using computer simulation over physical tests allow for quicker and cheaper results. However much of the potential that computer aided design has to offer is not being utilized due to the cumbersome interfaces that currently stand between engineers and computers. Specifically when dealing with attributes (labels that help define physical properties of the geometric representation) current geometry tools do not provide means to adapt attributes as needed in the simulation based design process. This research looks into creating a tool to apply and manipulate attributes on geometric entities while providing an efficient means for a user to interact with a geometric model.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Scholbrock, Andrew},\n\tyear = {2008},\n}\n",
+        "bibtex": "\n@phdthesis{setter_neutrongamma_2007,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Neutron/{Gamma} {Mixed} {Spectrum} {Radiolysis}-{Based} {Aqueous} {Dosimetry}},\n\tabstract = {This work develops a method to use an aqueous dosimeter in a mixed radiation field to determine separate measurements of neutron and gamma dose. Based on radiolysis of both Fricke and Methyl Viologen (MV) solutions, activation analysis and reactor simulation are combined to determine neutron dose and neutron radiolysis. This is subtracted from the total measured radiolysis to infer a gamma dose. The Fricke dosimeter was able to give repeatable results for the neutron and gamma doses over a number of days for a variety of shielding configurations. Impurities in the MV dosimeter prevented it from providing repeatable results, but qualitative comparison to the Fricke dosimeter indicated that it could be a viable approach. The method found that the reactor simulation, using MCNP5, can be used for accurate neutron simulations but does not account for all the source terms for gamma dose simulation. A neutron G-value for the Fricke dosimeter was developed by combining proton radiolysis simulations with results from MCNP5 and NJOY.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Setter, Timothy},\n\tyear = {2007},\n}\n",
         "data": {
-            "key": "DQVPWQ5T",
-            "version": 19185,
+            "key": "G79X7K4R",
+            "version": 25006,
             "itemType": "thesis",
-            "title": "Attribute Management in ACIS Based Geometry Files",
+            "title": "Neutron/Gamma Mixed Spectrum Radiolysis-Based Aqueous Dosimetry",
             "creators": [
                 {
                     "creatorType": "author",
-                    "firstName": "Andrew",
-                    "lastName": "Scholbrock"
+                    "firstName": "Timothy",
+                    "lastName": "Setter"
                 }
             ],
-            "abstractNote": "Computer aided design provides for a means to represent physical quantities in a computer as well as the concepts related to it in order to provide an efficient design process.  Using computer simulation over physical tests allow for quicker and cheaper results. However much of the potential that computer aided design has to offer is not being utilized due to the cumbersome interfaces that currently stand between engineers and computers. Specifically when dealing with attributes (labels that help define physical properties of the geometric representation) current geometry tools do not provide means to adapt attributes as needed in the simulation based design process. This research looks into creating a tool to apply and manipulate attributes on geometric entities while providing an efficient means for a user to interact with a geometric model.",
-            "thesisType": "B.S. Engineering Physics",
+            "abstractNote": "This work develops a method to use an aqueous dosimeter in a mixed radiation field to determine separate measurements of neutron and gamma dose. Based on radiolysis of both Fricke and Methyl Viologen (MV) solutions, activation analysis and reactor simulation are combined to determine neutron dose and neutron radiolysis. This is subtracted from the total measured radiolysis to infer a gamma dose. The Fricke dosimeter was able to give repeatable results for the neutron and gamma doses over a number of days for a variety of shielding configurations. Impurities in the MV dosimeter prevented it from providing repeatable results, but qualitative comparison to the Fricke dosimeter indicated that it could be a viable approach. The method found that the reactor simulation, using MCNP5, can be used for accurate neutron simulations but does not account for all the source terms for gamma dose simulation. A neutron G-value for the Fricke dosimeter was developed by combining proton radiolysis simulations with results from MCNP5 and NJOY.",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
-            "date": "2008",
-            "numPages": "35",
+            "date": "2007",
+            "numPages": "114",
             "language": "English",
             "shortTitle": "",
             "url": "",
@@ -2281,8 +2471,8 @@
                 "6259B6TV"
             ],
             "relations": {},
-            "dateAdded": "2012-11-10T17:42:24Z",
-            "dateModified": "2013-02-13T22:34:06Z"
+            "dateAdded": "2013-11-13T20:49:25Z",
+            "dateModified": "2020-12-30T15:01:18Z"
         }
     },
     {
@@ -2454,8 +2644,8 @@
         }
     },
     {
-        "key": "EGFFCEWU",
-        "version": 19878,
+        "key": "44PH8T2V",
+        "version": 25006,
         "library": {
             "type": "group",
             "id": 10058,
@@ -2469,18 +2659,18 @@
         },
         "links": {
             "self": {
-                "href": "https://api.zotero.org/groups/10058/items/EGFFCEWU",
+                "href": "https://api.zotero.org/groups/10058/items/44PH8T2V",
                 "type": "application/json"
             },
             "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/EGFFCEWU",
+                "href": "https://www.zotero.org/groups/10058/items/44PH8T2V",
                 "type": "text/html"
             },
             "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/7CUDCCZX",
+                "href": "https://api.zotero.org/groups/10058/items/R9NSDC4N",
                 "type": "application/json",
                 "attachmentType": "application/pdf",
-                "attachmentSize": 3388126
+                "attachmentSize": 857557
             }
         },
         "meta": {
@@ -2495,113 +2685,29 @@
                     }
                 }
             },
-            "creatorSummary": "Radel",
-            "parsedDate": "2007",
-            "numChildren": 2
-        },
-        "bibtex": "\n@phdthesis{radel_repository_2007,\n\taddress = {Madison, WI, United States},\n\ttype = {M.{S}. {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Repository {Modeling} for {Fuel} {Cycle} {Scenario} {Analysis}},\n\tabstract = {This research is focused on developing a model to determine repository loading for an arbitrary isotopic vector based on thermal heat loads for Yucca Mountain. The model will be implemented into a fuel cycle scenario analysis code to investigate repository benefit of various fuel cycles from an integrated systems perspective.\n\nThree limiting temperature cases were previously identified from dose limits on the repository: the drift wall at emplacement and closure must remain below 200 °C and the mid- drift point must remain below 96 °C at all times. Based on a pre-existing detailed thermal model of Yucca Mountain, streamlined models were developed for these limiting cases, each with a functional form that captures the appropriate transient effects. The emplacement limit was dependent on the initial heat load as well as the rate at which the heat load was changing. The closure limit was approximated by a constant heat load limit, as the decay heat does not change rapidly near the time of closure. The model for the mid-drift limit uses superposition of individual isotope contributions to the mid-drift temperature rather than decay heat values.\n\nImplementation in the VISION systems analysis code, offers a powerful tool for studying the effects of an intergraded fuel cycle on repository loading values. A complete repository loading model has never been coupled with a fuel cycle systems code. Effects of delays in the fuel cycle, changes in separation processes, variations in reactor combinations, and other dynamic fuel cycle parameters can now be investigated using this model. \n\nResults discussed in this paper show that an increase in separation efficiency above 0.2\\% would have less than a 1\\% impact on repository loading. However, separation of Cs and Sr into an alternate waste steam results in increased loading of 285 times over a traditional once through cycle for some fuel cycle scenarios. The ability to have a varying time until closure in the systems model also shows a significant impact, reducing the benefit over a once through cycle from 5 times to 2.4 times because of temperature limits at closure.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Radel, Tracy E.},\n\tyear = {2007},\n}\n",
-        "data": {
-            "key": "EGFFCEWU",
-            "version": 19878,
-            "itemType": "thesis",
-            "title": "Repository Modeling for Fuel Cycle Scenario Analysis",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Tracy E.",
-                    "lastName": "Radel"
-                }
-            ],
-            "abstractNote": "This research is focused on developing a model to determine repository loading for an arbitrary isotopic vector based on thermal heat loads for Yucca Mountain. The model will be implemented into a fuel cycle scenario analysis code to investigate repository benefit of various fuel cycles from an integrated systems perspective.\n\nThree limiting temperature cases were previously identified from dose limits on the repository: the drift wall at emplacement and closure must remain below 200 °C and the mid- drift point must remain below 96 °C at all times. Based on a pre-existing detailed thermal model of Yucca Mountain, streamlined models were developed for these limiting cases, each with a functional form that captures the appropriate transient effects. The emplacement limit was dependent on the initial heat load as well as the rate at which the heat load was changing. The closure limit was approximated by a constant heat load limit, as the decay heat does not change rapidly near the time of closure. The model for the mid-drift limit uses superposition of individual isotope contributions to the mid-drift temperature rather than decay heat values.\n\nImplementation in the VISION systems analysis code, offers a powerful tool for studying the effects of an intergraded fuel cycle on repository loading values. A complete repository loading model has never been coupled with a fuel cycle systems code. Effects of delays in the fuel cycle, changes in separation processes, variations in reactor combinations, and other dynamic fuel cycle parameters can now be investigated using this model. \n\nResults discussed in this paper show that an increase in separation efficiency above 0.2% would have less than a 1% impact on repository loading. However, separation of Cs and Sr into an alternate waste steam results in increased loading of 285 times over a traditional once through cycle for some fuel cycle scenarios. The ability to have a varying time until closure in the systems model also shows a significant impact, reducing the benefit over a once through cycle from 5 times to 2.4 times because of temperature limits at closure.",
-            "thesisType": "M.S. Nuclear Engineering and Engineering Physics",
-            "university": "University of Wisconsin-Madison",
-            "place": "Madison, WI, United States",
-            "date": "2007",
-            "numPages": "92",
-            "language": "English",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "6259B6TV"
-            ],
-            "relations": {},
-            "dateAdded": "2013-11-13T21:25:19Z",
-            "dateModified": "2013-11-13T21:27:57Z"
-        }
-    },
-    {
-        "key": "G79X7K4R",
-        "version": 19878,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/G79X7K4R",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/G79X7K4R",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/8ICA7SW4",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 906940
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Setter",
-            "parsedDate": "2007",
+            "creatorSummary": "Schmitt",
+            "parsedDate": "2006",
             "numChildren": 3
         },
-        "bibtex": "\n@phdthesis{setter_neutron/gamma_2007,\n\taddress = {Madison, WI, United States},\n\ttype = {M.{S}. {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Neutron/{Gamma} {Mixed} {Spectrum} {Radiolysis}-{Based} {Aqueous} {Dosimetry}},\n\tabstract = {This work develops a method to use an aqueous dosimeter in a mixed radiation field to determine separate measurements of neutron and gamma dose. Based on radiolysis of both Fricke and Methyl Viologen (MV) solutions, activation analysis and reactor simulation are combined to determine neutron dose and neutron radiolysis. This is subtracted from the total measured radiolysis to infer a gamma dose. The Fricke dosimeter was able to give repeatable results for the neutron and gamma doses over a number of days for a variety of shielding configurations. Impurities in the MV dosimeter prevented it from providing repeatable results, but qualitative comparison to the Fricke dosimeter indicated that it could be a viable approach. The method found that the reactor simulation, using MCNP5, can be used for accurate neutron simulations but does not account for all the source terms for gamma dose simulation. A neutron G-value for the Fricke dosimeter was developed by combining proton radiolysis simulations with results from MCNP5 and NJOY.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Setter, Timothy},\n\tyear = {2007},\n}\n",
+        "bibtex": "\n@phdthesis{schmitt_accounting_2006,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Accounting for {Core} {Burnup} in {Reactor} {Analysis} of the {Unviersity} of {Wisconsin} {Nuclear} {Reactor}},\n\tabstract = {The University of Wisconsin Nuclear Reactor, a 1 MW TRIGA open-pool reactor, is an important part of the Nuclear Engineering program at the University of Wisconsin – Madison and has provided research and teaching opportunities for the past 40 years. In an earlier work, a model of the fresh reactor core at this facility was developed for MCNP and used to model several experiments. To allow the simulation of current conditions in the reactor, a model incorporating fuel burnup and isotopic decay needed to be designed and benchmarked. Two different simulation methods were\nexamined for this model. MONTEBURNS, a code that links ORIGEN2 and MCNP5, was used to simulate burnup based on the previous MCNP5 model of the core. HELIOS, a two-dimensional deterministic lattice physics code was used with a 1-D diffusion model to simulate burnup in a three-dimensional core. A bank height adjustment module was designed and implemented in MONTEBURNS to ensure the model was approximately critical ( 1.001{\\textgreater}keff{\\textgreater}0.999) at every calculation step, with the aim of improving results from MONTEBURNS. The results were benchmarked against measured values of core critical bank height, core excess reactivity, and core shutdown margin, and against differential blade worth curves based on measured values. For both the MONTEBURNS and HELIOS models, core bank height had, on average, a deviation of 0.53 inches from the recorded values. Average absolute deviation of simulated shutdown margin values from actual shutdown margin values ranged between 0.50 \\% ρ for the HELIOS case to 1.38 \\% ρ for the high-power basic MONTEBURNS case. For the simulated excess reactivity values, the average absolute deviation of the simulated values from recorded\nvalues ranged from 2.09 \\% ρ for the basic low power MONTEBURNS case to 3.96 \\% ρ for HELIOS. The blade worth curves had integrated reactivities that were within 0.68\\% to 16.48\\% of recorded values. Overall, results were mixed, with the simulations having similar trends to recorded data, but with simulation errors giving inconsistencies in every\nmeasurement. Much more work needs to be done before these simulations are relied upon for critical information, but this work provides the basis for further, more accurate simulations of reactor burnup for the UW-Madison Nuclear Reactor.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Schmitt, Benjamin J.},\n\tyear = {2006},\n}\n",
         "data": {
-            "key": "G79X7K4R",
-            "version": 19878,
+            "key": "44PH8T2V",
+            "version": 25006,
             "itemType": "thesis",
-            "title": "Neutron/Gamma Mixed Spectrum Radiolysis-Based Aqueous Dosimetry",
+            "title": "Accounting for Core Burnup in Reactor Analysis of the Unviersity of Wisconsin Nuclear Reactor",
             "creators": [
                 {
                     "creatorType": "author",
-                    "firstName": "Timothy",
-                    "lastName": "Setter"
+                    "firstName": "Benjamin J.",
+                    "lastName": "Schmitt"
                 }
             ],
-            "abstractNote": "This work develops a method to use an aqueous dosimeter in a mixed radiation field to determine separate measurements of neutron and gamma dose. Based on radiolysis of both Fricke and Methyl Viologen (MV) solutions, activation analysis and reactor simulation are combined to determine neutron dose and neutron radiolysis. This is subtracted from the total measured radiolysis to infer a gamma dose. The Fricke dosimeter was able to give repeatable results for the neutron and gamma doses over a number of days for a variety of shielding configurations. Impurities in the MV dosimeter prevented it from providing repeatable results, but qualitative comparison to the Fricke dosimeter indicated that it could be a viable approach. The method found that the reactor simulation, using MCNP5, can be used for accurate neutron simulations but does not account for all the source terms for gamma dose simulation. A neutron G-value for the Fricke dosimeter was developed by combining proton radiolysis simulations with results from MCNP5 and NJOY.",
-            "thesisType": "M.S. Nuclear Engineering and Engineering Physics",
+            "abstractNote": "The University of Wisconsin Nuclear Reactor, a 1 MW TRIGA open-pool reactor, is an important part of the Nuclear Engineering program at the University of Wisconsin – Madison and has provided research and teaching opportunities for the past 40 years. In an earlier work, a model of the fresh reactor core at this facility was developed for MCNP and used to model several experiments. To allow the simulation of current conditions in the reactor, a model incorporating fuel burnup and isotopic decay needed to be designed and benchmarked. Two different simulation methods were\nexamined for this model. MONTEBURNS, a code that links ORIGEN2 and MCNP5, was used to simulate burnup based on the previous MCNP5 model of the core. HELIOS, a two-dimensional deterministic lattice physics code was used with a 1-D diffusion model to simulate burnup in a three-dimensional core. A bank height adjustment module was designed and implemented in MONTEBURNS to ensure the model was approximately critical ( 1.001>keff>0.999) at every calculation step, with the aim of improving results from MONTEBURNS. The results were benchmarked against measured values of core critical bank height, core excess reactivity, and core shutdown margin, and against differential blade worth curves based on measured values. For both the MONTEBURNS and HELIOS models, core bank height had, on average, a deviation of 0.53 inches from the recorded values. Average absolute deviation of simulated shutdown margin values from actual shutdown margin values ranged between 0.50 % ρ for the HELIOS case to 1.38 % ρ for the high-power basic MONTEBURNS case. For the simulated excess reactivity values, the average absolute deviation of the simulated values from recorded\nvalues ranged from 2.09 % ρ for the basic low power MONTEBURNS case to 3.96 % ρ for HELIOS. The blade worth curves had integrated reactivities that were within 0.68% to 16.48% of recorded values. Overall, results were mixed, with the simulations having similar trends to recorded data, but with simulation errors giving inconsistencies in every\nmeasurement. Much more work needs to be done before these simulations are relied upon for critical information, but this work provides the basis for further, more accurate simulations of reactor burnup for the UW-Madison Nuclear Reactor.",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
-            "date": "2007",
-            "numPages": "114",
+            "date": "2006",
+            "numPages": "71",
             "language": "English",
             "shortTitle": "",
             "url": "",
@@ -2617,8 +2723,8 @@
                 "6259B6TV"
             ],
             "relations": {},
-            "dateAdded": "2013-11-13T20:49:25Z",
-            "dateModified": "2013-11-13T20:52:40Z"
+            "dateAdded": "2012-11-10T17:48:28Z",
+            "dateModified": "2020-12-30T15:01:02Z"
         }
     },
     {
@@ -2717,92 +2823,8 @@
         }
     },
     {
-        "key": "44PH8T2V",
-        "version": 1,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/44PH8T2V",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/44PH8T2V",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/R9NSDC4N",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 857557
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Schmitt",
-            "parsedDate": "2006",
-            "numChildren": 3
-        },
-        "bibtex": "\n@phdthesis{schmitt_accounting_2006,\n\taddress = {Madison, WI, United States},\n\ttype = {M.{S}. {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Accounting for {Core} {Burnup} in {Reactor} {Analysis} of the {Unviersity} of {Wisconsin} {Nuclear} {Reactor}},\n\tabstract = {The University of Wisconsin Nuclear Reactor, a 1 MW TRIGA open-pool reactor, is an important part of the Nuclear Engineering program at the University of Wisconsin – Madison and has provided research and teaching opportunities for the past 40 years. In an earlier work, a model of the fresh reactor core at this facility was developed for MCNP and used to model several experiments. To allow the simulation of current conditions in the reactor, a model incorporating fuel burnup and isotopic decay needed to be designed and benchmarked. Two different simulation methods were\nexamined for this model. MONTEBURNS, a code that links ORIGEN2 and MCNP5, was used to simulate burnup based on the previous MCNP5 model of the core. HELIOS, a two-dimensional deterministic lattice physics code was used with a 1-D diffusion model to simulate burnup in a three-dimensional core. A bank height adjustment module was designed and implemented in MONTEBURNS to ensure the model was approximately critical ( 1.001{\\textgreater}keff{\\textgreater}0.999) at every calculation step, with the aim of improving results from MONTEBURNS. The results were benchmarked against measured values of core critical bank height, core excess reactivity, and core shutdown margin, and against differential blade worth curves based on measured values. For both the MONTEBURNS and HELIOS models, core bank height had, on average, a deviation of 0.53 inches from the recorded values. Average absolute deviation of simulated shutdown margin values from actual shutdown margin values ranged between 0.50 \\% ρ for the HELIOS case to 1.38 \\% ρ for the high-power basic MONTEBURNS case. For the simulated excess reactivity values, the average absolute deviation of the simulated values from recorded\nvalues ranged from 2.09 \\% ρ for the basic low power MONTEBURNS case to 3.96 \\% ρ for HELIOS. The blade worth curves had integrated reactivities that were within 0.68\\% to 16.48\\% of recorded values. Overall, results were mixed, with the simulations having similar trends to recorded data, but with simulation errors giving inconsistencies in every\nmeasurement. Much more work needs to be done before these simulations are relied upon for critical information, but this work provides the basis for further, more accurate simulations of reactor burnup for the UW-Madison Nuclear Reactor.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Schmitt, Benjamin J.},\n\tyear = {2006},\n}\n",
-        "data": {
-            "key": "44PH8T2V",
-            "version": 1,
-            "itemType": "thesis",
-            "title": "Accounting for Core Burnup in Reactor Analysis of the Unviersity of Wisconsin Nuclear Reactor",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Benjamin J.",
-                    "lastName": "Schmitt"
-                }
-            ],
-            "abstractNote": "The University of Wisconsin Nuclear Reactor, a 1 MW TRIGA open-pool reactor, is an important part of the Nuclear Engineering program at the University of Wisconsin – Madison and has provided research and teaching opportunities for the past 40 years. In an earlier work, a model of the fresh reactor core at this facility was developed for MCNP and used to model several experiments. To allow the simulation of current conditions in the reactor, a model incorporating fuel burnup and isotopic decay needed to be designed and benchmarked. Two different simulation methods were\nexamined for this model. MONTEBURNS, a code that links ORIGEN2 and MCNP5, was used to simulate burnup based on the previous MCNP5 model of the core. HELIOS, a two-dimensional deterministic lattice physics code was used with a 1-D diffusion model to simulate burnup in a three-dimensional core. A bank height adjustment module was designed and implemented in MONTEBURNS to ensure the model was approximately critical ( 1.001>keff>0.999) at every calculation step, with the aim of improving results from MONTEBURNS. The results were benchmarked against measured values of core critical bank height, core excess reactivity, and core shutdown margin, and against differential blade worth curves based on measured values. For both the MONTEBURNS and HELIOS models, core bank height had, on average, a deviation of 0.53 inches from the recorded values. Average absolute deviation of simulated shutdown margin values from actual shutdown margin values ranged between 0.50 % ρ for the HELIOS case to 1.38 % ρ for the high-power basic MONTEBURNS case. For the simulated excess reactivity values, the average absolute deviation of the simulated values from recorded\nvalues ranged from 2.09 % ρ for the basic low power MONTEBURNS case to 3.96 % ρ for HELIOS. The blade worth curves had integrated reactivities that were within 0.68% to 16.48% of recorded values. Overall, results were mixed, with the simulations having similar trends to recorded data, but with simulation errors giving inconsistencies in every\nmeasurement. Much more work needs to be done before these simulations are relied upon for critical information, but this work provides the basis for further, more accurate simulations of reactor burnup for the UW-Madison Nuclear Reactor.",
-            "thesisType": "M.S. Nuclear Engineering and Engineering Physics",
-            "university": "University of Wisconsin-Madison",
-            "place": "Madison, WI, United States",
-            "date": "2006",
-            "numPages": "71",
-            "language": "English",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "6259B6TV"
-            ],
-            "relations": {},
-            "dateAdded": "2012-11-10T17:48:28Z",
-            "dateModified": "2012-11-10T17:51:18Z"
-        }
-    },
-    {
         "key": "BJK3V3MZ",
-        "version": 21761,
+        "version": 25007,
         "library": {
             "type": "group",
             "id": 10058,
@@ -2846,10 +2868,10 @@
             "parsedDate": "2005-08-23",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{fatenejad_development_2005,\n\ttype = {B.{S}. {Nuclear} {Engineerinng}},\n\ttitle = {Development and {Use} of {Tools} for {Modularization} of {Activation} {Programs}},\n\tauthor = {Fatenejad, Milad},\n\tmonth = aug,\n\tyear = {2005},\n}\n",
+        "bibtex": "\n@phdthesis{fatenejad_development_2005,\n\ttype = {{BS} {Nuclear} {Engineerinng}},\n\ttitle = {Development and {Use} of {Tools} for {Modularization} of {Activation} {Programs}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Fatenejad, Milad},\n\tmonth = aug,\n\tyear = {2005},\n}\n",
         "data": {
             "key": "BJK3V3MZ",
-            "version": 21761,
+            "version": 25007,
             "itemType": "thesis",
             "title": "Development and Use of Tools for Modularization of Activation Programs",
             "creators": [
@@ -2860,8 +2882,8 @@
                 }
             ],
             "abstractNote": "",
-            "thesisType": "B.S. Nuclear Engineerinng",
-            "university": "",
+            "thesisType": "BS Nuclear Engineerinng",
+            "university": "University of Wisconsin-Madison",
             "place": "",
             "date": "8/23/2005",
             "numPages": "",
@@ -2881,12 +2903,12 @@
             ],
             "relations": {},
             "dateAdded": "2016-11-27T21:02:21Z",
-            "dateModified": "2018-02-17T23:40:56Z"
+            "dateModified": "2020-12-30T15:00:56Z"
         }
     },
     {
         "key": "3PCZ8MCB",
-        "version": 19878,
+        "version": 25006,
         "library": {
             "type": "group",
             "id": 10058,
@@ -2930,10 +2952,10 @@
             "parsedDate": "2005",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{humrickhouse_development_2005,\n\taddress = {Madison, WI, United States},\n\ttype = {M.{S}. {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Development of a {Monte} {Carlo} {Model} of the {University} of {Wisconsin} {Nuclear} {Reactor}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Humrickhouse, Paul W.},\n\tyear = {2005},\n}\n",
+        "bibtex": "\n@phdthesis{humrickhouse_development_2005,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Development of a {Monte} {Carlo} {Model} of the {University} of {Wisconsin} {Nuclear} {Reactor}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Humrickhouse, Paul W.},\n\tyear = {2005},\n}\n",
         "data": {
             "key": "3PCZ8MCB",
-            "version": 19878,
+            "version": 25006,
             "itemType": "thesis",
             "title": "Development of a Monte Carlo Model of the University of Wisconsin Nuclear Reactor",
             "creators": [
@@ -2944,7 +2966,7 @@
                 }
             ],
             "abstractNote": "",
-            "thesisType": "M.S. Nuclear Engineering and Engineering Physics",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
             "date": "2005",
@@ -2965,12 +2987,12 @@
             ],
             "relations": {},
             "dateAdded": "2013-11-13T20:41:14Z",
-            "dateModified": "2013-11-13T20:42:57Z"
+            "dateModified": "2020-12-30T15:00:32Z"
         }
     },
     {
         "key": "S6PKJSSP",
-        "version": 19878,
+        "version": 25006,
         "library": {
             "type": "group",
             "id": 10058,
@@ -3014,10 +3036,10 @@
             "parsedDate": "2005",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{olson_uwnr_2005,\n\taddress = {Madison, WI, United States},\n\ttype = {M.{S}. {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {{UWNR} {Supercritical} {Water} {Radiolysis} {Experiment}: {Thermal}-{Hydraulics} {Analysis}},\n\tabstract = {Operating near and above the thermodynamic supercritical point of water promises to\n improve economics but temperature-related corrosion issues present a challenge for proposed\n future nuclear reactor concepts. For Rankine power cycles, one of the issues affecting\n corrosion is the radiolysis rate of water, which invariably alters water chemistry and thus\n affects corrosion rates. A fundamental experiment has been designed for water radiolysis at\n the UW nuclear reactor. The purpose of this experiment was to measure the neutron\n radiolysis rates of water at supercritical temperatures and pressures. The UWNR\n Supercritical Radiolysis Experiment is located at the University of Wisconsin Nuclear\n Reactor (UWNR) in the Mechanical Engineering Building in Madison, Wisconsin. The\n UWNR has four beam-ports that extend from the outside of the concrete reactor shield and\n structure to near the periphery of the core and the experiment uses beam-port \\#2.\n\nThe experimental facility was to be able to vary in pressure from 10MPa to 35MPA\n and in temperature from 30oC to 500oC. Water purified to a resistance of 18 MΩ and purged\n with nitrogen or various other gases was pumped up to pressure at the desired flow-rate and\n then through the experimental apparatus. A length of HASTELLOY® tubing wrapped around a cartridge heater first heated the sample water. Then a joule-heated section of the\n tubing heated the sample water so that it would be at the desired temperature when it entered\n the irradiation volume subject to the neutron flux. The tubing in the irradiation volume was\n also joule heated in order to minimize the temperature difference between the entrance and\n exit of the irradiation volume. The sample water was then cooled down in the water\n radiation shield to about 30oC and exited the apparatus. Its pressure was then reduced to\n ambient pressure in a length of capillary tubing submerged in a cooling bath.\n\nThe purpose of this thesis is to describe the thermal-hydraulic analysis that is\n associated with this radiolysis experiment. The interior of the apparatus was at a partial\n vacuum to minimize convective heat transfer, however heat transfer from conduction and\n radiation were still significant due to the increased temperatures and slow movement of the\n sample fluid. In the irradiation section, joule heating minimized the temperature difference\n from entrance to exit of the water sample. From data recorded during experiments, one could\n calculate a heat transfer coefficient and a view factor for the irradiation section to the\n apparatus. In the cartridge heater section, the heat transfer coefficient was calculated and\n compared to the Dittus-Boelter heat-transfer coefficient correlation. Challenges encountered\n in operation of this device included the stability of the temperature in the irradiation volume\n as well as heat loss due to radiation and conduction.\n\nSeveral aspects of the apparatus proved difficult to control. The lead and graphite\n shields took a long time to reach a steady state temperature. In addition, since the sample\n water came in through the same water shield that it exited and dumped its remaining heat\n into, the sample water would gradually increase in temperature before reaching the cartridge\n heater over the length of an experimental run. The temperature, raised and lowered many\n times during an experiment, would never attain complete equilibrium. It was common to see\n temperature variations of about a degree occur over about a half hour to an hour, which was\n deemed acceptable for the testing when taking the residence time of the water sample into\n account.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Olson, Luke},\n\tyear = {2005},\n}\n",
+        "bibtex": "\n@phdthesis{olson_uwnr_2005,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {{UWNR} {Supercritical} {Water} {Radiolysis} {Experiment}: {Thermal}-{Hydraulics} {Analysis}},\n\tabstract = {Operating near and above the thermodynamic supercritical point of water promises to\n improve economics but temperature-related corrosion issues present a challenge for proposed\n future nuclear reactor concepts. For Rankine power cycles, one of the issues affecting\n corrosion is the radiolysis rate of water, which invariably alters water chemistry and thus\n affects corrosion rates. A fundamental experiment has been designed for water radiolysis at\n the UW nuclear reactor. The purpose of this experiment was to measure the neutron\n radiolysis rates of water at supercritical temperatures and pressures. The UWNR\n Supercritical Radiolysis Experiment is located at the University of Wisconsin Nuclear\n Reactor (UWNR) in the Mechanical Engineering Building in Madison, Wisconsin. The\n UWNR has four beam-ports that extend from the outside of the concrete reactor shield and\n structure to near the periphery of the core and the experiment uses beam-port \\#2.\n\nThe experimental facility was to be able to vary in pressure from 10MPa to 35MPA\n and in temperature from 30oC to 500oC. Water purified to a resistance of 18 MΩ and purged\n with nitrogen or various other gases was pumped up to pressure at the desired flow-rate and\n then through the experimental apparatus. A length of HASTELLOY® tubing wrapped around a cartridge heater first heated the sample water. Then a joule-heated section of the\n tubing heated the sample water so that it would be at the desired temperature when it entered\n the irradiation volume subject to the neutron flux. The tubing in the irradiation volume was\n also joule heated in order to minimize the temperature difference between the entrance and\n exit of the irradiation volume. The sample water was then cooled down in the water\n radiation shield to about 30oC and exited the apparatus. Its pressure was then reduced to\n ambient pressure in a length of capillary tubing submerged in a cooling bath.\n\nThe purpose of this thesis is to describe the thermal-hydraulic analysis that is\n associated with this radiolysis experiment. The interior of the apparatus was at a partial\n vacuum to minimize convective heat transfer, however heat transfer from conduction and\n radiation were still significant due to the increased temperatures and slow movement of the\n sample fluid. In the irradiation section, joule heating minimized the temperature difference\n from entrance to exit of the water sample. From data recorded during experiments, one could\n calculate a heat transfer coefficient and a view factor for the irradiation section to the\n apparatus. In the cartridge heater section, the heat transfer coefficient was calculated and\n compared to the Dittus-Boelter heat-transfer coefficient correlation. Challenges encountered\n in operation of this device included the stability of the temperature in the irradiation volume\n as well as heat loss due to radiation and conduction.\n\nSeveral aspects of the apparatus proved difficult to control. The lead and graphite\n shields took a long time to reach a steady state temperature. In addition, since the sample\n water came in through the same water shield that it exited and dumped its remaining heat\n into, the sample water would gradually increase in temperature before reaching the cartridge\n heater over the length of an experimental run. The temperature, raised and lowered many\n times during an experiment, would never attain complete equilibrium. It was common to see\n temperature variations of about a degree occur over about a half hour to an hour, which was\n deemed acceptable for the testing when taking the residence time of the water sample into\n account.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Olson, Luke},\n\tyear = {2005},\n}\n",
         "data": {
             "key": "S6PKJSSP",
-            "version": 19878,
+            "version": 25006,
             "itemType": "thesis",
             "title": "UWNR Supercritical Water Radiolysis Experiment: Thermal-Hydraulics Analysis",
             "creators": [
@@ -3028,7 +3050,7 @@
                 }
             ],
             "abstractNote": "Operating near and above the thermodynamic supercritical point of water promises to\n improve economics but temperature-related corrosion issues present a challenge for proposed\n future nuclear reactor concepts. For Rankine power cycles, one of the issues affecting\n corrosion is the radiolysis rate of water, which invariably alters water chemistry and thus\n affects corrosion rates. A fundamental experiment has been designed for water radiolysis at\n the UW nuclear reactor. The purpose of this experiment was to measure the neutron\n radiolysis rates of water at supercritical temperatures and pressures. The UWNR\n Supercritical Radiolysis Experiment is located at the University of Wisconsin Nuclear\n Reactor (UWNR) in the Mechanical Engineering Building in Madison, Wisconsin. The\n UWNR has four beam-ports that extend from the outside of the concrete reactor shield and\n structure to near the periphery of the core and the experiment uses beam-port #2.\n\nThe experimental facility was to be able to vary in pressure from 10MPa to 35MPA\n and in temperature from 30oC to 500oC. Water purified to a resistance of 18 MΩ and purged\n with nitrogen or various other gases was pumped up to pressure at the desired flow-rate and\n then through the experimental apparatus. A length of HASTELLOY® tubing wrapped around a cartridge heater first heated the sample water. Then a joule-heated section of the\n tubing heated the sample water so that it would be at the desired temperature when it entered\n the irradiation volume subject to the neutron flux. The tubing in the irradiation volume was\n also joule heated in order to minimize the temperature difference between the entrance and\n exit of the irradiation volume. The sample water was then cooled down in the water\n radiation shield to about 30oC and exited the apparatus. Its pressure was then reduced to\n ambient pressure in a length of capillary tubing submerged in a cooling bath.\n\nThe purpose of this thesis is to describe the thermal-hydraulic analysis that is\n associated with this radiolysis experiment. The interior of the apparatus was at a partial\n vacuum to minimize convective heat transfer, however heat transfer from conduction and\n radiation were still significant due to the increased temperatures and slow movement of the\n sample fluid. In the irradiation section, joule heating minimized the temperature difference\n from entrance to exit of the water sample. From data recorded during experiments, one could\n calculate a heat transfer coefficient and a view factor for the irradiation section to the\n apparatus. In the cartridge heater section, the heat transfer coefficient was calculated and\n compared to the Dittus-Boelter heat-transfer coefficient correlation. Challenges encountered\n in operation of this device included the stability of the temperature in the irradiation volume\n as well as heat loss due to radiation and conduction.\n\nSeveral aspects of the apparatus proved difficult to control. The lead and graphite\n shields took a long time to reach a steady state temperature. In addition, since the sample\n water came in through the same water shield that it exited and dumped its remaining heat\n into, the sample water would gradually increase in temperature before reaching the cartridge\n heater over the length of an experimental run. The temperature, raised and lowered many\n times during an experiment, would never attain complete equilibrium. It was common to see\n temperature variations of about a degree occur over about a half hour to an hour, which was\n deemed acceptable for the testing when taking the residence time of the water sample into\n account.",
-            "thesisType": "M.S. Nuclear Engineering and Engineering Physics",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
             "date": "2005",
@@ -3049,7 +3071,7 @@
             ],
             "relations": {},
             "dateAdded": "2013-11-13T20:34:45Z",
-            "dateModified": "2013-11-13T20:41:02Z"
+            "dateModified": "2020-12-30T15:00:38Z"
         }
     },
     {
@@ -3375,7 +3397,7 @@
     },
     {
         "key": "DBDUFP7M",
-        "version": 21758,
+        "version": 25006,
         "library": {
             "type": "group",
             "id": 10058,
@@ -3424,10 +3446,10 @@
             "parsedDate": "1992",
             "numChildren": 0
         },
-        "bibtex": "\n@phdthesis{wilson_two-phase_1992,\n\taddress = {Toronto, Canada},\n\ttype = {B.{A}.{Sc}. {Engineering} {Science}},\n\ttitle = {Two-{Phase}, {Cross}-{Flow} {Induced} {Vibrations} in {Steam} {Generator} {U}-{Tubes}},\n\tschool = {University of Toronto},\n\tauthor = {Wilson, P.P.H.},\n\tyear = {1992},\n}\n",
+        "bibtex": "\n@phdthesis{wilson_two-phase_1992,\n\taddress = {Toronto, Canada},\n\ttype = {{BASc} {Engineering} {Science}},\n\ttitle = {Two-{Phase}, {Cross}-{Flow} {Induced} {Vibrations} in {Steam} {Generator} {U}-{Tubes}},\n\tschool = {University of Toronto},\n\tauthor = {Wilson, P.P.H.},\n\tyear = {1992},\n}\n",
         "data": {
             "key": "DBDUFP7M",
-            "version": 21758,
+            "version": 25006,
             "itemType": "thesis",
             "title": "Two-Phase, Cross-Flow Induced Vibrations in Steam Generator U-Tubes",
             "creators": [
@@ -3438,7 +3460,7 @@
                 }
             ],
             "abstractNote": "",
-            "thesisType": "B.A.Sc. Engineering Science",
+            "thesisType": "BASc Engineering Science",
             "university": "University of Toronto",
             "place": "Toronto, Canada",
             "date": "1992",
@@ -3460,7 +3482,7 @@
             ],
             "relations": {},
             "dateAdded": "2012-06-20T15:43:37Z",
-            "dateModified": "2018-02-17T23:54:07Z"
+            "dateModified": "2020-12-30T15:00:05Z"
         }
     }
 ]
