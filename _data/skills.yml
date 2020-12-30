@@ -3,3 +3,9 @@
   links:
     - url: http://some.site.com
       text: Foo bar
+- title: Unix command-line
+- title: Literature review
+- title: Writing
+  links:
+    - url: 
+      text: UW Writing Center

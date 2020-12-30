@@ -1,0 +1,16 @@
+- title: Meeting chair
+  type: role
+  desc: "Responsible for long-term oversight of research group meeting, including
+  scheduling and presiding over the meetings.  This person has authority over the meeting."
+- title: License Manager
+  type: role
+- title: Hardware Manager
+  type: role
+- title: Software installation
+  type: task
+- title: Publication list maintenance
+  type: task
+- title: Access control
+  type: task
+- title: Project reporting
+  type: task

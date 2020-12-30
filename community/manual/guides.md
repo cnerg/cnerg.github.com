@@ -1,7 +1,7 @@
 ---
 layout: desc_list
-title: Research Tools
-data: tools
+title: Guides and How-to's
+data: guides
 ---
 
 

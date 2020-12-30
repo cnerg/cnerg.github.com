@@ -1,0 +1,8 @@
+- title: Style guide
+  desc: Established style for CNERG publications
+  links:
+    - url: http://some.site.com
+      text: Foo bar
+- title: PEP8
+- title: CNERG Website How-to
+- title: SSH Tips

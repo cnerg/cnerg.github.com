@@ -17,3 +17,4 @@ the details of compiling and installing software packages in the various
 computing environments where you need them, whether developed within our group
 or elsewhere, is an important skill.
 
+<h2>Specific {{ page.data }} to consider</h2>

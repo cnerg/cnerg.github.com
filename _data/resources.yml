@@ -1,0 +1,11 @@
+- title: UW Writing Center
+  desc: Assistance with developing your writing skills
+  links:
+    - url: http://some.site.com
+      text: Foo bar
+- title: UHS
+- title: Software Carpentry
+- title: CHTC
+  links:
+    - url: http://chtc.cs.wisc.edu
+      text: CHTC
