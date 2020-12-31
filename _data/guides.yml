@@ -4,5 +4,9 @@
     - url: http://some.site.com
       text: Foo bar
 - title: PEP8
+  desc: style guide for python code
+  links:
+    - url: https://www.python.org/dev/peps/pep-0008/
+      text: PEP8 Style Guide
 - title: CNERG Website How-to
 - title: SSH Tips
