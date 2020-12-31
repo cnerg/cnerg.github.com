@@ -49,6 +49,9 @@ docker-image-prompt%> bundle exec jekyll server --host 0.0.0.0
 
 ```
 
+This will launch a local server that will constantly monitor the files and
+re-render them each time the files change.
+
 You can then load the URL `localhost:4000/new-website` in a browser on your native system.
 
 # Boostrap 4 Github Pages
