@@ -95,8 +95,8 @@ Graduate Students
 .. |km_img| image:: mummah_bmp_avatar.jpg
          :width: 150
 
-.. |kb_img| image:: hacker_blank.JPG
-         :width: 100
+.. |kb_img| image:: biegel.jpg
+         :width: 120
 
 .. |aaswenson| image:: aaswenson.JPG
          :width: 100
