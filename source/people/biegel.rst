@@ -11,7 +11,7 @@ Contact Info
 .. 
 
 | 9700 S. Cass Ave
-| Building 208, Rm A106
+| Building 208
 | Lemont, IL 60439
 | kebiegel@wisc.edu
 
