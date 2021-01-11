@@ -38,7 +38,7 @@ Graduate Students
 +----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
 | |yp_img|                         |  |km_img|                             | |kb_img|                           |  |st_img|                          |
 |                                  |                                       |                                    |                                    |
-| :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | Katie Biegel                       |  :doc:`Jordan Stomps <stomps>`     |
+| :doc:`YoungHui Park <park>`      |  :doc:`Katie Mummah <mummah>`         | :doc:`Katie Biegel <biegel>`       |  :doc:`Jordan Stomps <stomps>`     |
 +----------------------------------+---------------------------------------+------------------------------------+------------------------------------+
 | |cm_img|                         |  |pb_img|                             |                                    |                                    |
 |                                  |                                       |                                    |                                    |
