@@ -3,9 +3,19 @@
   links:
     - url: https://writing.wisc.edu/
       text: UW Writing Center
-- title: UHS
+- title: University Health Services
+  desc: University health services for students including medical and mental health services
+  links:
+    - url: https://www.uhs.wisc.edu/
+      text: UW UHS
 - title: Software Carpentry
-- title: CHTC
+  desc: Teaching basic lab skills for research computing
+  links:
+    - url: SWC
+      text: https://software-carpentry.org/
+    - url: https://software-carpentry.org/lessons/
+      text: Lessons
+- title: Center for High Throughput Computing
   links:
     - url: http://chtc.cs.wisc.edu
       text: CHTC
