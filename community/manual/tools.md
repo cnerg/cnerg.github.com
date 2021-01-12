@@ -6,4 +6,4 @@ data: tools
 
 <h2>Specific {{ page.data }} to consider</h2>
 
-(Suggest new {{ page.data }} <a href="https://github.com/CNERG/new-website/issues/new/choose" target="_blank">here</a>.)
+(Suggest new {{ page.data }} <a href="{{ site.data.urls.cnerg_web_repo_issue }}" target="_blank">here</a>.)
