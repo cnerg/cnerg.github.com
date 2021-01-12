@@ -48,6 +48,7 @@
     image: mummah.jpg
   - name: "Katie Biegel"
     url: "keb"
+    image: biegel.jpg
     role: "PhD Candidate, Argonne National Laboratory Graduate Fellow"
   - name: "Jordan Stomps"
     url: "js"
