@@ -21,7 +21,7 @@ layout: default
     <dd>{{ item.desc }}
         <ul>
             {% for link in item.links %}
-            <a href="{{ link.url }}">{{ link.text }}</a>
+            <li><a href="{{ link.url }}">{{ link.text }}</a></li>
             {% endfor %}
         </ul>
     </dd>
