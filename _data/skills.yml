@@ -1,11 +1,36 @@
 - title: Compiling and linking code
   desc: When working with compiled code (e.g. C++), it is valuable to understand the steps
   links:
-    - url: http://some.site.com
-      text: Foo bar
+    - url: https://medium.com/datadriveninvestor/compilation-process-db17c3b58e62
+      text: How the compilation process works for C programs
+    - url: https://www.calleerlandsson.com/the-four-stages-of-compiling-a-c-program/
+      text: The Four Stages of Compiling a C Program
+    - url: https://www.tutorialspoint.com/How-does-the-compilation-linking-process-work-in-C-Cplusplus
+      text: How does the compilation/linking process work in C/C++?
 - title: Unix command-line
+  desc: Text-based interface for managing computational tasks
+  links:
+    - url: http://swcarpentry.github.io/shell-novice/
+      text: Software Carpentry Lesson
 - title: Literature review
+  desc: Finding and carefully reading journal articles helps to build a deeper understanding of our science
+  links:
+    - url: https://researchguides.library.wisc.edu/keepingcurrent
+      text: Keeping current in the literature
+    - url: https://web.stanford.edu/class/cs244/papers/HowtoReadPaper.pdf
+      text: How to Read a Paper
+    - url: https://lo.library.wisc.edu/scholarly_articles/story_html5.html
+      text: How to Read a Scholarly Article
+    - url: https://help.tandfonline.com/s/article/How-do-I-set-up-an-alert
+      text: Receive an email every time a new issue of ANS journals is published
+    - url: https://guides.lib.montana.edu/c.php?g=198265&p=1302653#8582313
+      text: Setting up alerts from ScienceDirect for Elsevier publications (e.g. Annals of Nuclear Energy)
 - title: Writing
   links:
     - url: https://writing.wisc.edu/ 
       text: UW Writing Center
+- title: Version Control
+  desc: Managing revisions to source code with robustness and intention
+  links:
+    - url: http://swcarpentry.github.io/git-novice/
+      text: Software Carpentry Git Lesson

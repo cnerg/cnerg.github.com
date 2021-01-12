@@ -7,9 +7,31 @@
   desc: Web-based interface to publicly accessible git repositories with advanced capability for collaborative software development
   links:
     - url: http://github.com/signup
-      text: Signup for an account
+      text: Sign up for an account
 - title: Zotero
+  desc: Manage your citations, individually or shared with a group, and easily include them in your publications
+  links:
+    - url: https://www.zotero.org/user/register
+      text: Sign up for a free account
 - title: Slack
+  desc: Message-based communication within CNERG and beyond
+  links:
+    - url: https://cnerg.slack.com/
+      text: Visit the CNERG Slack workspace
+    - url: https://slack.com/download
+      text: Download the native client
 - title: LaTeX
-- title: Google Docs
+  desc: High quality typesetting made easily
+  links:
+    - url: https://overleaf.com
+      text: Overleaf allows web-based collaborative writing in LaTeX 
+- title: Google Drive/Docs/Sheets/Presents
+  desc: Quick collaborative documents, spreadsheets and presentations
+  links:
+    - url: https://drive.google.com/a/wisc.edu
+      text: Log in to your UW-Madison account on Google Drive
 - title: Jupyter Notebooks
+  desc: Interactive tool for developing and deploying Python code
+  links:
+    - url: https://colab.research.google.com
+      text: Google Colaboratory for cloud based python

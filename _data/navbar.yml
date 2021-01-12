@@ -8,7 +8,7 @@
     - subtitle: "Opportunities"
       suburl: "opportunities/"
     - subtitle: "Events"
-      suburl: "community/events/"
+      suburl: "community/events.html"
 
 - title: "Manual"
   url: "/manual/"

@@ -1,12 +1,15 @@
 - title: Style guide
   desc: Established style for CNERG publications
   links:
-    - url: http://some.site.com
-      text: Foo bar
+    - url: https://docs.google.com/document/d/11olSnxB78TBg0Tjns4JTMhzFB-jHXBfPPNoaRu-A4Zc/edit
+      text: Style Guide for Authoring Papers and Presentations (intranet)
 - title: PEP8
   desc: style guide for python code
   links:
     - url: https://www.python.org/dev/peps/pep-0008/
       text: PEP8 Style Guide
-- title: CNERG Website How-to
-- title: SSH Tips
+- title: Travel with UW
+  desc: Tips and advice for making your travel reimbursement experience as painless as possible
+  links:
+    - url: https://docs.google.com/document/d/1-6e7QAhklcXMxr3H05808iVopLy65atuhBNH7cvUCyY/edit
+      text: "How to: Travel with the UW (intranet)"

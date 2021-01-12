@@ -4,13 +4,9 @@
   scheduling and presiding over the meetings.  This person has authority over the meeting."
 - title: License Manager
   type: role
+  desc: "Responsible for maintaining shared licenses for commercial software."
 - title: Hardware Manager
   type: role
-- title: Software installation
-  type: task
-- title: Publication list maintenance
-  type: task
-- title: Access control
-  type: task
-- title: Project reporting
-  type: task
+  desc: "Responsible for assisting group members with hardware questions and
+  issues.  This person should be familiar with the processes for purchasing
+  computers and peripherals."
