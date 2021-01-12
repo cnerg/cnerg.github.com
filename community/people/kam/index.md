@@ -22,7 +22,7 @@ personal_website: http://nuclearkatie.com
 ## Research Interests
 
 * Fuel cycle modeling
- * Nuclear nonproliferation
+* Nuclear nonproliferation
 
 
 ## Education 
