@@ -11,8 +11,8 @@
 - title: Software Carpentry
   desc: Teaching basic lab skills for research computing
   links:
-    - url: SWC
-      text: https://software-carpentry.org/
+    - url: https://software-carpentry.org/
+      text: SWC
     - url: https://software-carpentry.org/lessons/
       text: Lessons
 - title: Center for High Throughput Computing
