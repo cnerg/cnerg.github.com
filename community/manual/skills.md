@@ -18,7 +18,7 @@ computing environments where you need them, whether developed within our group
 or elsewhere, is an important skill.
 
 
-<h1>UNDER DEVELOPMENT</h1>
-
-
 <h2>Specific {{ page.data }} to consider</h2>
+
+(Suggest new {{ page.data }} <a href="https://github.com/CNERG/new-website/issues/new/choose" target="_blank">here</a>.)
+
