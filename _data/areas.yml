@@ -12,3 +12,6 @@
 
 - title: Nuclear Security and  Nonproliferation
   desc: Simluation of nuclear fuel cycle facilities and application of data science techniques to their signatures
+  image: nuc_sec.png
+  alt-text: Sample signatures from fuel cycle facilities
+
