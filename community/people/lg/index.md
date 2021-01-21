@@ -27,5 +27,5 @@ services:
 
 ## Prior Research and Industry Experience
 * Phoenix, LLC. Nuclear Analysis Intern, Summer 2018
-* Heat and Mass Transfer Group, Undergraduate Researcher under Raluca Scarlat, Summer 2017 - Spring 2018
-* Musculoskeletal Research Center, Summer Intern under Dr. Savio Woo
+* Heat and Mass Transfer Group, Undergraduate Researcher under Dr. Raluca Scarlat, Summer 2017 - Spring 2018
+* Musculoskeletal Research Center, Summer Intern under Dr. Savio Woo, Summer 2015
