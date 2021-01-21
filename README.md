@@ -41,9 +41,9 @@ prompt%> cd <path-to-new-website-repo>
 
 prompt%> docker pull cnerg/new-website-jekyll
 
-prompt%> docker run -v $PWD:/new-website -p 4000:4000 -it cnerg/new-website-jekyll
+prompt%> docker run -v $PWD:/website -p 4000:4000 -it cnerg/new-website-jekyll
 
-docker-image-prompt%> cd /new-website
+docker-image-prompt%> cd /website
 
 docker-image-prompt%> bundle exec jekyll server --host 0.0.0.0
 
@@ -52,7 +52,7 @@ docker-image-prompt%> bundle exec jekyll server --host 0.0.0.0
 This will launch a local server that will constantly monitor the files and
 re-render them each time the files change.
 
-You can then load the URL `localhost:4000/new-website` in a browser on your native system.
+You can then load the URL `localhost:4000` in a browser on your native system.
 
 # Boostrap 4 Github Pages
 
