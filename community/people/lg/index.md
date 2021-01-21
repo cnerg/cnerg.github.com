@@ -2,7 +2,7 @@
 layout: person
 image: lewis.png
 title: Lewis Gross
-role: PhD Candidate, NRC Fellow
+role: PhD Candidate, US NRC Fellow
 email: 
   - ligross@wisc.edu
 room: "428 ERB"
