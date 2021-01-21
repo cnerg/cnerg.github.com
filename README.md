@@ -39,13 +39,7 @@ using a docker image.
 ```
 prompt%> cd <path-to-new-website-repo>
 
-prompt%> docker pull cnerg/new-website-jekyll
-
-prompt%> docker run -v $PWD:/website -p 4000:4000 -it cnerg/new-website-jekyll
-
-docker-image-prompt%> cd /website
-
-docker-image-prompt%> bundle exec jekyll server --host 0.0.0.0
+prompt%> docker run -v $PWD:/website -w /website -p 4000:4000 -it cnerg/new-website-jekyll bundle exec jekyll server --host 0.0.0.0
 
 ```
 
