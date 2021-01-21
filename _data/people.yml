@@ -58,7 +58,10 @@
     url: "cam"
     role: "PhD Student, GERS"
     image: moreno.jpg
-
+  - name: "Lewis Gross"
+    url: "lg"
+    role: "PhD Candidate, US NRC Fellow"
+    image: lewis.png
 
 
 - group: 'Undergraduate Students'
