@@ -1,4 +1,11 @@
-- date: "2021-12-15"
+- date: "2021-01-31"
+  url: https://madison.com/wsj/opinion/column/paul-wilson-point-beach-plant-helps-cuts-carbon-address-climate-change/article_6decb99a-bb44-5863-b11d-083ffc66356c.html
+  title: Point Beach plant helps cuts carbon, address climate change
+  venue: Wisconsin State Journal
+  venue_url: https://madison.com/wsj/
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2020-12-15"
   url: https://www.wisbusiness.com/2020/nuclear-energy-could-be-path-to-wisconsins-zero-carbon-future/
   title: Nuclear energy could be path to Wisconsin’s zero-carbon future
   venue: WisBusiness
