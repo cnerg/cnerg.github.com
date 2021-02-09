@@ -62,7 +62,9 @@
     url: "lg"
     role: "PhD Candidate, US NRC Fellow"
     image: lewis.png
-
+  - name: "Joshua Ruegsegger"
+    url: "jr"
+    role: "MS Student"
 
 - group: 'Undergraduate Students'
   people:
