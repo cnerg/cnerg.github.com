@@ -14,12 +14,12 @@ consists of a list of entries, each of which is a dictionary containing:
 * `url` => link destination if there is no submenu
 * `subcategories` => a list of dictionaries for submenu items, each of which
   contains:
-     * `subtitle` => text to be rendered in submenu
-     * one of:
-           * `exturl` => external URL destination of menu entry
-           * `target` => browser window target (often `_blank` for new tab)
-     * or:
-           * `suburl` => internal link target of menu entry
+    * `subtitle` => text to be rendered in submenu
+    * one of:
+        * `exturl` => external URL destination of menu entry
+        * `target` => browser window target (often `_blank` for new tab)
+    * or:
+        * `suburl` => internal link target of menu entry
 
 ### UW Navbar data
 
