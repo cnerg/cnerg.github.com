@@ -49,7 +49,7 @@
     - subtitle: "Presentations"
       suburl: "pubs/presentations.html"
     - subtitle: "Outreach"
-      suburl: "pubs/outreach/"
+      suburl: "pubs/outreach.html"
 
 - title: "Software"
   url: "/software"
