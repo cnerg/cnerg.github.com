@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% assign pubs = site.data[page.data_source] %}
+
+<article>
+
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <section>    
+    {{ content }}
+  </section>
+
+
+ <section>
+    <div class="row">
+        <div class="col-sm-12">
+            <ol>
+            {% for item in pubs %}
+            <li> 
+                {% if item["url"] != "" %}<a href="{{ item['url'] }}"" target='_blank'>{% endif %}
+                {{ item["title"] }}
+                {% if item["url"] != "" %}</a>{% endif %} -
+                {{ item["date"] }} - 
+                {% if item["venue_url"] != "" %}<a href="{{ item['venue_url'] }}"" target='_blank'>{% endif %}
+                {{ item["venue"] }}
+                {% if item["venue_url"] != "" %}</a>{% endif %} - 
+                {% if item["person_dir"] != "" %}<a href="/community/people/{{ item['person_dir']}}" target='_blank'>{% endif %}
+                {{ item["person"] }}
+                {% if item["person_dir"] != "" %}</a>{% endif %}
+              </li>
+            {% endfor %}
+            </ol>
+        </div>
+    </div>
+</section>
+
+
+
+</article>
