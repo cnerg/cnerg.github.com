@@ -39,7 +39,7 @@ jobs:
         run: |
           ls _data
           git config --local user.name "CNERG Zotero Bot"
-          git add _data/pubs.json _data/these.json _data/zotero.datestamp
+          git add _data/pub.json _data/these.json _data/zotero.datestamp
           git commit -m "Updating the publication data from Zotero"
 
       - name: Push changes # push the output folder to your repo
