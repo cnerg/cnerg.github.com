@@ -25,10 +25,12 @@ jobs:
 
       # Runs wget to interact with Zotero API
       - name: Fetch publication list from Zotero API
-        run: wget --header="Zotero-API-Key: ${{ secrets.ZOTERO_GH_TOKEN }}" -O _data/pub.json 'https://api.zotero.org/groups/10058/collections/UKXV4KID/items?format=json&include=data,bibtex&itemType=-attachment&sort=date&limit=100'
+        run: |
+          wget --header="Zotero-API-Key: ${{ secrets.ZOTERO_GH_TOKEN }}" -O _data/pub.json 'https://api.zotero.org/groups/10058/collections/UKXV4KID/items?format=json&include=data,bibtex&itemType=-attachment&sort=date&limit=100'
 
       - name: Fetch thesis list from Zotero API
-        run: wget --header="Zotero-API-Key: ${{ secrets.ZOTERO_GH_TOKEN }}" -O _data/theses.json 'https://api.zotero.org/groups/10058/collections/6259B6TV/items?format=json&include=data,bibtex&itemType=-attachment&sort=date&limit=100'
+        run: |
+          wget --header="Zotero-API-Key: ${{ secrets.ZOTERO_GH_TOKEN }}" -O _data/theses.json 'https://api.zotero.org/groups/10058/collections/6259B6TV/items?format=json&include=data,bibtex&itemType=-attachment&sort=date&limit=100'
 
       - name: Add datestamp
         run: date > _data/zotero.datestamp
