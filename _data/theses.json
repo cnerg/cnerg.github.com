@@ -1,5 +1,83 @@
 [
     {
+        "key": "PV3V8X5M",
+        "version": 25042,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/PV3V8X5M",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/PV3V8X5M",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Dailey",
+            "parsedDate": "2020",
+            "numChildren": 0
+        },
+        "bibtex": "\n@phdthesis{dailey_modeling_2020,\n\taddress = {Madison, WI},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Modeling {Methods} for {Low} {Carbon} {Power} at {Federal} {Installations} {Using} {Nuclear} {Microreactors}},\n\tabstract = {With current electrical grid infrastructure aging within the United States, potential supplemental and replacement technologies are under investigation. One such potential supplement to the U.S. electrical grid is the development of microgrid infrastructure, which allows for more localized control of electricity generation and distribution. These microgrids could also allow for two-way sale of electricity between the microgrid’s assets and the grid-scale utility’s assets. Typically, microgrids will have a mix of renewable energy resources like wind or solar, energy storage solutions such as batteries, and fossil fuel generators as either emergency generators or baseload power suppliers. One study, titled: “Analysis of the Case for Federal Support of Micro-Scale Nuclear Reactors to Provide Secure Power at U.S. Government Installations”, sought to investigate whether nuclear microreactors were suitable for usage in microgrids.\n\nNuclear microreactor designs, themselves an emerging technology, are composed of significantly smaller versions of next-generation nuclear reactor concepts. Microreactors are typically defined as devices that have an electrical power level between 1 and 10 MWe. These designs aim to be built in a factory and shipped to the intended site, rather than constructed onsite. Through the usage of advanced fuel forms and power conversion cycles, there is a goal of higher thermal efficiencies and longer fuel cycles. Due to the smaller intended sizes for microreactors and their goal of increased safety, they are likely to be able to be sited closer to the general population. With the potential for microreactors to succeed in a microgrid setting, it became necessary to build a modeling method for\nmicroreactors in a microgrid.\n\nTo develop a model for a microreactor in a microgrid, a need for a microgrid modeling tool was identified. HOMER Pro was the final choice for this modeling tool, as it was sufficiently flexible for modeling all major microgrid components and had the capacity for the creation of a customized generator. Once HOMER was identified as the modeling tool, two potential microreactor modeling methods were identified. The first modeling method identified, named the Continuous Feed Model, operated as a fossil fuel generator with microreactor performance parameters. A second model was created, called the Capital Cost Method, which acts as an incremental cost method that matches realistic core refueling cycles.\n\nOnce the two microreactor modeling methods were completed, two analyses were performed with modeling methods and down-scaled electrical grid data from the University of Wisconsin-Madison campus. The first analysis compared the performance of these technologies on the UW-Madison campus if it were supported by only microreactors or natural gas generators. At the best cost and performance parameters, both microreactor models were competitive against natural gas. As the assumed costs grew, microreactors quickly fell off in terms of competitiveness. The second analysis, dubbed the “Green-case”, investigated if a microreactor could make a cheaper microgrid solution than a purely renewable energy (solar and battery storage) case. In this Green-case analysis, it was found that both microreactor models predicted a noteworthy reduction in the cost of a microgrid solution if a microreactor was included, at a variety of performance parameters.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Dailey, Ryan M.},\n\tyear = {2020},\n}\n",
+        "data": {
+            "key": "PV3V8X5M",
+            "version": 25042,
+            "itemType": "thesis",
+            "title": "Modeling Methods for Low Carbon Power at Federal Installations Using Nuclear Microreactors",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ryan M.",
+                    "lastName": "Dailey"
+                }
+            ],
+            "abstractNote": "With current electrical grid infrastructure aging within the United States, potential supplemental and replacement technologies are under investigation. One such potential supplement to the U.S. electrical grid is the development of microgrid infrastructure, which allows for more localized control of electricity generation and distribution. These microgrids could also allow for two-way sale of electricity between the microgrid’s assets and the grid-scale utility’s assets. Typically, microgrids will have a mix of renewable energy resources like wind or solar, energy storage solutions such as batteries, and fossil fuel generators as either emergency generators or baseload power suppliers. One study, titled: “Analysis of the Case for Federal Support of Micro-Scale Nuclear Reactors to Provide Secure Power at U.S. Government Installations”, sought to investigate whether nuclear microreactors were suitable for usage in microgrids.\n\nNuclear microreactor designs, themselves an emerging technology, are composed of significantly smaller versions of next-generation nuclear reactor concepts. Microreactors are typically defined as devices that have an electrical power level between 1 and 10 MWe. These designs aim to be built in a factory and shipped to the intended site, rather than constructed onsite. Through the usage of advanced fuel forms and power conversion cycles, there is a goal of higher thermal efficiencies and longer fuel cycles. Due to the smaller intended sizes for microreactors and their goal of increased safety, they are likely to be able to be sited closer to the general population. With the potential for microreactors to succeed in a microgrid setting, it became necessary to build a modeling method for\nmicroreactors in a microgrid.\n\nTo develop a model for a microreactor in a microgrid, a need for a microgrid modeling tool was identified. HOMER Pro was the final choice for this modeling tool, as it was sufficiently flexible for modeling all major microgrid components and had the capacity for the creation of a customized generator. Once HOMER was identified as the modeling tool, two potential microreactor modeling methods were identified. The first modeling method identified, named the Continuous Feed Model, operated as a fossil fuel generator with microreactor performance parameters. A second model was created, called the Capital Cost Method, which acts as an incremental cost method that matches realistic core refueling cycles.\n\nOnce the two microreactor modeling methods were completed, two analyses were performed with modeling methods and down-scaled electrical grid data from the University of Wisconsin-Madison campus. The first analysis compared the performance of these technologies on the UW-Madison campus if it were supported by only microreactors or natural gas generators. At the best cost and performance parameters, both microreactor models were competitive against natural gas. As the assumed costs grew, microreactors quickly fell off in terms of competitiveness. The second analysis, dubbed the “Green-case”, investigated if a microreactor could make a cheaper microgrid solution than a purely renewable energy (solar and battery storage) case. In this Green-case analysis, it was found that both microreactor models predicted a noteworthy reduction in the cost of a microgrid solution if a microreactor was included, at a variety of performance parameters.",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
+            "university": "University of Wisconsin-Madison",
+            "place": "Madison, WI",
+            "date": "2020",
+            "numPages": "74",
+            "language": "English",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "6259B6TV"
+            ],
+            "relations": {},
+            "dateAdded": "2021-01-20T00:07:01Z",
+            "dateModified": "2021-01-20T00:09:23Z"
+        }
+    },
+    {
         "key": "QECSDSE9",
         "version": 24980,
         "library": {

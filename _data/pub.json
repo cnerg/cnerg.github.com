@@ -1,7 +1,7 @@
 [
     {
         "key": "QW38HRSJ",
-        "version": 24879,
+        "version": 25069,
         "library": {
             "type": "group",
             "id": 10058,
@@ -45,10 +45,10 @@
             "parsedDate": "2020-07",
             "numChildren": 1
         },
-        "bibtex": "\n@inproceedings{mummah_integrating_2020,\n\ttitle = {Integrating {Acquisition} {Pathway} {Analysis} {Into} {The} {Cyclus} {Fuel} {Cycle} {Simulator}},\n\tbooktitle = {Proceedings of the 61st {INMM} {Meeting}},\n\tauthor = {Mummah, Kathryn and WIlson, P. P.H},\n\tmonth = jul,\n\tyear = {2020},\n}\n",
+        "bibtex": "\n@inproceedings{mummah_integrating_2020,\n\ttitle = {Integrating {Acquisition} {Pathway} {Analysis} {Into} {The} {Cyclus} {Fuel} {Cycle} {Simulator}},\n\tabstract = {The IAEA considers a State’s entire fuel cycle capability when evaluating and implementing safeguards, a process known as the State-Level Approach. Conducting Acquisition Path Analysis (APA) is one aspect of ensuring efficient use of safeguards resources and an objective evaluation of member States. APA is designed to identify, characterize, and rank technically-feasible pathways through a fuel cycle to produce weapons-usable material. This paper covers the integration of APA techniques into the Cyclus fuel cycle simulator. Material flowing through a nuclear fuel cycle can be represented by a directed graph (digraph) with vertices V(D) repre-\nsenting facilities and edges E(D) representing trade or material transport. In a Cyclus input file, a user defines a set of facility prototypes and the commodities that can be traded between them.\nFrom this user-specified fuel cycle, a digraph is generated representing all possible commodity trades between facilities. Graph traversal techniques are used to enumerate all pathways for\nmaterial to flow through the given fuel cycle. Pathways that produce weapons-usable material are filtered and further analyzed. Due to the flexibility of the Cyclus fuel cycle simulator, this\nmethod works for any fuel cycle, including ones that use closed facility models that are not part of the open source Cyclus and Cycamore facility libraries.},\n\tbooktitle = {Proceedings of the 61st {INMM} {Meeting}},\n\tauthor = {Mummah, Kathryn and WIlson, P. P.H},\n\tmonth = jul,\n\tyear = {2020},\n}\n",
         "data": {
             "key": "QW38HRSJ",
-            "version": 24879,
+            "version": 25069,
             "itemType": "conferencePaper",
             "title": "Integrating Acquisition Pathway Analysis Into The Cyclus Fuel Cycle Simulator",
             "creators": [
@@ -63,7 +63,7 @@
                     "lastName": "WIlson"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "The IAEA considers a State’s entire fuel cycle capability when evaluating and implementing safeguards, a process known as the State-Level Approach. Conducting Acquisition Path Analysis (APA) is one aspect of ensuring efficient use of safeguards resources and an objective evaluation of member States. APA is designed to identify, characterize, and rank technically-feasible pathways through a fuel cycle to produce weapons-usable material. This paper covers the integration of APA techniques into the Cyclus fuel cycle simulator. Material flowing through a nuclear fuel cycle can be represented by a directed graph (digraph) with vertices V(D) repre-\nsenting facilities and edges E(D) representing trade or material transport. In a Cyclus input file, a user defines a set of facility prototypes and the commodities that can be traded between them.\nFrom this user-specified fuel cycle, a digraph is generated representing all possible commodity trades between facilities. Graph traversal techniques are used to enumerate all pathways for\nmaterial to flow through the given fuel cycle. Pathways that produce weapons-usable material are filtered and further analyzed. Due to the flexibility of the Cyclus fuel cycle simulator, this\nmethod works for any fuel cycle, including ones that use closed facility models that are not part of the open source Cyclus and Cycamore facility libraries.",
             "date": "July 2020",
             "proceedingsTitle": "Proceedings of the 61st INMM Meeting",
             "conferenceName": "Institute for Nuclear Materials Management Annual Meeting",
@@ -90,7 +90,121 @@
             ],
             "relations": {},
             "dateAdded": "2020-11-12T15:04:00Z",
-            "dateModified": "2020-11-12T15:06:10Z"
+            "dateModified": "2021-01-21T05:47:23Z"
+        }
+    },
+    {
+        "key": "H4VPVVT5",
+        "version": 25203,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/H4VPVVT5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/H4VPVVT5",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/HCUMB62F",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 290296
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2755922,
+                "username": "ypark234",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/ypark234",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Park et al.",
+            "parsedDate": "2020-04-29",
+            "numChildren": 1
+        },
+        "bibtex": "\n@inproceedings{park_evaluation_2020,\n\taddress = {Cambridge, United Kingdom},\n\ttitle = {Evaluation of {Critical} {Experiments} in the {University} of {Wisconsin} {Nuclear} {Reactor} ({UWNR}) with {Uncertainty} {Quantification}},\n\tisbn = {978-1-5272-6447-2},\n\tabstract = {An improved computational model for the University of Wisconsin Nuclear Reactor (UWNR) has been developed to facilitate automated input generation, data provenance, and modularity for alternate representations. This development was initiated as part of efforts to evaluate recent data acquired during an experimental campaign conducted at UWNR to generate benchmark data for validation. Specifically, this evaluation effort aims to contribute a number of fresh and depleted critical (CRIT) configurations of UWNR as well as steady-state and transient reaction-rate (RRATE) measurements. Previous efforts led to a scripted UWNR model that supports automated generation of inputs for MCNP and Serpent. Recently, this capability was extended to SCALE/KENO, which required significant changes to the underlying geometry and material representations. All three Monte Carlo tools (MCNP, Serpent, and KENO) are being used to evaluate a variety of zero-power, fresh-critical configuration and will be used to model burnup for evaluation of depleted-critical configurations. The inclusion of SCALE/KENO input generation makes possible a variety of sensitivity and uncertainty analyses using the TSUNAMI and SAMPLER modules of SCALE. In addition, an automated mesh-generation option was added based on the UW-developed, MCNP-to-CAD plugin. As a result, a meshed geometry for use with deterministic tools (e.g., MAMMOTH/Rattlesnake) can be produced that is fully consistent with the Monte Carlo models. Work is ongoing to develop a full core model in MAMMOTH/Rattlesnake, which is a deterministic code based on the MOOSE framework. This model will be used for the evaluation of several transient experiments conducted at UWNR. Preliminary results of fresh-critical configurations show a good agreement among the four codes and experimental data. Also, preliminary results of depleted-critical configurations indicate that the depleted core model successfully tracks core reactivity over time as long as an initial (but relatively small) reactivity bias is eliminated. Formal uncertainty quantification will be carried out using SCALE to study the impact of model uncertainties on the effective multiplication factor and other observables. In conclusion, the evaluation of UWNR benchmark data provides increased confidence in various states/configurations of the UWNR computational model and will provide a unique model for use by other analysts.},\n\tbooktitle = {Proceedings of the {PHYSOR} 2020},\n\tauthor = {Park, YoungHui and Cheng, Ye and Elzohery, Rabab and Wilson, Paul P.H. and Roberts, Jeremy A. and DeHart, Mark D.},\n\tmonth = apr,\n\tyear = {2020},\n\tpages = {10},\n}\n",
+        "data": {
+            "key": "H4VPVVT5",
+            "version": 25203,
+            "itemType": "conferencePaper",
+            "title": "Evaluation of Critical Experiments in the University of Wisconsin Nuclear Reactor (UWNR) with Uncertainty Quantification",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "YoungHui",
+                    "lastName": "Park"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ye",
+                    "lastName": "Cheng"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rabab",
+                    "lastName": "Elzohery"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P.H.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jeremy A.",
+                    "lastName": "Roberts"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark D.",
+                    "lastName": "DeHart"
+                }
+            ],
+            "abstractNote": "An improved computational model for the University of Wisconsin Nuclear Reactor (UWNR) has been developed to facilitate automated input generation, data provenance, and modularity for alternate representations. This development was initiated as part of efforts to evaluate recent data acquired during an experimental campaign conducted at UWNR to generate benchmark data for validation. Specifically, this evaluation effort aims to contribute a number of fresh and depleted critical (CRIT) configurations of UWNR as well as steady-state and transient reaction-rate (RRATE) measurements. Previous efforts led to a scripted UWNR model that supports automated generation of inputs for MCNP and Serpent. Recently, this capability was extended to SCALE/KENO, which required significant changes to the underlying geometry and material representations. All three Monte Carlo tools (MCNP, Serpent, and KENO) are being used to evaluate a variety of zero-power, fresh-critical configuration and will be used to model burnup for evaluation of depleted-critical configurations. The inclusion of SCALE/KENO input generation makes possible a variety of sensitivity and uncertainty analyses using the TSUNAMI and SAMPLER modules of SCALE. In addition, an automated mesh-generation option was added based on the UW-developed, MCNP-to-CAD plugin. As a result, a meshed geometry for use with deterministic tools (e.g., MAMMOTH/Rattlesnake) can be produced that is fully consistent with the Monte Carlo models. Work is ongoing to develop a full core model in MAMMOTH/Rattlesnake, which is a deterministic code based on the MOOSE framework. This model will be used for the evaluation of several transient experiments conducted at UWNR. Preliminary results of fresh-critical configurations show a good agreement among the four codes and experimental data. Also, preliminary results of depleted-critical configurations indicate that the depleted core model successfully tracks core reactivity over time as long as an initial (but relatively small) reactivity bias is eliminated. Formal uncertainty quantification will be carried out using SCALE to study the impact of model uncertainties on the effective multiplication factor and other observables. In conclusion, the evaluation of UWNR benchmark data provides increased confidence in various states/configurations of the UWNR computational model and will provide a unique model for use by other analysts.",
+            "date": "March 29 - April 2, 2020 (Cancelled)",
+            "proceedingsTitle": "Proceedings of the PHYSOR 2020",
+            "conferenceName": "PHYSOR 2020: Transition to a Scalable Nuclear Future",
+            "place": "Cambridge, United Kingdom",
+            "publisher": "",
+            "volume": "",
+            "pages": "10",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "978-1-5272-6447-2",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2021-02-07T00:18:47Z",
+            "dateModified": "2021-02-07T00:43:37Z"
         }
     },
     {
@@ -6914,7 +7028,7 @@
     },
     {
         "key": "9I2BVANW",
-        "version": 22843,
+        "version": 25070,
         "library": {
             "type": "group",
             "id": 10058,
@@ -6958,10 +7072,10 @@
             "parsedDate": "2019-07-17",
             "numChildren": 1
         },
-        "bibtex": "\n@inproceedings{mummah_acquisition_2019,\n\taddress = {Palm Desert, CA, USA},\n\ttitle = {Acquisition {Pathway} {Analysis} using {Fuel} {Cycle} {Simulators}},\n\tbooktitle = {Proceedings of the 60th {INMM} {Meeting}},\n\tauthor = {Mummah, Kathryn and Bahran, Rian and Miller, Karen and Wilson,, Paul PH},\n\tmonth = jul,\n\tyear = {2019},\n}\n",
+        "bibtex": "\n@inproceedings{mummah_acquisition_2019,\n\taddress = {Palm Desert, CA, USA},\n\ttitle = {Acquisition {Pathway} {Analysis} using {Fuel} {Cycle} {Simulators}},\n\tabstract = {As part of a comprehensive safeguards evaluation, Acquisition Path Analysis (APA) of a State provides a method to “analyze the plausible paths by which, from a technical point of view, nuclear material suitable for use in a nuclear weapon or other nuclear explosive device could be acquired” APA is part of an effort by\nthe International Atomic Energy Agency (IAEA) to maximize the efficiency and effectiveness of international safeguards by considering each State as a whole and not just a collection of individual facilities. Nuclear fuel cycle simulators (FCS) codes are fundamentally tools to track material as it undergoes chemical and nuclear changes and moves between facilities in a nuclear fuel cycle. The ability to model facilities at high fidelity creates the opportunity to study the material throughput in an individual facility, for a potential acquisition path, or for a full set of nuclear facilities mimicking a State. This throughput tracking can also be coupled with the ability to study dynamic scenarios where facilities may be opening, retiring, or ramping up (down) in production. The use of FCS tools has the ability to add in-depth modeling capability\nto APA and inform the continued effort to increase the efficiency and effectiveness of international safeguards.},\n\tbooktitle = {Proceedings of the 60th {INMM} {Meeting}},\n\tauthor = {Mummah, Kathryn and Bahran, Rian and Miller, Karen and Wilson,, Paul PH},\n\tmonth = jul,\n\tyear = {2019},\n}\n",
         "data": {
             "key": "9I2BVANW",
-            "version": 22843,
+            "version": 25070,
             "itemType": "conferencePaper",
             "title": "Acquisition Pathway Analysis using Fuel Cycle Simulators",
             "creators": [
@@ -6986,7 +7100,7 @@
                     "lastName": "Wilson,"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "As part of a comprehensive safeguards evaluation, Acquisition Path Analysis (APA) of a State provides a method to “analyze the plausible paths by which, from a technical point of view, nuclear material suitable for use in a nuclear weapon or other nuclear explosive device could be acquired” APA is part of an effort by\nthe International Atomic Energy Agency (IAEA) to maximize the efficiency and effectiveness of international safeguards by considering each State as a whole and not just a collection of individual facilities. Nuclear fuel cycle simulators (FCS) codes are fundamentally tools to track material as it undergoes chemical and nuclear changes and moves between facilities in a nuclear fuel cycle. The ability to model facilities at high fidelity creates the opportunity to study the material throughput in an individual facility, for a potential acquisition path, or for a full set of nuclear facilities mimicking a State. This throughput tracking can also be coupled with the ability to study dynamic scenarios where facilities may be opening, retiring, or ramping up (down) in production. The use of FCS tools has the ability to add in-depth modeling capability\nto APA and inform the continued effort to increase the efficiency and effectiveness of international safeguards.",
             "date": "July 17, 2019",
             "proceedingsTitle": "Proceedings of the 60th INMM Meeting",
             "conferenceName": "Institute for Nuclear Materials Management",
@@ -7013,7 +7127,7 @@
             ],
             "relations": {},
             "dateAdded": "2019-07-17T04:17:36Z",
-            "dateModified": "2019-07-17T04:19:48Z"
+            "dateModified": "2021-01-21T05:48:09Z"
         }
     },
     {
@@ -10608,7 +10722,7 @@
     },
     {
         "key": "HSR7F4RT",
-        "version": 21762,
+        "version": 25008,
         "library": {
             "type": "group",
             "id": 10058,
@@ -10659,28 +10773,31 @@
                     }
                 }
             },
-            "creatorSummary": "Anthony M. Scopatz et al.",
+            "creatorSummary": "Scopatz et al.",
             "parsedDate": "2015-06",
             "numChildren": 1
         },
-        "bibtex": "\n@article{anthony_m._scopatz_binary_2015,\n\ttitle = {Binary {Formulation} of {Decay} {Equations}},\n\tvolume = {112},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {{Anthony M. Scopatz} and {Cameron R. Bates} and {Paul P. H. Wilson}},\n\tmonth = jun,\n\tyear = {2015},\n\tpages = {71--74},\n}\n",
+        "bibtex": "\n@article{scopatz_binary_2015,\n\ttitle = {Binary {Formulation} of {Decay} {Equations}},\n\tvolume = {112},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Scopatz, Anthony M. and Bates, Cameron R. and Wilson, Paul P.H.},\n\tmonth = jun,\n\tyear = {2015},\n\tpages = {71--74},\n}\n",
         "data": {
             "key": "HSR7F4RT",
-            "version": 21762,
+            "version": 25008,
             "itemType": "journalArticle",
             "title": "Binary Formulation of Decay Equations",
             "creators": [
                 {
                     "creatorType": "author",
-                    "name": "Anthony M. Scopatz"
+                    "firstName": "Anthony M.",
+                    "lastName": "Scopatz"
                 },
                 {
                     "creatorType": "author",
-                    "name": "Cameron R. Bates"
+                    "firstName": "Cameron R.",
+                    "lastName": "Bates"
                 },
                 {
                     "creatorType": "author",
-                    "name": "Paul P. H. Wilson"
+                    "firstName": "Paul P.H.",
+                    "lastName": "Wilson"
                 }
             ],
             "abstractNote": "",
@@ -10711,7 +10828,7 @@
             ],
             "relations": {},
             "dateAdded": "2015-03-12T19:24:48Z",
-            "dateModified": "2017-01-11T04:04:05Z"
+            "dateModified": "2020-12-30T16:46:19Z"
         }
     },
     {
@@ -11393,140 +11510,6 @@
             "relations": {},
             "dateAdded": "2017-02-14T20:26:54Z",
             "dateModified": "2017-02-14T20:26:54Z"
-        }
-    },
-    {
-        "key": "JHPGCINQ",
-        "version": 21761,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/JHPGCINQ",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/JHPGCINQ",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1086284,
-                "username": "scopatz",
-                "name": "Anthony Scopatz",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/scopatz",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Anthony Michael Scopatz et al.",
-            "parsedDate": "2015",
-            "numChildren": 2
-        },
-        "bibtex": "\n@article{anthony_michael_scopatz_cyclus_2015,\n\ttitle = {Cyclus {Archetypes}},\n\tabstract = {The current state of nuclear fuel cycle simulation exists in highly customized form. Satisfying a wide range of users requires model modularity within such a tool. CYCLUS is a fuel cycle simulator specifically designed to combat the lack of adaptability of previous generations of simulators. This is accomplished through an agent-based\ninfrastructure and treating time discretely. The CYCLUS kernel was developed to allow for models, called archetypes, of differing fidelity and function depending on need of\nthe users. To take advantage of this flexibility, a user must write an archetype for their desired simulation if it does not yet exist within the CYCLUS ecosystem. At this stage, a user graduates to the title of archetype developer.\n\nWithout automation, archetype development is difficult for the uninitiated. This paper presents the framework developed for simplifying the writing of archetypes: the CYCLUS preprocessor, or cycpp. cycpp addresses the computer science and software development aspects of archetype development that can be addressed algorithmically, allowing the developer to focus on modeling the physics, social\npolicies, and economics. cycpp passes through the code three times to perform the following tasks: normalizing the code via the C preprocessor, accumulation of notations, and code generation. Not only does this reduce the amount of code a developer must write by approximately an order of magnitude, but the archetypes are automatically validated.},\n\tjournal = {Nuclear Technology},\n\tauthor = {{Anthony Michael Scopatz} and {Mathew Joseph Gidden} and {Robert Ward Carlsen} and {Robert Ryan Flanagan} and {Kathryn Dorsey Huff} and {Meghan Brianna McGarry} and {Arrielle Christine Opotowsky} and {Olzhas Rakhimov} and {Zach Welch} and {Paul Philip Hood Wilson}},\n\tyear = {2015},\n\tkeywords = {submitted},\n}\n",
-        "data": {
-            "key": "JHPGCINQ",
-            "version": 21761,
-            "itemType": "journalArticle",
-            "title": "Cyclus Archetypes",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "name": "Anthony Michael Scopatz"
-                },
-                {
-                    "creatorType": "author",
-                    "name": "Mathew Joseph Gidden"
-                },
-                {
-                    "creatorType": "author",
-                    "name": "Robert Ward Carlsen"
-                },
-                {
-                    "creatorType": "author",
-                    "name": "Robert Ryan Flanagan"
-                },
-                {
-                    "creatorType": "author",
-                    "name": "Kathryn Dorsey Huff"
-                },
-                {
-                    "creatorType": "author",
-                    "name": "Meghan Brianna McGarry"
-                },
-                {
-                    "creatorType": "author",
-                    "name": "Arrielle Christine Opotowsky"
-                },
-                {
-                    "creatorType": "author",
-                    "name": "Olzhas Rakhimov"
-                },
-                {
-                    "creatorType": "author",
-                    "name": "Zach Welch"
-                },
-                {
-                    "creatorType": "author",
-                    "name": "Paul Philip Hood Wilson"
-                }
-            ],
-            "abstractNote": "The current state of nuclear fuel cycle simulation exists in highly customized form. Satisfying a wide range of users requires model modularity within such a tool. CYCLUS is a fuel cycle simulator specifically designed to combat the lack of adaptability of previous generations of simulators. This is accomplished through an agent-based\ninfrastructure and treating time discretely. The CYCLUS kernel was developed to allow for models, called archetypes, of differing fidelity and function depending on need of\nthe users. To take advantage of this flexibility, a user must write an archetype for their desired simulation if it does not yet exist within the CYCLUS ecosystem. At this stage, a user graduates to the title of archetype developer.\n\nWithout automation, archetype development is difficult for the uninitiated. This paper presents the framework developed for simplifying the writing of archetypes: the CYCLUS preprocessor, or cycpp. cycpp addresses the computer science and software development aspects of archetype development that can be addressed algorithmically, allowing the developer to focus on modeling the physics, social\npolicies, and economics. cycpp passes through the code three times to perform the following tasks: normalizing the code via the C preprocessor, accumulation of notations, and code generation. Not only does this reduce the amount of code a developer must write by approximately an order of magnitude, but the archetypes are automatically validated.",
-            "publicationTitle": "Nuclear Technology",
-            "volume": "",
-            "issue": "",
-            "pages": "",
-            "date": "2015",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "",
-            "ISSN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "submitted"
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2015-03-12T19:29:21Z",
-            "dateModified": "2018-02-17T23:54:43Z"
         }
     },
     {
@@ -12565,6 +12548,111 @@
         }
     },
     {
+        "key": "VKW5T7AF",
+        "version": 25207,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/VKW5T7AF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/VKW5T7AF",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/FBVH2IC6",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 487281
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 162605,
+                "username": "kldunn",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/kldunn",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Dunn and Wilson",
+            "parsedDate": "2013-11",
+            "numChildren": 5
+        },
+        "bibtex": "\n@inproceedings{dunn_bandwidth_2013,\n\ttitle = {Bandwidth {Sensitivity} for {Kernel} {Density} {Estimated} {Mesh} {Tallies}},\n\tvolume = {109},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}},\n\tauthor = {Dunn, K. L. and Wilson, P. P. H.},\n\tmonth = nov,\n\tyear = {2013},\n\tpages = {687--690},\n}\n",
+        "data": {
+            "key": "VKW5T7AF",
+            "version": 25207,
+            "itemType": "conferencePaper",
+            "title": "Bandwidth Sensitivity for Kernel Density Estimated Mesh Tallies",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "K. L.",
+                    "lastName": "Dunn"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P. P. H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "",
+            "date": "Nov 2013",
+            "proceedingsTitle": "Transactions of the American Nuclear Society",
+            "conferenceName": "",
+            "place": "",
+            "publisher": "",
+            "volume": "109",
+            "pages": "687-690",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2013-07-01T15:50:18Z",
+            "dateModified": "2021-02-06T22:45:27Z"
+        }
+    },
+    {
         "key": "WAHK2D34",
         "version": 21762,
         "library": {
@@ -12668,111 +12756,6 @@
             "relations": {},
             "dateAdded": "2013-07-01T15:46:11Z",
             "dateModified": "2017-01-11T04:06:20Z"
-        }
-    },
-    {
-        "key": "VKW5T7AF",
-        "version": 21760,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/VKW5T7AF",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/VKW5T7AF",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/FBVH2IC6",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 487281
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 162605,
-                "username": "kldunn",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/kldunn",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Dunn and Wilson",
-            "parsedDate": "2013-11",
-            "numChildren": 5
-        },
-        "bibtex": "\n@inproceedings{dunn_bandwidth_2013,\n\ttitle = {Bandwidth {Sensitivity} for {Kernel} {Density} {Estimated} {Mesh} {Tallies}},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}},\n\tauthor = {Dunn, K. L. and Wilson, P. P. H.},\n\tmonth = nov,\n\tyear = {2013},\n}\n",
-        "data": {
-            "key": "VKW5T7AF",
-            "version": 21760,
-            "itemType": "conferencePaper",
-            "title": "Bandwidth Sensitivity for Kernel Density Estimated Mesh Tallies",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "K. L.",
-                    "lastName": "Dunn"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P. P. H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "date": "Nov 2013",
-            "proceedingsTitle": "Transactions of the American Nuclear Society",
-            "conferenceName": "",
-            "place": "",
-            "publisher": "",
-            "volume": "",
-            "pages": "",
-            "series": "",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2013-07-01T15:50:18Z",
-            "dateModified": "2013-07-01T16:04:27Z"
         }
     },
     {
