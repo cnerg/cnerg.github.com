@@ -1,5 +1,89 @@
 [
     {
+        "key": "6QRUFLGC",
+        "version": 25241,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/6QRUFLGC",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/6QRUFLGC",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/9M4AV5T4",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 5619558
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Khadria",
+            "parsedDate": "2020-12-30",
+            "numChildren": 1
+        },
+        "bibtex": "\n@phdthesis{khadria_low-carbon_2020,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Environment} and {Resources}},\n\ttitle = {Low-{Carbon} {Energy} {Solutions} for the {UW}-{Madison} {Campus}},\n\tabstract = {Current district heating systems rely on fossil fuels for generating steam, which is then distributed through insulated steam pipes to end customers. The UW-Madison campus has its own district heating and cooling plants that primarily supply the on-campus thermal demand. In this study, we analyze the feasibility of supplying this thermal demand with low-carbon technologies such as solar, wind, storage, and nuclear. In order to conduct this economic analysis, we use the HOMER Pro optimization tool which considers different system configurations based on the input components and chooses the system that has the least overall net-present cost. For our simulations, we consider different combinations of the low-carbon technologies and use a range of cheap, median and expensive cost inputs for each technology, resulting in an array of case scenarios. We compare these scenarios based on important metrics such as rated capacity, electric production, excess electricity, and annualized system cost. Our results show that systems deploying a combination of these technologies tend to be cheaper than those deploying individual technologies. Considering renewable technologies with storage alone results in high system costs and large amounts of excess electricity, which can be alleviated using a system that is more reliant on nuclear energy. Another key observation made in this study is that total system costsare highly sensitive to the cost inputs provided, which highlights the importance ofconsidering up-to-date cost estimates in such analyses.},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Khadria, Antara},\n\tmonth = dec,\n\tyear = {2020},\n}\n",
+        "data": {
+            "key": "6QRUFLGC",
+            "version": 25241,
+            "itemType": "thesis",
+            "title": "Low-Carbon Energy Solutions for the UW-Madison Campus",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Antara",
+                    "lastName": "Khadria"
+                }
+            ],
+            "abstractNote": "Current district heating systems rely on fossil fuels for generating steam, which is then distributed through insulated steam pipes to end customers. The UW-Madison campus has its own district heating and cooling plants that primarily supply the on-campus thermal demand. In this study, we analyze the feasibility of supplying this thermal demand with low-carbon technologies such as solar, wind, storage, and nuclear. In order to conduct this economic analysis, we use the HOMER Pro optimization tool which considers different system configurations based on the input components and chooses the system that has the least overall net-present cost. For our simulations, we consider different combinations of the low-carbon technologies and use a range of cheap, median and expensive cost inputs for each technology, resulting in an array of case scenarios. We compare these scenarios based on important metrics such as rated capacity, electric production, excess electricity, and annualized system cost. Our results show that systems deploying a combination of these technologies tend to be cheaper than those deploying individual technologies. Considering renewable technologies with storage alone results in high system costs and large amounts of excess electricity, which can be alleviated using a system that is more reliant on nuclear energy. Another key observation made in this study is that total system costsare highly sensitive to the cost inputs provided, which highlights the importance ofconsidering up-to-date cost estimates in such analyses.",
+            "thesisType": "MS Environment and Resources",
+            "university": "University of Wisconsin-Madison",
+            "place": "Madison, WI, United States",
+            "date": "12/30/2020",
+            "numPages": "105",
+            "language": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "6259B6TV"
+            ],
+            "relations": {},
+            "dateAdded": "2021-03-16T21:35:12Z",
+            "dateModified": "2021-03-16T21:47:52Z"
+        }
+    },
+    {
         "key": "PV3V8X5M",
         "version": 25042,
         "library": {
