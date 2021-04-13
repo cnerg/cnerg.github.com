@@ -14,7 +14,7 @@ to help improve the process.
 
 The first section helps you decide if I am the right person to provide this
 reference.  If you have already decided this and/or I have already agreed, you
-can jump to the next section.
+can jump to the [next section](#why-are-you-the-right-person-for-this-opportunity).
 
 # Choosing the Right Person
 
