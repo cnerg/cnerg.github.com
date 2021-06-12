@@ -79,6 +79,14 @@
     role: "Undergraduate Researcher"
     image: laufenberg.jpg
 
+-group: 'Summer Interns'
+ people:
+ - name: "CGrace Kelly"
+    url: "CGK"
+    role: "Summer Intern"
+    university: "South Carolina Satate University"
+    image: "Go to Picture.jpeg"
+
 - group: 'Alumni'
   people:
   - name: Tae Wook Ahn
