@@ -2,7 +2,7 @@
 Layout: Person
 Title: Carena
 Role: Summer Intern
-Image: Go to Picture.jpeg
+Image: CGrace_Kelly.jpeg
 Email: cgkelly98@gmail.com
 Room: Virtual (Atlanta, Ga)
 ---
