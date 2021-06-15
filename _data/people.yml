@@ -78,12 +78,9 @@
     url: "bl"
     role: "Undergraduate Researcher"
     image: laufenberg.jpg
-    
--group: 'Summer Interns'
- people:
- - name: "CGrace Kelly"
+  - name: "CGrace Kelly"
     url: "CGK ; )"
-    role: "Summer Intern"
+    role: "Undergraduate Researcher"
     university: "South Carolina State University"
     image: "CGrace_Kelly.jpeg"
     
