@@ -1,10 +1,10 @@
 ---
-Layout: Person
-Title: Carena
-Role: Summer Intern
-Image: CGrace_Kelly.jpeg
-Email: cgkelly98@gmail.com
-Room: Virtual (Atlanta, Ga)
+layout: person
+title: Carena
+role: Summer Intern
+image: CGrace_Kelly.jpeg
+email: cgkelly98@gmail.com
+room: Virtual (Atlanta, Ga)
 ---
 
 
