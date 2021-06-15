@@ -1,6 +1,6 @@
 ---
-layout: Person
-title: Shai'Anthony Huff
+layout: person
+title: ShaiAnthony Huff
 image: IMG-0456.jpg
 role: Nuclear Engineering Undergrad
 email: 
