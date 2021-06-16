@@ -1,6 +1,6 @@
 ---
 layout: person
-title: Carena
+title: Carena Grace Kelly
 role: Undergraduate Researcher
 image: CGrace_Kelly.jpeg
 email: cgkelly98@gmail.com
