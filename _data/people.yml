@@ -83,7 +83,11 @@
     role: "Undergraduate Summer Intern"
     university: "South Carolina State University"
     image: "CGrace_Kelly.jpeg"
-    
+  - name: "ShaiAnthony Huff"
+    url: "sh"
+    role: "Undergraduate Summer Intern"
+    image: IMG-0456.jpg
+
 - group: 'Alumni'
   people:
   - name: Tae Wook Ahn
