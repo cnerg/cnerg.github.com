@@ -78,6 +78,11 @@
     url: "bl"
     role: "Undergraduate Researcher"
     image: laufenberg.jpg
+  - name: "CGrace Kelly"
+    url: "CGK"
+    role: "Undergraduate Summer Intern"
+    university: "South Carolina State University"
+    image: "CGrace_Kelly.jpeg"
   - name: "ShaiAnthony Huff"
     url: "sh"
     role: "Undergraduate Summer Intern"
@@ -377,7 +382,6 @@
     role: Visiting Student Researcher
     employer: University of Science and Technology of China
     employer_url: 
-
 
 
 
