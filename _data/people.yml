@@ -107,8 +107,8 @@
     employer:
     employer_url:
   - name: "Anna Caldwell-Overdier"
-    url: 
-    role: "Researcher"
+    year: 2021
+    role: Researcher
   - name: Robert Carlsen
     url:
     year: 2016
@@ -210,6 +210,7 @@
     employer:
     employer_url:
   - name: "Bradly Laufenberg"
+    year: 2021
     role: BS Nuclear Engineering
   - name: Piper Lincoln
     url: https://www.linkedin.com/in/piperlincoln
