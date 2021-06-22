@@ -236,6 +236,12 @@
     role: MS
     employer:
     employer_url:
+  - name: Erik Nygaard
+    url:
+    year: 2011
+    Role: MS
+    employer: BWXT Technologies
+    employer_url: https://www.bwxt.com/
   - name: Phiphat Phruksarojanakun
     url:
     year: 2007
