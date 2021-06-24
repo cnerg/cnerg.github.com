@@ -42,10 +42,12 @@ layout: default
           {{ person.name }},
           {% endif %}
           ({{ person.role }}, {{ person.year }})
-          {% if person.employer_url != null %}
-          , <a href="{{ person.employer_url }}" target="_blank">{{ person.employer }}</a>
-          {% else %}
-          {{ person.employer }}
+          {% if person.employer != null %}
+            {% if person.employer_url != null %}
+            , <a href="{{ person.employer_url }}" target="_blank">{{ person.employer }}</a>
+            {% else %}
+            , {{ person.employer }}
+            {% endif %}
           {% endif %}
         </li>
         {% endfor %}
