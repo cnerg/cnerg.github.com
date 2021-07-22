@@ -11,10 +11,6 @@
   - name: "Dr. Tim Bohm"
     url: "tdb"
     role: "Scientist"
-  - name: "Anna Caldwell-Overdier"
-    url: "ac-o"
-    role: "Researcher"
-    image: "aco.jpg"
 
 - group: 'Graduate Students'
   people:
@@ -74,10 +70,6 @@
   - name: "Matthew Nyberg"
     url: "mn"
     role: "Undergraduate Researcher"
-  - name: "Bradly Laufenberg"
-    url: "bl"
-    role: "Undergraduate Researcher"
-    image: laufenberg.jpg
   - name: "CGrace Kelly"
     url: "CGK"
     role: "Undergraduate Summer Intern"
@@ -114,6 +106,9 @@
     role: Project Assistant
     employer:
     employer_url:
+  - name: Anna Caldwell-Overdier
+    year: 2021
+    role: Researcher
   - name: Robert Carlsen
     url:
     year: 2016
@@ -126,7 +121,7 @@
     role: Scientist
     employer: Culham Centre for Fusion Energy
     employer_url: http://www.ccfe.ac.uk
-  - name: "Chelsea D'Angelo"
+  - name: Chelsea D'Angelo
     year: 2019
     role: PhD
     employer: Los Alamos National Laboratory
@@ -155,7 +150,7 @@
     role: MS
     employer: Exelon Nuclear
     employer_url:
-  - name: "Moataz Harb"
+  - name: Moataz Harb
     role: PhD
     year: 2019
     employer: Karlsruhe Institute of Technology
@@ -214,6 +209,9 @@
     role: Programmer
     employer:
     employer_url:
+  - name: Bradly Laufenberg
+    year: 2021
+    role: BS Nuclear Engineering
   - name: Piper Lincoln
     url: https://www.linkedin.com/in/piperlincoln
     year: 2020
@@ -238,6 +236,12 @@
     role: MS
     employer:
     employer_url:
+  - name: Erik Nygaard
+    url:
+    year: 2011
+    role: MS
+    employer: BWXT Technologies
+    employer_url: https://www.bwxt.com/
   - name: Phiphat Phruksarojanakun
     url:
     year: 2007
