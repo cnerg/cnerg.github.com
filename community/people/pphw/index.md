@@ -63,3 +63,5 @@ the NA-YGN.
 
 Paul is married and has two daughters. They enjoy biking around Madison’s paths
 and spending time outside.
+
+Students who would like to request a reference should review [these guidelines](reference_request.md).
