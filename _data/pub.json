@@ -1,5 +1,136 @@
 [
     {
+        "key": "GLRUFYIR",
+        "version": 25635,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/GLRUFYIR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/GLRUFYIR",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/ULNJU2W2",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 509625
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 3315269,
+                "username": "nuclearkatie",
+                "name": "Kathryn Mummah",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/nuclearkatie",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Buono et al.",
+            "parsedDate": "2021-07-04",
+            "numChildren": 2
+        },
+        "bibtex": "\n@article{buono_its_2021,\n\ttitle = {It’s time to reignite {US}-{Russia} cooperation in space. {Nuclear} power may hold the key},\n\tvolume = {77},\n\tissn = {0096-3402},\n\turl = {https://doi.org/10.1080/00963402.2021.1941598},\n\tdoi = {10.1080/00963402.2021.1941598},\n\tabstract = {As US-Russia tensions in space have increased over the last several years, cooperation in space nuclear research presents itself as one opportunity to both ease bilateral relations and develop the technologies needed for the next generation of crewed space missions. The authors suggest that the United States and the Russian Federation have complementary needs and strengths in nuclear space technologies, particularly as they pertain to deep space propulsion and utilization of space resources.},\n\tnumber = {4},\n\turldate = {2021-07-21},\n\tjournal = {Bulletin of the Atomic Scientists},\n\tauthor = {Buono, Stephen and Hecla, Jake and Kobezskii, Vladimir and Mummah, Katie and Lanversin, Julien de Troullioud de},\n\tmonth = jul,\n\tyear = {2021},\n\tnote = {Publisher: Routledge\n\\_eprint: https://doi.org/10.1080/00963402.2021.1941598},\n\tkeywords = {Mars Oxygen In-Situ Resource Utilization Experiment, TOPAZ International Program, US-Russia space cooperation, in situ resource utilization, nuclear thermal propulsion},\n\tpages = {203--206},\n}\n",
+        "data": {
+            "key": "GLRUFYIR",
+            "version": 25635,
+            "itemType": "journalArticle",
+            "title": "It’s time to reignite US-Russia cooperation in space. Nuclear power may hold the key",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephen",
+                    "lastName": "Buono"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jake",
+                    "lastName": "Hecla"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Vladimir",
+                    "lastName": "Kobezskii"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Katie",
+                    "lastName": "Mummah"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Julien de Troullioud de",
+                    "lastName": "Lanversin"
+                }
+            ],
+            "abstractNote": "As US-Russia tensions in space have increased over the last several years, cooperation in space nuclear research presents itself as one opportunity to both ease bilateral relations and develop the technologies needed for the next generation of crewed space missions. The authors suggest that the United States and the Russian Federation have complementary needs and strengths in nuclear space technologies, particularly as they pertain to deep space propulsion and utilization of space resources.",
+            "publicationTitle": "Bulletin of the Atomic Scientists",
+            "volume": "77",
+            "issue": "4",
+            "pages": "203-206",
+            "date": "July 4, 2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.1080/00963402.2021.1941598",
+            "ISSN": "0096-3402",
+            "shortTitle": "",
+            "url": "https://doi.org/10.1080/00963402.2021.1941598",
+            "accessDate": "2021-07-21T18:05:13Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Taylor and Francis+NEJM",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: Routledge\n_eprint: https://doi.org/10.1080/00963402.2021.1941598",
+            "tags": [
+                {
+                    "tag": "Mars Oxygen In-Situ Resource Utilization Experiment",
+                    "type": 1
+                },
+                {
+                    "tag": "TOPAZ International Program",
+                    "type": 1
+                },
+                {
+                    "tag": "US-Russia space cooperation",
+                    "type": 1
+                },
+                {
+                    "tag": "in situ resource utilization",
+                    "type": 1
+                },
+                {
+                    "tag": "nuclear thermal propulsion",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2021-07-21T18:05:13Z",
+            "dateModified": "2021-07-21T18:05:13Z"
+        }
+    },
+    {
         "key": "QW38HRSJ",
         "version": 25069,
         "library": {
@@ -18599,138 +18730,6 @@
             },
             "dateAdded": "2012-06-14T18:12:55Z",
             "dateModified": "2012-06-21T14:26:44Z"
-        }
-    },
-    {
-        "key": "5RPIKB5K",
-        "version": 21758,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/5RPIKB5K",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/5RPIKB5K",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/D6XN3H4J",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 292175
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Radel et al.",
-            "parsedDate": "2009",
-            "numChildren": 3
-        },
-        "bibtex": "\n@inproceedings{radel_methods_2009,\n\taddress = {Atlanta, GA, United states},\n\tseries = {American {Nuclear} {Society} - 3rd {Topical} {Meeting} on {Nuclear} and {Emerging} {Technologies} for {Space} 2009, {NETS} 2009},\n\ttitle = {Methods for modeling impact-induced reactivity changes in space reactors},\n\tabstract = {This paper describes techniques for determining impact deformation and the subsequent reactivity change for a space reactor impacting the ground following a potential launch accident. This technique could be used to determine the margin of subcriticality for such potential accidents. Specifically, the approach couples a finite element continuum mechanics model (PRONTO3D or PRESTO) with a neutronics code (MCNP). DAGMC, developed at the University of Wisconsin-Madison, is used to convert PRONTO3D output to a usable MCNP input file. This paper summarizes what has been done historically for reactor launch analysis, describes the impact criticality analysis methodology, and presents preliminary results using representative reactor designs.},\n\tbooktitle = {3rd {Topical} {Meeting} on {Nuclear} and {Emerging} {Technologies} for {Space} 2009, {NETS} 2009, {June} 14, 2009 - {June} 19, 2009},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Radel, T.E. and Radel, R.F. and Smith, J.A. and Lipinski, R.J. and Wilson, P.H.H.},\n\tyear = {2009},\n\tkeywords = {Continuum Mechanics, Elasticity, Launching, Nuclear Reactor Accidents, Reactivity (nuclear), Semiconductor Quantum Dots},\n\tpages = {300--309},\n}\n",
-        "data": {
-            "key": "5RPIKB5K",
-            "version": 21758,
-            "itemType": "conferencePaper",
-            "title": "Methods for modeling impact-induced reactivity changes in space reactors",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "T.E.",
-                    "lastName": "Radel"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "R.F.",
-                    "lastName": "Radel"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "J.A.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "R.J.",
-                    "lastName": "Lipinski"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.H.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "This paper describes techniques for determining impact deformation and the subsequent reactivity change for a space reactor impacting the ground following a potential launch accident. This technique could be used to determine the margin of subcriticality for such potential accidents. Specifically, the approach couples a finite element continuum mechanics model (PRONTO3D or PRESTO) with a neutronics code (MCNP). DAGMC, developed at the University of Wisconsin-Madison, is used to convert PRONTO3D output to a usable MCNP input file. This paper summarizes what has been done historically for reactor launch analysis, describes the impact criticality analysis methodology, and presents preliminary results using representative reactor designs.",
-            "date": "2009",
-            "proceedingsTitle": "3rd Topical Meeting on Nuclear and Emerging Technologies for Space 2009, NETS 2009, June 14, 2009 - June 19, 2009",
-            "conferenceName": "",
-            "place": "Atlanta, GA, United states",
-            "publisher": "American Nuclear Society",
-            "volume": "",
-            "pages": "300-309",
-            "series": "American Nuclear Society - 3rd Topical Meeting on Nuclear and Emerging Technologies for Space 2009, NETS 2009",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "Engineering Village",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Continuum Mechanics"
-                },
-                {
-                    "tag": "Elasticity",
-                    "type": 1
-                },
-                {
-                    "tag": "Launching",
-                    "type": 1
-                },
-                {
-                    "tag": "Nuclear Reactor Accidents"
-                },
-                {
-                    "tag": "Reactivity (nuclear)",
-                    "type": 1
-                },
-                {
-                    "tag": "Semiconductor Quantum Dots"
-                }
-            ],
-            "collections": [
-                "VBKGWTWB",
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-14T18:12:55Z",
-            "dateModified": "2012-06-14T18:12:55Z"
         }
     }
 ]
