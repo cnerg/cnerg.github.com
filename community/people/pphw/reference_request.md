@@ -1,24 +1,23 @@
-.. title Getting a reference
+---
+layout: default
+title: Requesting a Reference or Recommendation from Paul Wilson
+---
 
-Requesting a Reference or Recommendation from Paul Wilson
-=========================================================
-
-Background
-----------
+# Requesting a Reference or Recommendation from Paul Wilson
+## Background
 
 I am often asked to write reference or recommendation letters, or
 otherwise act as a reference, for current and former students, whether
 for employment, fellowships/scholarships, or graduate school
 admission.  Since it is in your best interest to receive the best
 possible recommendation or reference, I have prepared these guidelines
-to help optimize the process.
+to help improve the process.
 
 The first section helps you decide if I am the right person to provide this
 reference.  If you have already decided this and/or I have already agreed, you
-can jump to the next section.
+can jump to the [next section](#why-are-you-the-right-person-for-this-opportunity).
 
-Choosing the Right Person
--------------------------
+## Choosing the Right Person
 
 The very first question is whether or not I am the best person to
 write you the reference you want.  If you think so, in your request
@@ -44,8 +43,7 @@ The strongest recommendations are possible only for people I have
 interacted with closely in some capacity beyond simply being a course
 instructor.
 
-Why are you the right person for this opportunity
--------------------------------------------------
+## Why are you the right person for this opportunity
 
 For each opportunity in which you would like me to act as a reference,
 please provide information about why you are the right/best person to
