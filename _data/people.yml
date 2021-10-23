@@ -4,10 +4,6 @@
     role: "Professor, CNERG leader"
     url: "pphw"
     image: "pphw4.jpg"
-  - name: "Dr. Baptiste Mouginot"
-    url: "bam"
-    role: "Scientist"
-    image: "hacker_mouginot.jpg"
   - name: "Dr. Tim Bohm"
     url: "tdb"
     role: "Scientist"
@@ -236,6 +232,12 @@
     role: MS
     employer:
     employer_url:
+  - name: Baptiste Mouginot
+    url:
+    year: 2015-2021
+    role: Scientist
+    employer: Framatome (Lyon, France)
+    employer_url: https://www.framatome.com
   - name: Erik Nygaard
     url:
     year: 2011
