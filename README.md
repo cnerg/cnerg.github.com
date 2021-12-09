@@ -45,7 +45,8 @@ prompt%> docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundl
 
 This will launch a local server that will constantly monitor the files and
 re-render them each time the files change.  It may take some time to install
-jekyll's internal dependencies.
+jekyll's internal dependencies.  (see
+[here](https://github.com/envygeeks/jekyll-docker) for more.)
 
 You can then load the URL `localhost:4000` in a browser on your native system.
 
