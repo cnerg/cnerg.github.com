@@ -39,12 +39,13 @@ using a docker image.
 ```
 prompt%> cd <path-to-new-website-repo>
 
-prompt%> docker run -v $PWD:/website -w /website -p 4000:4000 -it cnerg/new-website-jekyll bundle exec jekyll server --host 0.0.0.0
+prompt%> docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" -p 4000:4000  jekyll/jekyll  jekyll serve
 
 ```
 
 This will launch a local server that will constantly monitor the files and
-re-render them each time the files change.
+re-render them each time the files change.  It may take some time to install
+jekyll's internal dependencies.
 
 You can then load the URL `localhost:4000` in a browser on your native system.
 
