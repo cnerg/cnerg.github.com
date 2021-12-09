@@ -1,6 +1,11 @@
 Automating Updates the Publication List
 ========================================
 
+This script is provided to support testing of the Zotero API.  The live website
+is built using Github actions that invoke similar commands without using this
+script.  If you are debugging the way that the live pages use Zotero, you may
+want to look into the Github workflows.
+
 The script `update_json_w_bibtex.sh` will perform queries of the following CNERG
 Publication sub-collections, getting the most recent 100 items in each and
 storing them in different files.
