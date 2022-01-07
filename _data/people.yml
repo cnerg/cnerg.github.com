@@ -7,21 +7,17 @@
   - name: "Dr. Tim Bohm"
     url: "tdb"
     role: "Scientist"
+  - name: "Dr. Arrielle Opotowsky"
+    url: "aco"
+    role: "Post-Doctoral Associate"
+    image: opotowsky.jpg
 
 - group: 'Graduate Students'
   people:
-  - name: "Philip Britt"
-    url: "psb"
-    role: "PhD Dissertator, US NRC Fellow"
-    image: britt.jpg
   - name: "Kalin R. Kiesling"
     url: "krk"
     role: "PhD Dissertator, USNRC Fellow, Wisconsin Distinguished Graduate Fellow"
     image: kiesling.png
-  - name: "Arrielle Opotowsky"
-    url: "aco"
-    role: "PhD Dissertator, Nuclear Forensics Graduate Fellow, NSF Fellow, GERS"
-    image: opotowsky.jpg
   - name: "Lucas Jacobson"
     url: "ljj"
     role: "PhD Candidate"
@@ -41,7 +37,7 @@
   - name: "Katie Biegel"
     url: "keb"
     image: biegel.jpg
-    role: "PhD Candidate, Argonne National Laboratory Graduate Fellow"
+    role: "PhD Dissertator, Argonne National Laboratory Graduate Fellow"
   - name: "Jordan Stomps"
     url: "js"
     role: "PhD Candidate"
@@ -63,18 +59,6 @@
   - name: "Yuehan Qin"
     url: "yq"
     role: "Undergraduate Researcher"
-  - name: "Matthew Nyberg"
-    url: "mn"
-    role: "Undergraduate Researcher"
-  - name: "CGrace Kelly"
-    url: "CGK"
-    role: "Undergraduate Summer Intern"
-    university: "South Carolina State University"
-    image: "CGrace_Kelly.jpeg"
-  - name: "ShaiAnthony Huff"
-    url: "sh"
-    role: "Undergraduate Summer Intern"
-    image: IMG-0456.jpg
 
 - group: 'Alumni'
   people:
@@ -87,6 +71,12 @@
   - name: Elliott Biondo
     url:
     year: 2016
+    role: PhD
+    employer: Oak Ridge National Laboratory
+    employer_url: http://www.ornl.gov
+  - name: Philip Britt
+    url: 
+    year: 2021
     role: PhD
     employer: Oak Ridge National Laboratory
     employer_url: http://www.ornl.gov
@@ -151,6 +141,12 @@
     year: 2019
     employer: Karlsruhe Institute of Technology
     employer_url: http://www.kit.edu
+  - name: Louis Hartono
+    url:
+    year: 2020
+    role: Research Intern
+    employer:
+    employer_url:
   - name: Chris Hoffman
     url:
     year: 2017
@@ -169,30 +165,15 @@
     role: PhD
     employer: University of Illinois
     employer_url: http://npre.illinois.edu
+  - name: ShaiAnthony Huff
+    year: 2021
+    role: Undergraduate intern
   - name: Paul Humrickhouse
     url:
     year: 2005
     role: MS
     employer: Idaho National Laboratory
     employer_url: http://www.inl.gov
-  - name: Brian Kiedrowski
-    url: http://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski
-    year: 2009
-    role: PhD
-    employer: University of Michigan
-    employer_url: http://ners.engin.umich.edu
-  - name: Matthew Klebenow
-    url:
-    year: 2013
-    role: BS Engineering Physics
-    employer: EPIC Systems
-    employer_url:
-  - name: Louis Hartono
-    url:
-    year: 2020
-    role: Research Intern
-    employer:
-    employer_url:
   - name: Ahmad Ibrahim
     url: https://www.linkedin.com/pub/ahmad-ibrahim/13/585/161
     year: 2012
@@ -204,6 +185,21 @@
     year: 2013
     role: Programmer
     employer:
+    employer_url:
+  - name: C Grace Kelly
+    year: 2021
+    role: Undergraduate intern
+  - name: Brian Kiedrowski
+    url: http://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski
+    year: 2009
+    role: PhD
+    employer: University of Michigan
+    employer_url: http://ners.engin.umich.edu
+  - name: Matthew Klebenow
+    url:
+    year: 2013
+    role: BS Engineering Physics
+    employer: EPIC Systems
     employer_url:
   - name: Bradly Laufenberg
     year: 2021
@@ -238,6 +234,11 @@
     role: Scientist
     employer: Framatome (Lyon, France)
     employer_url: https://www.framatome.com
+  - name: Matthew Nyberg
+    year: 2021
+    role: Undergraduate Intern
+    employer: UW-Madison
+    employer_url: http://reti.ep.wisc.edu
   - name: Erik Nygaard
     url:
     year: 2011
@@ -252,8 +253,8 @@
     employer_url: http://www.oaep.go.th/index_en.php
   - name: Eliot Pickhardt
     url:
-    year: 2019
-    role: High School Intern
+    year: 2021
+    role: Undergraduate Intern
     employer:
     employer_url:
   - name: Kyle Oliver
