@@ -14,10 +14,6 @@
 
 - group: 'Graduate Students'
   people:
-  - name: "Kalin R. Kiesling"
-    url: "krk"
-    role: "PhD Dissertator, USNRC Fellow, Wisconsin Distinguished Graduate Fellow"
-    image: kiesling.png
   - name: "Lucas Jacobson"
     url: "ljj"
     role: "PhD Candidate"
@@ -195,6 +191,11 @@
     role: PhD
     employer: University of Michigan
     employer_url: http://ners.engin.umich.edu
+  - name: "Kalin R. Kiesling"
+    role: PhD
+    year: 2020
+    employer: Argonne National Laboratory
+    employer_url: https://www.anl.gov
   - name: Matthew Klebenow
     url:
     year: 2013
@@ -305,24 +306,30 @@
     role: Research Intern
     employer:
     employer_url:
-  - name: Owen Selles
-    url:
-    year: 2017
-    role: Project Assistant
-    employer: New Jersey Department of Environmental Protection
-    employer_url: https://www.nj.gov/dep/
   - name: Anthony Scopatz
     url:
     year: 2013-2015
     role: Scientist
     employer: Quansight
     employer_url: http://quansight.com
+  - name: Owen Selles
+    url:
+    year: 2017
+    role: Project Assistant
+    employer: New Jersey Department of Environmental Protection
+    employer_url: https://www.nj.gov/dep/
   - name: Tim Setter
     url:
     year: 2007
     role: MS
     employer: Tennessee Valley Authority
     employer_url:
+  - name: Patrick Shriwise
+    url: https://pshriwise.github.io
+    year: 2018
+    role: PhD
+    employer: Argonne National Laboratory
+    employer_url: https://www.anl.gov
   - name: Stuart Slattery
     url: http://www.csm.ornl.gov/newsite/cees.html
     year: 2013
@@ -335,12 +342,6 @@
     role: PhD
     employer: University of California-Berkeley
     employer_url: https://www.nuc.berkeley.edu
-  - name: Patrick Shriwise
-    url: https://pshriwise.github.io
-    year: 2018
-    role: PhD
-    employer: Argonne National Laboratory
-    employer_url: https://www.anl.gov
   - name: Chris Staum
     url:
     year: 2006
