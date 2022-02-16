@@ -1,5 +1,101 @@
 [
     {
+        "key": "AEA47423",
+        "version": 26447,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/AEA47423",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/AEA47423",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/WNUVPNQR",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 15384426
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1555443,
+                "username": "kkiesling",
+                "name": "Kalin Kiesling",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/kkiesling",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Kiesling",
+            "parsedDate": "2022-01",
+            "numChildren": 1
+        },
+        "bibtex": "\n@phdthesis{kiesling_weight_2022,\n\taddress = {Madison, WI},\n\ttype = {dissertation},\n\ttitle = {Weight {Window} {Isosurface} {Geometries} for {Monte} {Carlo} {Radiation} {Transport} {Variance} {Reduction}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Kiesling, Kalin R.},\n\tmonth = jan,\n\tyear = {2022},\n}\n",
+        "data": {
+            "key": "AEA47423",
+            "version": 26447,
+            "itemType": "thesis",
+            "title": "Weight Window Isosurface Geometries for Monte Carlo Radiation Transport Variance Reduction",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kalin R.",
+                    "lastName": "Kiesling"
+                }
+            ],
+            "abstractNote": "",
+            "thesisType": "dissertation",
+            "university": "University of Wisconsin-Madison",
+            "place": "Madison, WI",
+            "date": "2022-01",
+            "numPages": "",
+            "language": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "6259B6TV",
+                "34I86HPD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-02-16T18:12:26Z",
+            "dateModified": "2022-02-16T18:14:04Z"
+        }
+    },
+    {
         "key": "QR5KAH2I",
         "version": 26434,
         "library": {
