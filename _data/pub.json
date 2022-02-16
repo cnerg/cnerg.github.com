@@ -7622,7 +7622,7 @@
             },
             "creatorSummary": "Kiesling and Wilson",
             "parsedDate": "2018-11-13",
-            "numChildren": 5
+            "numChildren": 2
         },
         "bibtex": "\n@article{kiesling_generation_2018,\n\ttitle = {Generation of {Weight} {Window} {Isosurface} {Geometries} for {Monte}-{Carlo} {Variance} {Reduction}},\n\tvolume = {119},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Kiesling, Kalin and Wilson, Paul P. H.},\n\tmonth = nov,\n\tyear = {2018},\n\tnote = {Orlando, FL\nNovember 11-15, 2018},\n\tkeywords = {DAGMC, Weight window, isosurface},\n\tpages = {586--589},\n}\n",
         "data": {
@@ -9039,7 +9039,7 @@
             },
             "creatorSummary": "Shriwise et al.",
             "parsedDate": "2017-04-16",
-            "numChildren": 5
+            "numChildren": 2
         },
         "bibtex": "\n@inproceedings{shriwise_particle_2017,\n\taddress = {Jeju, South Korea},\n\ttitle = {Particle {Tracking} {Accelerations} via {Signed} {Distance} {Fields} in {DAGMC}},\n\tabstract = {CAD-based Monte Carlo radtiaion transport is of value to the nuclear engineering community for its ability to conduct transport on high fidelity models of nuclear systems, but it is more computationally expensive than native geometry representations. This work describes the adaptation of a rendering data structure, the signed distance field, as a geometric query tool for accelerating CAD-based transport in the Direct Accelerated Monte Carlo (DAGMC) toolkit. Demonstrations of its effectiveness are shown for a number of problems. The beginnings of a predictive model for the data structure's utilization based on various problem parameters is also introduced.},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Shriwise, Patrick and Davis, Andrew and Jacobson, Lucas and Wilson, Paul},\n\tmonth = apr,\n\tyear = {2017},\n}\n",
         "data": {
@@ -10412,7 +10412,7 @@
             },
             "creatorSummary": "Carlsen and Wilson, Paul P.H.",
             "parsedDate": "2015-11",
-            "numChildren": 6
+            "numChildren": 3
         },
         "bibtex": "\n@article{carlsen_fast_2015,\n\ttitle = {Fast {Finding} of {Fast} {Transitions} to {Fast} {Reactor} {Fuel} {Cycles} with {Cyclus}},\n\tvolume = {113},\n\tabstract = {While many potential fuel cycles have been evaluated for their equilibrium properties, there has been less investigation into the properties of transitions from the current once-through light water reactor (LWR) fuel cycle to other candidate fuel cycles.  This work describes a transition analysis performed using black-box optimization techniques coupled with the Cyclus fuel cycle simulator on large scale computing resources.  A transition deployment schedule for thermal and fast reactors was computed by wrapping Cyclus simulations inside an external optimizer.  The resulting deployments provide an approximate optimal solution for the fastest way to transition to an EG23-like fuel cycle without forced early retirement of reactors (for the utilized objective function). Although only reactor deployments are looked at here, the optimization workflow developed is flexible enough to handle deployment of an arbitrary number of facility types. The optimization runs were performed on the HT Condor high throughput computing infrastructure at University of Wisconsin-Madison.  Optimization tools were developed that are robust against failures and instability in the cluster environment.  The optimizer used is a hybrid of particle swarm and modified pattern search algorithms based on PSwarm. It is robust against failed simulations and objective function evaluations and is easy to parallelize.},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Carlsen, Robert W. and Wilson, Paul P.H.},\n\tmonth = nov,\n\tyear = {2015},\n\tpages = {364--367},\n}\n",
         "data": {
@@ -11232,7 +11232,7 @@
             },
             "creatorSummary": "Scopatz et al.",
             "parsedDate": "2015",
-            "numChildren": 2
+            "numChildren": 1
         },
         "bibtex": "\n@article{scopatz_cymetric_2015,\n\ttitle = {Cymetric - {A} {Fuel} {Cycle} {Metrics} {Tool} for {Cyclus}},\n\tvolume = {112},\n\tnumber = {1},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Scopatz, Anthony and Opotowsky, Arrielle and Wilson, Paul P. H.},\n\tmonth = jun,\n\tyear = {2015},\n\tpages = {81--84},\n}\n",
         "data": {
@@ -12602,7 +12602,7 @@
             },
             "creatorSummary": "Dunn and Wilson",
             "parsedDate": "2013-11",
-            "numChildren": 5
+            "numChildren": 2
         },
         "bibtex": "\n@inproceedings{dunn_bandwidth_2013,\n\ttitle = {Bandwidth {Sensitivity} for {Kernel} {Density} {Estimated} {Mesh} {Tallies}},\n\tvolume = {109},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}},\n\tauthor = {Dunn, K. L. and Wilson, P. P. H.},\n\tmonth = nov,\n\tyear = {2013},\n\tpages = {687--690},\n}\n",
         "data": {
@@ -12707,7 +12707,7 @@
             },
             "creatorSummary": "Dunn and Wilson",
             "parsedDate": "2013-11",
-            "numChildren": 4
+            "numChildren": 2
         },
         "bibtex": "\n@article{dunn_mncp5_2013,\n\ttitle = {{MNCP5} vs {KDE}: {Direct} {Method} for {Mesh} {Tally} {Comparisons}},\n\tvolume = {109},\n\tnumber = {1},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Dunn, K. L. and Wilson, P. P. H.},\n\tmonth = nov,\n\tyear = {2013},\n\tpages = {691--694},\n}\n",
         "data": {
@@ -13965,7 +13965,7 @@
             },
             "creatorSummary": "Biondo et al.",
             "parsedDate": "2012-11-12",
-            "numChildren": 5
+            "numChildren": 2
         },
         "bibtex": "\n@inproceedings{biondo_implementation_2012,\n\taddress = {Washington, D.C.},\n\ttitle = {Implementation, {Benchmarking}, and {Application} of {R2S}-{ACT}: an {Open}-{Source}, {Mesh}-{Based}, {Rigorous} 2-{Step} {Activation} {Workflow}},\n\tvolume = {109},\n\turl = {https://github.com/cnerg/publications/tree/ans13w-r2s},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}},\n\tauthor = {Biondo, Elliott D. and Relson, Eric and Davis, Andrew and WIlson, Paul P.H.},\n\tmonth = nov,\n\tyear = {2012},\n\tpages = {1180--1183},\n}\n",
         "data": {
