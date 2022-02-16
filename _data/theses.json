@@ -1,7 +1,7 @@
 [
     {
         "key": "AEA47423",
-        "version": 26447,
+        "version": 26448,
         "library": {
             "type": "group",
             "id": 10058,
@@ -56,10 +56,10 @@
             "parsedDate": "2022-01",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{kiesling_weight_2022,\n\taddress = {Madison, WI},\n\ttype = {dissertation},\n\ttitle = {Weight {Window} {Isosurface} {Geometries} for {Monte} {Carlo} {Radiation} {Transport} {Variance} {Reduction}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Kiesling, Kalin R.},\n\tmonth = jan,\n\tyear = {2022},\n}\n",
+        "bibtex": "\n@phdthesis{kiesling_weight_2022,\n\taddress = {Madison, WI},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Weight {Window} {Isosurface} {Geometries} for {Monte} {Carlo} {Radiation} {Transport} {Variance} {Reduction}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Kiesling, Kalin R.},\n\tmonth = jan,\n\tyear = {2022},\n}\n",
         "data": {
             "key": "AEA47423",
-            "version": 26447,
+            "version": 26448,
             "itemType": "thesis",
             "title": "Weight Window Isosurface Geometries for Monte Carlo Radiation Transport Variance Reduction",
             "creators": [
@@ -70,7 +70,7 @@
                 }
             ],
             "abstractNote": "",
-            "thesisType": "dissertation",
+            "thesisType": "PhD Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI",
             "date": "2022-01",
@@ -92,7 +92,7 @@
             ],
             "relations": {},
             "dateAdded": "2022-02-16T18:12:26Z",
-            "dateModified": "2022-02-16T18:14:04Z"
+            "dateModified": "2022-02-16T18:19:38Z"
         }
     },
     {
