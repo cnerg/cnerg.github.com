@@ -1,7 +1,7 @@
 [
     {
         "key": "QR5KAH2I",
-        "version": 26430,
+        "version": 26431,
         "library": {
             "type": "group",
             "id": 10058,
@@ -41,20 +41,21 @@
                     }
                 }
             },
-            "creatorSummary": "Britt, Philip",
+            "creatorSummary": "Britt",
             "parsedDate": "2021-12-18",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{britt_philip_angular_2021,\n\taddress = {Madison, WI},\n\ttype = {{PhD}},\n\ttitle = {Angular {Importance} {Sampling} for {Forward} and {Adjoint} {Monte} {Carlo} {Radiation} {Transport}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {{Britt, Philip}},\n\tmonth = dec,\n\tyear = {2021},\n}\n",
+        "bibtex": "\n@phdthesis{britt_angular_2021,\n\taddress = {Madison, WI},\n\ttype = {{PhD}},\n\ttitle = {Angular {Importance} {Sampling} for {Forward} and {Adjoint} {Monte} {Carlo} {Radiation} {Transport}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Britt, Philip},\n\tmonth = dec,\n\tyear = {2021},\n}\n",
         "data": {
             "key": "QR5KAH2I",
-            "version": 26430,
+            "version": 26431,
             "itemType": "thesis",
             "title": "Angular Importance Sampling for Forward and Adjoint Monte Carlo Radiation Transport",
             "creators": [
                 {
                     "creatorType": "author",
-                    "name": "Britt, Philip"
+                    "firstName": "Philip",
+                    "lastName": "Britt"
                 }
             ],
             "abstractNote": "",
@@ -80,7 +81,7 @@
             ],
             "relations": {},
             "dateAdded": "2022-01-12T12:08:32Z",
-            "dateModified": "2022-01-12T12:11:16Z"
+            "dateModified": "2022-02-16T17:58:59Z"
         }
     },
     {
