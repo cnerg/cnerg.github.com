@@ -1,4 +1,17 @@
-# This is a basic workflow to help you get started with Actions
+# This workflow is used to update the Zotero information that populates the
+# publication lists on the website.
+#
+# When: this workflow is run when ever a commit is pushed to the `main` or
+#       `test_actions` branches
+#
+# What: This workflow uses wget to fetch data from  Zotero and store it in a format
+#       that will be used automatically by Jekyll when processing pages
+#
+# Requirements: For this action to work, there must be a secret key that
+#               authorizes access to the Zotero data through its API.
+#               You can learn more about such OAuth keys here: 
+#               https://www.zotero.org/settings/keys/new
+#               This key should be stored as `secrets.ZOTERO_GH_TOKEN`
 
 name: fetch_zotero
 
