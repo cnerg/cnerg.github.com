@@ -1,7 +1,7 @@
 [
     {
         "key": "QR5KAH2I",
-        "version": 26431,
+        "version": 26434,
         "library": {
             "type": "group",
             "id": 10058,
@@ -48,7 +48,7 @@
         "bibtex": "\n@phdthesis{britt_angular_2021,\n\taddress = {Madison, WI},\n\ttype = {{PhD}},\n\ttitle = {Angular {Importance} {Sampling} for {Forward} and {Adjoint} {Monte} {Carlo} {Radiation} {Transport}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Britt, Philip},\n\tmonth = dec,\n\tyear = {2021},\n}\n",
         "data": {
             "key": "QR5KAH2I",
-            "version": 26431,
+            "version": 26434,
             "itemType": "thesis",
             "title": "Angular Importance Sampling for Forward and Adjoint Monte Carlo Radiation Transport",
             "creators": [
@@ -81,12 +81,12 @@
             ],
             "relations": {},
             "dateAdded": "2022-01-12T12:08:32Z",
-            "dateModified": "2022-02-16T17:58:59Z"
+            "dateModified": "2022-02-16T18:01:52Z"
         }
     },
     {
         "key": "TP99Q4XA",
-        "version": 26426,
+        "version": 26434,
         "library": {
             "type": "group",
             "id": 10058,
@@ -130,10 +130,10 @@
             "parsedDate": "2021",
             "numChildren": 5
         },
-        "bibtex": "\n@phdthesis{opotowsky_spent_2021,\n\taddress = {United States -- Wisconsin},\n\ttype = {Ph.{D}.},\n\ttitle = {Spent {Nuclear} {Fuel} {Attribution} {Using} {Statistical} {Methods}: {Impacts} of {Information} {Reduction} on {Prediction} {Performance}},\n\tcopyright = {Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.},\n\tshorttitle = {Spent {Nuclear} {Fuel} {Attribution} {Using} {Statistical} {Methods}},\n\turl = {http://www.proquest.com/pqdtglobal/docview/2572584487/abstract/63EF45F6C2D47A2PQ/1},\n\tabstract = {Nuclear forensics is a nuclear security capability that is broadly defined as material attribution in the event of a nuclear incident. Improvement and research is needed for technical components of this process. One such area is the provenance of non-detonated special nuclear material; studied here is spent nuclear fuel (SNF), which is applicable in a scenario involving the unlawful use of commercial byproducts from nuclear power reactors. The experimental process involves measuring known forensics signatures to ascertain the reactor parameters that produced the material, assisting in locating its source. This work proposes the use of statistical methods to determine these quantities instead of empirical relationships.\nThe purpose of this work is to probe the feasibility of this method with a focus on field-deployable detection. Thus, two experiments are conducted, the first informing the second by providing a baseline of performance. Both experiments use simulated nuclide measurements as observations and reactor operation parameters as the prediction goals. First, machine learning algorithms are employed with full-knowledge training data, i.e., nuclide vectors from simulations that mimic lab-based mass spectrometry. The error in the mass measurements is artificially increased to probe the prediction performance with respect to information reduction. Second, this machine learning workflow is performed on training data analogous to a field-deployed gamma detector that can only measure radionuclides. The detector configuration is varied so that the information reduction now represents decreasing detector energy resolution. The results are evaluated using the error of the reactor parameter predictions.\nThe reactor parameters of interest are the reactor type and three quantities that can attribute SNF: burnup, initial 235U enrichment, and time since irradiation. The algorithms used to predict these quantities are k-nearest neighbors, decision trees, and maximum log-likelihood calculations. The first experiment predicts all of these quantities well using the three algorithms, except for k-nearest neighbors predicting time since irradiation. For the second experiment, most of the detector configurations predict burnup well, none of them predict enrichment well, and the time since irradiation results perform on or near the baseline. This approach is an exploratory study; the results are promising and warrant further study.},\n\tlanguage = {English},\n\turldate = {2021-10-15},\n\tschool = {The University of Wisconsin - Madison},\n\tauthor = {Opotowsky, Arrielle C.},\n\tyear = {2021},\n\tnote = {ISBN: 9798538113514},\n\tkeywords = {Machine learning, Nuclear forensics, Nuclear security, Reactor parameter prediction, Spent nuclear fuel attribution, Statistical methods},\n}\n",
+        "bibtex": "\n@phdthesis{opotowsky_spent_2021,\n\taddress = {United States -- Wisconsin},\n\ttype = {{PhD}},\n\ttitle = {Spent {Nuclear} {Fuel} {Attribution} {Using} {Statistical} {Methods}: {Impacts} of {Information} {Reduction} on {Prediction} {Performance}},\n\tcopyright = {Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.},\n\tshorttitle = {Spent {Nuclear} {Fuel} {Attribution} {Using} {Statistical} {Methods}},\n\turl = {http://www.proquest.com/pqdtglobal/docview/2572584487/abstract/63EF45F6C2D47A2PQ/1},\n\tabstract = {Nuclear forensics is a nuclear security capability that is broadly defined as material attribution in the event of a nuclear incident. Improvement and research is needed for technical components of this process. One such area is the provenance of non-detonated special nuclear material; studied here is spent nuclear fuel (SNF), which is applicable in a scenario involving the unlawful use of commercial byproducts from nuclear power reactors. The experimental process involves measuring known forensics signatures to ascertain the reactor parameters that produced the material, assisting in locating its source. This work proposes the use of statistical methods to determine these quantities instead of empirical relationships.\nThe purpose of this work is to probe the feasibility of this method with a focus on field-deployable detection. Thus, two experiments are conducted, the first informing the second by providing a baseline of performance. Both experiments use simulated nuclide measurements as observations and reactor operation parameters as the prediction goals. First, machine learning algorithms are employed with full-knowledge training data, i.e., nuclide vectors from simulations that mimic lab-based mass spectrometry. The error in the mass measurements is artificially increased to probe the prediction performance with respect to information reduction. Second, this machine learning workflow is performed on training data analogous to a field-deployed gamma detector that can only measure radionuclides. The detector configuration is varied so that the information reduction now represents decreasing detector energy resolution. The results are evaluated using the error of the reactor parameter predictions.\nThe reactor parameters of interest are the reactor type and three quantities that can attribute SNF: burnup, initial 235U enrichment, and time since irradiation. The algorithms used to predict these quantities are k-nearest neighbors, decision trees, and maximum log-likelihood calculations. The first experiment predicts all of these quantities well using the three algorithms, except for k-nearest neighbors predicting time since irradiation. For the second experiment, most of the detector configurations predict burnup well, none of them predict enrichment well, and the time since irradiation results perform on or near the baseline. This approach is an exploratory study; the results are promising and warrant further study.},\n\tlanguage = {English},\n\turldate = {2021-10-15},\n\tschool = {The University of Wisconsin - Madison},\n\tauthor = {Opotowsky, Arrielle C.},\n\tyear = {2021},\n\tnote = {ISBN: 9798538113514},\n\tkeywords = {Machine learning, Nuclear forensics, Nuclear security, Reactor parameter prediction, Spent nuclear fuel attribution, Statistical methods},\n}\n",
         "data": {
             "key": "TP99Q4XA",
-            "version": 26426,
+            "version": 26434,
             "itemType": "thesis",
             "title": "Spent Nuclear Fuel Attribution Using Statistical Methods: Impacts of Information Reduction on Prediction Performance",
             "creators": [
@@ -144,7 +144,7 @@
                 }
             ],
             "abstractNote": "Nuclear forensics is a nuclear security capability that is broadly defined as material attribution in the event of a nuclear incident. Improvement and research is needed for technical components of this process. One such area is the provenance of non-detonated special nuclear material; studied here is spent nuclear fuel (SNF), which is applicable in a scenario involving the unlawful use of commercial byproducts from nuclear power reactors. The experimental process involves measuring known forensics signatures to ascertain the reactor parameters that produced the material, assisting in locating its source. This work proposes the use of statistical methods to determine these quantities instead of empirical relationships.\nThe purpose of this work is to probe the feasibility of this method with a focus on field-deployable detection. Thus, two experiments are conducted, the first informing the second by providing a baseline of performance. Both experiments use simulated nuclide measurements as observations and reactor operation parameters as the prediction goals. First, machine learning algorithms are employed with full-knowledge training data, i.e., nuclide vectors from simulations that mimic lab-based mass spectrometry. The error in the mass measurements is artificially increased to probe the prediction performance with respect to information reduction. Second, this machine learning workflow is performed on training data analogous to a field-deployed gamma detector that can only measure radionuclides. The detector configuration is varied so that the information reduction now represents decreasing detector energy resolution. The results are evaluated using the error of the reactor parameter predictions.\nThe reactor parameters of interest are the reactor type and three quantities that can attribute SNF: burnup, initial 235U enrichment, and time since irradiation. The algorithms used to predict these quantities are k-nearest neighbors, decision trees, and maximum log-likelihood calculations. The first experiment predicts all of these quantities well using the three algorithms, except for k-nearest neighbors predicting time since irradiation. For the second experiment, most of the detector configurations predict burnup well, none of them predict enrichment well, and the time since irradiation results perform on or near the baseline. This approach is an exploratory study; the results are promising and warrant further study.",
-            "thesisType": "Ph.D.",
+            "thesisType": "PhD",
             "university": "The University of Wisconsin - Madison",
             "place": "United States -- Wisconsin",
             "date": "2021",
@@ -191,7 +191,7 @@
             ],
             "relations": {},
             "dateAdded": "2021-10-15T01:13:14Z",
-            "dateModified": "2021-10-15T01:13:14Z"
+            "dateModified": "2022-02-16T18:01:59Z"
         }
     },
     {
