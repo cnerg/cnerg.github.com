@@ -4,5 +4,5 @@ _site
 node_modules
 Gemfile.lock
 zotero.key.header
+vendor/*
 .DS_Store
-vendor
