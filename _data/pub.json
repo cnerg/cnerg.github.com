@@ -1,5 +1,240 @@
 [
     {
+        "key": "RQ3S4X4E",
+        "version": 26480,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/RQ3S4X4E",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/RQ3S4X4E",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/3G8EIN26",
+                "type": "application/json",
+                "attachmentType": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Shriwise et al.",
+            "parsedDate": "2022-02-01",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{shriwise_hardware-accelerated_2022,\n\ttitle = {Hardware-{Accelerated} {Ray} {Tracing} of {CAD}-{Based} {Geometry} for {Monte} {Carlo} {Radiation} {Transport}},\n\tissn = {1521-9615},\n\turl = {https://www.computer.org/csdl/magazine/cs/5555/01/09721666/1Bhz0VJvu1i},\n\tdoi = {10.1109/MCSE.2022.3154656},\n\tabstract = {Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using CAD-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors' work extends these innovations by employing Intel's Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve simulation performance using CAD-based models by factors of 1.5 to 2.},\n\tlanguage = {English},\n\tnumber = {01},\n\turldate = {2022-02-27},\n\tjournal = {Computing in Science \\& Engineering},\n\tauthor = {Shriwise, Patrick and Wilson, Paul and Davis, Andrew and Romano, Paul},\n\tmonth = feb,\n\tyear = {2022},\n\tnote = {Publisher: IEEE Computer Society},\n\tpages = {1--1},\n}\n",
+        "data": {
+            "key": "RQ3S4X4E",
+            "version": 26480,
+            "itemType": "journalArticle",
+            "title": "Hardware-Accelerated Ray Tracing of CAD-Based Geometry for Monte Carlo Radiation Transport",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Patrick",
+                    "lastName": "Shriwise"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Davis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Romano"
+                }
+            ],
+            "abstractNote": "Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using CAD-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors' work extends these innovations by employing Intel's Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve simulation performance using CAD-based models by factors of 1.5 to 2.",
+            "publicationTitle": "Computing in Science & Engineering",
+            "volume": "",
+            "issue": "01",
+            "pages": "1-1",
+            "date": "2022/02/01",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "English",
+            "DOI": "10.1109/MCSE.2022.3154656",
+            "ISSN": "1521-9615",
+            "shortTitle": "",
+            "url": "https://www.computer.org/csdl/magazine/cs/5555/01/09721666/1Bhz0VJvu1i",
+            "accessDate": "2022-02-27T22:29:31Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "www.computer.org",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: IEEE Computer Society",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2022-02-27T22:29:31Z",
+            "dateModified": "2022-02-27T22:29:31Z"
+        }
+    },
+    {
+        "key": "7D88Y9FT",
+        "version": 26454,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/7D88Y9FT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/7D88Y9FT",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/7TPQTMTF",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 516150
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 3315269,
+                "username": "nuclearkatie",
+                "name": "Kathryn Mummah",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/nuclearkatie",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Buono et al.",
+            "parsedDate": "2021-07-04",
+            "numChildren": 2
+        },
+        "bibtex": "\n@article{buono_its_2021,\n\ttitle = {It’s time to reignite {US}-{Russia} cooperation in space. {Nuclear} power may hold the key},\n\tvolume = {77},\n\tissn = {0096-3402},\n\turl = {https://doi.org/10.1080/00963402.2021.1941598},\n\tdoi = {10.1080/00963402.2021.1941598},\n\tabstract = {As US-Russia tensions in space have increased over the last several years, cooperation in space nuclear research presents itself as one opportunity to both ease bilateral relations and develop the technologies needed for the next generation of crewed space missions. The authors suggest that the United States and the Russian Federation have complementary needs and strengths in nuclear space technologies, particularly as they pertain to deep space propulsion and utilization of space resources.},\n\tnumber = {4},\n\turldate = {2022-02-24},\n\tjournal = {Bulletin of the Atomic Scientists},\n\tauthor = {Buono, Stephen and Hecla, Jake and Kobezskii, Vladimir and Mummah, Katie and de Troullioud de Lanversin, Julien},\n\tmonth = jul,\n\tyear = {2021},\n\tnote = {Publisher: Routledge\n\\_eprint: https://doi.org/10.1080/00963402.2021.1941598},\n\tkeywords = {Mars Oxygen In-Situ Resource Utilization Experiment, TOPAZ International Program, US-Russia space cooperation, in situ resource utilization, nuclear thermal propulsion},\n\tpages = {203--206},\n}\n",
+        "data": {
+            "key": "7D88Y9FT",
+            "version": 26454,
+            "itemType": "journalArticle",
+            "title": "It’s time to reignite US-Russia cooperation in space. Nuclear power may hold the key",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephen",
+                    "lastName": "Buono"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jake",
+                    "lastName": "Hecla"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Vladimir",
+                    "lastName": "Kobezskii"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Katie",
+                    "lastName": "Mummah"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Julien",
+                    "lastName": "de Troullioud de Lanversin"
+                }
+            ],
+            "abstractNote": "As US-Russia tensions in space have increased over the last several years, cooperation in space nuclear research presents itself as one opportunity to both ease bilateral relations and develop the technologies needed for the next generation of crewed space missions. The authors suggest that the United States and the Russian Federation have complementary needs and strengths in nuclear space technologies, particularly as they pertain to deep space propulsion and utilization of space resources.",
+            "publicationTitle": "Bulletin of the Atomic Scientists",
+            "volume": "77",
+            "issue": "4",
+            "pages": "203-206",
+            "date": "July 4, 2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.1080/00963402.2021.1941598",
+            "ISSN": "0096-3402",
+            "shortTitle": "",
+            "url": "https://doi.org/10.1080/00963402.2021.1941598",
+            "accessDate": "2022-02-24T00:20:29Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Taylor and Francis+NEJM",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: Routledge\n_eprint: https://doi.org/10.1080/00963402.2021.1941598",
+            "tags": [
+                {
+                    "tag": "Mars Oxygen In-Situ Resource Utilization Experiment",
+                    "type": 1
+                },
+                {
+                    "tag": "TOPAZ International Program",
+                    "type": 1
+                },
+                {
+                    "tag": "US-Russia space cooperation",
+                    "type": 1
+                },
+                {
+                    "tag": "in situ resource utilization",
+                    "type": 1
+                },
+                {
+                    "tag": "nuclear thermal propulsion",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2022-02-24T00:21:52Z",
+            "dateModified": "2022-02-24T00:21:53Z"
+        }
+    },
+    {
         "key": "QW38HRSJ",
         "version": 25069,
         "library": {
@@ -18461,276 +18696,6 @@
             },
             "dateAdded": "2012-06-14T18:12:55Z",
             "dateModified": "2012-06-21T14:50:39Z"
-        }
-    },
-    {
-        "key": "VNB82RBR",
-        "version": 21759,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/VNB82RBR",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/VNB82RBR",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/A9S9K38X",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 404273
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Wilson et al.",
-            "parsedDate": "2009",
-            "numChildren": 4
-        },
-        "bibtex": "\n@inproceedings{wilson_nuclear_2009,\n\taddress = {San Diego, CA, United states},\n\tseries = {Proceedings - {Symposium} on {Fusion} {Engineering}},\n\ttitle = {Nuclear {Heating} in {Critical} {Components} of {Alternative} {ITER} {First} {Wall} {Attachment} {Mechanism}},\n\turl = {http://dx.doi.org/10.1109/FUSION.2009.5226369},\n\tabstract = {A nuclear analysis was performed for an alternate ITER first wall attachment scheme to estimate the nuclear heating in critical components. With a variety of components near the first wall without direct cooling, there is concern that the operating temperatures will be above engineering limits. Using DAG-MCNP5, a 1-D analysis framework was used to estimate the nuclear heating in a detailed 3-D model of the first wall and shield attachment mechanism. The parts of the stainless steel hinge at the base of system experience nuclear heating between 1.85 and 5.07 W/cm3. The copper yoke and Inconel-718 yoke pin experience a heat rate of 2.44 W/cm3. If stainless steel bolts are used, the bolt heads will experience 2.9 W/cm3, with only a small reduction from plugging the bolt access holes. If molybdenum bolts are used, the bolt head heating is increased to 3.4 W/cm3. The heating in the hinge parts and stainless steel bolts is expected to lead to temperatures higher than engineering limits. Due to a higher thermal conductivity and melting temperature, the Mo bolts are expected to operate at acceptable temperatures. 2009 IEEE.},\n\turldate = {2010-01-15},\n\tbooktitle = {2009 23rd {IEEE}/{NPSS} {Symposium} on {Fusion} {Engineering}, {SOFE} 2009, {June} 1, 2009 - {June} 5, 2009},\n\tpublisher = {Institute of Electrical and Electronics Engineers Inc.},\n\tauthor = {Wilson, P.P.H. and Sawan, M.E. and Marriott, E.P. and Ulrickson, M.A.},\n\tyear = {2009},\n\tkeywords = {3D, Bolts, Experimental Reactors, Heating, Melting Point, Metal Analysis, Molybdenum, Monte Carlo Methods, Stainless Steel},\n}\n",
-        "data": {
-            "key": "VNB82RBR",
-            "version": 21759,
-            "itemType": "conferencePaper",
-            "title": "Nuclear Heating in Critical Components of Alternative ITER First Wall Attachment Mechanism",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M.E.",
-                    "lastName": "Sawan"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "E.P.",
-                    "lastName": "Marriott"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M.A.",
-                    "lastName": "Ulrickson"
-                }
-            ],
-            "abstractNote": "A nuclear analysis was performed for an alternate ITER first wall attachment scheme to estimate the nuclear heating in critical components. With a variety of components near the first wall without direct cooling, there is concern that the operating temperatures will be above engineering limits. Using DAG-MCNP5, a 1-D analysis framework was used to estimate the nuclear heating in a detailed 3-D model of the first wall and shield attachment mechanism. The parts of the stainless steel hinge at the base of system experience nuclear heating between 1.85 and 5.07 W/cm3. The copper yoke and Inconel-718 yoke pin experience a heat rate of 2.44 W/cm3. If stainless steel bolts are used, the bolt heads will experience 2.9 W/cm3, with only a small reduction from plugging the bolt access holes. If molybdenum bolts are used, the bolt head heating is increased to 3.4 W/cm3. The heating in the hinge parts and stainless steel bolts is expected to lead to temperatures higher than engineering limits. Due to a higher thermal conductivity and melting temperature, the Mo bolts are expected to operate at acceptable temperatures. 2009 IEEE.",
-            "date": "2009",
-            "proceedingsTitle": "2009 23rd IEEE/NPSS Symposium on Fusion Engineering, SOFE 2009, June 1, 2009 - June 5, 2009",
-            "conferenceName": "",
-            "place": "San Diego, CA, United states",
-            "publisher": "Institute of Electrical and Electronics Engineers Inc.",
-            "volume": "",
-            "pages": "",
-            "series": "Proceedings - Symposium on Fusion Engineering",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "http://dx.doi.org/10.1109/FUSION.2009.5226369",
-            "accessDate": "2010-01-15T03:36:17Z",
-            "archive": "Engineering Village",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "3D"
-                },
-                {
-                    "tag": "Bolts",
-                    "type": 1
-                },
-                {
-                    "tag": "Experimental Reactors"
-                },
-                {
-                    "tag": "Heating",
-                    "type": 1
-                },
-                {
-                    "tag": "Melting Point"
-                },
-                {
-                    "tag": "Metal Analysis"
-                },
-                {
-                    "tag": "Molybdenum",
-                    "type": 1
-                },
-                {
-                    "tag": "Monte Carlo Methods"
-                },
-                {
-                    "tag": "Stainless Steel"
-                }
-            ],
-            "collections": [
-                "VBKGWTWB",
-                "UKXV4KID"
-            ],
-            "relations": {
-                "dc:replaces": "http://zotero.org/groups/10058/items/S6VIU5DD"
-            },
-            "dateAdded": "2012-06-14T18:12:55Z",
-            "dateModified": "2012-06-21T14:26:44Z"
-        }
-    },
-    {
-        "key": "5RPIKB5K",
-        "version": 21758,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/5RPIKB5K",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/5RPIKB5K",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/D6XN3H4J",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 292175
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Radel et al.",
-            "parsedDate": "2009",
-            "numChildren": 3
-        },
-        "bibtex": "\n@inproceedings{radel_methods_2009,\n\taddress = {Atlanta, GA, United states},\n\tseries = {American {Nuclear} {Society} - 3rd {Topical} {Meeting} on {Nuclear} and {Emerging} {Technologies} for {Space} 2009, {NETS} 2009},\n\ttitle = {Methods for modeling impact-induced reactivity changes in space reactors},\n\tabstract = {This paper describes techniques for determining impact deformation and the subsequent reactivity change for a space reactor impacting the ground following a potential launch accident. This technique could be used to determine the margin of subcriticality for such potential accidents. Specifically, the approach couples a finite element continuum mechanics model (PRONTO3D or PRESTO) with a neutronics code (MCNP). DAGMC, developed at the University of Wisconsin-Madison, is used to convert PRONTO3D output to a usable MCNP input file. This paper summarizes what has been done historically for reactor launch analysis, describes the impact criticality analysis methodology, and presents preliminary results using representative reactor designs.},\n\tbooktitle = {3rd {Topical} {Meeting} on {Nuclear} and {Emerging} {Technologies} for {Space} 2009, {NETS} 2009, {June} 14, 2009 - {June} 19, 2009},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Radel, T.E. and Radel, R.F. and Smith, J.A. and Lipinski, R.J. and Wilson, P.H.H.},\n\tyear = {2009},\n\tkeywords = {Continuum Mechanics, Elasticity, Launching, Nuclear Reactor Accidents, Reactivity (nuclear), Semiconductor Quantum Dots},\n\tpages = {300--309},\n}\n",
-        "data": {
-            "key": "5RPIKB5K",
-            "version": 21758,
-            "itemType": "conferencePaper",
-            "title": "Methods for modeling impact-induced reactivity changes in space reactors",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "T.E.",
-                    "lastName": "Radel"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "R.F.",
-                    "lastName": "Radel"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "J.A.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "R.J.",
-                    "lastName": "Lipinski"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.H.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "This paper describes techniques for determining impact deformation and the subsequent reactivity change for a space reactor impacting the ground following a potential launch accident. This technique could be used to determine the margin of subcriticality for such potential accidents. Specifically, the approach couples a finite element continuum mechanics model (PRONTO3D or PRESTO) with a neutronics code (MCNP). DAGMC, developed at the University of Wisconsin-Madison, is used to convert PRONTO3D output to a usable MCNP input file. This paper summarizes what has been done historically for reactor launch analysis, describes the impact criticality analysis methodology, and presents preliminary results using representative reactor designs.",
-            "date": "2009",
-            "proceedingsTitle": "3rd Topical Meeting on Nuclear and Emerging Technologies for Space 2009, NETS 2009, June 14, 2009 - June 19, 2009",
-            "conferenceName": "",
-            "place": "Atlanta, GA, United states",
-            "publisher": "American Nuclear Society",
-            "volume": "",
-            "pages": "300-309",
-            "series": "American Nuclear Society - 3rd Topical Meeting on Nuclear and Emerging Technologies for Space 2009, NETS 2009",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "Engineering Village",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Continuum Mechanics"
-                },
-                {
-                    "tag": "Elasticity",
-                    "type": 1
-                },
-                {
-                    "tag": "Launching",
-                    "type": 1
-                },
-                {
-                    "tag": "Nuclear Reactor Accidents"
-                },
-                {
-                    "tag": "Reactivity (nuclear)",
-                    "type": 1
-                },
-                {
-                    "tag": "Semiconductor Quantum Dots"
-                }
-            ],
-            "collections": [
-                "VBKGWTWB",
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-14T18:12:55Z",
-            "dateModified": "2012-06-14T18:12:55Z"
         }
     }
 ]
