@@ -7,10 +7,6 @@
   - name: "Dr. Tim Bohm"
     url: "tdb"
     role: "Scientist"
-  - name: "Dr. Arrielle Opotowsky"
-    url: "aco"
-    role: "Post-Doctoral Associate"
-    image: opotowsky.jpg
 
 - group: 'Graduate Students'
   people:
@@ -52,9 +48,6 @@
 
 - group: 'Undergraduate Students'
   people:
-  - name: "Yuehan Qin"
-    url: "yq"
-    role: "Undergraduate Researcher"
   - name: "Bowen Quan"
     url: "bq"
     role: "Undergraduate Researcher"
@@ -252,6 +245,17 @@
     role: MS
     employer: BWXT Technologies
     employer_url: https://www.bwxt.com/
+  - name: Kyle Oliver
+    url: http://www.kyleoliver.net
+    year: 2009
+    role: MS
+    employer:
+    employer_url:
+  - name: Arrielle Opotowsky
+    year: 2021
+    role: PhD Nuclear Engineering and Engineering Physics
+    employer: TerraPower
+    employer_url: https://www.terrapower.com
   - name: Phiphat Phruksarojanakun
     url:
     year: 2007
@@ -264,12 +268,10 @@
     role: Undergraduate Intern
     employer:
     employer_url:
-  - name: Kyle Oliver
-    url: http://www.kyleoliver.net
-    year: 2009
-    role: MS
-    employer:
-    employer_url:
+  - name: Yuehan Qin
+    role: Undergraduate Researcher
+    year: 2022
+    employer: University of Southern California
   - name: Tracy Radel
     url: https://www.linkedin.com/pub/tracy-radel/24/6b7/538
     year: 2007
