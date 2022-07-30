@@ -55,6 +55,10 @@
   - name: "Yuehan Qin"
     url: "yq"
     role: "Undergraduate Researcher"
+  - name: "Kenneth Lee"
+    url: "kl"
+    role: "Undergraduate Intern"
+    image: Kenneth_Lee.jpg
 
 - group: 'Alumni'
   people:
