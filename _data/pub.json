@@ -1,7 +1,7 @@
 [
     {
-        "key": "RQ3S4X4E",
-        "version": 26480,
+        "key": "AX5M3M8V",
+        "version": 26575,
         "library": {
             "type": "group",
             "id": 10058,
@@ -15,17 +15,204 @@
         },
         "links": {
             "self": {
-                "href": "https://api.zotero.org/groups/10058/items/RQ3S4X4E",
+                "href": "https://api.zotero.org/groups/10058/items/AX5M3M8V",
                 "type": "application/json"
             },
             "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/RQ3S4X4E",
+                "href": "https://www.zotero.org/groups/10058/items/AX5M3M8V",
                 "type": "text/html"
             },
             "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/3G8EIN26",
+                "href": "https://api.zotero.org/groups/10058/items/JJM7E69K",
                 "type": "application/json",
-                "attachmentType": "text/html"
+                "attachmentType": "application/pdf",
+                "attachmentSize": 5852332
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Thiollière et al.",
+            "parsedDate": "2022-06-01",
+            "numChildren": 2
+        },
+        "bibtex": "\n@article{thiolliere_impact_2022,\n\ttitle = {Impact of fresh fuel loading management in fuel cycle simulators: {A} functionality isolation test},\n\tvolume = {392},\n\tissn = {0029-5493},\n\tshorttitle = {Impact of fresh fuel loading management in fuel cycle simulators},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0029549322001029},\n\tdoi = {10.1016/j.nucengdes.2022.111748},\n\tabstract = {Fuel cycle simulator development started many years ago by several research and engineering institutions or consulting firms for a wide range of applications. To improve confidence in the results, institutions may be tempted to increase the complexity of their software even if this complexity might not be necessary. On the other hand, some simulators may be used outside their range of validity when used in very specific applications. The FIT (Functionality Isolation Test) project is an international effort devoted to improve the confidence in the data produced by fuel cycle simulation tools. The scientific goal is to determine the optimum level of detail a fuel cycle simulator needs according to the type of study and the required confidence level. The project relies on a wide variety of fuel cycle simulators with a large range of complexity levels. The FIT project consists of isolating the impact of one targeted functionality on fuel cycle simulations. The impact of the functionality is assessed using a set of simple basic exercises specifically designed for this purpose, called ”functionality isolation.” The present work focuses on the impact on simulation results of using a fuel loading model (a relation that links the stock isotopic composition with the fresh fuel fabrication according to the reactor requirements) or a fixed fraction approach (the fresh fuel fissile fraction is fixed and does not depend on the stock isotopic composition). The paper first presents the FIT project. The exercise design is described and results show that using a fuel loading model approach has an important impact on fuel cycle outputs under certain conditions that are described. This result is reinforced by the fact that all fuel cycle simulators used in this exercise provide similar conclusions.},\n\tlanguage = {en},\n\turldate = {2022-04-18},\n\tjournal = {Nuclear Engineering and Design},\n\tauthor = {Thiollière, N. and Doligez, X. and Halasz, M. and Krivtchik, G. and Merino, I. and Mouginot, B. and Skarbeli, A. V. and Hernandez-Solis, A. and Alvarez-Velarde, F. and Courtin, F. and Druenne, H. and Ernoult, M. and Huff, K. and Szieberth, M. and Vermeeren, B. and Wilson, P.},\n\tmonth = jun,\n\tyear = {2022},\n\tkeywords = {FIT project, Fuel Cycle Simulators, Fuel Loading Models, Pressurized Water Reactors, Sodium Fast Reactors},\n\tpages = {111748},\n}\n",
+        "data": {
+            "key": "AX5M3M8V",
+            "version": 26575,
+            "itemType": "journalArticle",
+            "title": "Impact of fresh fuel loading management in fuel cycle simulators: A functionality isolation test",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "N.",
+                    "lastName": "Thiollière"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "X.",
+                    "lastName": "Doligez"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Halasz"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "G.",
+                    "lastName": "Krivtchik"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "I.",
+                    "lastName": "Merino"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "B.",
+                    "lastName": "Mouginot"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A. V.",
+                    "lastName": "Skarbeli"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Hernandez-Solis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "F.",
+                    "lastName": "Alvarez-Velarde"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "F.",
+                    "lastName": "Courtin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "H.",
+                    "lastName": "Druenne"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Ernoult"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "K.",
+                    "lastName": "Huff"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Szieberth"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "B.",
+                    "lastName": "Vermeeren"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "Fuel cycle simulator development started many years ago by several research and engineering institutions or consulting firms for a wide range of applications. To improve confidence in the results, institutions may be tempted to increase the complexity of their software even if this complexity might not be necessary. On the other hand, some simulators may be used outside their range of validity when used in very specific applications. The FIT (Functionality Isolation Test) project is an international effort devoted to improve the confidence in the data produced by fuel cycle simulation tools. The scientific goal is to determine the optimum level of detail a fuel cycle simulator needs according to the type of study and the required confidence level. The project relies on a wide variety of fuel cycle simulators with a large range of complexity levels. The FIT project consists of isolating the impact of one targeted functionality on fuel cycle simulations. The impact of the functionality is assessed using a set of simple basic exercises specifically designed for this purpose, called ”functionality isolation.” The present work focuses on the impact on simulation results of using a fuel loading model (a relation that links the stock isotopic composition with the fresh fuel fabrication according to the reactor requirements) or a fixed fraction approach (the fresh fuel fissile fraction is fixed and does not depend on the stock isotopic composition). The paper first presents the FIT project. The exercise design is described and results show that using a fuel loading model approach has an important impact on fuel cycle outputs under certain conditions that are described. This result is reinforced by the fact that all fuel cycle simulators used in this exercise provide similar conclusions.",
+            "publicationTitle": "Nuclear Engineering and Design",
+            "volume": "392",
+            "issue": "",
+            "pages": "111748",
+            "date": "2022-06-01",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Nuclear Engineering and Design",
+            "language": "en",
+            "DOI": "10.1016/j.nucengdes.2022.111748",
+            "ISSN": "0029-5493",
+            "shortTitle": "Impact of fresh fuel loading management in fuel cycle simulators",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0029549322001029",
+            "accessDate": "2022-04-18T14:24:04Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "ScienceDirect",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "FIT project",
+                    "type": 1
+                },
+                {
+                    "tag": "Fuel Cycle Simulators",
+                    "type": 1
+                },
+                {
+                    "tag": "Fuel Loading Models",
+                    "type": 1
+                },
+                {
+                    "tag": "Pressurized Water Reactors",
+                    "type": 1
+                },
+                {
+                    "tag": "Sodium Fast Reactors",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2022-04-18T14:24:04Z",
+            "dateModified": "2022-04-18T14:24:11Z"
+        }
+    },
+    {
+        "key": "9NC9HDVU",
+        "version": 26863,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/9NC9HDVU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/9NC9HDVU",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/GSBXQVZJ",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 5166062
             }
         },
         "meta": {
@@ -41,24 +228,24 @@
                 }
             },
             "creatorSummary": "Shriwise et al.",
-            "parsedDate": "2022-02-01",
-            "numChildren": 1
+            "parsedDate": "2022-03",
+            "numChildren": 2
         },
-        "bibtex": "\n@article{shriwise_hardware-accelerated_2022,\n\ttitle = {Hardware-{Accelerated} {Ray} {Tracing} of {CAD}-{Based} {Geometry} for {Monte} {Carlo} {Radiation} {Transport}},\n\tissn = {1521-9615},\n\turl = {https://www.computer.org/csdl/magazine/cs/5555/01/09721666/1Bhz0VJvu1i},\n\tdoi = {10.1109/MCSE.2022.3154656},\n\tabstract = {Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using CAD-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors' work extends these innovations by employing Intel's Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve simulation performance using CAD-based models by factors of 1.5 to 2.},\n\tlanguage = {English},\n\tnumber = {01},\n\turldate = {2022-02-27},\n\tjournal = {Computing in Science \\& Engineering},\n\tauthor = {Shriwise, Patrick and Wilson, Paul and Davis, Andrew and Romano, Paul},\n\tmonth = feb,\n\tyear = {2022},\n\tnote = {Publisher: IEEE Computer Society},\n\tpages = {1--1},\n}\n",
+        "bibtex": "\n@article{shriwise_hardware-accelerated_2022,\n\ttitle = {Hardware-{Accelerated} {Ray} {Tracing} of {CAD}-{Based} {Geometry} for {Monte} {Carlo} {Radiation} {Transport}},\n\tvolume = {24},\n\tissn = {1558-366X},\n\tdoi = {10.1109/MCSE.2022.3154656},\n\tabstract = {Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using the constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using computer-aided design (CAD)-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide the superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors’ work extends these innovations by employing Intel’s Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve the simulation performance using CAD-based models by factors of 1.5 to 2.},\n\tnumber = {2},\n\tjournal = {Computing in Science \\& Engineering},\n\tauthor = {Shriwise, Patrick C. and Wilson, Paul P. H. and Davis, Andrew and Romano, Paul K.},\n\tmonth = mar,\n\tyear = {2022},\n\tnote = {Conference Name: Computing in Science \\& Engineering},\n\tkeywords = {Computational modeling, Geometry, Hardware acceleration, Mathematical models, Monte Carlo methods, Ray tracing, Solid modeling},\n\tpages = {52--61},\n}\n",
         "data": {
-            "key": "RQ3S4X4E",
-            "version": 26480,
+            "key": "9NC9HDVU",
+            "version": 26863,
             "itemType": "journalArticle",
             "title": "Hardware-Accelerated Ray Tracing of CAD-Based Geometry for Monte Carlo Radiation Transport",
             "creators": [
                 {
                     "creatorType": "author",
-                    "firstName": "Patrick",
+                    "firstName": "Patrick C.",
                     "lastName": "Shriwise"
                 },
                 {
                     "creatorType": "author",
-                    "firstName": "Paul",
+                    "firstName": "Paul P. H.",
                     "lastName": "Wilson"
                 },
                 {
@@ -68,39 +255,68 @@
                 },
                 {
                     "creatorType": "author",
-                    "firstName": "Paul",
+                    "firstName": "Paul K.",
                     "lastName": "Romano"
                 }
             ],
-            "abstractNote": "Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using CAD-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors' work extends these innovations by employing Intel's Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve simulation performance using CAD-based models by factors of 1.5 to 2.",
+            "abstractNote": "Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using the constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using computer-aided design (CAD)-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide the superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors’ work extends these innovations by employing Intel’s Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve the simulation performance using CAD-based models by factors of 1.5 to 2.",
             "publicationTitle": "Computing in Science & Engineering",
-            "volume": "",
-            "issue": "01",
-            "pages": "1-1",
-            "date": "2022/02/01",
+            "volume": "24",
+            "issue": "2",
+            "pages": "52-61",
+            "date": "2022-03",
             "series": "",
             "seriesTitle": "",
             "seriesText": "",
             "journalAbbreviation": "",
-            "language": "English",
+            "language": "",
             "DOI": "10.1109/MCSE.2022.3154656",
-            "ISSN": "1521-9615",
+            "ISSN": "1558-366X",
             "shortTitle": "",
-            "url": "https://www.computer.org/csdl/magazine/cs/5555/01/09721666/1Bhz0VJvu1i",
-            "accessDate": "2022-02-27T22:29:31Z",
+            "url": "",
+            "accessDate": "",
             "archive": "",
             "archiveLocation": "",
-            "libraryCatalog": "www.computer.org",
+            "libraryCatalog": "IEEE Xplore",
             "callNumber": "",
             "rights": "",
-            "extra": "Publisher: IEEE Computer Society",
-            "tags": [],
+            "extra": "Conference Name: Computing in Science & Engineering",
+            "tags": [
+                {
+                    "tag": "Computational modeling",
+                    "type": 1
+                },
+                {
+                    "tag": "Geometry",
+                    "type": 1
+                },
+                {
+                    "tag": "Hardware acceleration",
+                    "type": 1
+                },
+                {
+                    "tag": "Mathematical models",
+                    "type": 1
+                },
+                {
+                    "tag": "Monte Carlo methods",
+                    "type": 1
+                },
+                {
+                    "tag": "Ray tracing",
+                    "type": 1
+                },
+                {
+                    "tag": "Solid modeling",
+                    "type": 1
+                }
+            ],
             "collections": [
                 "UKXV4KID"
             ],
             "relations": {},
-            "dateAdded": "2022-02-27T22:29:31Z",
-            "dateModified": "2022-02-27T22:29:31Z"
+            "dateAdded": "2022-07-01T15:11:47Z",
+            "dateModified": "2022-07-01T15:11:47Z"
         }
     },
     {
@@ -232,6 +448,121 @@
             "relations": {},
             "dateAdded": "2022-02-24T00:21:52Z",
             "dateModified": "2022-02-24T00:21:53Z"
+        }
+    },
+    {
+        "key": "SXSAFPD5",
+        "version": 26997,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/SXSAFPD5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/SXSAFPD5",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/BW3LD2GK",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 409270
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Park et al.",
+            "parsedDate": "2021",
+            "numChildren": 2
+        },
+        "bibtex": "\n@article{park_evaluation_2021,\n\ttitle = {{EVALUATION} {OF} {CRITICAL} {EXPERIMENTS} {IN} {THE} {UNIVERSITY} {OF} {WISCONSIN} {NUCLEAR} {REACTOR} ({UWNR}) {WITH} {UNCERTAINTY} {QUANTIFICATION}},\n\tvolume = {247},\n\tcopyright = {© The Authors, published by EDP Sciences, 2021},\n\tissn = {2100-014X},\n\turl = {https://www.epj-conferences.org/articles/epjconf/abs/2021/01/epjconf_physor2020_10032/epjconf_physor2020_10032.html},\n\tdoi = {10.1051/epjconf/202124710032},\n\tabstract = {An improved computational model of the University of Wisconsin Nuclear Reactor (UWNR) was developed to support the benchmark evaluation of recent data acquired during an experimental campaign conducted at UWNR. Previous efforts led to a scripted UWNR model for automated generation of MCNP6 and Serpent inputs. This capability was extended to SCALE/KENO. All three tools were used to evaluate a variety of zero-power, fresh-critical configurations, and the results agreed well. The MCNP6 model was extended to support shuffling the core configuration, which allows the modeling of burnup for evaluation of depleted critical configurations. The MCNP6 model successfully predicts core reactivity over time, after accounting for the initial reactivity bias. The inclusion of SCALE/KENO input generation enables sensitivity and uncertainty analyses using the TSUNAMI and Sampler modules of SCALE. A preliminary uncertainty analysis was performed with TSUNAMI for nuclear data uncertainties while direct perturbation calculations were performed using MCNP6 for geometry and material uncertainties, which helped to identify model parameters with the largest effect on the eigenvalue. A transient UWNR transport Model in Mammoth/Rattlesnake is under development to simulate the transient experiments. The existing MCNP6 and Serpent models are used to provide the CAD file for meshing and homogenized cross-sections. In conclusion, the evaluation of UWNR benchmark data provides increased confidence in various states of the UWNR computational model and will provide a unique model for use by other analysts.},\n\tlanguage = {en},\n\turldate = {2022-08-16},\n\tjournal = {EPJ Web of Conferences},\n\tauthor = {Park, Young-Hui and Cheng, Ye and Elzohery, Rabab and Wilson, Paul P. H. and Roberts, Jeremy A. and DeHart, Mark D.},\n\tyear = {2021},\n\tnote = {Publisher: EDP Sciences},\n\tpages = {10032},\n}\n",
+        "data": {
+            "key": "SXSAFPD5",
+            "version": 26997,
+            "itemType": "journalArticle",
+            "title": "EVALUATION OF CRITICAL EXPERIMENTS IN THE UNIVERSITY OF WISCONSIN NUCLEAR REACTOR (UWNR) WITH UNCERTAINTY QUANTIFICATION",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Young-Hui",
+                    "lastName": "Park"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ye",
+                    "lastName": "Cheng"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rabab",
+                    "lastName": "Elzohery"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jeremy A.",
+                    "lastName": "Roberts"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark D.",
+                    "lastName": "DeHart"
+                }
+            ],
+            "abstractNote": "An improved computational model of the University of Wisconsin Nuclear Reactor (UWNR) was developed to support the benchmark evaluation of recent data acquired during an experimental campaign conducted at UWNR. Previous efforts led to a scripted UWNR model for automated generation of MCNP6 and Serpent inputs. This capability was extended to SCALE/KENO. All three tools were used to evaluate a variety of zero-power, fresh-critical configurations, and the results agreed well. The MCNP6 model was extended to support shuffling the core configuration, which allows the modeling of burnup for evaluation of depleted critical configurations. The MCNP6 model successfully predicts core reactivity over time, after accounting for the initial reactivity bias. The inclusion of SCALE/KENO input generation enables sensitivity and uncertainty analyses using the TSUNAMI and Sampler modules of SCALE. A preliminary uncertainty analysis was performed with TSUNAMI for nuclear data uncertainties while direct perturbation calculations were performed using MCNP6 for geometry and material uncertainties, which helped to identify model parameters with the largest effect on the eigenvalue. A transient UWNR transport Model in Mammoth/Rattlesnake is under development to simulate the transient experiments. The existing MCNP6 and Serpent models are used to provide the CAD file for meshing and homogenized cross-sections. In conclusion, the evaluation of UWNR benchmark data provides increased confidence in various states of the UWNR computational model and will provide a unique model for use by other analysts.",
+            "publicationTitle": "EPJ Web of Conferences",
+            "volume": "247",
+            "issue": "",
+            "pages": "10032",
+            "date": "2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "EPJ Web Conf.",
+            "language": "en",
+            "DOI": "10.1051/epjconf/202124710032",
+            "ISSN": "2100-014X",
+            "shortTitle": "",
+            "url": "https://www.epj-conferences.org/articles/epjconf/abs/2021/01/epjconf_physor2020_10032/epjconf_physor2020_10032.html",
+            "accessDate": "2022-08-16T19:35:40Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "www.epj-conferences.org",
+            "callNumber": "",
+            "rights": "© The Authors, published by EDP Sciences, 2021",
+            "extra": "Publisher: EDP Sciences",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2022-08-16T19:35:40Z",
+            "dateModified": "2022-08-16T19:35:40Z"
         }
     },
     {
@@ -18402,300 +18733,6 @@
             "relations": {},
             "dateAdded": "2012-06-19T20:05:58Z",
             "dateModified": "2012-06-19T20:06:58Z"
-        }
-    },
-    {
-        "key": "JDFHXRM6",
-        "version": 21962,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/JDFHXRM6",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/JDFHXRM6",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/ZB335VFR",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 98352
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Ibrahim et al.",
-            "parsedDate": "2009",
-            "numChildren": 2
-        },
-        "bibtex": "\n@inproceedings{ibrahim_improving_2009,\n\taddress = {Atlanta, GA, United states},\n\tseries = {Transactions of the {American} {Nuclear} {Society}},\n\ttitle = {Improving the mesh generation capabilities in the {SCALE} hybrid shielding analysis sequence},\n\tvolume = {100},\n\tisbn = {0003018X},\n\tbooktitle = {2009 {ANS} {Annual} {Meeting} and {Embedded} {Topical} {Meeting}: {Nuclear} and {Emerging} {Technologies} for {Space}, {NETS} 2009, {June} 14, 2009 - {June} 18, 2009},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Ibrahim, Ahmad M. and Peplow, Douglas E. and Evans, Thomas M. and Wagner, John C. and Wilson, Paul P. H.},\n\tyear = {2009},\n\tkeywords = {Analysis, CADIS, Discrete Ordinates, MAVRIC, Macromaterials (MM), Monte Carlo, Radiation Shielding, SCALE},\n\tpages = {302--304},\n}\n",
-        "data": {
-            "key": "JDFHXRM6",
-            "version": 21962,
-            "itemType": "conferencePaper",
-            "title": "Improving the mesh generation capabilities in the SCALE hybrid shielding analysis sequence",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Ahmad M.",
-                    "lastName": "Ibrahim"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Douglas E.",
-                    "lastName": "Peplow"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Thomas M.",
-                    "lastName": "Evans"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "John C.",
-                    "lastName": "Wagner"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul P. H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "date": "2009",
-            "proceedingsTitle": "2009 ANS Annual Meeting and Embedded Topical Meeting: Nuclear and Emerging Technologies for Space, NETS 2009, June 14, 2009 - June 18, 2009",
-            "conferenceName": "",
-            "place": "Atlanta, GA, United states",
-            "publisher": "American Nuclear Society",
-            "volume": "100",
-            "pages": "302-304",
-            "series": "Transactions of the American Nuclear Society",
-            "language": "",
-            "DOI": "",
-            "ISBN": "0003018X",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "Engineering Village",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Analysis"
-                },
-                {
-                    "tag": "CADIS"
-                },
-                {
-                    "tag": "Discrete Ordinates"
-                },
-                {
-                    "tag": "MAVRIC"
-                },
-                {
-                    "tag": "Macromaterials (MM)"
-                },
-                {
-                    "tag": "Monte Carlo"
-                },
-                {
-                    "tag": "Radiation Shielding"
-                },
-                {
-                    "tag": "SCALE"
-                }
-            ],
-            "collections": [
-                "VBKGWTWB",
-                "UKXV4KID",
-                "RI2DQ3B2"
-            ],
-            "relations": {
-                "dc:replaces": "http://zotero.org/groups/10058/items/6ACG6MCX"
-            },
-            "dateAdded": "2012-06-14T18:12:55Z",
-            "dateModified": "2012-07-31T18:06:17Z"
-        }
-    },
-    {
-        "key": "ZTQABS9T",
-        "version": 21759,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/ZTQABS9T",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/ZTQABS9T",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/TM8RWGFR",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 2437044
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Sawan et al.",
-            "parsedDate": "2009",
-            "numChildren": 3
-        },
-        "bibtex": "\n@inproceedings{sawan_application_2009,\n\taddress = {San Diego, CA, United states},\n\tseries = {Proceedings - {Symposium} on {Fusion} {Engineering}},\n\ttitle = {Application of {CAD}-neutronics coupling to geometrically complex fusion systems},\n\turl = {http://dx.doi.org/10.1109/FUSION.2009.5226505},\n\tabstract = {An innovative computational tool (DAG-MCNP) has been developed for efficient and accurate 3-D nuclear analysis of geometrically complex fusion systems. Direct coupling with CAD models allows preserving the geometrical details, eliminating possible human error, and faster design iterations. DAG-MCNP has been applied to perform 3-D nuclear analysis for several fusion designs and demonstrated the ability to generate high-fidelity high-resolution results that significantly improve the design process. This tool will be the core for a full CAD-based simulation predictive capability that couples engineering analyses directly to the CAD solid model. 2009 IEEE.},\n\turldate = {2010-01-15},\n\tbooktitle = {2009 23rd {IEEE}/{NPSS} {Symposium} on {Fusion} {Engineering}, {SOFE} 2009, {June} 1, 2009 - {June} 5, 2009},\n\tpublisher = {Institute of Electrical and Electronics Engineers Inc.},\n\tauthor = {Sawan, M.E. and Wilson, P.P.H. and Tautges, T. and El-Guebaly, L.A. and Henderson, D.L. and Bohm, T.D. and Marriott, E.P. and Kiedrowski, B. and Smith, B. and Ibrahim, A. and Slaybaugh, R.},\n\tyear = {2009},\n\tkeywords = {3D, Computer-Aided Design, Monte Carlo Methods, Simulators},\n}\n",
-        "data": {
-            "key": "ZTQABS9T",
-            "version": 21759,
-            "itemType": "conferencePaper",
-            "title": "Application of CAD-neutronics coupling to geometrically complex fusion systems",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "M.E.",
-                    "lastName": "Sawan"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.",
-                    "lastName": "Tautges"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "L.A.",
-                    "lastName": "El-Guebaly"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "D.L.",
-                    "lastName": "Henderson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.D.",
-                    "lastName": "Bohm"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "E.P.",
-                    "lastName": "Marriott"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "B.",
-                    "lastName": "Kiedrowski"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "B.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "A.",
-                    "lastName": "Ibrahim"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "R.",
-                    "lastName": "Slaybaugh"
-                }
-            ],
-            "abstractNote": "An innovative computational tool (DAG-MCNP) has been developed for efficient and accurate 3-D nuclear analysis of geometrically complex fusion systems. Direct coupling with CAD models allows preserving the geometrical details, eliminating possible human error, and faster design iterations. DAG-MCNP has been applied to perform 3-D nuclear analysis for several fusion designs and demonstrated the ability to generate high-fidelity high-resolution results that significantly improve the design process. This tool will be the core for a full CAD-based simulation predictive capability that couples engineering analyses directly to the CAD solid model. 2009 IEEE.",
-            "date": "2009",
-            "proceedingsTitle": "2009 23rd IEEE/NPSS Symposium on Fusion Engineering, SOFE 2009, June 1, 2009 - June 5, 2009",
-            "conferenceName": "",
-            "place": "San Diego, CA, United states",
-            "publisher": "Institute of Electrical and Electronics Engineers Inc.",
-            "volume": "",
-            "pages": "",
-            "series": "Proceedings - Symposium on Fusion Engineering",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "http://dx.doi.org/10.1109/FUSION.2009.5226505",
-            "accessDate": "2010-01-15T03:36:13Z",
-            "archive": "Engineering Village",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "3D"
-                },
-                {
-                    "tag": "Computer-Aided Design"
-                },
-                {
-                    "tag": "Monte Carlo Methods"
-                },
-                {
-                    "tag": "Simulators",
-                    "type": 1
-                }
-            ],
-            "collections": [
-                "VBKGWTWB",
-                "UKXV4KID"
-            ],
-            "relations": {
-                "dc:replaces": "http://zotero.org/groups/10058/items/PQNAISKN"
-            },
-            "dateAdded": "2012-06-14T18:12:55Z",
-            "dateModified": "2012-06-21T14:50:39Z"
         }
     }
 ]
