@@ -55,6 +55,10 @@
   - name: "Yuehan Qin"
     url: "yq"
     role: "Undergraduate Researcher"
+  - name: "Bowen Quan"
+    url: "bq"
+    role: "Undergraduate Researcher"
+    image: Bowen_Quan.jpg
 
 - group: 'Alumni'
   people:
