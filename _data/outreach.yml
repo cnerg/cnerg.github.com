@@ -1,15 +1,15 @@
-- date: "2022-08-01"
-  venue: Nuclear Innovation Bootcamp
-  venue_url: https://www.nuclearinnovationbootcamp.org/
-  title: "Nuclear Energy in a Shifting Landscape"
-  url: https://docs.google.com/presentation/d/e/2PACX-1vRFlsQkLOL6GRvF4vqt84gTDkfb3SS5uBOuZ0yVvlyZL9JFILpnfwSUJZDnHyyYOynDrqlLU27fcviQ/pub
-  person: Paul Wilson
-  person_dir: pphw
 - date: "2022-05-24"
   venue: Wisconsin Technology Council
   venue_url: https://www.wisconsintechnologycouncil.com/
   title: "Nuclear Power: Part of a decarbonizezd future?"
   url: https://madison.com/business/tom-still-next-gen-nuclear-power-can-augment-renewable-energy-sources/article_9d447141-2bec-50d3-8ebd-1a85f80d4413.html
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2022-08-01"
+  venue: Nuclear Innovation Bootcamp
+  venue_url: https://www.nuclearinnovationbootcamp.org/
+  title: "Nuclear Energy in a Shifting Landscape"
+  url: https://docs.google.com/presentation/d/e/2PACX-1vRFlsQkLOL6GRvF4vqt84gTDkfb3SS5uBOuZ0yVvlyZL9JFILpnfwSUJZDnHyyYOynDrqlLU27fcviQ/pub
   person: Paul Wilson
   person_dir: pphw
 - date: "2022-05-18"
