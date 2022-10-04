@@ -42,9 +42,7 @@
     url: "lg"
     role: "PhD Candidate, US NRC Fellow"
     image: lewis.png
-  - name: "Joshua Ruegsegger"
-    url: "jr"
-    role: "MS Student"
+  
 
 - group: 'Undergraduate Students'
   people:
@@ -296,6 +294,9 @@
     role: MS
     employer: Kansas State University
     employer_url: http://www.kse.edu
+  - name: Josh Ruegsegger
+    year: 2022
+    role: MS
   - name: Ben Schmitt
     url:
     year: 2006
