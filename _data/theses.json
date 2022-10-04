@@ -1,7 +1,7 @@
 [
     {
         "key": "AEA47423",
-        "version": 26448,
+        "version": 27069,
         "library": {
             "type": "group",
             "id": 10058,
@@ -56,10 +56,10 @@
             "parsedDate": "2022-01",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{kiesling_weight_2022,\n\taddress = {Madison, WI},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Weight {Window} {Isosurface} {Geometries} for {Monte} {Carlo} {Radiation} {Transport} {Variance} {Reduction}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Kiesling, Kalin R.},\n\tmonth = jan,\n\tyear = {2022},\n}\n",
+        "bibtex": "\n@phdthesis{kiesling_weight_2022,\n\taddress = {Madison, WI},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Weight {Window} {Isosurface} {Geometries} for {Monte} {Carlo} {Radiation} {Transport} {Variance} {Reduction}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:HHJQGAKFHSOFW9B/datastreams/REF/content},\n\tabstract = {In order to perform accurate Monte Carlo (MC) simulations, which is a stochastic method resulting in uncertainty, variance reduction (VR) techniques are often necessary to reduce the relative error for quantities of interest. The use of weight windows (WWs) is a common VR method in which the statistical weight of particles are changed based on various parameters in the simulation. WWs are most commonly represented as a Cartesian WW mesh (CWWM) where WWs are defined across all energies on each mesh voxel. For large, geometrically complex problems, these meshes often need to be developed with fine resolution over the entire spatial domain in order to capture necessary fine detail in some regions of the geometry. This can cause the memory footprint of these meshes to be extremely large and computationally prohibitive. Furthermore, CWWMs are not necessarily efficient in their implementation with respect to when particle weight is checked and updated. \n\nThis dissertation work presents a novel method for representing WWs aimed at addressing the computational limitations of CWWMs while also improving VR efficiency. In this method, the WWs are transformed into a faceted mesh geometry, known as a WW isosurface geometry (WWIG), where the surfaces are the isosurfaces derived from the WW values in a CWWM. The WWIGs can then be used during particle tracking with the Direct Accelerated Geometry Monte Carlo (DAGMC) toolkit, which allows for particle tracking on arbitrarily complex geometries.\n\nIn this work, an algorithm for using WWIGs for MC VR has been implemented in DAGMC coupled with Monte Carlo N-Particle transport code (MCNP) (DAG-MCNP) 6.2. Initial verification and demonstration experiments show that the WWIG method performs accurate and comparable VR to using CWWMs. Further analysis has been done to demonstrate how changing mesh geometric features of the WWIGs affects computational performance during MC radiation transport. Depending on parameters set for generating the WWIGs and the starting CWWM, the isosurfaces of the WWIGs can vary in mesh coarseness, surface roughness, and spacing. In this work, we explore how these different geometric features of the WWIGs affect the memory footprint and computational performance during variance reduction for Monte Carlo radiation transport. In the end, we see that using WWIGs for MC VR improves WW efficiency and is comparable in performance to using CWWMs},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Kiesling, Kalin R.},\n\tmonth = jan,\n\tyear = {2022},\n}\n",
         "data": {
             "key": "AEA47423",
-            "version": 26448,
+            "version": 27069,
             "itemType": "thesis",
             "title": "Weight Window Isosurface Geometries for Monte Carlo Radiation Transport Variance Reduction",
             "creators": [
@@ -69,7 +69,7 @@
                     "lastName": "Kiesling"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "In order to perform accurate Monte Carlo (MC) simulations, which is a stochastic method resulting in uncertainty, variance reduction (VR) techniques are often necessary to reduce the relative error for quantities of interest. The use of weight windows (WWs) is a common VR method in which the statistical weight of particles are changed based on various parameters in the simulation. WWs are most commonly represented as a Cartesian WW mesh (CWWM) where WWs are defined across all energies on each mesh voxel. For large, geometrically complex problems, these meshes often need to be developed with fine resolution over the entire spatial domain in order to capture necessary fine detail in some regions of the geometry. This can cause the memory footprint of these meshes to be extremely large and computationally prohibitive. Furthermore, CWWMs are not necessarily efficient in their implementation with respect to when particle weight is checked and updated. \n\nThis dissertation work presents a novel method for representing WWs aimed at addressing the computational limitations of CWWMs while also improving VR efficiency. In this method, the WWs are transformed into a faceted mesh geometry, known as a WW isosurface geometry (WWIG), where the surfaces are the isosurfaces derived from the WW values in a CWWM. The WWIGs can then be used during particle tracking with the Direct Accelerated Geometry Monte Carlo (DAGMC) toolkit, which allows for particle tracking on arbitrarily complex geometries.\n\nIn this work, an algorithm for using WWIGs for MC VR has been implemented in DAGMC coupled with Monte Carlo N-Particle transport code (MCNP) (DAG-MCNP) 6.2. Initial verification and demonstration experiments show that the WWIG method performs accurate and comparable VR to using CWWMs. Further analysis has been done to demonstrate how changing mesh geometric features of the WWIGs affects computational performance during MC radiation transport. Depending on parameters set for generating the WWIGs and the starting CWWM, the isosurfaces of the WWIGs can vary in mesh coarseness, surface roughness, and spacing. In this work, we explore how these different geometric features of the WWIGs affect the memory footprint and computational performance during variance reduction for Monte Carlo radiation transport. In the end, we see that using WWIGs for MC VR improves WW efficiency and is comparable in performance to using CWWMs",
             "thesisType": "PhD Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI",
@@ -77,7 +77,7 @@
             "numPages": "",
             "language": "",
             "shortTitle": "",
-            "url": "",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:HHJQGAKFHSOFW9B/datastreams/REF/content",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -92,12 +92,12 @@
             ],
             "relations": {},
             "dateAdded": "2022-02-16T18:12:26Z",
-            "dateModified": "2022-02-16T18:19:38Z"
+            "dateModified": "2022-10-04T01:40:00Z"
         }
     },
     {
         "key": "QR5KAH2I",
-        "version": 26434,
+        "version": 27072,
         "library": {
             "type": "group",
             "id": 10058,
@@ -141,10 +141,10 @@
             "parsedDate": "2021-12-18",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{britt_angular_2021,\n\taddress = {Madison, WI},\n\ttype = {{PhD}},\n\ttitle = {Angular {Importance} {Sampling} for {Forward} and {Adjoint} {Monte} {Carlo} {Radiation} {Transport}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Britt, Philip},\n\tmonth = dec,\n\tyear = {2021},\n}\n",
+        "bibtex": "\n@phdthesis{britt_angular_2021,\n\taddress = {Madison, WI},\n\ttype = {{PhD}},\n\ttitle = {Angular {Importance} {Sampling} for {Forward} and {Adjoint} {Monte} {Carlo} {Radiation} {Transport}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:TAHOHYAYQKRUA84/datastreams/REF/content},\n\tabstract = {Variance reduction is an important tool to increase the rate of convergence in certain configurations of Monte Carlo problems. Methods such as CADIS are particularly useful to achieve this increased rate of convergence. However, CADIS does not include information for direction phase space, and an equivalent method has not been used for the adjoint Monte Carlo method. In this work, the benefits of including direction information in a weight window and weight target (a new type of importance sampling technique presented here) are analyzed and explored, along with a way to use importance sampling theory on the adjoint Monte Carlo method},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Britt, Philip},\n\tmonth = dec,\n\tyear = {2021},\n}\n",
         "data": {
             "key": "QR5KAH2I",
-            "version": 26434,
+            "version": 27072,
             "itemType": "thesis",
             "title": "Angular Importance Sampling for Forward and Adjoint Monte Carlo Radiation Transport",
             "creators": [
@@ -154,7 +154,7 @@
                     "lastName": "Britt"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "Variance reduction is an important tool to increase the rate of convergence in certain configurations of Monte Carlo problems. Methods such as CADIS are particularly useful to achieve this increased rate of convergence. However, CADIS does not include information for direction phase space, and an equivalent method has not been used for the adjoint Monte Carlo method. In this work, the benefits of including direction information in a weight window and weight target (a new type of importance sampling technique presented here) are analyzed and explored, along with a way to use importance sampling theory on the adjoint Monte Carlo method",
             "thesisType": "PhD",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI",
@@ -162,7 +162,7 @@
             "numPages": "112",
             "language": "English",
             "shortTitle": "",
-            "url": "",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:TAHOHYAYQKRUA84/datastreams/REF/content",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -177,7 +177,7 @@
             ],
             "relations": {},
             "dateAdded": "2022-01-12T12:08:32Z",
-            "dateModified": "2022-02-16T18:01:52Z"
+            "dateModified": "2022-10-04T01:41:20Z"
         }
     },
     {
@@ -462,7 +462,7 @@
     },
     {
         "key": "QECSDSE9",
-        "version": 26430,
+        "version": 27074,
         "library": {
             "type": "group",
             "id": 10058,
@@ -517,10 +517,10 @@
             "parsedDate": "2019-05-16",
             "numChildren": 3
         },
-        "bibtex": "\n@phdthesis{dangelo_variance_2019,\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Variance {Reduction} for {Multi}-physics {Analysis} of {Moving} {Systems}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {D'Angelo, Chelsea},\n\tmonth = may,\n\tyear = {2019},\n}\n",
+        "bibtex": "\n@phdthesis{dangelo_variance_2019,\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Variance {Reduction} for {Multi}-physics {Analysis} of {Moving} {Systems}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:KT62IHINMM6JZ9A/datastreams/REF/content},\n\tabstract = {The quantification of the shutdown dose rate (SDR) caused by photons emitted by activated structural materials is an important and necessary step of the design process of fusion energy systems (FES). FES are purposefully designed with modular components that can be moved out of a facility after shutdown for maintenance. It is particularly important to accurately quantify the SDR during maintenance procedures that may cause facility personnel to be in closer proximity to activated equipment. This type of analysis requires neutron and photon transport calculations coupled by activation analysis to determine the SDR. Due to its ability to obtain highly accurate results, the Monte Carlo (MC) method is often used for both transport operations, but the computational expense of obtaining results with low error in systems with heavy shielding can be prohibitive. However, variance reduction (VR) methods can be used to optimize the computational efficiency by artificially increasing the simulation of events that will contribute to the quantity of interest.\n\nOne hybrid VR technique used to optimize the initial transport step of a multi-step process is known as the Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method. The basis of MS-CADIS is that the importance function used in each step of the problem must represent the importance of the particles to the final objective function. As the spatial configuration of the materials changes, the probability that they will contribute to the objective function also changes. In the specific case of SDR analysis, the importance function for the neutron transport step must capture the probability of materials to become activated and subsequently emit photons that will make a significant contribution to the SDR. The Groupwise Transmutation (GT)-CADIS method is an implementation of MS-CADIS that optimizes the neutron transport step of SDR calculations. GT-CADIS generates an adjoint neutron source based on certain assumptions and approximations about the transmutation network. This source is used for adjoint transport and the resulting flux is used to generate the biasing parameters to optimize the forward neutron transport.\n\nFor systems that undergo movement, a new hybrid deterministic/MC VR technique, the Time-integrated (T)GT-CADIS method, that adapts GT-CADIS for dynamic systems by calculating a time-integrated adjoint neutron source was developed. This work demonstrates the tools and workflows necessary to efficiently calculate quantities of interest resulting from coupled, multi-physics processes in dynamic systems.},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {D'Angelo, Chelsea},\n\tmonth = may,\n\tyear = {2019},\n}\n",
         "data": {
             "key": "QECSDSE9",
-            "version": 26430,
+            "version": 27074,
             "itemType": "thesis",
             "title": "Variance Reduction for Multi-physics Analysis of Moving Systems",
             "creators": [
@@ -530,7 +530,7 @@
                     "lastName": "D'Angelo"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "The quantification of the shutdown dose rate (SDR) caused by photons emitted by activated structural materials is an important and necessary step of the design process of fusion energy systems (FES). FES are purposefully designed with modular components that can be moved out of a facility after shutdown for maintenance. It is particularly important to accurately quantify the SDR during maintenance procedures that may cause facility personnel to be in closer proximity to activated equipment. This type of analysis requires neutron and photon transport calculations coupled by activation analysis to determine the SDR. Due to its ability to obtain highly accurate results, the Monte Carlo (MC) method is often used for both transport operations, but the computational expense of obtaining results with low error in systems with heavy shielding can be prohibitive. However, variance reduction (VR) methods can be used to optimize the computational efficiency by artificially increasing the simulation of events that will contribute to the quantity of interest.\n\nOne hybrid VR technique used to optimize the initial transport step of a multi-step process is known as the Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method. The basis of MS-CADIS is that the importance function used in each step of the problem must represent the importance of the particles to the final objective function. As the spatial configuration of the materials changes, the probability that they will contribute to the objective function also changes. In the specific case of SDR analysis, the importance function for the neutron transport step must capture the probability of materials to become activated and subsequently emit photons that will make a significant contribution to the SDR. The Groupwise Transmutation (GT)-CADIS method is an implementation of MS-CADIS that optimizes the neutron transport step of SDR calculations. GT-CADIS generates an adjoint neutron source based on certain assumptions and approximations about the transmutation network. This source is used for adjoint transport and the resulting flux is used to generate the biasing parameters to optimize the forward neutron transport.\n\nFor systems that undergo movement, a new hybrid deterministic/MC VR technique, the Time-integrated (T)GT-CADIS method, that adapts GT-CADIS for dynamic systems by calculating a time-integrated adjoint neutron source was developed. This work demonstrates the tools and workflows necessary to efficiently calculate quantities of interest resulting from coupled, multi-physics processes in dynamic systems.",
             "thesisType": "PhD Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "",
@@ -538,7 +538,7 @@
             "numPages": "",
             "language": "",
             "shortTitle": "",
-            "url": "",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:KT62IHINMM6JZ9A/datastreams/REF/content",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -553,7 +553,7 @@
             ],
             "relations": {},
             "dateAdded": "2019-08-12T12:15:40Z",
-            "dateModified": "2020-12-30T03:34:58Z"
+            "dateModified": "2022-10-04T01:48:47Z"
         }
     },
     {
