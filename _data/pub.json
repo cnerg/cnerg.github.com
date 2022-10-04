@@ -187,7 +187,7 @@
     },
     {
         "key": "9NC9HDVU",
-        "version": 26863,
+        "version": 27084,
         "library": {
             "type": "group",
             "id": 10058,
@@ -231,10 +231,10 @@
             "parsedDate": "2022-03",
             "numChildren": 2
         },
-        "bibtex": "\n@article{shriwise_hardware-accelerated_2022,\n\ttitle = {Hardware-{Accelerated} {Ray} {Tracing} of {CAD}-{Based} {Geometry} for {Monte} {Carlo} {Radiation} {Transport}},\n\tvolume = {24},\n\tissn = {1558-366X},\n\tdoi = {10.1109/MCSE.2022.3154656},\n\tabstract = {Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using the constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using computer-aided design (CAD)-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide the superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors’ work extends these innovations by employing Intel’s Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve the simulation performance using CAD-based models by factors of 1.5 to 2.},\n\tnumber = {2},\n\tjournal = {Computing in Science \\& Engineering},\n\tauthor = {Shriwise, Patrick C. and Wilson, Paul P. H. and Davis, Andrew and Romano, Paul K.},\n\tmonth = mar,\n\tyear = {2022},\n\tnote = {Conference Name: Computing in Science \\& Engineering},\n\tkeywords = {Computational modeling, Geometry, Hardware acceleration, Mathematical models, Monte Carlo methods, Ray tracing, Solid modeling},\n\tpages = {52--61},\n}\n",
+        "bibtex": "\n@article{shriwise_hardware-accelerated_2022,\n\ttitle = {Hardware-{Accelerated} {Ray} {Tracing} of {CAD}-{Based} {Geometry} for {Monte} {Carlo} {Radiation} {Transport}},\n\tvolume = {24},\n\tissn = {1558-366X},\n\turl = {https://ieeexplore.ieee.org/document/9721666},\n\tdoi = {10.1109/MCSE.2022.3154656},\n\tabstract = {Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using the constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using computer-aided design (CAD)-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide the superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors’ work extends these innovations by employing Intel’s Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve the simulation performance using CAD-based models by factors of 1.5 to 2.},\n\tnumber = {2},\n\tjournal = {Computing in Science \\& Engineering},\n\tauthor = {Shriwise, Patrick C. and Wilson, Paul P. H. and Davis, Andrew and Romano, Paul K.},\n\tmonth = mar,\n\tyear = {2022},\n\tnote = {Conference Name: Computing in Science \\& Engineering},\n\tkeywords = {Computational modeling, Geometry, Hardware acceleration, Mathematical models, Monte Carlo methods, Ray tracing, Solid modeling},\n\tpages = {52--61},\n}\n",
         "data": {
             "key": "9NC9HDVU",
-            "version": 26863,
+            "version": 27084,
             "itemType": "journalArticle",
             "title": "Hardware-Accelerated Ray Tracing of CAD-Based Geometry for Monte Carlo Radiation Transport",
             "creators": [
@@ -273,7 +273,7 @@
             "DOI": "10.1109/MCSE.2022.3154656",
             "ISSN": "1558-366X",
             "shortTitle": "",
-            "url": "",
+            "url": "https://ieeexplore.ieee.org/document/9721666",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -316,7 +316,7 @@
             ],
             "relations": {},
             "dateAdded": "2022-07-01T15:11:47Z",
-            "dateModified": "2022-07-01T15:11:47Z"
+            "dateModified": "2022-10-04T02:04:55Z"
         }
     },
     {
@@ -7965,7 +7965,7 @@
     },
     {
         "key": "XHJSW4WR",
-        "version": 24884,
+        "version": 27085,
         "library": {
             "type": "group",
             "id": 10058,
@@ -8009,10 +8009,10 @@
             "parsedDate": "2019",
             "numChildren": 2
         },
-        "bibtex": "\n@article{radtke_ionization_2019,\n\ttitle = {Ionization {Chambers} to {Determine} {Neutron} and {Gamma}-{Ray} {Kerma} in a {Research} {Reactor}},\n\tvolume = {66},\n\tissn = {0018-9499, 1558-1578},\n\tdoi = {10.1109/TNS.2019.2937750},\n\tabstract = {Ionization chambers were designed and constructed to determine the kerma rates in various materials within several centimeters of a TRIGA reactor core operating at 1 MW. The primary aim of this work was to compare kerma measurements with advanced Monte Carlo code calculations of nuclear heating. Wall thickness, collection gap and fill gas pressure were chosen to satisfy Bragg-Gray criteria, so that measured ionization current was related to the kerma rate in the wall material. Chamber wall materials comprised of low mass number elements, including hydrogen-rich C552 air-equivalent plastic and beryllium, were selected to measure the kerma due to fast neutron elastic scattering. By operating these neutron sensitive chambers coincidentally with relatively neutron insensitive chambers composed of aluminum and Zircaloy-4, we were able to measure the total heating due to fast neutrons and gamma rays in a material, and differentiate these heating components. A chamber comprised of borated stainless steel was used in a similar fashion to measure thermal neutron flux. The total kerma rate was also measured in various materials typically found in a reactor core. Chamber collection volumes were initially determined using ambient air fill gas and NIST-traceable air-kerma rates from a 60Co source. All chambers were sealed with argon gas to provide thermal and compositional stability. Chamber properties, including stability, saturation and gas phase mass subject to charge collection, were determined using the 60Co source. Chambers were operated for approximately 30 minutes adjacent the reactor core, and integrity of gas seals was subsequently verified by repeating the measurement with the 60Co source.},\n\tjournal = {IEEE Transactions on Nuclear Science},\n\tauthor = {Radtke, Jeff and Deluca, Paul and Anderson, Dan and Wilson, Paul and Bartol, Laura and Maile, Andrew and Agasie, Robert and Trumbull, Timothy and Grant, Edwin and Brooks, Paul and Anderson, Mark and Culberson, Wesley},\n\tyear = {2019},\n\tkeywords = {Bragg-Gray, Kerma, TRIGA, ionization chamber, neutron-gamma discrimination, nuclear heating},\n\tpages = {2160--2169},\n}\n",
+        "bibtex": "\n@article{radtke_ionization_2019,\n\ttitle = {Ionization {Chambers} to {Determine} {Neutron} and {Gamma}-{Ray} {Kerma} in a {Research} {Reactor}},\n\tvolume = {66},\n\tissn = {0018-9499, 1558-1578},\n\turl = {https://ieeexplore.ieee.org/document/8815849},\n\tdoi = {10.1109/TNS.2019.2937750},\n\tabstract = {Ionization chambers were designed and constructed to determine the kerma rates in various materials within several centimeters of a TRIGA reactor core operating at 1 MW. The primary aim of this work was to compare kerma measurements with advanced Monte Carlo code calculations of nuclear heating. Wall thickness, collection gap and fill gas pressure were chosen to satisfy Bragg-Gray criteria, so that measured ionization current was related to the kerma rate in the wall material. Chamber wall materials comprised of low mass number elements, including hydrogen-rich C552 air-equivalent plastic and beryllium, were selected to measure the kerma due to fast neutron elastic scattering. By operating these neutron sensitive chambers coincidentally with relatively neutron insensitive chambers composed of aluminum and Zircaloy-4, we were able to measure the total heating due to fast neutrons and gamma rays in a material, and differentiate these heating components. A chamber comprised of borated stainless steel was used in a similar fashion to measure thermal neutron flux. The total kerma rate was also measured in various materials typically found in a reactor core. Chamber collection volumes were initially determined using ambient air fill gas and NIST-traceable air-kerma rates from a 60Co source. All chambers were sealed with argon gas to provide thermal and compositional stability. Chamber properties, including stability, saturation and gas phase mass subject to charge collection, were determined using the 60Co source. Chambers were operated for approximately 30 minutes adjacent the reactor core, and integrity of gas seals was subsequently verified by repeating the measurement with the 60Co source.},\n\tjournal = {IEEE Transactions on Nuclear Science},\n\tauthor = {Radtke, Jeff and Deluca, Paul and Anderson, Dan and Wilson, Paul and Bartol, Laura and Maile, Andrew and Agasie, Robert and Trumbull, Timothy and Grant, Edwin and Brooks, Paul and Anderson, Mark and Culberson, Wesley},\n\tyear = {2019},\n\tkeywords = {Bragg-Gray, Kerma, TRIGA, ionization chamber, neutron-gamma discrimination, nuclear heating},\n\tpages = {2160--2169},\n}\n",
         "data": {
             "key": "XHJSW4WR",
-            "version": 24884,
+            "version": 27085,
             "itemType": "journalArticle",
             "title": "Ionization Chambers to Determine Neutron and Gamma-Ray Kerma in a Research Reactor",
             "creators": [
@@ -8091,7 +8091,7 @@
             "DOI": "10.1109/TNS.2019.2937750",
             "ISSN": "0018-9499, 1558-1578",
             "shortTitle": "",
-            "url": "",
+            "url": "https://ieeexplore.ieee.org/document/8815849",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -8130,7 +8130,7 @@
             ],
             "relations": {},
             "dateAdded": "2019-10-19T23:49:21Z",
-            "dateModified": "2020-11-12T11:41:10Z"
+            "dateModified": "2022-10-04T02:05:52Z"
         }
     },
     {
