@@ -558,7 +558,7 @@
     },
     {
         "key": "DX9W8A98",
-        "version": 26429,
+        "version": 27075,
         "library": {
             "type": "group",
             "id": 10058,
@@ -613,10 +613,10 @@
             "parsedDate": "2019-03-15",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{harb_propagation_2019,\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Propagation of {Statistical} {Uncertainty} in {Mesh}-{Based} {Shutdown} {Dose} {Rate} {Calculations}},\n\tabstract = {In fusion energy systems (FES), high energy neutrons are emitted from the\nplasma source - due to the D-T fusion reaction - enabling them to penetrate deep in the materials surrounding the core. Energy is then deposited along the path of the neutrons due to interactions with nuclides, resulting in - besides nuclear heating - two main effects; radiation damage and transmutation. Radiation damage causes changes in the macroscopic properties of the materials due to microscopic changes that result from interactions of high energy neutrons with nuclides. Transmutation is caused by the absorption of neutrons by nuclides in the medium and almost always results in the production of radioactive nuclides. Such radioactive nuclides are of importance to FES design and operation as they persist after the shutdown of the facility due to their long half lives. Efforts are directed to quantify the shutdown dose rate (SDR) that results from gamma emitting nuclides produced by transmutation. Monte Carlo (MC) methods are favored over deterministic methods for the simulation of particles transport in FES due to complexity of the models and to reduce the uncertainties/errors of the predicted particle flux distributions due to approximations. The rigorous 2-step method (R2S) relies on dedicated activation calculations to predict the photon emission density distribution, and is widely used for SDR quantification. It involves a neutron transport step, activation analysis to obtain the photon emission density, and a photon transport step to calculate the SDR.\nIt is often the case that neutrons suffer attenuation in traversing the medium from the plasma source - due to interactions with nuclides - and that results in a steep gradient in the neutron flux. Variance reduction (VR) tools have been developed with the primary goal of pushing neutrons - simulated particles - to regions of the phase-space that are of importance for the quantities under consideration in order to reduce the uncertainty in the MC results. The recently developed Group- wise Transmutation - Consistent Adjoint Driven Importance Sampling (GT CADIS) method provides a capability to obtain the photon emission density distribution as a function of the energy dependent group-wise neutron flux distribution via linearization of the transmutation operator. Using the photon emission density it is possible to overcome previous difficulties of the error propagation in the R2S workflow. One primary concern with the R2S workflow is that only the contribution of the photon transport step is considered as a measure of the uncertainty of the calculated SDR, while the contribution from the neutron transport step remains undefined. Previous methods have tried to tackle this issue but there was always difficulty in obtaining the correlation of the neutron fluxes and that resulted in implementing either impractical approximations or just calculating the upper and lower bounds of the uncertainty of the SDR.\nIn this document, the R2S workflow has been investigated. First, issues related to the neutron transport step and the uncertainty of the photon emission density have been addressed. Second, a scheme was developed to propagate the statistical uncertainty of the neutron transport step to the SDR. Starting with the neutron transport step, a variation of the main R2S that aimed at increasing the resolution while reducing the computational expenses was found to introduce systematic errors that might undermine the gain in the computational cost. One of the difficulties in propagating the neutron flux uncertainty to the photon emission density is obtaining the correlation values between the neutron fluxes in different energy groups and mesh voxels. By utilizing the GT method, an approximation to the calculation of the correlation coefficients has been investigated building on the fact that using group-wise transmutation the correlation terms needed were greatly reduced. It was discovered that the correlation between the neutron fluxes in different energy groups is a function of the material composition. That facilitated obtaining the needed correlation matrix and quantifying the uncertainty of the photon emission density. A method to propagate the photon source uncertainty to the SDR by random sampling was developed and was demonstrated to be efficient on various types of numerical experiments as well as a production level problem.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Harb, Moataz S.},\n\tmonth = mar,\n\tyear = {2019},\n\tkeywords = {Correlation, Error Propagation, FESS-FNSF, R2S, SDR},\n}\n",
+        "bibtex": "\n@phdthesis{harb_propagation_2019,\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Propagation of {Statistical} {Uncertainty} in {Mesh}-{Based} {Shutdown} {Dose} {Rate} {Calculations}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:6MDCBYJEASBZ78Z/datastreams/REF/content},\n\tabstract = {In fusion energy systems (FES), high energy neutrons are emitted from the\nplasma source - due to the D-T fusion reaction - enabling them to penetrate deep in the materials surrounding the core. Energy is then deposited along the path of the neutrons due to interactions with nuclides, resulting in - besides nuclear heating - two main effects; radiation damage and transmutation. Radiation damage causes changes in the macroscopic properties of the materials due to microscopic changes that result from interactions of high energy neutrons with nuclides. Transmutation is caused by the absorption of neutrons by nuclides in the medium and almost always results in the production of radioactive nuclides. Such radioactive nuclides are of importance to FES design and operation as they persist after the shutdown of the facility due to their long half lives. Efforts are directed to quantify the shutdown dose rate (SDR) that results from gamma emitting nuclides produced by transmutation. Monte Carlo (MC) methods are favored over deterministic methods for the simulation of particles transport in FES due to complexity of the models and to reduce the uncertainties/errors of the predicted particle flux distributions due to approximations. The rigorous 2-step method (R2S) relies on dedicated activation calculations to predict the photon emission density distribution, and is widely used for SDR quantification. It involves a neutron transport step, activation analysis to obtain the photon emission density, and a photon transport step to calculate the SDR.\nIt is often the case that neutrons suffer attenuation in traversing the medium from the plasma source - due to interactions with nuclides - and that results in a steep gradient in the neutron flux. Variance reduction (VR) tools have been developed with the primary goal of pushing neutrons - simulated particles - to regions of the phase-space that are of importance for the quantities under consideration in order to reduce the uncertainty in the MC results. The recently developed Group- wise Transmutation - Consistent Adjoint Driven Importance Sampling (GT CADIS) method provides a capability to obtain the photon emission density distribution as a function of the energy dependent group-wise neutron flux distribution via linearization of the transmutation operator. Using the photon emission density it is possible to overcome previous difficulties of the error propagation in the R2S workflow. One primary concern with the R2S workflow is that only the contribution of the photon transport step is considered as a measure of the uncertainty of the calculated SDR, while the contribution from the neutron transport step remains undefined. Previous methods have tried to tackle this issue but there was always difficulty in obtaining the correlation of the neutron fluxes and that resulted in implementing either impractical approximations or just calculating the upper and lower bounds of the uncertainty of the SDR.\nIn this document, the R2S workflow has been investigated. First, issues related to the neutron transport step and the uncertainty of the photon emission density have been addressed. Second, a scheme was developed to propagate the statistical uncertainty of the neutron transport step to the SDR. Starting with the neutron transport step, a variation of the main R2S that aimed at increasing the resolution while reducing the computational expenses was found to introduce systematic errors that might undermine the gain in the computational cost. One of the difficulties in propagating the neutron flux uncertainty to the photon emission density is obtaining the correlation values between the neutron fluxes in different energy groups and mesh voxels. By utilizing the GT method, an approximation to the calculation of the correlation coefficients has been investigated building on the fact that using group-wise transmutation the correlation terms needed were greatly reduced. It was discovered that the correlation between the neutron fluxes in different energy groups is a function of the material composition. That facilitated obtaining the needed correlation matrix and quantifying the uncertainty of the photon emission density. A method to propagate the photon source uncertainty to the SDR by random sampling was developed and was demonstrated to be efficient on various types of numerical experiments as well as a production level problem.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Harb, Moataz S.},\n\tmonth = mar,\n\tyear = {2019},\n\tkeywords = {Correlation, Error Propagation, FESS-FNSF, R2S, SDR},\n}\n",
         "data": {
             "key": "DX9W8A98",
-            "version": 26429,
+            "version": 27075,
             "itemType": "thesis",
             "title": "Propagation of Statistical Uncertainty in Mesh-Based Shutdown Dose Rate Calculations",
             "creators": [
@@ -634,7 +634,7 @@
             "numPages": "",
             "language": "English",
             "shortTitle": "",
-            "url": "",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:6MDCBYJEASBZ78Z/datastreams/REF/content",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -665,7 +665,7 @@
             ],
             "relations": {},
             "dateAdded": "2019-04-25T12:14:36Z",
-            "dateModified": "2020-12-30T03:35:48Z"
+            "dateModified": "2022-10-04T01:56:14Z"
         }
     },
     {
@@ -765,7 +765,7 @@
     },
     {
         "key": "KV8BMAXT",
-        "version": 26429,
+        "version": 27077,
         "library": {
             "type": "group",
             "id": 10058,
@@ -820,10 +820,10 @@
             "parsedDate": "2018-06-08",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{shriwise_geometry_2018,\n\taddress = {Madison, WI},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Geometry {Query} {Optimizations} in {CAD}-{Based} {Tessellations} for {Monte} {Carlo} {Radiation} {Transport}},\n\turl = {https://github.com/pshriwise/dissertation/blob/master/document/dissertation.pdf},\n\tlanguage = {English},\n\tschool = {University of Wisconsin - Madison},\n\tauthor = {Shriwise, Patrick},\n\tmonth = jun,\n\tyear = {2018},\n\tkeywords = {CAD, dagmc, mesh, monte carlo, performance, ray tracing},\n}\n",
+        "bibtex": "\n@phdthesis{shriwise_geometry_2018,\n\taddress = {Madison, WI},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Geometry {Query} {Optimizations} in {CAD}-{Based} {Tessellations} for {Monte} {Carlo} {Radiation} {Transport}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:NNODVI4XHMSOV8F/datastreams/REF/content},\n\tabstract = {The performance of direct CAD-based Monte Carlo Radiation Transport (MCRT) relies heavily on its ability to return geometric queries robustly via ray tracing methods. Current applications of ray tracing for MCRT are robust given that certain requirements are met [48], but cause simulations to run much longer than native code geometry representations. This work explores alternate geometry query methods aimed at reducing the complexity of these operations as well as algorithmic optimization by adapting recent developments in CPU ray tracing for use in engineering analysis. A preconditioning scheme is presented aimed at avoiding unnecessary ray queries for volumes with high collision densities. A model is also developed to inform the application of the preconditioning data structure based on a post facto analysis. Next, a specialized ray tracing kernel for MCRT is presented. As new ray tracing kernels are developed for real-time, photo-realistic rendering, algorithmic approaches have appeared which are demonstrated to be advantageous when applied in radiation transport. In particular, the application of data parallelism in ray tracing for Monte Carlo is demonstrated - resulting in significant performance improvements. Finally, model features resulting in systematic performance degradation commonly found in CAD models for MCRT are studied. Methods are proposed and demonstrated to improve performance of ray tracing kernels in models with these features. The combination of this work is shown to provide improvement factors ranging from 1.1 to 9.54 in simulation run time without loss of robustness for several production analysis models. The final impact of this work is the alleviation of concern for additional computational time in using CAD geometries for MCRT while maintaining the benefit of reduced human time and effort in model preparation and design.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin - Madison},\n\tauthor = {Shriwise, Patrick},\n\tmonth = jun,\n\tyear = {2018},\n\tkeywords = {CAD, dagmc, mesh, monte carlo, performance, ray tracing},\n}\n",
         "data": {
             "key": "KV8BMAXT",
-            "version": 26429,
+            "version": 27077,
             "itemType": "thesis",
             "title": "Geometry Query Optimizations in CAD-Based Tessellations for Monte Carlo Radiation Transport",
             "creators": [
@@ -833,7 +833,7 @@
                     "lastName": "Shriwise"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "The performance of direct CAD-based Monte Carlo Radiation Transport (MCRT) relies heavily on its ability to return geometric queries robustly via ray tracing methods. Current applications of ray tracing for MCRT are robust given that certain requirements are met [48], but cause simulations to run much longer than native code geometry representations. This work explores alternate geometry query methods aimed at reducing the complexity of these operations as well as algorithmic optimization by adapting recent developments in CPU ray tracing for use in engineering analysis. A preconditioning scheme is presented aimed at avoiding unnecessary ray queries for volumes with high collision densities. A model is also developed to inform the application of the preconditioning data structure based on a post facto analysis. Next, a specialized ray tracing kernel for MCRT is presented. As new ray tracing kernels are developed for real-time, photo-realistic rendering, algorithmic approaches have appeared which are demonstrated to be advantageous when applied in radiation transport. In particular, the application of data parallelism in ray tracing for Monte Carlo is demonstrated - resulting in significant performance improvements. Finally, model features resulting in systematic performance degradation commonly found in CAD models for MCRT are studied. Methods are proposed and demonstrated to improve performance of ray tracing kernels in models with these features. The combination of this work is shown to provide improvement factors ranging from 1.1 to 9.54 in simulation run time without loss of robustness for several production analysis models. The final impact of this work is the alleviation of concern for additional computational time in using CAD geometries for MCRT while maintaining the benefit of reduced human time and effort in model preparation and design.",
             "thesisType": "PhD Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin - Madison",
             "place": "Madison, WI",
@@ -841,7 +841,7 @@
             "numPages": "223",
             "language": "English",
             "shortTitle": "",
-            "url": "https://github.com/pshriwise/dissertation/blob/master/document/dissertation.pdf",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:NNODVI4XHMSOV8F/datastreams/REF/content",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -875,12 +875,12 @@
             ],
             "relations": {},
             "dateAdded": "2018-12-21T19:15:11Z",
-            "dateModified": "2020-12-30T03:36:06Z"
+            "dateModified": "2022-10-04T01:58:18Z"
         }
     },
     {
         "key": "6VTPU3C5",
-        "version": 26429,
+        "version": 27078,
         "library": {
             "type": "group",
             "id": 10058,
@@ -935,10 +935,10 @@
             "parsedDate": "2016-07-21",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{biondo_hybrid_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Hybrid {Monte} {Carlo}/{Deterministic} {Neutron} {Transport} for {Shutdown} {Dose} {Rate} {Analysis}},\n\turl = {http://search.proquest.com.ezproxy.library.wisc.edu/docview/1811943415?accountid=465},\n\tabstract = {In fusion energy systems (FES) neutrons are born from a burning plasma and subsequently activate surrounding system components. The photon dose rate after shutdown from the resultant radionuclides must be quantified for maintenance planning. This shutdown dose rate (SDR) is calculated by coupling neutron transport, activation analysis, and photon transport. The size, complexity, and attenuating configuration of FES motivate the use of hybrid Monte Carlo (MC)/deterministic neutron transport. The Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method can be used to optimize MC neutron transport for this purpose. This requires the formulation of an adjoint neutron source that approximates the transmutation process. In this work one such formulation is introduced which is valid when a specific set of transmutation criteria are met, referred to as the Single Neutron Interaction and Low Burnup (SNILB) criteria. These criteria are quantitatively evaluated for typical FES scenarios and are shown to be met within a reasonable margin. Groupwise Transmutation (GT)-CADIS, proposed here, is an implementation of MS-CADIS that calculates this adjoint neutron source using a series of irradiation calculations. For a simple SDR problem, GT-CADIS provides speedups of 200 ± 100 relative to global variance reduction with the Forward Weighted (FW)-CADIS method and 90,000 ± 50,000 relative to analog. When the SNILB criteria are egregiously violated, GT-CADIS modifications are proposed and are shown to provide significant performance improvements. Finally, GT-CADIS is applied to a production-level problem involving a Spherical Tokamak Fusion Nuclear Science Facility (ST-FNSF) device. This work shows that GT-CADIS is broadly applicable to FES scenarios and will significantly reduce the computational resources necessary for SDR analysis.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Biondo, Elliott Dean},\n\tmonth = jul,\n\tyear = {2016},\n}\n",
+        "bibtex": "\n@phdthesis{biondo_hybrid_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Hybrid {Monte} {Carlo}/{Deterministic} {Neutron} {Transport} for {Shutdown} {Dose} {Rate} {Analysis}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:ITANHEGGRPM338Z/datastreams/REF/content},\n\tabstract = {In fusion energy systems (FES) neutrons are born from a burning plasma and subsequently activate surrounding system components. The photon dose rate after shutdown from the resultant radionuclides must be quantified for maintenance planning. This shutdown dose rate (SDR) is calculated by coupling neutron transport, activation analysis, and photon transport. The size, complexity, and attenuating configuration of FES motivate the use of hybrid Monte Carlo (MC)/deterministic neutron transport. The Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method can be used to optimize MC neutron transport for this purpose. This requires the formulation of an adjoint neutron source that approximates the transmutation process. In this work one such formulation is introduced which is valid when a specific set of transmutation criteria are met, referred to as the Single Neutron Interaction and Low Burnup (SNILB) criteria. These criteria are quantitatively evaluated for typical FES scenarios and are shown to be met within a reasonable margin. Groupwise Transmutation (GT)-CADIS, proposed here, is an implementation of MS-CADIS that calculates this adjoint neutron source using a series of irradiation calculations. For a simple SDR problem, GT-CADIS provides speedups of 200 ± 100 relative to global variance reduction with the Forward Weighted (FW)-CADIS method and 90,000 ± 50,000 relative to analog. When the SNILB criteria are egregiously violated, GT-CADIS modifications are proposed and are shown to provide significant performance improvements. Finally, GT-CADIS is applied to a production-level problem involving a Spherical Tokamak Fusion Nuclear Science Facility (ST-FNSF) device. This work shows that GT-CADIS is broadly applicable to FES scenarios and will significantly reduce the computational resources necessary for SDR analysis.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Biondo, Elliott Dean},\n\tmonth = jul,\n\tyear = {2016},\n}\n",
         "data": {
             "key": "6VTPU3C5",
-            "version": 26429,
+            "version": 27078,
             "itemType": "thesis",
             "title": "Hybrid Monte Carlo/Deterministic Neutron Transport for Shutdown Dose Rate Analysis",
             "creators": [
@@ -956,7 +956,7 @@
             "numPages": "179",
             "language": "English",
             "shortTitle": "",
-            "url": "http://search.proquest.com.ezproxy.library.wisc.edu/docview/1811943415?accountid=465",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:ITANHEGGRPM338Z/datastreams/REF/content",
             "accessDate": "",
             "archive": "ProQuest Dissertations and Theses",
             "archiveLocation": "10145410",
@@ -974,12 +974,12 @@
             ],
             "relations": {},
             "dateAdded": "2016-08-20T14:20:24Z",
-            "dateModified": "2020-12-30T03:36:20Z"
+            "dateModified": "2022-10-04T01:58:50Z"
         }
     },
     {
         "key": "38F2U7DS",
-        "version": 26426,
+        "version": 27082,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1022,10 +1022,10 @@
             "creatorSummary": "Carlsen",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{carlsen_advanced_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Advanced {Nuclear} {Fuel} {Cycle} {Transitions}: {Optimization}, {Modeling} {Choices}, and {Disruptions}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Carlsen, Robert W.},\n\tmonth = mar,\n\tyear = {2016},\n}\n",
+        "bibtex": "\n@phdthesis{carlsen_advanced_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Advanced {Nuclear} {Fuel} {Cycle} {Transitions}: {Optimization}, {Modeling} {Choices}, and {Disruptions}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:FF3JAMXPLN4LU8I/datastreams/REF/content},\n\tabstract = {Nuclear fuel cycle analysis is a field focused on understanding and modeling the nuclear industry and ecosystem at a macroscopic level. To date, fuel cycle analysis has mostly involved hand-crafting details of fuel cycle scenarios for investigation. Many different tools have evolved over time to help address the need to investigate both the equilibrium properties of nuclear fuel cycles and the dynamics of transitions between them. There is great potential for computational resources to improve both the quality of answers and the size of questions that can be asked. Cyclus is one of the first nuclear fuel cycle simulators to strongly accommodate larger-scale analysis with its free availability, liberal open-source licensing, and first-class Linux support. Cyclus also provides features that uniquely enable investigating the effects of modeling choices and modeling fidelity within fuel cycle scenarios. This is made possible by the complementary nature of Cyclus’ dynamic resource exchange and plugin based architecture. This work is divided into three major pieces focusing on optimization, investigating effects of modeling choices, and dealing with uncertainty.\n\nEffective optimization techniques are developed for automatically determining desirable facility deployment schedules for fuel cycle scenarios with Cyclus. A novel method for mapping optimization variables to deployment schedules is developed. This method allows relationships between reactor types and power capacity constraints to be represented implicitly in the definition of the optimization variables. This not only enables optimizers without constraint support to be used, but it also prevents wasting computational resources searching through many infeasible deployment schedules. With the simplified constraint handling, optimization can be used to analyze larger problems in addition to providing better solutions generally. The developed methodology also enables the deployed power generation capacity over time and the deployment of non-reactor support facilities to be included as optimization variables.\n\nThere exist many fuel cycle simulators built with many different combinations of mod\n\nix eling choices and assumptions. This makes comparing results from them difficult. The flexibility of Cyclus makes it a rich playground for comparing the effects of such modeling choices in a consistent way. Effects such as reactor refueling cycle synchronization, inter-facility competition, on-hand inventory requirements, and others are compared in four fuel cycle scenarios each using combinations of fleet or individually modeled reactors with 1-month or 3-month long time steps. There are noticeable differences in results from the different cases. The largest differences are seen during periods of constrained fuel availability for reactors. Research into the effects of modeling choices such as these can help improve the quality and consistency of fuel cycle analysis codes in addition to increasing confidence in the utility of fuel cycle analysis generally.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Carlsen, Robert W.},\n\tmonth = mar,\n\tyear = {2016},\n}\n",
         "data": {
             "key": "38F2U7DS",
-            "version": 26426,
+            "version": 27082,
             "itemType": "thesis",
             "title": "Advanced Nuclear Fuel Cycle Transitions: Optimization, Modeling Choices, and Disruptions",
             "creators": [
@@ -1035,7 +1035,7 @@
                     "lastName": "Carlsen"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "Nuclear fuel cycle analysis is a field focused on understanding and modeling the nuclear industry and ecosystem at a macroscopic level. To date, fuel cycle analysis has mostly involved hand-crafting details of fuel cycle scenarios for investigation. Many different tools have evolved over time to help address the need to investigate both the equilibrium properties of nuclear fuel cycles and the dynamics of transitions between them. There is great potential for computational resources to improve both the quality of answers and the size of questions that can be asked. Cyclus is one of the first nuclear fuel cycle simulators to strongly accommodate larger-scale analysis with its free availability, liberal open-source licensing, and first-class Linux support. Cyclus also provides features that uniquely enable investigating the effects of modeling choices and modeling fidelity within fuel cycle scenarios. This is made possible by the complementary nature of Cyclus’ dynamic resource exchange and plugin based architecture. This work is divided into three major pieces focusing on optimization, investigating effects of modeling choices, and dealing with uncertainty.\n\nEffective optimization techniques are developed for automatically determining desirable facility deployment schedules for fuel cycle scenarios with Cyclus. A novel method for mapping optimization variables to deployment schedules is developed. This method allows relationships between reactor types and power capacity constraints to be represented implicitly in the definition of the optimization variables. This not only enables optimizers without constraint support to be used, but it also prevents wasting computational resources searching through many infeasible deployment schedules. With the simplified constraint handling, optimization can be used to analyze larger problems in addition to providing better solutions generally. The developed methodology also enables the deployed power generation capacity over time and the deployment of non-reactor support facilities to be included as optimization variables.\n\nThere exist many fuel cycle simulators built with many different combinations of mod\n\nix eling choices and assumptions. This makes comparing results from them difficult. The flexibility of Cyclus makes it a rich playground for comparing the effects of such modeling choices in a consistent way. Effects such as reactor refueling cycle synchronization, inter-facility competition, on-hand inventory requirements, and others are compared in four fuel cycle scenarios each using combinations of fleet or individually modeled reactors with 1-month or 3-month long time steps. There are noticeable differences in results from the different cases. The largest differences are seen during periods of constrained fuel availability for reactors. Research into the effects of modeling choices such as these can help improve the quality and consistency of fuel cycle analysis codes in addition to increasing confidence in the utility of fuel cycle analysis generally.",
             "thesisType": "PhD Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin-Madison",
             "place": "Madison, WI, United States",
@@ -1043,7 +1043,7 @@
             "numPages": "135",
             "language": "English",
             "shortTitle": "",
-            "url": "",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:FF3JAMXPLN4LU8I/datastreams/REF/content",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -1058,7 +1058,7 @@
             ],
             "relations": {},
             "dateAdded": "2016-08-02T15:43:39Z",
-            "dateModified": "2018-02-17T23:41:21Z"
+            "dateModified": "2022-10-04T02:01:16Z"
         }
     },
     {
@@ -1254,7 +1254,7 @@
     },
     {
         "key": "2ATC4MDN",
-        "version": 26426,
+        "version": 27083,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1298,10 +1298,10 @@
             "parsedDate": "2013-08-16",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{huff_integrated_2013,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {An {Integrated} {Used} {Fuel} {Disposition} and {Generic} {Repository} {Model} for {Fuel} {Cycle} {Analysis}},\n\tabstract = {As the United States and other nuclear nations consider alternative fuel cycles and waste disposal options simultaneously, an integrated fuel cycle and generic disposal system analysis tool grows increasingly necessary for informing spent nuclear fuel management policy.  The long term performance characteristics of deep geologic disposal concepts are affected by heat and radionuclide release characteristics sensitive to disposal system choices as well as variable spent fuel compositions associated with alternative fuel cycles. Computational tools capable of simulating the dynamic, heterogeneous spent fuel isotopics resulting from alternative nuclear fuel cycles and fuel cycle transition scenarios are, however, lacking in disposal system modeling options. This work has resulted in Cyder , a generic repository software library appropriate for system analysis of potential future fuel cycle deployment scenarios.   By emphasizing modularity and speed, Cyder is capable of representing the dominant physics of candidate geologic host media, repository designs, and engineering components. Robust and flexible integration with the Cyclus fuel cycle simulator enables this analysis in the context of fuel cycle options.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Huff, Kathryn D.},\n\tmonth = aug,\n\tyear = {2013},\n}\n",
+        "bibtex": "\n@phdthesis{huff_integrated_2013,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {An {Integrated} {Used} {Fuel} {Disposition} and {Generic} {Repository} {Model} for {Fuel} {Cycle} {Analysis}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:Y2ZY2ZRN6GI5K8S/datastreams/REF/content},\n\tabstract = {As the United States and other nuclear nations consider alternative fuel cycles and waste disposal options simultaneously, an integrated fuel cycle and generic disposal system analysis tool grows increasingly necessary for informing spent nuclear fuel management policy.  The long term performance characteristics of deep geologic disposal concepts are affected by heat and radionuclide release characteristics sensitive to disposal system choices as well as variable spent fuel compositions associated with alternative fuel cycles. Computational tools capable of simulating the dynamic, heterogeneous spent fuel isotopics resulting from alternative nuclear fuel cycles and fuel cycle transition scenarios are, however, lacking in disposal system modeling options. This work has resulted in Cyder , a generic repository software library appropriate for system analysis of potential future fuel cycle deployment scenarios.   By emphasizing modularity and speed, Cyder is capable of representing the dominant physics of candidate geologic host media, repository designs, and engineering components. Robust and flexible integration with the Cyclus fuel cycle simulator enables this analysis in the context of fuel cycle options.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Huff, Kathryn D.},\n\tmonth = aug,\n\tyear = {2013},\n}\n",
         "data": {
             "key": "2ATC4MDN",
-            "version": 26426,
+            "version": 27083,
             "itemType": "thesis",
             "title": "An Integrated Used Fuel Disposition and Generic Repository Model for Fuel Cycle Analysis",
             "creators": [
@@ -1319,7 +1319,7 @@
             "numPages": "222",
             "language": "English",
             "shortTitle": "",
-            "url": "",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:Y2ZY2ZRN6GI5K8S/datastreams/REF/content",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -1334,7 +1334,7 @@
             ],
             "relations": {},
             "dateAdded": "2016-02-04T14:51:49Z",
-            "dateModified": "2018-02-17T23:41:46Z"
+            "dateModified": "2022-10-04T02:02:55Z"
         }
     },
     {
