@@ -1,8 +1,64 @@
+- date: "2022-05-24"
+  venue: Wisconsin Technology Council
+  venue_url: https://www.wisconsintechnologycouncil.com/
+  title: "Nuclear Power: Part of a decarbonized future?"
+  url: https://madison.com/business/tom-still-next-gen-nuclear-power-can-augment-renewable-energy-sources/article_9d447141-2bec-50d3-8ebd-1a85f80d4413.html
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2022-08-01"
+  venue: Nuclear Innovation Bootcamp
+  venue_url: https://www.nuclearinnovationbootcamp.org/
+  title: "Nuclear Energy in a Shifting Landscape"
+  url: https://docs.google.com/presentation/d/e/2PACX-1vRFlsQkLOL6GRvF4vqt84gTDkfb3SS5uBOuZ0yVvlyZL9JFILpnfwSUJZDnHyyYOynDrqlLU27fcviQ/pub
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2022-05-18"
+  venue: WisPolitics
+  venue_url: https://www.wispolitics.com/
+  title: "The Midwest Energy Landscape and the Way Forward"
+  url: "https://www.youtube.com/watch?v=WZYL8dHa-fs"
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2022-04-25"
+  venue: U. Wisconsin L&S Honors Program
+  venue_url: https://honors.ls.wisc.edu/
+  title: "Understanding Ukraine: A Panel for All"
+  url: https://honors.ls.wisc.edu/event/understanding-ukraine-a-panel-for-all/
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2022-04-19"
+  venue: Wisconsin Electric Cooperative News
+  venue_url: https://wecnmagazine.com/
+  title: "A New Look at Nuclear Power"
+  url: https://wecnmagazine.com/article/a-new-look-at-nuclear-power/
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2022-04-19"
+  venue: UW Office of Sustainability Panel
+  venue_url: https://sustainability.wisc.edu
+  title: "Fossil Fuel Divestment: Climate Action or Climate Distraction?"
+  url: https://sustainability.wisc.edu/diving-into-divestment-panel-discussion-at-uw-madison-probes-a-tricky-topic/
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2022-03-15"
+  venue: Wisconsin State Journal
+  venue_url: https://madison.com/wsj
+  title: "Back to the future: After 35 years, La Crosse utility takes fresh look at nuclear power"
+  url: https://madison.com/news/local/environment/back-to-the-future-after-35-years-la-crosse-utility-takes-fresh-look-at-nuclear/article_6aabaf42-c9f6-5395-b271-f6793e94d8b0.html
+  person: Paul Wilson
+  person_dir: pphw
 - date: "2021-12-09"
   venue: NA-YGN Midwest Regional Conference
   venue_url: https://naygn.org/2021-midwest-regional-conference/
   title: The Case for Micro Reactors as On-site Generators at Government Installations
   url: https://docs.google.com/presentation/d/e/2PACX-1vRy2j3XLwiYKf3EuHGBV_57XhRL01g_qV9WNUuQsU8z0af64j-1gwHkCIR2pkAgfnc821a_AXNY5L-2/pub
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2021-11-09"
+  venue: WFAA UW Now Livestream
+  venue_url: https://www.youtube.com/playlist?list=PLtjX2OJoKGQ1zSdKW4jcw3Xwtfi2vbW9o
+  title: Climate, Energy and Geopolitics
+  url: https://www.youtube.com/watch?v=3QMM553ImW8
   person: Paul Wilson
   person_dir: pphw
 - date: "2021-01-31"

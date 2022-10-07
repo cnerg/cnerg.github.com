@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign pubs = site.data[page.data_source] %}
+{% assign pubs = site.data[page.data_source] | sort: 'date' | reverse %}
 
 <article>
 
