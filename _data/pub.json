@@ -1,5 +1,324 @@
 [
     {
+        "key": "QYJJXBV7",
+        "version": 27199,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/QYJJXBV7",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/QYJJXBV7",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/ZZ6FFNZX",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 17006621
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Harb et al.",
+            "parsedDate": "2022-10-17",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{harb_uncertainty_2022,\n\ttitle = {Uncertainty {Quantification} of the {Decay} {Gamma} {Source} in {Mesh}-{Based} {Shutdown} {Dose} {Rate} {Calculations}},\n\tvolume = {0},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2022.2115831},\n\tdoi = {10.1080/15361055.2022.2115831},\n\tabstract = {In fusion energy systems, part of the design effort is dedicated to the assessment of the shutdown dose rate (SDR) due to the decay photons that will be emitted from activated components. Monte Carlo transport codes are often used to obtain the neutron flux distribution in the problem domain. The neutron flux distribution is used in the rigorous 2-step (R2S) workflow to obtain the photon emission density distribution of decaying radionuclides. The photon emission density is then used as an input for a dedicated photon transport step to calculate the SDR. In this paper, the uncertainty of the decay gamma source due to the uncertainty of the neutron flux distribution in the R2S workflow is investigated. A scheme is developed to estimate the uncertainty of the decay gamma source, building on the concept of groupwise transmutation and using standard error propagation techniques. The applicability of the newly developed scheme is then demonstrated on one of the conceptual designs of the fusion nuclear science facility.},\n\tnumber = {0},\n\turldate = {2022-10-27},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {Harb, M. and Davis, A. and Wilson, P. P. H.},\n\tmonth = oct,\n\tyear = {2022},\n\tnote = {Publisher: Taylor \\& Francis\n\\_eprint: https://doi.org/10.1080/15361055.2022.2115831},\n\tkeywords = {DAGMC, Uncertainty propagation, fusion nuclear science facility, rigorous 2-step workflow, shutdown dose rate},\n\tpages = {1--12},\n}\n",
+        "data": {
+            "key": "QYJJXBV7",
+            "version": 27199,
+            "itemType": "journalArticle",
+            "title": "Uncertainty Quantification of the Decay Gamma Source in Mesh-Based Shutdown Dose Rate Calculations",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Harb"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Davis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P. P. H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "In fusion energy systems, part of the design effort is dedicated to the assessment of the shutdown dose rate (SDR) due to the decay photons that will be emitted from activated components. Monte Carlo transport codes are often used to obtain the neutron flux distribution in the problem domain. The neutron flux distribution is used in the rigorous 2-step (R2S) workflow to obtain the photon emission density distribution of decaying radionuclides. The photon emission density is then used as an input for a dedicated photon transport step to calculate the SDR. In this paper, the uncertainty of the decay gamma source due to the uncertainty of the neutron flux distribution in the R2S workflow is investigated. A scheme is developed to estimate the uncertainty of the decay gamma source, building on the concept of groupwise transmutation and using standard error propagation techniques. The applicability of the newly developed scheme is then demonstrated on one of the conceptual designs of the fusion nuclear science facility.",
+            "publicationTitle": "Fusion Science and Technology",
+            "volume": "0",
+            "issue": "0",
+            "pages": "1-12",
+            "date": "2022-10-17",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.1080/15361055.2022.2115831",
+            "ISSN": "1536-1055",
+            "shortTitle": "",
+            "url": "https://doi.org/10.1080/15361055.2022.2115831",
+            "accessDate": "2022-10-27T19:26:07Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Taylor and Francis+NEJM",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/15361055.2022.2115831",
+            "tags": [
+                {
+                    "tag": "DAGMC",
+                    "type": 1
+                },
+                {
+                    "tag": "Uncertainty propagation",
+                    "type": 1
+                },
+                {
+                    "tag": "fusion nuclear science facility",
+                    "type": 1
+                },
+                {
+                    "tag": "rigorous 2-step workflow",
+                    "type": 1
+                },
+                {
+                    "tag": "shutdown dose rate",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2022-10-27T19:26:07Z",
+            "dateModified": "2022-10-27T19:26:07Z"
+        }
+    },
+    {
+        "key": "UBSWG585",
+        "version": 27218,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/UBSWG585",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/UBSWG585",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/Q8WIBVAZ",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 2705681
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "D'Angelo and WILSON",
+            "numChildren": 1
+        },
+        "bibtex": "\n@inproceedings{dangelo_sdr_2022,\n\taddress = {Seattle, WA, USA},\n\ttitle = {{SDR} {Calculations} {Involving} {Geometry} {Movement} {After} {Shutdown}},\n\tauthor = {D'Angelo, Chelsea and WILSON, Paul P. H.},\n\tmonth = sep,\n\tyear = {2022},\n}\n",
+        "data": {
+            "key": "UBSWG585",
+            "version": 27218,
+            "itemType": "conferencePaper",
+            "title": "SDR Calculations Involving Geometry Movement After Shutdown",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Chelsea",
+                    "lastName": "D'Angelo"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "WILSON"
+                }
+            ],
+            "abstractNote": "",
+            "date": "2022-09-25 9/25/22-9/29/22",
+            "proceedingsTitle": "",
+            "conferenceName": "14th International Conference on Radiation Shielding and 21st Topical Meeting of the Radiation Protection and Shielding Division",
+            "place": "Seattle, WA, USA",
+            "publisher": "",
+            "volume": "",
+            "pages": "",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-02T11:00:29Z",
+            "dateModified": "2022-11-02T11:02:28Z"
+        }
+    },
+    {
+        "key": "TTNBLX3R",
+        "version": 27196,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/TTNBLX3R",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/TTNBLX3R",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/RZGPMHBD",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 2152487
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "ZHANG et al.",
+            "parsedDate": "2022-07",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{zhang_implementation_2022,\n\ttitle = {Implementation and application of {PyNE} sub-voxel {R2S} for shutdown dose rate analysis},\n\tvolume = {24},\n\tissn = {1009-0630},\n\turl = {https://dx.doi.org/10.1088/2058-6272/ac6be3},\n\tdoi = {10.1088/2058-6272/ac6be3},\n\tabstract = {PyNE R2S is a mesh-based R2S implementation with the capability of performing shutdown dose rate (SDR) analysis directly on CAD geometry with Cartesian or tetrahedral meshes. It supports advanced variance reduction for fusion energy systems. However, the assumption of homogenized materials of PyNE R2S with a Cartesian mesh throughout a mesh voxel introduces an approximation in the case where a voxel covers multiple non-void cells. This work implements a sub-voxel method to add fidelity to PyNE R2S with a Cartesian mesh during the process of activation and photon source sampling by performing independent inventory calculations for each cell within a mesh voxel and using the results of those independent calculations to sample the photon source more precisely. PyNE sub-voxel R2S has been verified with the Frascati Neutron Generator (FNG)-ITER and ITER computational shutdown dose rate benchmark problems. The results for sub-voxel R2S show satisfactory agreement with the experimental values or reference results. PyNE sub-voxel R2S has been applied to the shutdown dose rate calculation of the Chinese Fusion Engineering Testing Reactor (CFETR). In conclusion, sub-voxel R2S is a reliable tool for SDR calculation and obtains more accurate results with the same voxel size than voxel R2S.},\n\tlanguage = {en},\n\tnumber = {9},\n\turldate = {2022-10-27},\n\tjournal = {Plasma Science and Technology},\n\tauthor = {ZHANG, Xiaokang and SHRIWISE, Patrick C. and LIU, Songlin and WILSON, Paul P. H.},\n\tmonth = jul,\n\tyear = {2022},\n\tnote = {Publisher: IOP Publishing},\n\tpages = {095603},\n}\n",
+        "data": {
+            "key": "TTNBLX3R",
+            "version": 27196,
+            "itemType": "journalArticle",
+            "title": "Implementation and application of PyNE sub-voxel R2S for shutdown dose rate analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Xiaokang",
+                    "lastName": "ZHANG"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Patrick C.",
+                    "lastName": "SHRIWISE"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Songlin",
+                    "lastName": "LIU"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "WILSON"
+                }
+            ],
+            "abstractNote": "PyNE R2S is a mesh-based R2S implementation with the capability of performing shutdown dose rate (SDR) analysis directly on CAD geometry with Cartesian or tetrahedral meshes. It supports advanced variance reduction for fusion energy systems. However, the assumption of homogenized materials of PyNE R2S with a Cartesian mesh throughout a mesh voxel introduces an approximation in the case where a voxel covers multiple non-void cells. This work implements a sub-voxel method to add fidelity to PyNE R2S with a Cartesian mesh during the process of activation and photon source sampling by performing independent inventory calculations for each cell within a mesh voxel and using the results of those independent calculations to sample the photon source more precisely. PyNE sub-voxel R2S has been verified with the Frascati Neutron Generator (FNG)-ITER and ITER computational shutdown dose rate benchmark problems. The results for sub-voxel R2S show satisfactory agreement with the experimental values or reference results. PyNE sub-voxel R2S has been applied to the shutdown dose rate calculation of the Chinese Fusion Engineering Testing Reactor (CFETR). In conclusion, sub-voxel R2S is a reliable tool for SDR calculation and obtains more accurate results with the same voxel size than voxel R2S.",
+            "publicationTitle": "Plasma Science and Technology",
+            "volume": "24",
+            "issue": "9",
+            "pages": "095603",
+            "date": "2022-07",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Plasma Sci. Technol.",
+            "language": "en",
+            "DOI": "10.1088/2058-6272/ac6be3",
+            "ISSN": "1009-0630",
+            "shortTitle": "",
+            "url": "https://dx.doi.org/10.1088/2058-6272/ac6be3",
+            "accessDate": "2022-10-27T19:24:59Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Institute of Physics",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: IOP Publishing",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2022-10-27T19:24:59Z",
+            "dateModified": "2022-10-27T19:24:59Z"
+        }
+    },
+    {
         "key": "AX5M3M8V",
         "version": 26575,
         "library": {
@@ -18330,409 +18649,6 @@
             },
             "dateAdded": "2012-06-18T14:08:47Z",
             "dateModified": "2012-08-20T19:57:28Z"
-        }
-    },
-    {
-        "key": "V5T4B5XJ",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/V5T4B5XJ",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/V5T4B5XJ",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/PIGQ3ETW",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 369935
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Bohm et al.",
-            "parsedDate": "2009-08",
-            "numChildren": 3
-        },
-        "bibtex": "\n@article{bohm_radiation_2009,\n\ttitle = {Radiation {Streaming} in {Gaps} {Between} {ITER} {First} {Wall}/{Shield} {Modules}},\n\tvolume = {56},\n\turl = {http://epubs.ans.org/?a=8995},\n\tabstract = {Gaps exist between the first wall/shield (FWS) modules of ITER to allow for fitting by remote handling equipment. Simplified three-dimensional models were used at the top and mid-plane locations to analyze gap streaming. Heating, helium production, and fast neutron fluence were examined at the front of the vacuum vessel and the magnet for both straight and stepped gaps. In addition, total nuclear heating values in the inboard magnet and central solenoid were examined for straight and stepped vertical gaps and for combined horizontal and vertical straight gaps. The results show significant radiation streaming effects that are more pronounced for fast neutron fluence and helium production. Furthermore, it was found that stepping the gap significantly reduces the local peaking, but has little effect on the relative average values of radiation effects. The results also show increases up to 75\\% in total magnet heating at the inboard mid-plane location for a straight 2 cm combined vertical and horizontal gap.},\n\tnumber = {2},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {Bohm, T.D. and Sawan, M.E. and Wilson, P.P.H.},\n\tmonth = aug,\n\tyear = {2009},\n\tkeywords = {3D, Experimental Reactors, FWS, First Wall \\& Shield Modules, Gaps, Heating, Helium, International Thermonuclear Reactor (ITER), Location, Magnets, Neutron Irradiation, Radiation Effects, Streaming},\n\tpages = {731--735},\n}\n",
-        "data": {
-            "key": "V5T4B5XJ",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Radiation Streaming in Gaps Between ITER First Wall/Shield Modules",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "T.D.",
-                    "lastName": "Bohm"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M.E.",
-                    "lastName": "Sawan"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "Gaps exist between the first wall/shield (FWS) modules of ITER to allow for fitting by remote handling equipment. Simplified three-dimensional models were used at the top and mid-plane locations to analyze gap streaming. Heating, helium production, and fast neutron fluence were examined at the front of the vacuum vessel and the magnet for both straight and stepped gaps. In addition, total nuclear heating values in the inboard magnet and central solenoid were examined for straight and stepped vertical gaps and for combined horizontal and vertical straight gaps. The results show significant radiation streaming effects that are more pronounced for fast neutron fluence and helium production. Furthermore, it was found that stepping the gap significantly reduces the local peaking, but has little effect on the relative average values of radiation effects. The results also show increases up to 75% in total magnet heating at the inboard mid-plane location for a straight 2 cm combined vertical and horizontal gap.",
-            "publicationTitle": "Fusion Science and Technology",
-            "volume": "56",
-            "issue": "2",
-            "pages": "731-735",
-            "date": "Aug 2009",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "",
-            "ISSN": "",
-            "shortTitle": "",
-            "url": "http://epubs.ans.org/?a=8995",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "3D"
-                },
-                {
-                    "tag": "Experimental Reactors"
-                },
-                {
-                    "tag": "FWS"
-                },
-                {
-                    "tag": "First Wall & Shield Modules"
-                },
-                {
-                    "tag": "Gaps"
-                },
-                {
-                    "tag": "Heating"
-                },
-                {
-                    "tag": "Helium"
-                },
-                {
-                    "tag": "International Thermonuclear Reactor (ITER)"
-                },
-                {
-                    "tag": "Location",
-                    "type": 1
-                },
-                {
-                    "tag": "Magnets",
-                    "type": 1
-                },
-                {
-                    "tag": "Neutron Irradiation"
-                },
-                {
-                    "tag": "Radiation Effects"
-                },
-                {
-                    "tag": "Streaming"
-                }
-            ],
-            "collections": [
-                "APMMJXES",
-                "UKXV4KID"
-            ],
-            "relations": {
-                "dc:replaces": "http://zotero.org/groups/10058/items/437EIBQ7"
-            },
-            "dateAdded": "2012-06-18T13:42:27Z",
-            "dateModified": "2012-06-21T14:25:21Z"
-        }
-    },
-    {
-        "key": "FEZNGTHB",
-        "version": 21760,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/FEZNGTHB",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/FEZNGTHB",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/DS8UFZ44",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 435234
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Tautges et al.",
-            "parsedDate": "2009-05",
-            "numChildren": 2
-        },
-        "bibtex": "\n@inproceedings{tautges_acceleration_2009,\n\taddress = {Saratoga Springs, NY},\n\ttitle = {Acceleration {Techniques} for {Direct} {Use} of {CAD}-{Based} {Geometries} in {Monte} {Carlo} {Radiation} {Transport}},\n\tbooktitle = {International {Conference} on {Mathematics}, {Computational} {Methods} \\& {Reactor} {Physics} ({M}\\&{C} 2009)},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Tautges, Timothy J. and Wilson, P. P. H. and Kraftcheck, Jason and Smith, Brandon M. and Henderson, Douglass L.},\n\tmonth = may,\n\tyear = {2009},\n\tkeywords = {Acceleration, CAD, DAGMC, Monte Carlo Methods},\n}\n",
-        "data": {
-            "key": "FEZNGTHB",
-            "version": 21760,
-            "itemType": "conferencePaper",
-            "title": "Acceleration Techniques for Direct Use of CAD-Based Geometries in Monte Carlo Radiation Transport",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Timothy J.",
-                    "lastName": "Tautges"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P. P. H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Jason",
-                    "lastName": "Kraftcheck"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Brandon M.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Douglass L.",
-                    "lastName": "Henderson"
-                }
-            ],
-            "abstractNote": "",
-            "date": "May 2009",
-            "proceedingsTitle": "International Conference on Mathematics, Computational Methods & Reactor Physics (M&C 2009)",
-            "conferenceName": "",
-            "place": "Saratoga Springs, NY",
-            "publisher": "American Nuclear Society",
-            "volume": "",
-            "pages": "",
-            "series": "",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Acceleration"
-                },
-                {
-                    "tag": "CAD"
-                },
-                {
-                    "tag": "DAGMC"
-                },
-                {
-                    "tag": "Monte Carlo Methods"
-                }
-            ],
-            "collections": [
-                "EM9S6MRM",
-                "VBKGWTWB",
-                "UKXV4KID"
-            ],
-            "relations": {
-                "dc:replaces": [
-                    "http://zotero.org/groups/10058/items/NMH5D7CD",
-                    "http://zotero.org/groups/10058/items/JHEMIE3B"
-                ]
-            },
-            "dateAdded": "2010-07-06T19:34:16Z",
-            "dateModified": "2013-06-30T16:03:34Z"
-        }
-    },
-    {
-        "key": "KCBSP5HF",
-        "version": 21962,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/KCBSP5HF",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/KCBSP5HF",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/6KCKGBQV",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 127579
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Moule and Wilson",
-            "parsedDate": "2009",
-            "numChildren": 1
-        },
-        "bibtex": "\n@inproceedings{moule_mesh_2009,\n\ttitle = {Mesh {Generation} methods for {Deterministic} {Radiation} {Transport} {Codes}},\n\tvolume = {104},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}},\n\tauthor = {Moule, D. and Wilson, P.},\n\tyear = {2009},\n\tnote = {keep me},\n\tkeywords = {CAD Models, Cartesian Meshes, Criticality Calculations, Direct Accelerated Geometry Monte Carlo (DAGMC), Geometry, Radiation Transport Code, Shielding},\n\tpages = {407--408},\n}\n",
-        "data": {
-            "key": "KCBSP5HF",
-            "version": 21962,
-            "itemType": "conferencePaper",
-            "title": "Mesh Generation methods for Deterministic Radiation Transport Codes",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "D.",
-                    "lastName": "Moule"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "date": "2009",
-            "proceedingsTitle": "Transactions of the American Nuclear Society",
-            "conferenceName": "",
-            "place": "",
-            "publisher": "",
-            "volume": "104",
-            "pages": "407-408",
-            "series": "",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "keep me",
-            "tags": [
-                {
-                    "tag": "CAD Models"
-                },
-                {
-                    "tag": "Cartesian Meshes"
-                },
-                {
-                    "tag": "Criticality Calculations"
-                },
-                {
-                    "tag": "Direct Accelerated Geometry Monte Carlo (DAGMC)"
-                },
-                {
-                    "tag": "Geometry"
-                },
-                {
-                    "tag": "Radiation Transport Code"
-                },
-                {
-                    "tag": "Shielding"
-                }
-            ],
-            "collections": [
-                "UKXV4KID",
-                "4MDZ29N8",
-                "RI2DQ3B2"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-19T20:05:58Z",
-            "dateModified": "2012-06-19T20:06:58Z"
         }
     }
 ]
