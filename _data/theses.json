@@ -1063,7 +1063,7 @@
     },
     {
         "key": "SCJ8W3Z9",
-        "version": 26428,
+        "version": 27404,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1118,10 +1118,10 @@
             "parsedDate": "2015-03",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{gidden_agent-based_2015,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {An {Agent}-{Based} {Modeling} {Framework} and {Application} for the {Generic} {Nuclear} {Fuel} {Cycle}},\n\tabstract = {Key components of a novel methodology and implementation of an agent-based, dynamic nuclear fuel\ncycle simulator,\nCyclus\n, are presented. The nuclear fuel cycle is a complex, physics-dependent supply\nchain. To date, existing dynamic simulators have not treated constrained fuel supply, time-dependent,\nisotopic-quality based demand, or fuel fungibility particularly well. Utilizing an agent-based methodology\nthat incorporates sophisticated graph theory and operations research techniques can overcome these\ndeficiencies. This work describes a simulation kernel and agents that interact with it, highlighting the\nDynamic Resource Exchange (DRE), the supply-demand framework at the heart of the kernel. The key\nagent-DRE interaction mechanisms are described, which enable complex entity interaction through the\nuse of physics and socio-economic models. The translation of an exchange instance to a variant of the\nMulticommodity Transportation Problem, which can be solved feasibly or optimally, follows. An extensive\ninvestigation of solution performance and fidelity is then presented. Finally, recommendations for future\nusers of\nCyclus\nand the DRE are provided.},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Gidden, Matthew J.},\n\tmonth = mar,\n\tyear = {2015},\n}\n",
+        "bibtex": "\n@phdthesis{gidden_agent-based_2015,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {An {Agent}-{Based} {Modeling} {Framework} and {Application} for the {Generic} {Nuclear} {Fuel} {Cycle}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:ZAPAY7G76EAKB9E/datastreams/REF/content},\n\tabstract = {Key components of a novel methodology and implementation of an agent-based, dynamic nuclear fuel\ncycle simulator,\nCyclus\n, are presented. The nuclear fuel cycle is a complex, physics-dependent supply\nchain. To date, existing dynamic simulators have not treated constrained fuel supply, time-dependent,\nisotopic-quality based demand, or fuel fungibility particularly well. Utilizing an agent-based methodology\nthat incorporates sophisticated graph theory and operations research techniques can overcome these\ndeficiencies. This work describes a simulation kernel and agents that interact with it, highlighting the\nDynamic Resource Exchange (DRE), the supply-demand framework at the heart of the kernel. The key\nagent-DRE interaction mechanisms are described, which enable complex entity interaction through the\nuse of physics and socio-economic models. The translation of an exchange instance to a variant of the\nMulticommodity Transportation Problem, which can be solved feasibly or optimally, follows. An extensive\ninvestigation of solution performance and fidelity is then presented. Finally, recommendations for future\nusers of\nCyclus\nand the DRE are provided.},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Gidden, Matthew J.},\n\tmonth = mar,\n\tyear = {2015},\n}\n",
         "data": {
             "key": "SCJ8W3Z9",
-            "version": 26428,
+            "version": 27404,
             "itemType": "thesis",
             "title": "An Agent-Based Modeling Framework and Application for the Generic Nuclear Fuel Cycle",
             "creators": [
@@ -1139,7 +1139,7 @@
             "numPages": "186",
             "language": "",
             "shortTitle": "",
-            "url": "",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:ZAPAY7G76EAKB9E/datastreams/REF/content",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -1154,7 +1154,7 @@
             ],
             "relations": {},
             "dateAdded": "2015-04-19T21:14:21Z",
-            "dateModified": "2020-12-30T15:03:45Z"
+            "dateModified": "2022-12-07T23:30:54Z"
         }
     },
     {
