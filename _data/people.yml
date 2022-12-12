@@ -96,6 +96,12 @@
     role: PhD
     employer: Canonical
     employer_url: https://canonical.com/
+  - name: Ryan Dailey
+    url: 
+    year: 2021
+    role: MS
+    employer: UW-Madison
+    employer_url: http://reti.ep.wisc.edu
   - name: Andrew Davis
     url:
     year: 2012-2017
@@ -186,7 +192,8 @@
     role: Undergraduate intern
   - name: Anatara Khadria
     url:
-    year: 201
+    year: 2021
+    role: MS
     employer: Bates White Consulting
     employer_url: http://www.bateswhite.com/
   - name: Brian Kiedrowski
