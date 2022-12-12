@@ -57,8 +57,12 @@
     url:
     year: 2010
     role: MS
-    employer: Exelon Nuclear
-    employer_url:
+    employer: Constellation
+    employer_url: http://www.constellationenergy.com/
+  - name: Marina Arabidze
+    year: 2011
+    Role: MS
+    employer: BP
   - name: Elliott Biondo
     url:
     year: 2016
@@ -81,7 +85,7 @@
     url:
     year: 2017
     role: Project Assistant
-    employer:
+    employer: Booz Allen Hamilton
     employer_url:
   - name: Anna Caldwell-Overdier
     year: 2021
@@ -90,8 +94,8 @@
     url:
     year: 2016
     role: PhD
-    employer: Idaho National Laboratory
-    employer_url: http://www.inl.gov
+    employer: Canonical
+    employer_url: https://canonical.com/
   - name: Andrew Davis
     url:
     year: 2012-2017
@@ -119,19 +123,19 @@
     url: http://www.mattgidden.com
     year: 2015
     role: PhD
-    employer: Climate Analytics
-    employer_url: http://climateanalytics.org
+    employer: IIASA
+    employer_url: http://iiasa.ac.at
   - name: Ryan Grady
     url:
     year: 2008
     role: MS
-    employer: Exelon Nuclear
-    employer_url:
+    employer: NorthStar Medical
+    employer_url: https://www.northstarnm.com/
   - name: Moataz Harb
     role: PhD
     year: 2019
-    employer: Karlsruhe Institute of Technology
-    employer_url: http://www.kit.edu
+    employer: Oak Ridge National Laboratory
+    employer_url: https://www.ornl.gov
   - name: Louis Hartono
     url:
     year: 2020
@@ -142,7 +146,7 @@
     url:
     year: 2017
     role: MS
-    employer:
+    employer: DNV
     employer_url:
   - name: Po Hu
     url:
@@ -163,14 +167,14 @@
     url:
     year: 2005
     role: MS
-    employer: Idaho National Laboratory
-    employer_url: http://www.inl.gov
+    employer: Oak Ridge National Laboratory
+    employer_url: https://www.ornl.gov
   - name: Ahmad Ibrahim
     url: https://www.linkedin.com/pub/ahmad-ibrahim/13/585/161
     year: 2012
     role: PhD
-    employer:
-    employer_url:
+    employer: Oak Ridge National Laboratory
+    employer_url: https://www.ornl.gov
   - name: Steven Jackson
     url:
     year: 2013
@@ -186,7 +190,7 @@
     role: PhD
     employer: University of Michigan
     employer_url: http://ners.engin.umich.edu
-  - name: "Kalin R. Kiesling"
+  - name: Kalin R. Kiesling
     role: PhD
     year: 2022
     employer: Argonne National Laboratory
@@ -224,14 +228,14 @@
     url:
     year: 2011
     role: MS
-    employer:
-    employer_url:
+    employer: Kinetrics
+    employer_url: http://www.kinectrics.com/
   - name: Baptiste Mouginot
     url:
     year: 2015-2021
     role: Scientist
-    employer: Framatome (Lyon, France)
-    employer_url: https://www.framatome.com
+    employer: BaM Scientific Consulting
+    employer_url: 
   - name: Matthew Nyberg
     year: 2021
     role: Undergraduate Intern
@@ -247,8 +251,8 @@
     url: http://www.kyleoliver.net
     year: 2009
     role: MS
-    employer:
-    employer_url:
+    employer: Learning Forte
+    employer_url: https://learningforte.com/
   - name: Arrielle Opotowsky
     year: 2021
     role: PhD
@@ -266,6 +270,12 @@
     role: Undergraduate Intern
     employer:
     employer_url:
+  - name: Michael Priaulx
+    url:
+    year: 2008
+    role: MS
+    employer:
+    employer_url:
   - name: Yuehan Qin
     role: Undergraduate Intern
     year: 2022
@@ -274,7 +284,7 @@
     url: https://www.linkedin.com/pub/tracy-radel/24/6b7/538
     year: 2007
     role: MS
-    employer: Shine Medicatl Technologies
+    employer: Shine Medical Technologies
     employer_url: http://www.shinemed.com
   - name: Olzhas Rakhimov
     url:
@@ -286,8 +296,8 @@
     url: http://hackaday.io/hacker/614-gertlex
     year: 2013
     role: MS
-    employer:
-    employer_url:
+    employer: Zebra Technologies
+    employer_url: http://www.zebra.com/
   - name: Jeremy Roberts
     url: http://www.mne.ksu.edu/people/roberts
     year: 2009
@@ -319,13 +329,13 @@
     url:
     year: 2013-2015
     role: Scientist
-    employer: Quansight
-    employer_url: http://quansight.com
+    employer: Citadel
+    employer_url: https://www.citadel.com
   - name: Owen Selles
     url:
     year: 2017
     role: Project Assistant
-    employer: New Jersey Department of Environmental Protection
+    employer: New Jersey Highlands Council
     employer_url: https://www.nj.gov/dep/
   - name: Tim Setter
     url:
@@ -349,32 +359,42 @@
     url: https://www.nuc.berkeley.edu/people/rachel-slaybaugh
     year: 2012
     role: PhD
-    employer: University of California-Berkeley
-    employer_url: https://www.nuc.berkeley.edu
+    employer: DCVC
+    employer_url: http://www.dcvc.com/
+  - name: Brandon Smith
+    year: 2011
+    role: PhD
+    employer: Los Alamos National Laboratory
+    employer_url: https://www.lanl.gov
+  - name: Patrick Snouffer
+    year: 2011
+    role: MS
+    employer: Zeno Power
+    employer_url: https://www.zenopower.com/
   - name: Chris Staum
     url:
     year: 2006
     role: MS
-    employer: Exelon Nuclear
-    employer_url: http://www.exeloncorp.com
+    employer: Constellation
+    employer_url: invalid://
   - name: Samuel Stern
     url:
     year: 2019
     role: BS Engineering Physics
-    employer:
-    employer_url:
+    employer: Accuray
+    employer_url: https://www.accuray.com/
   - name: Alex Swenson
     url:
     year: 2019
     role: MS
-    employer: Shine Medical Technologies
-    employer_url: https://shinemed.com
+    employer: GE-Hitachi
+    employer_url: https://nuclear.gepower.com/
   - name: Zach Welch
     url:
     year: 2013-2015
     role: Research Support
     employer: Amazon
-    employer_url:
+    employer_url: https://aboutamazon.com
   - name: Ellis Wilson
     url:
     year: 2018
@@ -392,13 +412,13 @@
     year: 2013-2015
     role: Programmer
     employer: University of Wisconsin-Madison
-    employer_url:
+    employer_url: https://www.wisc.edu
   - name: Xiaokang Zhang
     url:
     year: 2017-2019
     role: Visiting Student Researcher
-    employer: University of Science and Technology of China
-    employer_url:
+    employer: Hefei Institutes of Physical Science, Chinese Academy of Sciences
+    employer_url: http://english.hf.cas.cn/
 
 
 
