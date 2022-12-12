@@ -1159,7 +1159,7 @@
     },
     {
         "key": "M8VGJZXN",
-        "version": 26427,
+        "version": 27405,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1213,10 +1213,10 @@
             "creatorSummary": "Dunn",
             "numChildren": 1
         },
-        "bibtex": "\n@phdthesis{dunn_monte_2014,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Monte {Carlo} {Mesh} {Tallies} based on a {Kernel} {Density} {Estimator} {Approach}},\n\tabstract = {Kernel density estimators (KDE) are considered for use with the Monte Carlo transport method as an alternative to conventional methods for solving fixed-source problems on arbitrary 3D input meshes.  Since conventional methods produce a piecewise constant approximation, their accuracy can suffer when using coarse meshes to approximate neutron flux distributions with strong gradients.  Comparatively, KDE mesh tallies produce point estimates independently of the mesh structure, which means that their values will not change even if the mesh is refined.\n\nA new KDE integral-track estimator is introduced in this dissertation for use with mesh tallies.  Two input parameters are needed, namely a bandwidth and kernel.  The bandwidth is equivalent to choosing mesh cell size, whereas the kernel determines the weight of each contribution with respect to its distance from the calculation point being evaluated.  The KDE integral-track estimator is shown to produce more accurate results than the original KDE track length estimator, with no performance penalty, and identical or comparable results to conventional methods.  However, unlike conventional methods, KDE mesh tallies can use different bandwidths and kernels to improve accuracy without changing the input mesh.\n\nThis dissertation also explores the accuracy and efficiency of the KDE integral-track mesh tally in detail.  Like other KDE applications, accuracy is highly dependent on the choice of bandwidth.  This choice becomes even more important when approximating regions of the neutron flux distribution with high curvature, where changing the bandwidth is much more sensitive.  Other factors that affect accuracy include properties of the kernel, and the boundary bias effect for calculation points near external geometrical boundaries.  Numerous factors also affect efficiency, with the most significant being the concept of the neighborhood region.  The neighborhood region determines how many calculation points are expected to add non-trivial contributions, which depends on node density, bandwidth, kernel, and properties of the track being tallied.\n\nThe KDE integral-track mesh tally is a promising alternative for solving fixed-source problems on arbitrary 3D input meshes.  Producing results at specific points rather than cell-averaged values allows a more accurate representation of the neutron flux distribution to be obtained, especially when coarser meshes are used.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Dunn, K. L.},\n\tmonth = aug,\n\tyear = {2014},\n}\n",
+        "bibtex": "\n@phdthesis{dunn_monte_2014,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Monte {Carlo} {Mesh} {Tallies} based on a {Kernel} {Density} {Estimator} {Approach}},\n\turl = {https://depot.library.wisc.edu/repository/fedora/1711.dl:OXDMBPODZJERF8A/datastreams/REF/content},\n\tabstract = {Kernel density estimators (KDE) are considered for use with the Monte Carlo transport method as an alternative to conventional methods for solving fixed-source problems on arbitrary 3D input meshes.  Since conventional methods produce a piecewise constant approximation, their accuracy can suffer when using coarse meshes to approximate neutron flux distributions with strong gradients.  Comparatively, KDE mesh tallies produce point estimates independently of the mesh structure, which means that their values will not change even if the mesh is refined.\n\nA new KDE integral-track estimator is introduced in this dissertation for use with mesh tallies.  Two input parameters are needed, namely a bandwidth and kernel.  The bandwidth is equivalent to choosing mesh cell size, whereas the kernel determines the weight of each contribution with respect to its distance from the calculation point being evaluated.  The KDE integral-track estimator is shown to produce more accurate results than the original KDE track length estimator, with no performance penalty, and identical or comparable results to conventional methods.  However, unlike conventional methods, KDE mesh tallies can use different bandwidths and kernels to improve accuracy without changing the input mesh.\n\nThis dissertation also explores the accuracy and efficiency of the KDE integral-track mesh tally in detail.  Like other KDE applications, accuracy is highly dependent on the choice of bandwidth.  This choice becomes even more important when approximating regions of the neutron flux distribution with high curvature, where changing the bandwidth is much more sensitive.  Other factors that affect accuracy include properties of the kernel, and the boundary bias effect for calculation points near external geometrical boundaries.  Numerous factors also affect efficiency, with the most significant being the concept of the neighborhood region.  The neighborhood region determines how many calculation points are expected to add non-trivial contributions, which depends on node density, bandwidth, kernel, and properties of the track being tallied.\n\nThe KDE integral-track mesh tally is a promising alternative for solving fixed-source problems on arbitrary 3D input meshes.  Producing results at specific points rather than cell-averaged values allows a more accurate representation of the neutron flux distribution to be obtained, especially when coarser meshes are used.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Dunn, K. L.},\n\tmonth = aug,\n\tyear = {2014},\n}\n",
         "data": {
             "key": "M8VGJZXN",
-            "version": 26427,
+            "version": 27405,
             "itemType": "thesis",
             "title": "Monte Carlo Mesh Tallies based on a Kernel Density Estimator Approach",
             "creators": [
@@ -1234,7 +1234,7 @@
             "numPages": "201",
             "language": "English",
             "shortTitle": "",
-            "url": "",
+            "url": "https://depot.library.wisc.edu/repository/fedora/1711.dl:OXDMBPODZJERF8A/datastreams/REF/content",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -1249,7 +1249,7 @@
             ],
             "relations": {},
             "dateAdded": "2014-10-28T15:51:39Z",
-            "dateModified": "2019-02-17T23:01:16Z"
+            "dateModified": "2022-12-08T20:07:39Z"
         }
     },
     {
