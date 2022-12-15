@@ -1,7 +1,7 @@
 [
     {
-        "key": "QYJJXBV7",
-        "version": 27199,
+        "key": "7EJ4AFK3",
+        "version": 27454,
         "library": {
             "type": "group",
             "id": 10058,
@@ -15,18 +15,18 @@
         },
         "links": {
             "self": {
-                "href": "https://api.zotero.org/groups/10058/items/QYJJXBV7",
+                "href": "https://api.zotero.org/groups/10058/items/7EJ4AFK3",
                 "type": "application/json"
             },
             "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/QYJJXBV7",
+                "href": "https://www.zotero.org/groups/10058/items/7EJ4AFK3",
                 "type": "text/html"
             },
             "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/ZZ6FFNZX",
+                "href": "https://api.zotero.org/groups/10058/items/BLWWKEKD",
                 "type": "application/json",
                 "attachmentType": "application/pdf",
-                "attachmentSize": 17006621
+                "attachmentSize": 9015228
             }
         },
         "meta": {
@@ -42,13 +42,13 @@
                 }
             },
             "creatorSummary": "Harb et al.",
-            "parsedDate": "2022-10-17",
+            "parsedDate": "2023-01-02",
             "numChildren": 1
         },
-        "bibtex": "\n@article{harb_uncertainty_2022,\n\ttitle = {Uncertainty {Quantification} of the {Decay} {Gamma} {Source} in {Mesh}-{Based} {Shutdown} {Dose} {Rate} {Calculations}},\n\tvolume = {0},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2022.2115831},\n\tdoi = {10.1080/15361055.2022.2115831},\n\tabstract = {In fusion energy systems, part of the design effort is dedicated to the assessment of the shutdown dose rate (SDR) due to the decay photons that will be emitted from activated components. Monte Carlo transport codes are often used to obtain the neutron flux distribution in the problem domain. The neutron flux distribution is used in the rigorous 2-step (R2S) workflow to obtain the photon emission density distribution of decaying radionuclides. The photon emission density is then used as an input for a dedicated photon transport step to calculate the SDR. In this paper, the uncertainty of the decay gamma source due to the uncertainty of the neutron flux distribution in the R2S workflow is investigated. A scheme is developed to estimate the uncertainty of the decay gamma source, building on the concept of groupwise transmutation and using standard error propagation techniques. The applicability of the newly developed scheme is then demonstrated on one of the conceptual designs of the fusion nuclear science facility.},\n\tnumber = {0},\n\turldate = {2022-10-27},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {Harb, M. and Davis, A. and Wilson, P. P. H.},\n\tmonth = oct,\n\tyear = {2022},\n\tnote = {Publisher: Taylor \\& Francis\n\\_eprint: https://doi.org/10.1080/15361055.2022.2115831},\n\tkeywords = {DAGMC, Uncertainty propagation, fusion nuclear science facility, rigorous 2-step workflow, shutdown dose rate},\n\tpages = {1--12},\n}\n",
+        "bibtex": "\n@article{harb_uncertainty_2023,\n\ttitle = {Uncertainty {Quantification} of the {Decay} {Gamma} {Source} in {Mesh}-{Based} {Shutdown} {Dose} {Rate} {Calculations}},\n\tvolume = {79},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2022.2115831},\n\tdoi = {10.1080/15361055.2022.2115831},\n\tabstract = {In fusion energy systems, part of the design effort is dedicated to the assessment of the shutdown dose rate (SDR) due to the decay photons that will be emitted from activated components. Monte Carlo transport codes are often used to obtain the neutron flux distribution in the problem domain. The neutron flux distribution is used in the rigorous 2-step (R2S) workflow to obtain the photon emission density distribution of decaying radionuclides. The photon emission density is then used as an input for a dedicated photon transport step to calculate the SDR. In this paper, the uncertainty of the decay gamma source due to the uncertainty of the neutron flux distribution in the R2S workflow is investigated. A scheme is developed to estimate the uncertainty of the decay gamma source, building on the concept of groupwise transmutation and using standard error propagation techniques. The applicability of the newly developed scheme is then demonstrated on one of the conceptual designs of the fusion nuclear science facility.},\n\tnumber = {1},\n\turldate = {2022-12-14},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {Harb, M. and Davis, A. and Wilson, P. P. H.},\n\tmonth = jan,\n\tyear = {2023},\n\tnote = {Publisher: Taylor \\& Francis\n\\_eprint: https://doi.org/10.1080/15361055.2022.2115831},\n\tkeywords = {DAGMC, Uncertainty propagation, fusion nuclear science facility, rigorous 2-step workflow, shutdown dose rate},\n\tpages = {1--12},\n}\n",
         "data": {
-            "key": "QYJJXBV7",
-            "version": 27199,
+            "key": "7EJ4AFK3",
+            "version": 27454,
             "itemType": "journalArticle",
             "title": "Uncertainty Quantification of the Decay Gamma Source in Mesh-Based Shutdown Dose Rate Calculations",
             "creators": [
@@ -70,10 +70,10 @@
             ],
             "abstractNote": "In fusion energy systems, part of the design effort is dedicated to the assessment of the shutdown dose rate (SDR) due to the decay photons that will be emitted from activated components. Monte Carlo transport codes are often used to obtain the neutron flux distribution in the problem domain. The neutron flux distribution is used in the rigorous 2-step (R2S) workflow to obtain the photon emission density distribution of decaying radionuclides. The photon emission density is then used as an input for a dedicated photon transport step to calculate the SDR. In this paper, the uncertainty of the decay gamma source due to the uncertainty of the neutron flux distribution in the R2S workflow is investigated. A scheme is developed to estimate the uncertainty of the decay gamma source, building on the concept of groupwise transmutation and using standard error propagation techniques. The applicability of the newly developed scheme is then demonstrated on one of the conceptual designs of the fusion nuclear science facility.",
             "publicationTitle": "Fusion Science and Technology",
-            "volume": "0",
-            "issue": "0",
+            "volume": "79",
+            "issue": "1",
             "pages": "1-12",
-            "date": "2022-10-17",
+            "date": "2023-01-02",
             "series": "",
             "seriesTitle": "",
             "seriesText": "",
@@ -83,7 +83,7 @@
             "ISSN": "1536-1055",
             "shortTitle": "",
             "url": "https://doi.org/10.1080/15361055.2022.2115831",
-            "accessDate": "2022-10-27T19:26:07Z",
+            "accessDate": "2022-12-14T23:18:25Z",
             "archive": "",
             "archiveLocation": "",
             "libraryCatalog": "Taylor and Francis+NEJM",
@@ -113,11 +113,12 @@
                 }
             ],
             "collections": [
+                "APMMJXES",
                 "UKXV4KID"
             ],
             "relations": {},
-            "dateAdded": "2022-10-27T19:26:07Z",
-            "dateModified": "2022-10-27T19:26:07Z"
+            "dateAdded": "2022-12-14T23:18:26Z",
+            "dateModified": "2022-12-14T23:18:26Z"
         }
     },
     {
