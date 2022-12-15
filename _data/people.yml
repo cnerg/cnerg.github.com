@@ -243,11 +243,11 @@
     employer: Kinetrics
     employer_url: http://www.kinectrics.com/
   - name: Baptiste Mouginot
-    url:
+    url: https://www.linkedin.com/in/baptiste-mouginot-75992520/
     year: 2015-2021
     role: Scientist
     employer: BaM Scientific Consulting
-    employer_url: 
+    employer_url:  
   - name: Matthew Nyberg
     year: 2021
     role: Undergraduate Intern
@@ -388,7 +388,7 @@
     year: 2006
     role: MS
     employer: Constellation
-    employer_url: invalid://
+    employer_url: http://www.constellationenergy.com/
   - name: Samuel Stern
     url:
     year: 2019
