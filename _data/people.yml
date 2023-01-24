@@ -50,6 +50,10 @@
     url: "bq"
     role: "Undergraduate Researcher"
     image: Bowen_Quan.jpg
+  - name: "Kenneth Lee"
+    url: "kl"
+    role: "Undergraduate Intern"
+    image: Kenneth_Lee.jpeg
 
 - group: 'Alumni'
   people:
