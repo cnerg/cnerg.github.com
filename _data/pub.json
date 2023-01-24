@@ -1,5 +1,141 @@
 [
     {
+        "key": "K76VZVHA",
+        "version": 27565,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/K76VZVHA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/K76VZVHA",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/I7TX3WN8",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 8070743
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Ruegsegger et al.",
+            "parsedDate": "2023-01-24",
+            "numChildren": 2
+        },
+        "bibtex": "\n@article{ruegsegger_scoping_2023,\n\ttitle = {Scoping {Studies} for a {Lead}-{Lithium}-{Cooled}, {Minor}-{Actinide}-{Burning}, {Fission}-{Fusion} {Hybrid} {Reactor} {Design}},\n\tvolume = {0},\n\tissn = {0029-5639},\n\turl = {https://www.tandfonline.com/doi/abs/10.1080/00295639.2022.2154118},\n\tdoi = {10.1080/00295639.2022.2154118},\n\tabstract = {A feasibility study of a subcritical fission-fusion hybrid reactor using lead-lithium eutectic as a coolant and minor actinides (MAs) as fuel is presented. Such a reactor could support the fission community by transmuting MAs and the fusion community by breeding tritium. The feasibility of such a reactor for the burnup of MAs is assessed in terms of burnup performance, tritium breeding, and safety characteristics. Tandem mirrors are a promising neutron source technology, and a deuterium-tritium tandem mirror is considered here for the neutron source with power Psource = 1.13 MW assumed for scoping purposes. Subcritical reactivities from keff = 0.9800 to keff = 0.9950 were considered, representing the initial reference for subcritical reactivity and the assessed upper limit, respectively. Stability analyses indicated the reactivity would be stable under perturbations of fuel, coolant, and inlet temperatures, with a positive reactivity insertion expected during reactor shutdown. This keff range corresponded to nuclear heating values of 150 to 650 MW and mass burn rates of 53 to 216 kg/year. The upper mass burn rate limit would require 1110 reactor years with a capacity factor of 0.9 to fission the global supply of MAs and could offset the annual U.S. MA production with eight reactors. Tritium breeding was assessed for keff = 0.9800 and 3.795\\% 6Li enrichment in the coolant, and a tritium breeding ratio of 1.602 ± 0.017 was tallied, suggesting the reactor could, without elevated 6Li enrichment, produce tritium to both sustain operation and supply tritium for other fusion devices. Time-series modeling of fuel burnup was conducted for a four-batch loading scheme and three different fuel residence times at keff = 0.9800, which showed system performance would drop with burnup, and that the rate of this drop was lower for longer fuel residence times, motivating a means of reactivity control. Last, changes in fuel composition with burnup were assessed for relative concentrations of MAs, transmutation products, and fission products. The breeding of plutonium in the blanket was calculated and found to be of minimal proliferation concern.},\n\tnumber = {0},\n\turldate = {2023-01-24},\n\tjournal = {Nuclear Science and Engineering},\n\tauthor = {Ruegsegger, Joshua and Moreno, Connor and Nyberg, Matthew and Bohm, Tim and Wilson, Paul P. H. and Lindley, Ben},\n\tmonth = jan,\n\tyear = {2023},\n\tnote = {Publisher: Taylor \\& Francis\n\\_eprint: https://www.tandfonline.com/doi/pdf/10.1080/00295639.2022.2154118},\n\tkeywords = {Subcritical, burnup, fission-fusion hybrid, lead lithium, minor actinide},\n\tpages = {1--17},\n}\n",
+        "data": {
+            "key": "K76VZVHA",
+            "version": 27565,
+            "itemType": "journalArticle",
+            "title": "Scoping Studies for a Lead-Lithium-Cooled, Minor-Actinide-Burning, Fission-Fusion Hybrid Reactor Design",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Joshua",
+                    "lastName": "Ruegsegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Connor",
+                    "lastName": "Moreno"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Matthew",
+                    "lastName": "Nyberg"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tim",
+                    "lastName": "Bohm"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Lindley"
+                }
+            ],
+            "abstractNote": "A feasibility study of a subcritical fission-fusion hybrid reactor using lead-lithium eutectic as a coolant and minor actinides (MAs) as fuel is presented. Such a reactor could support the fission community by transmuting MAs and the fusion community by breeding tritium. The feasibility of such a reactor for the burnup of MAs is assessed in terms of burnup performance, tritium breeding, and safety characteristics. Tandem mirrors are a promising neutron source technology, and a deuterium-tritium tandem mirror is considered here for the neutron source with power Psource = 1.13 MW assumed for scoping purposes. Subcritical reactivities from keff = 0.9800 to keff = 0.9950 were considered, representing the initial reference for subcritical reactivity and the assessed upper limit, respectively. Stability analyses indicated the reactivity would be stable under perturbations of fuel, coolant, and inlet temperatures, with a positive reactivity insertion expected during reactor shutdown. This keff range corresponded to nuclear heating values of 150 to 650 MW and mass burn rates of 53 to 216 kg/year. The upper mass burn rate limit would require 1110 reactor years with a capacity factor of 0.9 to fission the global supply of MAs and could offset the annual U.S. MA production with eight reactors. Tritium breeding was assessed for keff = 0.9800 and 3.795% 6Li enrichment in the coolant, and a tritium breeding ratio of 1.602 ± 0.017 was tallied, suggesting the reactor could, without elevated 6Li enrichment, produce tritium to both sustain operation and supply tritium for other fusion devices. Time-series modeling of fuel burnup was conducted for a four-batch loading scheme and three different fuel residence times at keff = 0.9800, which showed system performance would drop with burnup, and that the rate of this drop was lower for longer fuel residence times, motivating a means of reactivity control. Last, changes in fuel composition with burnup were assessed for relative concentrations of MAs, transmutation products, and fission products. The breeding of plutonium in the blanket was calculated and found to be of minimal proliferation concern.",
+            "publicationTitle": "Nuclear Science and Engineering",
+            "volume": "0",
+            "issue": "0",
+            "pages": "1-17",
+            "date": "2023-01-24",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.1080/00295639.2022.2154118",
+            "ISSN": "0029-5639",
+            "shortTitle": "",
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/00295639.2022.2154118",
+            "accessDate": "2023-01-24T16:29:25Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Taylor and Francis+NEJM",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: Taylor & Francis\n_eprint: https://www.tandfonline.com/doi/pdf/10.1080/00295639.2022.2154118",
+            "tags": [
+                {
+                    "tag": "Subcritical",
+                    "type": 1
+                },
+                {
+                    "tag": "burnup",
+                    "type": 1
+                },
+                {
+                    "tag": "fission-fusion hybrid",
+                    "type": 1
+                },
+                {
+                    "tag": "lead lithium",
+                    "type": 1
+                },
+                {
+                    "tag": "minor actinide",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2023-01-24T16:29:25Z",
+            "dateModified": "2023-01-24T16:29:25Z"
+        }
+    },
+    {
         "key": "7EJ4AFK3",
         "version": 27454,
         "library": {
@@ -18457,199 +18593,6 @@
             },
             "dateAdded": "2012-06-14T18:12:55Z",
             "dateModified": "2012-06-21T14:21:32Z"
-        }
-    },
-    {
-        "key": "P6MG6WJ4",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/P6MG6WJ4",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/P6MG6WJ4",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/3EPTDFI7",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 499725
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 708524,
-                "username": "erelson",
-                "name": "Eric Relson",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/erelson",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Fischer et al.",
-            "parsedDate": "2009-08",
-            "numChildren": 2
-        },
-        "bibtex": "\n@article{fischer_use_2009,\n\ttitle = {Use of {CAD} {Generated} {Geometry} {Data} in {Monte} {Carlo} {Transport} {Calculations} for {ITER}},\n\tvolume = {56},\n\turl = {http://epubs.ans.org/?a=8991},\n\tabstract = {An extensive benchmark exercise has been conducted on ITER with the objective to test and validate different approaches for the use of CAD generated geometry data for Monte Carlo transport calculations with the MCNP code. The exercise encompassed the generation of a dedicated neutronics CATIA model based on available engineering CAD design data, the conversion into MCNP geometry, the verification of the converted models, and a number of calculations to compare the different approaches with regard to the performance and the validity of the results obtained. The paper briefly reviews the different approaches and provides a detailed description of the ITER benchmark effort, its results and conclusions showing that the approaches have reached the maturity level to allow their application to real ITER design analyses. This is considered an essential step forward for neutronics analysis tools to satisfy ITER quality assurance rules.},\n\tnumber = {2},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {Fischer, U. and Iida, H. and Li, Y. and Loughlin, M. and Sato, S. and Serikov, A. and Tsige-Tamirat, T. and Tautges, T. and Wilson, P.P. and Wu, Y.},\n\tmonth = aug,\n\tyear = {2009},\n\tkeywords = {Benchmark, CAD, Code, Computational Geometry, Computer-Aided Design, Experimental Reactors, Geometry, International Thermonuclear Reactor (ITER), MCNP, Models, Monte Carlo Methods, Monte Carlo Transport Code, Quality Assurance, Total Quality Management},\n\tpages = {702--709},\n}\n",
-        "data": {
-            "key": "P6MG6WJ4",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Use of CAD Generated Geometry Data in Monte Carlo Transport Calculations for ITER",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "U.",
-                    "lastName": "Fischer"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "H.",
-                    "lastName": "Iida"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Y.",
-                    "lastName": "Li"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M.",
-                    "lastName": "Loughlin"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "S.",
-                    "lastName": "Sato"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "A.",
-                    "lastName": "Serikov"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.",
-                    "lastName": "Tsige-Tamirat"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.",
-                    "lastName": "Tautges"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Y.",
-                    "lastName": "Wu"
-                }
-            ],
-            "abstractNote": "An extensive benchmark exercise has been conducted on ITER with the objective to test and validate different approaches for the use of CAD generated geometry data for Monte Carlo transport calculations with the MCNP code. The exercise encompassed the generation of a dedicated neutronics CATIA model based on available engineering CAD design data, the conversion into MCNP geometry, the verification of the converted models, and a number of calculations to compare the different approaches with regard to the performance and the validity of the results obtained. The paper briefly reviews the different approaches and provides a detailed description of the ITER benchmark effort, its results and conclusions showing that the approaches have reached the maturity level to allow their application to real ITER design analyses. This is considered an essential step forward for neutronics analysis tools to satisfy ITER quality assurance rules.",
-            "publicationTitle": "Fusion Science and Technology",
-            "volume": "56",
-            "issue": "2",
-            "pages": "702-709",
-            "date": "Aug 2009",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "",
-            "ISSN": "",
-            "shortTitle": "",
-            "url": "http://epubs.ans.org/?a=8991",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Benchmark"
-                },
-                {
-                    "tag": "CAD"
-                },
-                {
-                    "tag": "Code"
-                },
-                {
-                    "tag": "Computational Geometry"
-                },
-                {
-                    "tag": "Computer-Aided Design"
-                },
-                {
-                    "tag": "Experimental Reactors"
-                },
-                {
-                    "tag": "Geometry"
-                },
-                {
-                    "tag": "International Thermonuclear Reactor (ITER)"
-                },
-                {
-                    "tag": "MCNP"
-                },
-                {
-                    "tag": "Models",
-                    "type": 1
-                },
-                {
-                    "tag": "Monte Carlo Methods"
-                },
-                {
-                    "tag": "Monte Carlo Transport Code"
-                },
-                {
-                    "tag": "Quality Assurance"
-                },
-                {
-                    "tag": "Total Quality Management"
-                }
-            ],
-            "collections": [
-                "APMMJXES",
-                "UKXV4KID"
-            ],
-            "relations": {
-                "dc:replaces": "http://zotero.org/groups/10058/items/QRM9BVJX"
-            },
-            "dateAdded": "2012-06-18T14:08:47Z",
-            "dateModified": "2012-08-20T19:57:28Z"
         }
     }
 ]
