@@ -54,6 +54,10 @@
     url: "kl"
     role: "Undergraduate Intern"
     image: Kenneth_Lee.jpeg
+  - name: "Damian Jilk"
+    url: "dj"
+    role: "Undergraduate Intern"
+    image: damian_jilk.jpg
 
 - group: 'Alumni'
   people:
