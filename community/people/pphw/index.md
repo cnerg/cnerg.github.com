@@ -42,26 +42,26 @@ Future](http://energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pd
 Born in Edinburgh, Scotland, and raised in Fort Saskatchewan, Alberta, Canada,
 Paul specialized in the Nuclear Power option of the [Engineering Science
 program](https://engsci.utoronto.ca/) at the [University of
-Toronto](https://www.utoronto.ca). After receiving his Bachelor of Applied
-Science in Engineering Science, he began his graduate schooling in nuclear
-engineering at the University of Wisconsin-Madison. After three years, he moved
-to Karlsruhe, Germany, where he studied in the Institute for Neutron Physics and
-Reactor Engineering (of the [Karlsruhe Institute of
+Toronto](https://www.utoronto.ca) in 1992. After receiving his Bachelor of
+Applied Science in Engineering Science, he began his graduate schooling in
+nuclear engineering at the University of Wisconsin-Madison. After three years,
+he moved to Karlsruhe, Germany, where he studied in the Institute for Neutron
+Physics and Reactor Engineering (of the [Karlsruhe Institute of
 Technology](https://www.kit.edu)), earning his Dr.-Ing. degree in Mechanical
 Engineering in 1998. Returning to Madison, Paul completed his Ph.D. in Nuclear
 Engineering in 1999.
 
-Paul was the founding President of the [North American Young Generation in
-Nuclear [NA-YGN]](https://www.naygn.org), an organization created to provide
-unique opportunities to young professionals in all fields of nuclear science &
-technology. Paul has been active in the [American Nuclear Society](https://www.ans.org) for over 20
-years, and currently serves on its Board of Directors. Paul also represented the
-ANS and NA-YGN at the [international climate change negotiations](http://unfccc.int) in Buenos Aires,
-Argentina (1998), and Bonn, Germany (1999). He is a member of the American and
-Canadian Nuclear Societies, the American Society for Engineering Education and
-the NA-YGN.
+Paul has been active in the [American Nuclear Society](https://www.ans.org) for
+over 30 years and was the founding president of the [North American Young
+Generation in Nuclear [NA-YGN]](https://www.naygn.org). He represented the ANS
+and NA-YGN at the [international climate change negotiations](http://unfccc.int)
+in Buenos Aires, Argentina (1998), and Bonn, Germany (1999). He is also a member
+of the Canadian Nuclear Society and the American Society for Engineering
+Education.
 
-Paul is married and has two daughters. They enjoy biking around Madison’s paths
-and spending time outside.
+Paul is married and has two daughters. They enjoy biking around Madison’s paths,
+floating on its lakes, eating at its restaurants, and enjoying its theaters.
 
-Students who would like to request a reference should review [these guidelines](reference_request.md).
+* Students who would like to request a reference should review [these
+guidelines](reference_request.md).
+* [A shorter bio]({% link community/people/pphw/nontech.md %})
