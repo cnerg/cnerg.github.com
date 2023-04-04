@@ -47,3 +47,5 @@ Education.
 
 Paul is married and has two daughters. They enjoy biking around Madison’s paths,
 floating on its lakes, eating at its restaurants, and enjoying its theaters.
+
+* [Longer bio]({% link community/people/pphw/index.md %})
