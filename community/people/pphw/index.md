@@ -17,6 +17,7 @@ services:
   scholar: pWHnbUgAAAAJ
   facebook: gonuke
   linkedin: gonuke
+  orcid: 0000-0002-8555-4410
 twitter-feed: true
 ---
 
