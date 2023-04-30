@@ -47,9 +47,6 @@
 - group: 'Undergraduate Students'
   people:
   - name: "Bowen Quan"
-  - name: "Gerson A. Esquivel Garcia"
-    url: "gaeg"
-    image: Gerson-3 copy.jpg
     url: "bq"
     role: "Undergraduate Researcher"
     image: Bowen_Quan.jpg
@@ -61,6 +58,10 @@
     url: "dj"
     role: "Undergraduate Intern"
     image: damian_jilk.jpg
+  - name: "Gerson A. Esquivel Garcia"
+    url: "gaeg"
+    image: Gerson-3 copy.jpg
+    role: "Undergraduate Intern"
 
 - group: 'Alumni'
   people:

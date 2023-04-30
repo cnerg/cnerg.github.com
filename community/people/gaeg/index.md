@@ -8,7 +8,7 @@ phone: "608/4194316"
 city_state_zip: "Madison, WI 53706"
 services:
   github: GersonEsquivel
-  facebook: Gerson Esquivel Garcia
+  facebook: gerson.esquivel.garcia
   linkedin: gerson-esquivel
 ---
 
