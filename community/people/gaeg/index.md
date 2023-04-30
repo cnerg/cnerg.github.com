@@ -2,7 +2,7 @@
 layout: person
 title: Gerson Adimir Esquivel Garcia
 role: Undergraduate Student
-image: Gerson-3 copy.jpg
+image: Gerson.jpg
 email: esquivelgarc@wisc.edu
 phone: "608/4194316"
 city_state_zip: "Madison, WI 53706"
