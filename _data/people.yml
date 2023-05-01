@@ -58,6 +58,10 @@
     url: "dj"
     role: "Undergraduate Intern"
     image: damian_jilk.jpg
+  - name: "Gerson A. Esquivel Garcia"
+    url: "gaeg"
+    role: "Undergraduate Intern"
+    image: Gerson.jpg
 
 - group: 'Alumni'
   people:
