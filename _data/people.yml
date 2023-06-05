@@ -62,6 +62,10 @@
     url: "gaeg"
     role: "Undergraduate Intern"
     image: Gerson.jpg
+  - name: "Eitan Weinstein"
+    url: "ew"
+    role: "Undergraduate Intern"
+    image: EitanHeadshot.jpg
 
 - group: 'Alumni'
   people:
@@ -443,7 +447,6 @@
     role: Visiting Student Researcher
     employer: Hefei Institutes of Physical Science, Chinese Academy of Sciences
     employer_url: http://english.hf.cas.cn/
-
 
 
 
