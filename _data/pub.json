@@ -1,5 +1,132 @@
 [
     {
+        "key": "D9GM9U4J",
+        "version": 28500,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/D9GM9U4J",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/D9GM9U4J",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/F7PY2PGN",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 24190637
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Granda Duarte et al.",
+            "parsedDate": "2023-06-09",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{granda_duarte_shutdown_2023,\n\ttitle = {Shutdown {Dose} {Rate} with {Cartesian} {Mesh} for {High}-{Energy} {Nuclear} {Systems}},\n\tvolume = {0},\n\tissn = {0029-5450},\n\turl = {https://doi.org/10.1080/00295450.2023.2205554},\n\tdoi = {10.1080/00295450.2023.2205554},\n\tabstract = {In accelerator-driven systems, charged particles and high-energy neutrons can contribute to the production of nuclides that can persist long after the system has been shut down. These nuclides release photons that contribute to the biological dose. It is essential to quantify the biological dose as a function of time after shutdown to ensure safe working conditions for laborers during maintenance procedures. The shutdown dose rate (SDR) can be calculated with the Rigorous Two-Step (R2S) method, which includes a neutron and photon transport coupled with an activation calculation. For accelerator-driven systems, calculating SDR presents challenges related to the neutron cross-sectional data available for high-energy neutrons. A tally was implemented to collect isotope production data directly in a Monte Carlo N-Particle (MCNP) calculation. The output of this RNUCS tally is then used directly in an activation calculation, bypassing the need to use cross-section data with the neutron flux to obtain the isotope production and destruction data. A mesh-based RNUCS-R2S workflow has been developed based on this tally to calculate SDR in accelerator-driven systems. This workflow operates directly on computer-aided design geometry and supports using a meshed photon source. This workflow has been verified against a cell-based RNUCS-R2S workflow. A test problem with the essential characteristics of an accelerator-driven system was created to use in this analysis. The SDR results are within 40\\% of the cell-based RNUCS-R2S results. The workflow was also validated with the spallation neutron source system. Most detectors’ SDR results are within 50\\%, with a few detectors having a significantly lower SDR result than the experimental value.},\n\tnumber = {0},\n\turldate = {2023-06-15},\n\tjournal = {Nuclear Technology},\n\tauthor = {Granda Duarte, Nancy and Popova, Irina I. and Iverson, Erik B. and Gallmeier, Franz X. and Wilson, Paul P. H.},\n\tmonth = jun,\n\tyear = {2023},\n\tnote = {Publisher: Taylor \\& Francis\n\\_eprint: https://doi.org/10.1080/00295450.2023.2205554},\n\tkeywords = {High-energy nuclear systems, R2S, Rigorous Two-Step method, radiation transport},\n\tpages = {1--18},\n}\n",
+        "data": {
+            "key": "D9GM9U4J",
+            "version": 28500,
+            "itemType": "journalArticle",
+            "title": "Shutdown Dose Rate with Cartesian Mesh for High-Energy Nuclear Systems",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nancy",
+                    "lastName": "Granda Duarte"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Irina I.",
+                    "lastName": "Popova"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Erik B.",
+                    "lastName": "Iverson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Franz X.",
+                    "lastName": "Gallmeier"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "In accelerator-driven systems, charged particles and high-energy neutrons can contribute to the production of nuclides that can persist long after the system has been shut down. These nuclides release photons that contribute to the biological dose. It is essential to quantify the biological dose as a function of time after shutdown to ensure safe working conditions for laborers during maintenance procedures. The shutdown dose rate (SDR) can be calculated with the Rigorous Two-Step (R2S) method, which includes a neutron and photon transport coupled with an activation calculation. For accelerator-driven systems, calculating SDR presents challenges related to the neutron cross-sectional data available for high-energy neutrons. A tally was implemented to collect isotope production data directly in a Monte Carlo N-Particle (MCNP) calculation. The output of this RNUCS tally is then used directly in an activation calculation, bypassing the need to use cross-section data with the neutron flux to obtain the isotope production and destruction data. A mesh-based RNUCS-R2S workflow has been developed based on this tally to calculate SDR in accelerator-driven systems. This workflow operates directly on computer-aided design geometry and supports using a meshed photon source. This workflow has been verified against a cell-based RNUCS-R2S workflow. A test problem with the essential characteristics of an accelerator-driven system was created to use in this analysis. The SDR results are within 40% of the cell-based RNUCS-R2S results. The workflow was also validated with the spallation neutron source system. Most detectors’ SDR results are within 50%, with a few detectors having a significantly lower SDR result than the experimental value.",
+            "publicationTitle": "Nuclear Technology",
+            "volume": "0",
+            "issue": "0",
+            "pages": "1-18",
+            "date": "2023-06-09",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.1080/00295450.2023.2205554",
+            "ISSN": "0029-5450",
+            "shortTitle": "",
+            "url": "https://doi.org/10.1080/00295450.2023.2205554",
+            "accessDate": "2023-06-15T01:30:27Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Taylor and Francis+NEJM",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/00295450.2023.2205554",
+            "tags": [
+                {
+                    "tag": "High-energy nuclear systems",
+                    "type": 1
+                },
+                {
+                    "tag": "R2S",
+                    "type": 1
+                },
+                {
+                    "tag": "Rigorous Two-Step method",
+                    "type": 1
+                },
+                {
+                    "tag": "radiation transport",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2023-06-15T01:30:27Z",
+            "dateModified": "2023-06-15T01:30:27Z"
+        }
+    },
+    {
         "key": "K76VZVHA",
         "version": 28265,
         "library": {
@@ -18453,146 +18580,6 @@
             "relations": {},
             "dateAdded": "2012-06-14T20:46:16Z",
             "dateModified": "2012-06-18T13:23:52Z"
-        }
-    },
-    {
-        "key": "N3MWTKTA",
-        "version": 21759,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/N3MWTKTA",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/N3MWTKTA",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/HJI9RTKP",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 472203
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Oliver et al.",
-            "parsedDate": "2009-09-06",
-            "numChildren": 4
-        },
-        "bibtex": "\n@inproceedings{oliver_studying_2009,\n\taddress = {Paris, France},\n\tseries = {{GLOBAL} 2009: {Advanced} {Nuclear} {Fuel} {Cycles} and {Systems}},\n\ttitle = {Studying international fuel cycle robustness with the {GENIUSv2} discrete facilities/materials fuel cycle systems analysis tool},\n\tabstract = {GENIUSv2 is a discrete-facilities/discrete-materials nuclear fuel cycle systems analysis tool currently under development at the University of Wisconsin-Madison. It is designed not only to compute the capacity and mass flow data produced by other study tools but also to model the complex relationships between nuclear fuel cycle facilities; the institutions that own them; and the national, intranational, and/or transnational regions in which they operate. This paper describes novel modeling capabilities and methodological contributions present in GENIUSv2, including its treatment of the region-institution-facility hierarchy and its optimization-compatible framework. We then present a number of test problems designed to demonstrate the code’s ability to closely reproduce results from another study tool (Idaho National Laboratory’s VISION code) and to richly model multi-region scenarios not easily captured by the data models of other codes currently available.},\n\tbooktitle = {Proceedings of {GLOBAL} 2009: {Advanced} {Nuclear} {Fuel} {Cycles} and {Systems}, {September} 6-11, 2009},\n\tauthor = {Oliver, Kyle M. and Wilson, Paul P.H. and Reveillere, Arnaud and Ahn, Tae Wook and Dunn, Kerry and Huff, Kathryn D. and Elmore, Royal A.},\n\tmonth = sep,\n\tyear = {2009},\n\tkeywords = {Capacity, Discrete Facility/ Discrete Model (DF/DM), Geniusv2, Mass Flow Data, Nuclear Fuel Cycle Facilities, Nuclear Fuel Cycle Systems Analysis Tool},\n}\n",
-        "data": {
-            "key": "N3MWTKTA",
-            "version": 21759,
-            "itemType": "conferencePaper",
-            "title": "Studying international fuel cycle robustness with the GENIUSv2 discrete facilities/materials fuel cycle systems analysis tool",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Kyle M.",
-                    "lastName": "Oliver"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul P.H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Arnaud",
-                    "lastName": "Reveillere"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Tae Wook",
-                    "lastName": "Ahn"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Kerry",
-                    "lastName": "Dunn"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Kathryn D.",
-                    "lastName": "Huff"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Royal A.",
-                    "lastName": "Elmore"
-                }
-            ],
-            "abstractNote": "GENIUSv2 is a discrete-facilities/discrete-materials nuclear fuel cycle systems analysis tool currently under development at the University of Wisconsin-Madison. It is designed not only to compute the capacity and mass flow data produced by other study tools but also to model the complex relationships between nuclear fuel cycle facilities; the institutions that own them; and the national, intranational, and/or transnational regions in which they operate. This paper describes novel modeling capabilities and methodological contributions present in GENIUSv2, including its treatment of the region-institution-facility hierarchy and its optimization-compatible framework. We then present a number of test problems designed to demonstrate the code’s ability to closely reproduce results from another study tool (Idaho National Laboratory’s VISION code) and to richly model multi-region scenarios not easily captured by the data models of other codes currently available.",
-            "date": "Sept 6-11, 2009",
-            "proceedingsTitle": "Proceedings of GLOBAL 2009: Advanced Nuclear Fuel Cycles and Systems, September 6-11, 2009",
-            "conferenceName": "",
-            "place": "Paris, France",
-            "publisher": "",
-            "volume": "",
-            "pages": "",
-            "series": "GLOBAL 2009: Advanced Nuclear Fuel Cycles and Systems",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Capacity"
-                },
-                {
-                    "tag": "Discrete Facility/ Discrete Model (DF/DM)"
-                },
-                {
-                    "tag": "Geniusv2"
-                },
-                {
-                    "tag": "Mass Flow Data"
-                },
-                {
-                    "tag": "Nuclear Fuel Cycle Facilities"
-                },
-                {
-                    "tag": "Nuclear Fuel Cycle Systems Analysis Tool"
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {
-                "dc:replaces": "http://zotero.org/groups/10058/items/T5SK6UZ2"
-            },
-            "dateAdded": "2012-06-14T18:12:55Z",
-            "dateModified": "2012-06-21T14:21:32Z"
         }
     }
 ]
