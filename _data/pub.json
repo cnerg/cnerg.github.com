@@ -1,5 +1,141 @@
 [
     {
+        "key": "2U8X8PY4",
+        "version": 28577,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/2U8X8PY4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/2U8X8PY4",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/KKGR4XU3",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1669256
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5901966,
+                "username": "stomps",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/stomps",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Stomps et al.",
+            "parsedDate": "2023-09",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{stomps_snm_2023,\n\ttitle = {{SNM} {Radiation} {Signature} {Classification} {Using} {Different} {Semi}-{Supervised} {Machine} {Learning} {Models}},\n\tvolume = {4},\n\tcopyright = {http://creativecommons.org/licenses/by/3.0/},\n\tissn = {2673-4362},\n\turl = {https://www.mdpi.com/2673-4362/4/3/32},\n\tdoi = {10.3390/jne4030032},\n\tabstract = {The timely detection of special nuclear material (SNM) transfers between nuclear facilities is an important monitoring objective in nuclear nonproliferation. Persistent monitoring enabled by successful detection and characterization of radiological material movements could greatly enhance the nuclear nonproliferation mission in a range of applications. Supervised machine learning can be used to signal detections when material is present if a model is trained on sufficient volumes of labeled measurements. However, the nuclear monitoring data needed to train robust machine learning models can be costly to label since radiation spectra may require strict scrutiny for characterization. Therefore, this work investigates the application of semi-supervised learning to utilize both labeled and unlabeled data. As a demonstration experiment, radiation measurements from sodium iodide (NaI) detectors are provided by the Multi-Informatics for Nuclear Operating Scenarios (MINOS) venture at Oak Ridge National Laboratory (ORNL) as sample data. Anomalous measurements are identified using a method of statistical hypothesis testing. After background estimation, an energy-dependent spectroscopic analysis is used to characterize an anomaly based on its radiation signatures. In the absence of ground-truth information, a labeling heuristic provides data necessary for training and testing machine learning models. Supervised logistic regression serves as a baseline to compare three semi-supervised machine learning models: co-training, label propagation, and a convolutional neural network (CNN). In each case, the semi-supervised models outperform logistic regression, suggesting that unlabeled data can be valuable when training and demonstrating value in semi-supervised nonproliferation implementations.},\n\tlanguage = {en},\n\tnumber = {3},\n\turldate = {2023-07-12},\n\tjournal = {Journal of Nuclear Engineering},\n\tauthor = {Stomps, Jordan R. and Wilson, Paul P. H. and Dayman, Kenneth J. and Willis, Michael J. and Ghawaly, James M. and Archer, Daniel E.},\n\tmonth = sep,\n\tyear = {2023},\n\tnote = {Number: 3\nPublisher: Multidisciplinary Digital Publishing Institute},\n\tkeywords = {data analysis, gamma-ray spectroscopy, nuclear nonproliferation, radiation monitoring, semi-supervised machine learning},\n\tpages = {448--466},\n}\n",
+        "data": {
+            "key": "2U8X8PY4",
+            "version": 28577,
+            "itemType": "journalArticle",
+            "title": "SNM Radiation Signature Classification Using Different Semi-Supervised Machine Learning Models",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jordan R.",
+                    "lastName": "Stomps"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kenneth J.",
+                    "lastName": "Dayman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael J.",
+                    "lastName": "Willis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James M.",
+                    "lastName": "Ghawaly"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Daniel E.",
+                    "lastName": "Archer"
+                }
+            ],
+            "abstractNote": "The timely detection of special nuclear material (SNM) transfers between nuclear facilities is an important monitoring objective in nuclear nonproliferation. Persistent monitoring enabled by successful detection and characterization of radiological material movements could greatly enhance the nuclear nonproliferation mission in a range of applications. Supervised machine learning can be used to signal detections when material is present if a model is trained on sufficient volumes of labeled measurements. However, the nuclear monitoring data needed to train robust machine learning models can be costly to label since radiation spectra may require strict scrutiny for characterization. Therefore, this work investigates the application of semi-supervised learning to utilize both labeled and unlabeled data. As a demonstration experiment, radiation measurements from sodium iodide (NaI) detectors are provided by the Multi-Informatics for Nuclear Operating Scenarios (MINOS) venture at Oak Ridge National Laboratory (ORNL) as sample data. Anomalous measurements are identified using a method of statistical hypothesis testing. After background estimation, an energy-dependent spectroscopic analysis is used to characterize an anomaly based on its radiation signatures. In the absence of ground-truth information, a labeling heuristic provides data necessary for training and testing machine learning models. Supervised logistic regression serves as a baseline to compare three semi-supervised machine learning models: co-training, label propagation, and a convolutional neural network (CNN). In each case, the semi-supervised models outperform logistic regression, suggesting that unlabeled data can be valuable when training and demonstrating value in semi-supervised nonproliferation implementations.",
+            "publicationTitle": "Journal of Nuclear Engineering",
+            "volume": "4",
+            "issue": "3",
+            "pages": "448-466",
+            "date": "2023/9",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.3390/jne4030032",
+            "ISSN": "2673-4362",
+            "shortTitle": "",
+            "url": "https://www.mdpi.com/2673-4362/4/3/32",
+            "accessDate": "2023-07-12T15:20:21Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "www.mdpi.com",
+            "callNumber": "",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "extra": "Number: 3\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "tags": [
+                {
+                    "tag": "data analysis",
+                    "type": 1
+                },
+                {
+                    "tag": "gamma-ray spectroscopy",
+                    "type": 1
+                },
+                {
+                    "tag": "nuclear nonproliferation",
+                    "type": 1
+                },
+                {
+                    "tag": "radiation monitoring",
+                    "type": 1
+                },
+                {
+                    "tag": "semi-supervised machine learning",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2023-07-12T15:20:21Z",
+            "dateModified": "2023-07-12T15:20:21Z"
+        }
+    },
+    {
         "key": "D9GM9U4J",
         "version": 28500,
         "library": {
@@ -18445,141 +18581,6 @@
             "relations": {},
             "dateAdded": "2012-06-18T13:32:24Z",
             "dateModified": "2014-01-15T21:50:56Z"
-        }
-    },
-    {
-        "key": "EEMPBFG5",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/EEMPBFG5",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/EEMPBFG5",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/FGCV4D3J",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 799146
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Wilson et al.",
-            "parsedDate": "2010",
-            "numChildren": 2
-        },
-        "bibtex": "\n@article{wilson_acceleration_2010,\n\ttitle = {Acceleration {Techniques} for the {Direct} {Use} of {CAD}-{Based} {Geometry} in {Fusion} {Neutronics} {Analysis}},\n\tvolume = {85},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0920379610002425},\n\tabstract = {The Direct Accelerated Geometry Monte Carlo (DAGMC) software library offers a unique approach to performing neutronics analysis on CAD-based geometries of fusion systems. By employing a number of acceleration techniques, the ray-tracing operations that are fundamental to Monte Carlo radiation transport are implemented efficiently for direct use on the CAD-based solid model, eliminating the need to translate to the native Monte Carlo input language. By forming hierarchical trees of oriented bounding boxes, one for each facet that results from a high-fidelity tessellation of the model, the ray-tracing performance is adequate to permit detailed analysis of large complex systems. In addition to the reduction in human effort and improvement in quality assurance that is found in the translation approaches, the DAGMC approach also permits the analysis of geometries with higher order surfaces that cannot be represented by many native Monte Carlo radiation transport tools. The paper describes the various acceleration techniques and demonstrates the resulting capability in a real fusion neutronics analysis.},\n\tnumber = {10-12},\n\tjournal = {Fusion Engineering and Design},\n\tauthor = {Wilson, P.P.H. and Tautges, T.J. and Kraftcheck, J.A. and Smith, B.M. and Henderson, D.L.},\n\tyear = {2010},\n\tkeywords = {Acceleration, CAD, DAGMC, Fusion, Geometry, Monte Carlo Methods, Neutronics, Software Development},\n\tpages = {1759--1765},\n}\n",
-        "data": {
-            "key": "EEMPBFG5",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Acceleration Techniques for the Direct Use of CAD-Based Geometry in Fusion Neutronics Analysis",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.J.",
-                    "lastName": "Tautges"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "J.A.",
-                    "lastName": "Kraftcheck"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "B.M.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "D.L.",
-                    "lastName": "Henderson"
-                }
-            ],
-            "abstractNote": "The Direct Accelerated Geometry Monte Carlo (DAGMC) software library offers a unique approach to performing neutronics analysis on CAD-based geometries of fusion systems. By employing a number of acceleration techniques, the ray-tracing operations that are fundamental to Monte Carlo radiation transport are implemented efficiently for direct use on the CAD-based solid model, eliminating the need to translate to the native Monte Carlo input language. By forming hierarchical trees of oriented bounding boxes, one for each facet that results from a high-fidelity tessellation of the model, the ray-tracing performance is adequate to permit detailed analysis of large complex systems. In addition to the reduction in human effort and improvement in quality assurance that is found in the translation approaches, the DAGMC approach also permits the analysis of geometries with higher order surfaces that cannot be represented by many native Monte Carlo radiation transport tools. The paper describes the various acceleration techniques and demonstrates the resulting capability in a real fusion neutronics analysis.",
-            "publicationTitle": "Fusion Engineering and Design",
-            "volume": "85",
-            "issue": "10-12",
-            "pages": "1759-1765",
-            "date": "2010",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "",
-            "ISSN": "",
-            "shortTitle": "",
-            "url": "http://www.sciencedirect.com/science/article/pii/S0920379610002425",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Acceleration"
-                },
-                {
-                    "tag": "CAD"
-                },
-                {
-                    "tag": "DAGMC"
-                },
-                {
-                    "tag": "Fusion"
-                },
-                {
-                    "tag": "Geometry"
-                },
-                {
-                    "tag": "Monte Carlo Methods"
-                },
-                {
-                    "tag": "Neutronics"
-                },
-                {
-                    "tag": "Software Development"
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-14T20:46:16Z",
-            "dateModified": "2012-06-18T13:23:52Z"
         }
     }
 ]
