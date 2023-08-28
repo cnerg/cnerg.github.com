@@ -42,7 +42,6 @@
     url: "lg"
     role: "PhD Candidate, US NRC Fellow"
     image: lewis.png
-  
 
 - group: 'Undergraduate Students'
   people:
@@ -50,6 +49,10 @@
     url: "bq"
     role: "Undergraduate Researcher"
     image: Bowen_Quan.jpg
+  - name: "Syn Hubbard"
+    url: "synh"
+    role: "Undergraduate Researcher"
+    image: synH.png
   - name: "Kenneth Lee"
     url: "kl"
     role: "Undergraduate Intern"
