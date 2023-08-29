@@ -65,6 +65,10 @@
     url: "ew"
     role: "Undergraduate Intern"
     image: EitanHeadshot.jpg
+  - name: "Syn Hubbard"
+    url: "synh"
+    role: "Undergraduate Researcher"
+    image: synh.png
 
 - group: 'Alumni'
   people:
