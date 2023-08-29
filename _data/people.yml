@@ -42,7 +42,6 @@
     url: "lg"
     role: "PhD Candidate, US NRC Fellow"
     image: lewis.png
-  
 
 - group: 'Undergraduate Students'
   people:
@@ -66,6 +65,10 @@
     url: "ew"
     role: "Undergraduate Intern"
     image: EitanHeadshot.jpg
+  - name: "Syn Hubbard"
+    url: "synh"
+    role: "Undergraduate Researcher"
+    image: synH.png
 
 - group: 'Alumni'
   people:
