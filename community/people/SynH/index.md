@@ -2,7 +2,7 @@
 layout: person
 title: Syn Hubbard
 role: Undergraduate Researcher
-image: synH.png
+image: synh.png
 email: syn.hubbard@wisc.edu
 room: "434 Engineering Research Building"
 address: "1500 Engineering Dr"
