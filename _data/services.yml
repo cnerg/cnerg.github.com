@@ -32,4 +32,7 @@ zotero:
 orcid:
   baseurl: https://orcid.org/
   icon: orcid.png
+bluesky:
+  baseurl: "https://bsky.app/profile/"
+  icon: bluesky.png
 
