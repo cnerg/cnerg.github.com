@@ -10,14 +10,6 @@
 
 - group: 'Graduate Students'
   people:
-  - name: "Lucas Jacobson"
-    url: "ljj"
-    role: "PhD Candidate"
-    image: jacobson_avatar.png
-  - name: "Young Hui Park"
-    url: "yhp"
-    role: "PhD Candidate"
-    image: hacker_park.jpg
   - name: "Nancy Granda-Duarte"
     url: "ngd"
     role: "PhD Candidate, GERS"
@@ -53,10 +45,6 @@
     url: "bq"
     role: "Undergraduate Researcher"
     image: Bowen_Quan.jpg
-  - name: "Kenneth Lee"
-    url: "kl"
-    role: "Undergraduate Intern"
-    image: Kenneth_Lee.jpeg
   - name: "Damian Jilk"
     url: "dj"
     role: "Undergraduate Intern"
@@ -210,6 +198,9 @@
     role: Programmer
     employer:
     employer_url:
+  - name: "Lucas Jacobson"
+    role: MS
+    year: 2018
   - name: C Grace Kelly
     year: 2021
     role: Undergraduate intern
@@ -241,6 +232,8 @@
     role: BS Nuclear Engineering
     employer: Naval Nuclear Laboratory
     employer_url: https://navalnuclearlab.energy.gov/
+  - name: "Kenneth Lee"
+    role: "Undergraduate Intern"
   - name: Piper Lincoln
     url: https://www.linkedin.com/in/piperlincoln
     year: 2020
@@ -293,6 +286,9 @@
     role: PhD
     employer: TerraPower
     employer_url: https://www.terrapower.com
+  - name: "Young Hui Park"
+    year: 2021
+    role: MS
   - name: Phiphat Phruksarojanakun
     url:
     year: 2007
