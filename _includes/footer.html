@@ -13,7 +13,7 @@
           {% endif %}
           {% endfor %}
         </p>
-      <p>&copy; 2020-2021  {{ site.title | escape }}<br/>
+      <p>&copy; 2020-{{ 'now' | date: "%Y" }}  {{ site.title | escape }}<br/>
         {{- site.description | escape -}}</p>
         <p>
           <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
