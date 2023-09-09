@@ -29,3 +29,7 @@ zotero:
   baseurl: "https://zotero.org/"
   icon: zotero.png
   cnerg: groups/10058/cnerg/library
+orcid:
+  baseurl: https://orcid.org/
+  icon: orcid.png
+
