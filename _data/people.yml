@@ -42,6 +42,10 @@
     url: "lg"
     role: "PhD Candidate, US NRC Fellow"
     image: lewis.png
+  - name: "Micah Gale"
+    url: "mgale"
+    role: "PhD Student"
+    image: DSC_4522.jpg
 
 - group: 'Undergraduate Students'
   people:
