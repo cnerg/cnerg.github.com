@@ -136,6 +136,110 @@
         }
     },
     {
+        "key": "HUFPIYNT",
+        "version": 28800,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/HUFPIYNT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/HUFPIYNT",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/MQ8YKWTF",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 733673
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6628775,
+                "username": "ligross",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/ligross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Gross et al.",
+            "parsedDate": "2023-08",
+            "numChildren": 1
+        },
+        "bibtex": "\n@inproceedings{gross_verification_2023,\n\taddress = {Niagara Falls, Ontario, Canada},\n\ttitle = {Verification of the {Cardinal} {Multiphysics} {Solver} for 1-{D} {Coupled} {Heat} {Transfer} and {Neutron} {Transport}},\n\turl = {https://www.researchgate.net/publication/373173646_Verification_of_the_Cardinal_Multiphysics_Solver_for_1-D_Coupled_Heat_Transfer_and_Neutron_Transport},\n\tabstract = {Cardinal is a multiphysics software tool that couples OpenMC Monte Carlo transport and NekRS Computational Fluid Dynamics (CFD) to the Multiphysics Object-Oriented Simulation Environment (MOOSE). This work verifies Cardinal for coupled neutron transport and heat conduction using a 1-D analytical solution from previous work by the Naval Nuclear Laboratory. This numerical benchmark includes S2 transport, Doppler-broadened cross sections, thermal conduction and expansion, and convective boundary conditions. The goal of this work is to verify Cardi-nal's basic multiphysics modeling capabilities for coupled neutronics and heat conduction. The benchmark provides analytical solutions for the temperature and flux distributions, as well as the k-eigenvalue. Using these solutions, an L2 error norm was computed for each spatial discretiza-tion: namely finite element heat conduction mesh and Monte Carlo cells. The temperature error showed linear convergence on a log-log plot of error vs. mesh element number, with a slope of −0.9986 (R{\\textasciicircum}2 ≈ 1.0). Nearly all spatial flux predictions, except a few points in the N = 250 case, space were within 2σ of the analytical solution, for Monte Carlo cell counts between 50 and 1000. The eigenvalue k eff also agrees well with the benchmark value for each mesh size. The outcome of this work is verification of coupled Monte Carlo-thermal conduction modeling using Cardinal.},\n\tbooktitle = {The {International} {Conference} on {Mathematics} and {Computational} {Methods} {Appliedto} {Nuclear} {Science} and {Engineering}},\n\tauthor = {Gross, Lewis I. and Novak, April J. and Shriwise, Patrick and Wilson, Paul P. H.},\n\tmonth = aug,\n\tyear = {2023},\n\tpages = {10},\n}\n",
+        "data": {
+            "key": "HUFPIYNT",
+            "version": 28800,
+            "itemType": "conferencePaper",
+            "title": "Verification of the Cardinal Multiphysics Solver for 1-D Coupled Heat Transfer and Neutron Transport",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Lewis I.",
+                    "lastName": "Gross"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "April J.",
+                    "lastName": "Novak"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Patrick",
+                    "lastName": "Shriwise"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "Cardinal is a multiphysics software tool that couples OpenMC Monte Carlo transport and NekRS Computational Fluid Dynamics (CFD) to the Multiphysics Object-Oriented Simulation Environment (MOOSE). This work verifies Cardinal for coupled neutron transport and heat conduction using a 1-D analytical solution from previous work by the Naval Nuclear Laboratory. This numerical benchmark includes S2 transport, Doppler-broadened cross sections, thermal conduction and expansion, and convective boundary conditions. The goal of this work is to verify Cardi-nal's basic multiphysics modeling capabilities for coupled neutronics and heat conduction. The benchmark provides analytical solutions for the temperature and flux distributions, as well as the k-eigenvalue. Using these solutions, an L2 error norm was computed for each spatial discretiza-tion: namely finite element heat conduction mesh and Monte Carlo cells. The temperature error showed linear convergence on a log-log plot of error vs. mesh element number, with a slope of −0.9986 (R^2 ≈ 1.0). Nearly all spatial flux predictions, except a few points in the N = 250 case, space were within 2σ of the analytical solution, for Monte Carlo cell counts between 50 and 1000. The eigenvalue k eff also agrees well with the benchmark value for each mesh size. The outcome of this work is verification of coupled Monte Carlo-thermal conduction modeling using Cardinal.",
+            "date": "August 2023",
+            "proceedingsTitle": "The International Conference on Mathematics and Computational Methods Appliedto Nuclear Science and Engineering",
+            "conferenceName": "M&C 2023",
+            "place": "Niagara Falls, Ontario, Canada",
+            "publisher": "",
+            "volume": "",
+            "pages": "10",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "https://www.researchgate.net/publication/373173646_Verification_of_the_Cardinal_Multiphysics_Solver_for_1-D_Coupled_Heat_Transfer_and_Neutron_Transport",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2023-09-11T15:43:08Z",
+            "dateModified": "2023-09-11T16:02:51Z"
+        }
+    },
+    {
         "key": "D9GM9U4J",
         "version": 28500,
         "library": {
@@ -17768,8 +17872,8 @@
         }
     },
     {
-        "key": "5R9JV2RS",
-        "version": 21848,
+        "key": "S9IRDIS3",
+        "version": 28776,
         "library": {
             "type": "group",
             "id": 10058,
@@ -17783,33 +17887,22 @@
         },
         "links": {
             "self": {
-                "href": "https://api.zotero.org/groups/10058/items/5R9JV2RS",
+                "href": "https://api.zotero.org/groups/10058/items/S9IRDIS3",
                 "type": "application/json"
             },
             "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/5R9JV2RS",
+                "href": "https://www.zotero.org/groups/10058/items/S9IRDIS3",
                 "type": "text/html"
             },
             "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/FA6UF639",
+                "href": "https://api.zotero.org/groups/10058/items/BJAP393Q",
                 "type": "application/json",
                 "attachmentType": "application/pdf",
-                "attachmentSize": 952660
+                "attachmentSize": 799146
             }
         },
         "meta": {
             "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
                 "id": 112658,
                 "username": "gonuke",
                 "name": "",
@@ -17820,20 +17913,31 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 2259868,
+                "username": "micah.gale",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/micah.gale",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Wilson et al.",
-            "parsedDate": "2010-12",
-            "numChildren": 2
+            "parsedDate": "2010-12-01",
+            "numChildren": 5
         },
-        "bibtex": "\n@article{wilson_acceleration_2010,\n\ttitle = {Acceleration {Techniques} for the {Direct} {Use} of {CAD}-{Based} {Geometry} in {Fusion} {Neutronics} {Analysis}},\n\tvolume = {85},\n\tnumber = {10-12},\n\tjournal = {Fusion Engineering and Design},\n\tauthor = {Wilson, Paul P.H. and Tautges, Timothy J. and Kraftcheck, Jason A. and Smith, Brandon M. and Henderson, Douglass L.},\n\tmonth = dec,\n\tyear = {2010},\n\tpages = {1759--1765},\n}\n",
+        "bibtex": "\n@article{wilson_acceleration_2010,\n\tseries = {Proceedings of the {Ninth} {International} {Symposium} on {Fusion} {Nuclear} {Technology}},\n\ttitle = {Acceleration techniques for the direct use of {CAD}-based geometry in fusion neutronics analysis},\n\tvolume = {85},\n\tissn = {0920-3796},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0920379610002425},\n\tdoi = {10.1016/j.fusengdes.2010.05.030},\n\tabstract = {The Direct Accelerated Geometry Monte Carlo (DAGMC) software library offers a unique approach to performing neutronics analysis on CAD-based geometries of fusion systems. By employing a number of acceleration techniques, the ray-tracing operations that are fundamental to Monte Carlo radiation transport are implemented efficiently for direct use on the CAD-based solid model, eliminating the need to translate to the native Monte Carlo input language. By forming hierarchical trees of oriented bounding boxes, one for each facet that results from a high-fidelity tessellation of the model, the ray-tracing performance is adequate to permit detailed analysis of large complex systems. In addition to the reduction in human effort and improvement in quality assurance that is found in the translation approaches, the DAGMC approach also permits the analysis of geometries with higher order surfaces that cannot be represented by many native Monte Carlo radiation transport tools. The paper describes the various acceleration techniques and demonstrates the resulting capability in a real fusion neutronics analysis.},\n\tnumber = {10},\n\tjournal = {Fusion Engineering and Design},\n\tauthor = {Wilson, Paul P. H. and Tautges, Timothy J. and Kraftcheck, Jason A. and Smith, Brandon M. and Henderson, Douglass L.},\n\tmonth = dec,\n\tyear = {2010},\n\tkeywords = {Acceleration, CAD, CAD-based analysis, DAGMC, Fusion, Fusion neutronics, Geometry, Monte Carlo Methods, Neutronics, Software Development, Software development},\n\tpages = {1759--1765},\n}\n",
         "data": {
-            "key": "5R9JV2RS",
-            "version": 21848,
+            "key": "S9IRDIS3",
+            "version": 28776,
             "itemType": "journalArticle",
-            "title": "Acceleration Techniques for the Direct Use of CAD-Based Geometry in Fusion Neutronics Analysis",
+            "title": "Acceleration techniques for the direct use of CAD-based geometry in fusion neutronics analysis",
             "creators": [
                 {
                     "creatorType": "author",
-                    "firstName": "Paul P.H.",
+                    "firstName": "Paul P. H.",
                     "lastName": "Wilson"
                 },
                 {
@@ -17857,36 +17961,79 @@
                     "lastName": "Henderson"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "The Direct Accelerated Geometry Monte Carlo (DAGMC) software library offers a unique approach to performing neutronics analysis on CAD-based geometries of fusion systems. By employing a number of acceleration techniques, the ray-tracing operations that are fundamental to Monte Carlo radiation transport are implemented efficiently for direct use on the CAD-based solid model, eliminating the need to translate to the native Monte Carlo input language. By forming hierarchical trees of oriented bounding boxes, one for each facet that results from a high-fidelity tessellation of the model, the ray-tracing performance is adequate to permit detailed analysis of large complex systems. In addition to the reduction in human effort and improvement in quality assurance that is found in the translation approaches, the DAGMC approach also permits the analysis of geometries with higher order surfaces that cannot be represented by many native Monte Carlo radiation transport tools. The paper describes the various acceleration techniques and demonstrates the resulting capability in a real fusion neutronics analysis.",
             "publicationTitle": "Fusion Engineering and Design",
             "volume": "85",
-            "issue": "10-12",
+            "issue": "10",
             "pages": "1759-1765",
-            "date": "Dec 2010",
-            "series": "",
+            "date": "December 1, 2010",
+            "series": "Proceedings of the Ninth International Symposium on Fusion Nuclear Technology",
             "seriesTitle": "",
             "seriesText": "",
-            "journalAbbreviation": "",
+            "journalAbbreviation": "Fusion Engineering and Design",
             "language": "",
-            "DOI": "",
-            "ISSN": "",
+            "DOI": "10.1016/j.fusengdes.2010.05.030",
+            "ISSN": "0920-3796",
             "shortTitle": "",
-            "url": "",
+            "url": "http://www.sciencedirect.com/science/article/pii/S0920379610002425",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
-            "libraryCatalog": "",
+            "libraryCatalog": "ScienceDirect",
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "Acceleration"
+                },
+                {
+                    "tag": "CAD"
+                },
+                {
+                    "tag": "CAD-based analysis",
+                    "type": 1
+                },
+                {
+                    "tag": "DAGMC"
+                },
+                {
+                    "tag": "Fusion"
+                },
+                {
+                    "tag": "Fusion neutronics",
+                    "type": 1
+                },
+                {
+                    "tag": "Geometry"
+                },
+                {
+                    "tag": "Monte Carlo Methods"
+                },
+                {
+                    "tag": "Neutronics"
+                },
+                {
+                    "tag": "Software Development"
+                },
+                {
+                    "tag": "Software development",
+                    "type": 1
+                }
+            ],
             "collections": [
                 "UKXV4KID",
+                "4MDZ29N8",
                 "H442QZRN"
             ],
-            "relations": {},
-            "dateAdded": "2012-08-01T17:49:06Z",
-            "dateModified": "2012-08-01T17:51:16Z"
+            "relations": {
+                "dc:replaces": [
+                    "http://zotero.org/groups/10058/items/EEMPBFG5",
+                    "http://zotero.org/groups/10058/items/5R9JV2RS"
+                ]
+            },
+            "dateAdded": "2012-06-14T20:46:16Z",
+            "dateModified": "2023-09-10T19:10:10Z"
         }
     },
     {
@@ -18441,146 +18588,6 @@
             },
             "dateAdded": "2012-06-14T18:12:55Z",
             "dateModified": "2017-01-11T03:36:55Z"
-        }
-    },
-    {
-        "key": "STHQ9FWT",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/STHQ9FWT",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/STHQ9FWT",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/WQXJUHFH",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 874729
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 144819,
-                "username": "gidden",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gidden",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Hu and Wilson",
-            "parsedDate": "2010",
-            "numChildren": 1
-        },
-        "bibtex": "\n@article{hu_supercritical_2010,\n\ttitle = {Supercritical {Water} {Reactor} {Steady}-{State}, {Burnup}, and {Transient} {Analyses} with {Extended} {PARCS}/{RELAP5}},\n\tvolume = {172},\n\tabstract = {This paper studies the U.S. reference Supercritical Water Reactor (SCWR) design with the newly extended coupled codes PARCS/RELAP5. Steady-state, burnup, and loss-of-feedwater transients are simulated. A possible flow reversal in moderator channels is found in the simulations, and the impact of this reversal on power peaking and reactivity is observed. The transient results show that the assembly with the maximum cladding surface temperature (MCST) and the assembly with the maximum power are different and that the MCST is within the material limit under the current design.},\n\tnumber = {2},\n\tjournal = {Nuclear Technology},\n\tauthor = {Hu, Po and Wilson, P.P.H.},\n\tyear = {2010},\n\tkeywords = {Analysis, Burnup, MCST, Maximum-cladding-surface-temperature, PARCS, RELAP5, SCWR, Steady-State, Supercritical, Transient, Water Reactor},\n\tpages = {143--156},\n}\n",
-        "data": {
-            "key": "STHQ9FWT",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Supercritical Water Reactor Steady-State, Burnup, and Transient Analyses with Extended PARCS/RELAP5",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Po",
-                    "lastName": "Hu"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "This paper studies the U.S. reference Supercritical Water Reactor (SCWR) design with the newly extended coupled codes PARCS/RELAP5. Steady-state, burnup, and loss-of-feedwater transients are simulated. A possible flow reversal in moderator channels is found in the simulations, and the impact of this reversal on power peaking and reactivity is observed. The transient results show that the assembly with the maximum cladding surface temperature (MCST) and the assembly with the maximum power are different and that the MCST is within the material limit under the current design.",
-            "publicationTitle": "Nuclear Technology",
-            "volume": "172",
-            "issue": "2",
-            "pages": "143-156",
-            "date": "2010",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "",
-            "ISSN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Analysis"
-                },
-                {
-                    "tag": "Burnup"
-                },
-                {
-                    "tag": "MCST"
-                },
-                {
-                    "tag": "Maximum-cladding-surface-temperature"
-                },
-                {
-                    "tag": "PARCS"
-                },
-                {
-                    "tag": "RELAP5"
-                },
-                {
-                    "tag": "SCWR"
-                },
-                {
-                    "tag": "Steady-State"
-                },
-                {
-                    "tag": "Supercritical"
-                },
-                {
-                    "tag": "Transient"
-                },
-                {
-                    "tag": "Water Reactor"
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-18T13:32:24Z",
-            "dateModified": "2014-01-15T21:50:56Z"
         }
     }
 ]

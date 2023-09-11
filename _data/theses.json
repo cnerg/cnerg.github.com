@@ -979,7 +979,7 @@
     },
     {
         "key": "38F2U7DS",
-        "version": 28738,
+        "version": 28781,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1019,13 +1019,24 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 2259868,
+                "username": "micah.gale",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/micah.gale",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Carlsen",
             "numChildren": 1
         },
         "bibtex": "\n@phdthesis{carlsen_advanced_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Advanced {Nuclear} {Fuel} {Cycle} {Transitions}: {Optimization}, {Modeling} {Choices}, and {Disruptions}},\n\turl = {https://search.library.wisc.edu/digital/ARXV7VRVTZ2BCW8I},\n\tabstract = {Nuclear fuel cycle analysis is a field focused on understanding and modeling the nuclear industry and ecosystem at a macroscopic level. To date, fuel cycle analysis has mostly involved hand-crafting details of fuel cycle scenarios for investigation. Many different tools have evolved over time to help address the need to investigate both the equilibrium properties of nuclear fuel cycles and the dynamics of transitions between them. There is great potential for computational resources to improve both the quality of answers and the size of questions that can be asked. Cyclus is one of the first nuclear fuel cycle simulators to strongly accommodate larger-scale analysis with its free availability, liberal open-source licensing, and first-class Linux support. Cyclus also provides features that uniquely enable investigating the effects of modeling choices and modeling fidelity within fuel cycle scenarios. This is made possible by the complementary nature of Cyclus’ dynamic resource exchange and plugin based architecture. This work is divided into three major pieces focusing on optimization, investigating effects of modeling choices, and dealing with uncertainty.\n\nEffective optimization techniques are developed for automatically determining desirable facility deployment schedules for fuel cycle scenarios with Cyclus. A novel method for mapping optimization variables to deployment schedules is developed. This method allows relationships between reactor types and power capacity constraints to be represented implicitly in the definition of the optimization variables. This not only enables optimizers without constraint support to be used, but it also prevents wasting computational resources searching through many infeasible deployment schedules. With the simplified constraint handling, optimization can be used to analyze larger problems in addition to providing better solutions generally. The developed methodology also enables the deployed power generation capacity over time and the deployment of non-reactor support facilities to be included as optimization variables.\n\nThere exist many fuel cycle simulators built with many different combinations of mod\n\nix eling choices and assumptions. This makes comparing results from them difficult. The flexibility of Cyclus makes it a rich playground for comparing the effects of such modeling choices in a consistent way. Effects such as reactor refueling cycle synchronization, inter-facility competition, on-hand inventory requirements, and others are compared in four fuel cycle scenarios each using combinations of fleet or individually modeled reactors with 1-month or 3-month long time steps. There are noticeable differences in results from the different cases. The largest differences are seen during periods of constrained fuel availability for reactors. Research into the effects of modeling choices such as these can help improve the quality and consistency of fuel cycle analysis codes in addition to increasing confidence in the utility of fuel cycle analysis generally.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Carlsen, Robert W.},\n\tmonth = mar,\n\tyear = {2016},\n}\n",
         "data": {
             "key": "38F2U7DS",
-            "version": 28738,
+            "version": 28781,
             "itemType": "thesis",
             "title": "Advanced Nuclear Fuel Cycle Transitions: Optimization, Modeling Choices, and Disruptions",
             "creators": [
@@ -1056,9 +1067,11 @@
                 "6259B6TV",
                 "34I86HPD"
             ],
-            "relations": {},
-            "dateAdded": "2016-08-02T15:43:39Z",
-            "dateModified": "2023-08-23T00:45:07Z"
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/10058/items/KKSPE7A5"
+            },
+            "dateAdded": "2016-06-08T19:08:08Z",
+            "dateModified": "2023-09-10T19:22:06Z"
         }
     },
     {
@@ -1597,7 +1610,7 @@
     },
     {
         "key": "NED88QUT",
-        "version": 26427,
+        "version": 28775,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1637,14 +1650,25 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 2259868,
+                "username": "micah.gale",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/micah.gale",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Slaybaugh",
             "parsedDate": "2011-11",
-            "numChildren": 1
+            "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{slaybaugh_acceleration_2011,\n\taddress = {Madison, WI},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Acceleration {Methods} for {Massively} {Parallel} {Deterministic} {Transport}},\n\tabstract = {To enhance and improve the design of nuclear systems, high-fidelity neutron fluxes are required. Leadership-class machines provide platforms on which very large problems can be solved in a reasonable amount of time. Computing such fluxes accurately and efficiently requires numerical methods with good convergence properties and algorithms that can scale to hundreds of thousands of cores. Many 3-D deterministic transport codes are decomposable in space and angle only, limiting them to tens of thousands of cores. Most codes rely on methods such as Gauss Seidel for fixed source problems and power iteration wrapped around Gauss Seidel for eigenvalue problems, both of which can be slow to converge for challenging problems like those with highly scattering materials or high dominance ratios.\n\nThree methods have been added to the 3-D SN transport code Denovo that are designed to improve convergence and enable the full use of leadership-class computers. The first method is a multigroup Krylov solver that improves convergence when compared to Gauss Seidel and parallelizes the code in energy. Tests show that the multigroup Krylov solver can substantially outperform Gauss Seidel in challenging problems. The energy decomposition added by the solver allows Denovo to solve problems on hundreds of thousands of cores.\n\nThe second method is Rayleigh quotient iteration (RQI), an old method being applied in a new context. This eigenvalue solver finds the dominant eigenvalue in a mathematically optimal way, and theory indicates that RQI should converge in fewer iterations than the traditional power iteration. RQI creates an energy-block-dense system that would be difficult for Gauss Seidel to solve. The new Krylov solver treats this kind of system very efficiently and RQI would not be a good choice without it. However, RQI creates poorly conditioned systems such that the method is only useful in very simple problems. Preconditioning can alleviate this concern.\n\nThe final method is a multigrid in energy, physics-based preconditioner. Because the grids are in energy rather than space or angle, the preconditioner can easily and efficiently take advantage of the new energy decomposition. The new preconditioner was very effective at reducing multigroup iteration count for many types of problems. In some cases it also reduced eigenvalue iteration count. The application of the preconditioner allowed RQI to be successful for problems it could not solve otherwise. The preconditioner also scaled very well in energy, and was tested on up to 200,000 cores using a full-facility pressurized water reactor.\n\nThe three methods added to Denovo accomplish the goals of this work. They converge in fewer iterations than traditional methods and enable the use of hundreds of thousands of cores. Each method can be used individually, with the multigroup Krylov solver and multigrid-in-energy pre-conditioner being particularly successful on their own. For “grand challenge” eigenvalue problems, though, the largest benefit comes from using these methods in concert.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Slaybaugh, Rachel N.},\n\tmonth = nov,\n\tyear = {2011},\n}\n",
+        "bibtex": "\n@phdthesis{slaybaugh_acceleration_2011,\n\taddress = {Madison, WI},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Acceleration {Methods} for {Massively} {Parallel} {Deterministic} {Transport}},\n\tabstract = {To enhance and improve the design of nuclear systems, high-fidelity neutron fluxes are required. Leadership-class machines provide platforms on which very large problems can be solved in a reasonable amount of time. Computing such fluxes accurately and efficiently requires numerical methods with good convergence properties and algorithms that can scale to hundreds of thousands of cores. Many 3-D deterministic transport codes are decomposable in space and angle only, limiting them to tens of thousands of cores. Most codes rely on methods such as Gauss Seidel for fixed source problems and power iteration wrapped around Gauss Seidel for eigenvalue problems, both of which can be slow to converge for challenging problems like those with highly scattering materials or high dominance ratios.\n\nThree methods have been added to the 3-D SN transport code Denovo that are designed to improve convergence and enable the full use of leadership-class computers. The first method is a multigroup Krylov solver that improves convergence when compared to Gauss Seidel and parallelizes the code in energy. Tests show that the multigroup Krylov solver can substantially outperform Gauss Seidel in challenging problems. The energy decomposition added by the solver allows Denovo to solve problems on hundreds of thousands of cores.\n\nThe second method is Rayleigh quotient iteration (RQI), an old method being applied in a new context. This eigenvalue solver finds the dominant eigenvalue in a mathematically optimal way, and theory indicates that RQI should converge in fewer iterations than the traditional power iteration. RQI creates an energy-block-dense system that would be difficult for Gauss Seidel to solve. The new Krylov solver treats this kind of system very efficiently and RQI would not be a good choice without it. However, RQI creates poorly conditioned systems such that the method is only useful in very simple problems. Preconditioning can alleviate this concern.\n\nThe final method is a multigrid in energy, physics-based preconditioner. Because the grids are in energy rather than space or angle, the preconditioner can easily and efficiently take advantage of the new energy decomposition. The new preconditioner was very effective at reducing multigroup iteration count for many types of problems. In some cases it also reduced eigenvalue iteration count. The application of the preconditioner allowed RQI to be successful for problems it could not solve otherwise. The preconditioner also scaled very well in energy, and was tested on up to 200,000 cores using a full-facility pressurized water reactor.\n\nThe three methods added to Denovo accomplish the goals of this work. They converge in fewer iterations than traditional methods and enable the use of hundreds of thousands of cores. Each method can be used individually, with the multigroup Krylov solver and multigrid-in-energy pre-conditioner being particularly successful on their own. For “grand challenge” eigenvalue problems, though, the largest benefit comes from using these methods in concert.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Slaybaugh, Rachel N.},\n\tmonth = nov,\n\tyear = {2011},\n\tkeywords = {Prelim},\n}\n",
         "data": {
             "key": "NED88QUT",
-            "version": 26427,
+            "version": 28775,
             "itemType": "thesis",
             "title": "Acceleration Methods for Massively Parallel Deterministic Transport",
             "creators": [
@@ -1670,14 +1694,21 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "Prelim"
+                }
+            ],
             "collections": [
                 "6259B6TV",
+                "QMCG7NXG",
                 "34I86HPD"
             ],
-            "relations": {},
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/10058/items/CUH5RRBU"
+            },
             "dateAdded": "2013-03-21T02:38:03Z",
-            "dateModified": "2013-03-21T02:44:08Z"
+            "dateModified": "2023-09-10T19:09:39Z"
         }
     },
     {
@@ -2200,6 +2231,105 @@
         }
     },
     {
+        "key": "23P9KT43",
+        "version": 28773,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/23P9KT43",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/23P9KT43",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/IEPH8GF8",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 303098
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 2259868,
+                "username": "micah.gale",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/micah.gale",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Kiedrowski",
+            "parsedDate": "2009",
+            "numChildren": 4
+        },
+        "bibtex": "\n@phdthesis{kiedrowski_adjoint_2009,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Adjoint {Weighting} for {Continuous}-{Energy} {Monte} {Carlo} {Radiation} {Transport}},\n\tabstract = {Methods are developed for importance or adjoint weighting of individual tally scores within a continuous-energy k-eigenvalue Monte Carlo calculation. These adjoint-weighted tallies allow for the calculation of certain quantities important to understanding the physics of a nuclear reactor.\n\nThe methods, unlike traditional approaches to computing adjoint-weighted quantities, do not attempt to invert the random walk. Rather, they are based upon the iterated fission probability interpretation of the adjoint flux, which is the steady state population in a critical nuclear reactor caused by a neutron introduced at that point in phase space. This can be calculated in a strictly forward calculation, and this factor can be applied to previously computed tally scores.\n\nThese methods are implemented in a production Monte Carlo code and are used to calculate parameters requiring adjoint weighting, the point reactor kinetics parameters and reactivity changes based upon first-order perturbation theory. The results of these calculations are compared against experimental measurements, equivalent discrete ordinates calculations, or other Monte Carlo based techniques.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Kiedrowski, Brian C.},\n\tyear = {2009},\n}\n",
+        "data": {
+            "key": "23P9KT43",
+            "version": 28773,
+            "itemType": "thesis",
+            "title": "Adjoint Weighting for Continuous-Energy Monte Carlo Radiation Transport",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Brian C.",
+                    "lastName": "Kiedrowski"
+                }
+            ],
+            "abstractNote": "Methods are developed for importance or adjoint weighting of individual tally scores within a continuous-energy k-eigenvalue Monte Carlo calculation. These adjoint-weighted tallies allow for the calculation of certain quantities important to understanding the physics of a nuclear reactor.\n\nThe methods, unlike traditional approaches to computing adjoint-weighted quantities, do not attempt to invert the random walk. Rather, they are based upon the iterated fission probability interpretation of the adjoint flux, which is the steady state population in a critical nuclear reactor caused by a neutron introduced at that point in phase space. This can be calculated in a strictly forward calculation, and this factor can be applied to previously computed tally scores.\n\nThese methods are implemented in a production Monte Carlo code and are used to calculate parameters requiring adjoint weighting, the point reactor kinetics parameters and reactivity changes based upon first-order perturbation theory. The results of these calculations are compared against experimental measurements, equivalent discrete ordinates calculations, or other Monte Carlo based techniques.",
+            "thesisType": "PhD Nuclear Engineering and Engineering Physics",
+            "university": "University of Wisconsin-Madison",
+            "place": "Madison, WI, United States",
+            "date": "2009",
+            "numPages": "190",
+            "language": "English",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "6259B6TV",
+                "34I86HPD",
+                "4H6EUSDS"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/10058/items/WXP4LPXI"
+            },
+            "dateAdded": "2013-11-13T21:36:00Z",
+            "dateModified": "2023-09-10T19:12:12Z"
+        }
+    },
+    {
         "key": "HBH5EWGG",
         "version": 26428,
         "library": {
@@ -2282,91 +2412,6 @@
             "relations": {},
             "dateAdded": "2013-09-04T20:14:28Z",
             "dateModified": "2020-12-30T15:02:53Z"
-        }
-    },
-    {
-        "key": "23P9KT43",
-        "version": 26426,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/23P9KT43",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/23P9KT43",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/IEPH8GF8",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 303098
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Kiedrowski",
-            "parsedDate": "2009",
-            "numChildren": 3
-        },
-        "bibtex": "\n@phdthesis{kiedrowski_adjoint_2009,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Adjoint {Weighting} for {Continuous}-{Energy} {Monte} {Carlo} {Radiation} {Transport}},\n\tabstract = {Methods are developed for importance or adjoint weighting of individual tally scores within a continuous-energy k-eigenvalue Monte Carlo calculation. These adjoint-weighted tallies allow for the calculation of certain quantities important to understanding the physics of a nuclear reactor.\n\nThe methods, unlike traditional approaches to computing adjoint-weighted quantities, do not attempt to invert the random walk. Rather, they are based upon the iterated fission probability interpretation of the adjoint flux, which is the steady state population in a critical nuclear reactor caused by a neutron introduced at that point in phase space. This can be calculated in a strictly forward calculation, and this factor can be applied to previously computed tally scores.\n\nThese methods are implemented in a production Monte Carlo code and are used to calculate parameters requiring adjoint weighting, the point reactor kinetics parameters and reactivity changes based upon first-order perturbation theory. The results of these calculations are compared against experimental measurements, equivalent discrete ordinates calculations, or other Monte Carlo based techniques.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Kiedrowski, Brian C.},\n\tyear = {2009},\n}\n",
-        "data": {
-            "key": "23P9KT43",
-            "version": 26426,
-            "itemType": "thesis",
-            "title": "Adjoint Weighting for Continuous-Energy Monte Carlo Radiation Transport",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Brian C.",
-                    "lastName": "Kiedrowski"
-                }
-            ],
-            "abstractNote": "Methods are developed for importance or adjoint weighting of individual tally scores within a continuous-energy k-eigenvalue Monte Carlo calculation. These adjoint-weighted tallies allow for the calculation of certain quantities important to understanding the physics of a nuclear reactor.\n\nThe methods, unlike traditional approaches to computing adjoint-weighted quantities, do not attempt to invert the random walk. Rather, they are based upon the iterated fission probability interpretation of the adjoint flux, which is the steady state population in a critical nuclear reactor caused by a neutron introduced at that point in phase space. This can be calculated in a strictly forward calculation, and this factor can be applied to previously computed tally scores.\n\nThese methods are implemented in a production Monte Carlo code and are used to calculate parameters requiring adjoint weighting, the point reactor kinetics parameters and reactivity changes based upon first-order perturbation theory. The results of these calculations are compared against experimental measurements, equivalent discrete ordinates calculations, or other Monte Carlo based techniques.",
-            "thesisType": "PhD Nuclear Engineering and Engineering Physics",
-            "university": "University of Wisconsin-Madison",
-            "place": "Madison, WI, United States",
-            "date": "2009",
-            "numPages": "190",
-            "language": "English",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "6259B6TV",
-                "34I86HPD"
-            ],
-            "relations": {},
-            "dateAdded": "2013-11-13T21:36:00Z",
-            "dateModified": "2013-11-13T21:38:07Z"
         }
     },
     {
