@@ -11,7 +11,7 @@ layout: default
     <div class="container">
       <div class="row row-no-gutters">
           {% for area in site.data.areas %}
-          <div class="col-sm-3 portfolio-item">
+          <div class="col-sm-4 portfolio-item">
             <div class="cnerg-home-title">
               <h2>{{ area.title }}</h2>
             </div>
@@ -27,14 +27,6 @@ layout: default
             {{ area.desc }}
           </div>
           {% endfor %}
-          <div class="col-sm-3">
-          <a class="twitter-timeline"
-             href="https://twitter.com/uw_cnerg"
-             data-width="300"
-             data-height="600"
-             data-chrome="nofooter noborders transparent">News from @uw_cnerg</a>
-          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-          </div>
       </div>
     </div>
   </section>

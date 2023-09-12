@@ -2,74 +2,54 @@
 layout: default
 ---
 <article>
-
+  
   <header>
   </header>
-
+  
   <section>
     <p><a href="/">CNERG</a> / <a href="../">Members of CNERG Community</a></p>
     <div class="container">
-
-      {% if page.services.twitter != null  and page.twitter-feed == true %}
       <div class="row">
-        <div class="col-sm-10">
-      {% endif %}
-
-          <div class="row">
-            <div class="col-sm-4">
-              <img class="cnerg-person-headshot" src="{{ page.image }}">
-            </div>
-            <div class="col-sm-8">
-              <h1>{{ page.title | escape }}</h1>
-              <h2>{{ page.role | escape}}</h2>
-              {% for address in page.email %}
-              <a href="mailto:{{ address }}">{{ address }}</a></br>
-              {% endfor %}
-              {{ page.phone }}</br>
-              {{ page.room }}</br>
-              {% if page.google_map != null %}
-              <a href="{{ page.google_map }}" target=_blank>
-                  {{ page.address }}</br>
-              </a>
-              {% else %}
-              {{ page.address }}</br>
-              {% endif %}
-              {{ page.city_state_zip }}</br>
-              <p></p>
-              {% for service in page.services %}
-              {% assign key = service[0] %}
-              {% assign username = service[1] %}
-              {% assign baseurl = site.data.services[key].baseurl %}
-              {% assign icon = site.data.services[key].icon %}
-              <a href="{{ baseurl }}{{ username }}" target="_blank">
-                <img class="cnerg-service-icon" src="{{ site.baseurl }}/services/icons/{{ icon }}" alt="icon for {{ key }}">
-              </a>
-              {% endfor %}
-              {% if page.personal_website != null %}
-              <br/><a href="{{ page.personal_website }}">Personal Website</a>
-              {% endif %}
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-12">
-              {{ content }}
-            </div>
-          </div>
-
-
-      {% if page.services.twitter != null  and page.twitter-feed == true %}
+        <div class="col-sm-4">
+          <img class="cnerg-person-headshot" src="{{ page.image }}">
         </div>
-        <div class="col-sm-2">
-          <a class="twitter-timeline"
-             href="https://twitter.com/{{ page.services.twitter }}"
-             data-width="300"
-             data-height="600"
-             data-chrome="nofooter noborders transparent">News from {{ page.services.twitter }}</a>
-          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <div class="col-sm-8">
+          <h1>{{ page.title | escape }}</h1>
+          <h2>{{ page.role | escape}}</h2>
+          {% for address in page.email %}
+          <a href="mailto:{{ address }}">{{ address }}</a></br>
+          {% endfor %}
+          {{ page.phone }}</br>
+          {{ page.room }}</br>
+          {% if page.google_map != null %}
+          <a href="{{ page.google_map }}" target=_blank>
+            {{ page.address }}</br>
+          </a>
+          {% else %}
+          {{ page.address }}</br>
+          {% endif %}
+          {{ page.city_state_zip }}</br>
+          <p></p>
+          {% for service in page.services %}
+          {% assign key = service[0] %}
+          {% assign username = service[1] %}
+          {% assign baseurl = site.data.services[key].baseurl %}
+          {% assign icon = site.data.services[key].icon %}
+          <a href="{{ baseurl }}{{ username }}" target="_blank">
+            <img class="cnerg-service-icon" src="{{ site.baseurl }}/services/icons/{{ icon }}" alt="icon for {{ key }}">
+          </a>
+          {% endfor %}
+          {% if page.personal_website != null %}
+          <br/><a href="{{ page.personal_website }}">Personal Website</a>
+          {% endif %}
         </div>
       </div>
-      {% endif %}
+      <div class="row">
+        <div class="col-sm-12">
+          {{ content }}
+        </div>
+      </div>
     </div>
   </section>
-
+  
 </article>
