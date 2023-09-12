@@ -46,6 +46,11 @@
     url: "mgale"
     role: "PhD Student"
     image: DSC_4522.jpg
+  - name: "Edgar Pflug"
+    url: "ep"
+    role: "MS Student"
+    image: pflug.jpg
+
 
 - group: 'Undergraduate Students'
   people:
