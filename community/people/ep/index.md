@@ -4,6 +4,10 @@ image: pflug.jpg
 title: Edgar Pflug
 role: MS Student
 email: epflug@wisc.edu
+services:
+    github: Edgar-21
+    linkedin: edgar-pflug
+    orcid: 0009-0003-4071-3961
 ---
 
 ## Research Interests
