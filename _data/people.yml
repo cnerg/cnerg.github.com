@@ -42,6 +42,10 @@
     url: "ep"
     role: "MS Student"
     image: pflug.jpg
+  - name: "Ben Nibbelink"
+    url: "bn"
+    role: "MS Student"
+    image: bn.jpg
 
 
 - group: 'Undergraduate Students'
