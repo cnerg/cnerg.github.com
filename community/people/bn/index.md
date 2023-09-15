@@ -10,4 +10,5 @@ services:
 ---
 
 ## Education
+* UW - Madison, MS Computer Science (ongoing)
 * Virginia Tech,  BS Computer Science
