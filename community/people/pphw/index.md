@@ -23,7 +23,7 @@ twitter-feed: true
 
 Paul Wilson is the Grainger Professor of Nuclear Engineering and current
 department chair of the [University of Wisconsin-Madison](http://www.wisc.edu)‘s
-[Department of Engineering Physics](http://www.engr.wisc.edu/ep). His research
+[Department of Nuclear Engineering & Engineering Physics](http://engineering.wisc.edu/neep). His research
 interests focus on developing improved tools for computational modeling of
 complex nuclear energy systems, with applications in radiation shielding,
 nuclear waste management, nuclear non-proliferation and energy policy. Paul

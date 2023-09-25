@@ -175,7 +175,7 @@ minimum standard.
 
 ### Seminars
 
-The Engineering Physics department conducts a regular seminar series with a wide
+The Nuclear Engineering & Engineering Physics department conducts a regular seminar series with a wide
 range of topics from all the research areas of the department.  These seminars
 are generally scheduled on Tuesdays at 12 PM and you should receive notification
 from the department office.  All graduate students in the EP department are
