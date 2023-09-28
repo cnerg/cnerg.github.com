@@ -64,5 +64,5 @@ Paul is married and has two daughters. They enjoy biking around Madison’s path
 floating on its lakes, eating at its restaurants, and enjoying its theaters.
 
 * Students who would like to request a reference should review [these
-guidelines](reference_request.md).
+guidelines]( {% link community/people/pphw/reference_request.md %}).
 * [A shorter bio]({% link community/people/pphw/nontech.md %})
