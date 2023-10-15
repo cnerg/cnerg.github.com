@@ -1,5 +1,132 @@
 [
     {
+        "key": "CG8GVP6S",
+        "version": 28926,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/CG8GVP6S",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/CG8GVP6S",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/7E7QHRH7",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 11504686
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Granda Duarte et al.",
+            "parsedDate": "2023-11-02",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{granda_duarte_shutdown_2023,\n\ttitle = {Shutdown {Dose} {Rate} with {Cartesian} {Mesh} for {High}-{Energy} {Nuclear} {Systems}},\n\tvolume = {209},\n\tissn = {0029-5450},\n\turl = {https://doi.org/10.1080/00295450.2023.2205554},\n\tdoi = {10.1080/00295450.2023.2205554},\n\tabstract = {In accelerator-driven systems, charged particles and high-energy neutrons can contribute to the production of nuclides that can persist long after the system has been shut down. These nuclides release photons that contribute to the biological dose. It is essential to quantify the biological dose as a function of time after shutdown to ensure safe working conditions for laborers during maintenance procedures. The shutdown dose rate (SDR) can be calculated with the Rigorous Two-Step (R2S) method, which includes a neutron and photon transport coupled with an activation calculation. For accelerator-driven systems, calculating SDR presents challenges related to the neutron cross-sectional data available for high-energy neutrons. A tally was implemented to collect isotope production data directly in a Monte Carlo N-Particle (MCNP) calculation. The output of this RNUCS tally is then used directly in an activation calculation, bypassing the need to use cross-section data with the neutron flux to obtain the isotope production and destruction data. A mesh-based RNUCS-R2S workflow has been developed based on this tally to calculate SDR in accelerator-driven systems. This workflow operates directly on computer-aided design geometry and supports using a meshed photon source. This workflow has been verified against a cell-based RNUCS-R2S workflow. A test problem with the essential characteristics of an accelerator-driven system was created to use in this analysis. The SDR results are within 40\\% of the cell-based RNUCS-R2S results. The workflow was also validated with the spallation neutron source system. Most detectors’ SDR results are within 50\\%, with a few detectors having a significantly lower SDR result than the experimental value.},\n\tnumber = {11},\n\turldate = {2023-10-10},\n\tjournal = {Nuclear Technology},\n\tauthor = {Granda Duarte, Nancy and Popova, Irina I. and Iverson, Erik B. and Gallmeier, Franz X. and Wilson, Paul P. H.},\n\tmonth = nov,\n\tyear = {2023},\n\tnote = {Publisher: Taylor \\& Francis\n\\_eprint: https://doi.org/10.1080/00295450.2023.2205554},\n\tkeywords = {R2S, Rigorous Two-Step method, high-energy nuclear systems, radiation transport},\n\tpages = {1747--1764},\n}\n",
+        "data": {
+            "key": "CG8GVP6S",
+            "version": 28926,
+            "itemType": "journalArticle",
+            "title": "Shutdown Dose Rate with Cartesian Mesh for High-Energy Nuclear Systems",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nancy",
+                    "lastName": "Granda Duarte"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Irina I.",
+                    "lastName": "Popova"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Erik B.",
+                    "lastName": "Iverson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Franz X.",
+                    "lastName": "Gallmeier"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "In accelerator-driven systems, charged particles and high-energy neutrons can contribute to the production of nuclides that can persist long after the system has been shut down. These nuclides release photons that contribute to the biological dose. It is essential to quantify the biological dose as a function of time after shutdown to ensure safe working conditions for laborers during maintenance procedures. The shutdown dose rate (SDR) can be calculated with the Rigorous Two-Step (R2S) method, which includes a neutron and photon transport coupled with an activation calculation. For accelerator-driven systems, calculating SDR presents challenges related to the neutron cross-sectional data available for high-energy neutrons. A tally was implemented to collect isotope production data directly in a Monte Carlo N-Particle (MCNP) calculation. The output of this RNUCS tally is then used directly in an activation calculation, bypassing the need to use cross-section data with the neutron flux to obtain the isotope production and destruction data. A mesh-based RNUCS-R2S workflow has been developed based on this tally to calculate SDR in accelerator-driven systems. This workflow operates directly on computer-aided design geometry and supports using a meshed photon source. This workflow has been verified against a cell-based RNUCS-R2S workflow. A test problem with the essential characteristics of an accelerator-driven system was created to use in this analysis. The SDR results are within 40% of the cell-based RNUCS-R2S results. The workflow was also validated with the spallation neutron source system. Most detectors’ SDR results are within 50%, with a few detectors having a significantly lower SDR result than the experimental value.",
+            "publicationTitle": "Nuclear Technology",
+            "volume": "209",
+            "issue": "11",
+            "pages": "1747-1764",
+            "date": "2023-11-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.1080/00295450.2023.2205554",
+            "ISSN": "0029-5450",
+            "shortTitle": "",
+            "url": "https://doi.org/10.1080/00295450.2023.2205554",
+            "accessDate": "2023-10-10T20:10:42Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Taylor and Francis+NEJM",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/00295450.2023.2205554",
+            "tags": [
+                {
+                    "tag": "R2S",
+                    "type": 1
+                },
+                {
+                    "tag": "Rigorous Two-Step method",
+                    "type": 1
+                },
+                {
+                    "tag": "high-energy nuclear systems",
+                    "type": 1
+                },
+                {
+                    "tag": "radiation transport",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2023-10-10T20:10:42Z",
+            "dateModified": "2023-10-10T20:10:42Z"
+        }
+    },
+    {
         "key": "2U8X8PY4",
         "version": 28577,
         "library": {
@@ -237,133 +364,6 @@
             "relations": {},
             "dateAdded": "2023-09-11T15:43:08Z",
             "dateModified": "2023-09-12T03:01:29Z"
-        }
-    },
-    {
-        "key": "D9GM9U4J",
-        "version": 28500,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/D9GM9U4J",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/D9GM9U4J",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/F7PY2PGN",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 24190637
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Granda Duarte et al.",
-            "parsedDate": "2023-06-09",
-            "numChildren": 1
-        },
-        "bibtex": "\n@article{granda_duarte_shutdown_2023,\n\ttitle = {Shutdown {Dose} {Rate} with {Cartesian} {Mesh} for {High}-{Energy} {Nuclear} {Systems}},\n\tvolume = {0},\n\tissn = {0029-5450},\n\turl = {https://doi.org/10.1080/00295450.2023.2205554},\n\tdoi = {10.1080/00295450.2023.2205554},\n\tabstract = {In accelerator-driven systems, charged particles and high-energy neutrons can contribute to the production of nuclides that can persist long after the system has been shut down. These nuclides release photons that contribute to the biological dose. It is essential to quantify the biological dose as a function of time after shutdown to ensure safe working conditions for laborers during maintenance procedures. The shutdown dose rate (SDR) can be calculated with the Rigorous Two-Step (R2S) method, which includes a neutron and photon transport coupled with an activation calculation. For accelerator-driven systems, calculating SDR presents challenges related to the neutron cross-sectional data available for high-energy neutrons. A tally was implemented to collect isotope production data directly in a Monte Carlo N-Particle (MCNP) calculation. The output of this RNUCS tally is then used directly in an activation calculation, bypassing the need to use cross-section data with the neutron flux to obtain the isotope production and destruction data. A mesh-based RNUCS-R2S workflow has been developed based on this tally to calculate SDR in accelerator-driven systems. This workflow operates directly on computer-aided design geometry and supports using a meshed photon source. This workflow has been verified against a cell-based RNUCS-R2S workflow. A test problem with the essential characteristics of an accelerator-driven system was created to use in this analysis. The SDR results are within 40\\% of the cell-based RNUCS-R2S results. The workflow was also validated with the spallation neutron source system. Most detectors’ SDR results are within 50\\%, with a few detectors having a significantly lower SDR result than the experimental value.},\n\tnumber = {0},\n\turldate = {2023-06-15},\n\tjournal = {Nuclear Technology},\n\tauthor = {Granda Duarte, Nancy and Popova, Irina I. and Iverson, Erik B. and Gallmeier, Franz X. and Wilson, Paul P. H.},\n\tmonth = jun,\n\tyear = {2023},\n\tnote = {Publisher: Taylor \\& Francis\n\\_eprint: https://doi.org/10.1080/00295450.2023.2205554},\n\tkeywords = {High-energy nuclear systems, R2S, Rigorous Two-Step method, radiation transport},\n\tpages = {1--18},\n}\n",
-        "data": {
-            "key": "D9GM9U4J",
-            "version": 28500,
-            "itemType": "journalArticle",
-            "title": "Shutdown Dose Rate with Cartesian Mesh for High-Energy Nuclear Systems",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Nancy",
-                    "lastName": "Granda Duarte"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Irina I.",
-                    "lastName": "Popova"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Erik B.",
-                    "lastName": "Iverson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Franz X.",
-                    "lastName": "Gallmeier"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul P. H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "In accelerator-driven systems, charged particles and high-energy neutrons can contribute to the production of nuclides that can persist long after the system has been shut down. These nuclides release photons that contribute to the biological dose. It is essential to quantify the biological dose as a function of time after shutdown to ensure safe working conditions for laborers during maintenance procedures. The shutdown dose rate (SDR) can be calculated with the Rigorous Two-Step (R2S) method, which includes a neutron and photon transport coupled with an activation calculation. For accelerator-driven systems, calculating SDR presents challenges related to the neutron cross-sectional data available for high-energy neutrons. A tally was implemented to collect isotope production data directly in a Monte Carlo N-Particle (MCNP) calculation. The output of this RNUCS tally is then used directly in an activation calculation, bypassing the need to use cross-section data with the neutron flux to obtain the isotope production and destruction data. A mesh-based RNUCS-R2S workflow has been developed based on this tally to calculate SDR in accelerator-driven systems. This workflow operates directly on computer-aided design geometry and supports using a meshed photon source. This workflow has been verified against a cell-based RNUCS-R2S workflow. A test problem with the essential characteristics of an accelerator-driven system was created to use in this analysis. The SDR results are within 40% of the cell-based RNUCS-R2S results. The workflow was also validated with the spallation neutron source system. Most detectors’ SDR results are within 50%, with a few detectors having a significantly lower SDR result than the experimental value.",
-            "publicationTitle": "Nuclear Technology",
-            "volume": "0",
-            "issue": "0",
-            "pages": "1-18",
-            "date": "2023-06-09",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "10.1080/00295450.2023.2205554",
-            "ISSN": "0029-5450",
-            "shortTitle": "",
-            "url": "https://doi.org/10.1080/00295450.2023.2205554",
-            "accessDate": "2023-06-15T01:30:27Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "Taylor and Francis+NEJM",
-            "callNumber": "",
-            "rights": "",
-            "extra": "Publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/00295450.2023.2205554",
-            "tags": [
-                {
-                    "tag": "High-energy nuclear systems",
-                    "type": 1
-                },
-                {
-                    "tag": "R2S",
-                    "type": 1
-                },
-                {
-                    "tag": "Rigorous Two-Step method",
-                    "type": 1
-                },
-                {
-                    "tag": "radiation transport",
-                    "type": 1
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2023-06-15T01:30:27Z",
-            "dateModified": "2023-06-15T01:30:27Z"
         }
     },
     {
