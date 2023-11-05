@@ -11984,6 +11984,143 @@
         }
     },
     {
+        "key": "S97UYVQP",
+        "version": 29006,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/S97UYVQP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/S97UYVQP",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/VP23E3W4",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 701179
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bohm et al.",
+            "parsedDate": "2015-10-01",
+            "numChildren": 2
+        },
+        "bibtex": "\n@article{bohm_detailed_2015,\n\tseries = {Proceedings of the 28th {Symposium} {On} {Fusion} {Technology} ({SOFT}-28)},\n\ttitle = {Detailed 3-{D} nuclear analysis of {ITER} outboard blanket modules},\n\tvolume = {96-97},\n\tissn = {0920-3796},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0920379615300351},\n\tdoi = {10.1016/j.fusengdes.2015.06.004},\n\tabstract = {In the ITER design, the blanket modules (BM) provide thermal and nuclear shielding for the vacuum vessel (VV), magnets, and other components. We used the CAD based DAG-MCNP5 transport code to analyze detailed models inserted into a 40 degree partially homogenized ITER global model. The regions analyzed include BM09, BM16 near the heating neutral beam injection (HNB) region, BM11–13 near the upper ELM coil region, and BM18. For the BM16 HNB region, the VV nuclear heating behind the NB region exceeds the design limit by up to 80\\%. For the BM11–13 region, the nuclear heating of the VV exceeds the design limit by up to 45\\%. For BM18, the results show that He production does not meet the limit necessary for re-welding. The results presented in this work are being used by the ITER Organization Blanket and Tokamak Integration groups to modify the BM design in the cases where limits are exceeded.},\n\turldate = {2023-10-29},\n\tjournal = {Fusion Engineering and Design},\n\tauthor = {Bohm, Tim and Davis, Andrew and Sawan, Mohamed and Marriott, Edward and Wilson, Paul and Ulrickson, Michael and Bullock, James},\n\tmonth = oct,\n\tyear = {2015},\n\tkeywords = {Blanket modules, CAD, ITER, MCNP},\n\tpages = {222--226},\n}\n",
+        "data": {
+            "key": "S97UYVQP",
+            "version": 29006,
+            "itemType": "journalArticle",
+            "title": "Detailed 3-D nuclear analysis of ITER outboard blanket modules",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Tim",
+                    "lastName": "Bohm"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Davis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mohamed",
+                    "lastName": "Sawan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Edward",
+                    "lastName": "Marriott"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael",
+                    "lastName": "Ulrickson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Bullock"
+                }
+            ],
+            "abstractNote": "In the ITER design, the blanket modules (BM) provide thermal and nuclear shielding for the vacuum vessel (VV), magnets, and other components. We used the CAD based DAG-MCNP5 transport code to analyze detailed models inserted into a 40 degree partially homogenized ITER global model. The regions analyzed include BM09, BM16 near the heating neutral beam injection (HNB) region, BM11–13 near the upper ELM coil region, and BM18. For the BM16 HNB region, the VV nuclear heating behind the NB region exceeds the design limit by up to 80%. For the BM11–13 region, the nuclear heating of the VV exceeds the design limit by up to 45%. For BM18, the results show that He production does not meet the limit necessary for re-welding. The results presented in this work are being used by the ITER Organization Blanket and Tokamak Integration groups to modify the BM design in the cases where limits are exceeded.",
+            "publicationTitle": "Fusion Engineering and Design",
+            "volume": "96-97",
+            "issue": "",
+            "pages": "222-226",
+            "date": "2015-10-01",
+            "series": "Proceedings of the 28th Symposium On Fusion Technology (SOFT-28)",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Fusion Engineering and Design",
+            "language": "",
+            "DOI": "10.1016/j.fusengdes.2015.06.004",
+            "ISSN": "0920-3796",
+            "shortTitle": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0920379615300351",
+            "accessDate": "2023-10-29T18:04:41Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "ScienceDirect",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Blanket modules",
+                    "type": 1
+                },
+                {
+                    "tag": "CAD",
+                    "type": 1
+                },
+                {
+                    "tag": "ITER",
+                    "type": 1
+                },
+                {
+                    "tag": "MCNP",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2023-10-29T18:04:41Z",
+            "dateModified": "2023-10-29T18:04:41Z"
+        }
+    },
+    {
         "key": "3ZARJN9T",
         "version": 21962,
         "library": {
@@ -18365,229 +18502,6 @@
             "relations": {},
             "dateAdded": "2012-07-31T18:18:30Z",
             "dateModified": "2012-07-31T18:20:59Z"
-        }
-    },
-    {
-        "key": "QNEZ9E4V",
-        "version": 21114,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/QNEZ9E4V",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/QNEZ9E4V",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/C8PETUQK",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 1676802
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Sawan et al.",
-            "parsedDate": "2010",
-            "numChildren": 2
-        },
-        "bibtex": "\n@article{sawan_three-dimensional_2010,\n\ttitle = {Three-dimensional {Nuclear} {Analysis} for the {US} {Dual} {Coolant} {Lead} {Lithium} {ITER} {Test} {Blanket} {Module}},\n\tvolume = {In Press, Corrected Proof},\n\tissn = {0920-3796},\n\turl = {http://www.sciencedirect.com.ezproxy.library.wisc.edu/science/article/B6V3C-4Y8G1NY-1/2/2836af86414f46a860dfd7815b1fe523},\n\tdoi = {10.1016/j.fusengdes.2010.01.002},\n\tabstract = {Detailed 3-D neutronics calculations have been performed for the US DCLL TBM. The neutronics calculations were performed directly in the CAD model using the DAG-MCNP code that allows preserving the geometrical details. Detailed high-resolution, high-fidelity profiles of the nuclear parameters were generated using fine mesh tallies. These included tritium production, nuclear heating, and radiation damage. The TBM heterogeneity, exact source profile, and inclusion of the surrounding frame and other in-vessel components result in lower TBM nuclear parameters compared to the previous 1-D predictions. This work clearly demonstrates the importance of preserving geometrical details in nuclear analyses of geometrically complex components in fusion systems.},\n\turldate = {2010-03-07},\n\tjournal = {Fusion Engineering and Design},\n\tauthor = {Sawan, M.E. and Smith, B. and Marriott, E.P. and Wilson, P.P.H.},\n\tmonth = dec,\n\tyear = {2010},\n\tkeywords = {3D, 3D Analysis, 3D Modeling, Analysis, CAD, Code, Computer-Aided Design, DAG-MCNP, Dielectric Mirrors, Electric Power Plants, Fusion, Fusion Reactions, International Thermonuclear Reactor (ITER), Krypton, Lasers, Lead, Lithium, Metallic Mirrors, Mirrors, Neutron Beams, Neutron Flux, Neutron Irradiation, Neutronics, Nuclear Heating, Parameters, Power Plants, Radiation Damage, Radiation Protection, Radiation Shielding, Radiation Streaming, Shielding, Silicon Carbide, Test Blanket Module, Tritium Breeding, Turning},\n}\n",
-        "data": {
-            "key": "QNEZ9E4V",
-            "version": 21114,
-            "itemType": "journalArticle",
-            "title": "Three-dimensional Nuclear Analysis for the US Dual Coolant Lead Lithium ITER Test Blanket Module",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "M.E.",
-                    "lastName": "Sawan"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "B.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "E.P.",
-                    "lastName": "Marriott"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "Detailed 3-D neutronics calculations have been performed for the US DCLL TBM. The neutronics calculations were performed directly in the CAD model using the DAG-MCNP code that allows preserving the geometrical details. Detailed high-resolution, high-fidelity profiles of the nuclear parameters were generated using fine mesh tallies. These included tritium production, nuclear heating, and radiation damage. The TBM heterogeneity, exact source profile, and inclusion of the surrounding frame and other in-vessel components result in lower TBM nuclear parameters compared to the previous 1-D predictions. This work clearly demonstrates the importance of preserving geometrical details in nuclear analyses of geometrically complex components in fusion systems.",
-            "publicationTitle": "Fusion Engineering and Design",
-            "volume": "In Press, Corrected Proof",
-            "issue": "",
-            "pages": "",
-            "date": "12/2010",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "10.1016/j.fusengdes.2010.01.002",
-            "ISSN": "0920-3796",
-            "shortTitle": "",
-            "url": "http://www.sciencedirect.com.ezproxy.library.wisc.edu/science/article/B6V3C-4Y8G1NY-1/2/2836af86414f46a860dfd7815b1fe523",
-            "accessDate": "2010-03-07T16:05:24Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "ScienceDirect",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "3D"
-                },
-                {
-                    "tag": "3D Analysis"
-                },
-                {
-                    "tag": "3D Modeling"
-                },
-                {
-                    "tag": "Analysis"
-                },
-                {
-                    "tag": "CAD"
-                },
-                {
-                    "tag": "Code"
-                },
-                {
-                    "tag": "Computer-Aided Design"
-                },
-                {
-                    "tag": "DAG-MCNP"
-                },
-                {
-                    "tag": "Dielectric Mirrors"
-                },
-                {
-                    "tag": "Electric Power Plants"
-                },
-                {
-                    "tag": "Fusion"
-                },
-                {
-                    "tag": "Fusion Reactions"
-                },
-                {
-                    "tag": "International Thermonuclear Reactor (ITER)"
-                },
-                {
-                    "tag": "Krypton",
-                    "type": 1
-                },
-                {
-                    "tag": "Lasers",
-                    "type": 1
-                },
-                {
-                    "tag": "Lead"
-                },
-                {
-                    "tag": "Lithium"
-                },
-                {
-                    "tag": "Metallic Mirrors"
-                },
-                {
-                    "tag": "Mirrors",
-                    "type": 1
-                },
-                {
-                    "tag": "Neutron Beams"
-                },
-                {
-                    "tag": "Neutron Flux"
-                },
-                {
-                    "tag": "Neutron Irradiation"
-                },
-                {
-                    "tag": "Neutronics"
-                },
-                {
-                    "tag": "Nuclear Heating"
-                },
-                {
-                    "tag": "Parameters"
-                },
-                {
-                    "tag": "Power Plants"
-                },
-                {
-                    "tag": "Radiation Damage"
-                },
-                {
-                    "tag": "Radiation Protection"
-                },
-                {
-                    "tag": "Radiation Shielding"
-                },
-                {
-                    "tag": "Radiation Streaming"
-                },
-                {
-                    "tag": "Shielding",
-                    "type": 1
-                },
-                {
-                    "tag": "Silicon Carbide"
-                },
-                {
-                    "tag": "Test Blanket Module"
-                },
-                {
-                    "tag": "Tritium Breeding"
-                },
-                {
-                    "tag": "Turning",
-                    "type": 1
-                }
-            ],
-            "collections": [
-                "APMMJXES",
-                "UKXV4KID"
-            ],
-            "relations": {
-                "dc:replaces": [
-                    "http://zotero.org/groups/10058/items/VNDK4QT3",
-                    "http://zotero.org/groups/10058/items/N3UP2B8S",
-                    "http://zotero.org/groups/10058/items/CK27TKDH"
-                ]
-            },
-            "dateAdded": "2012-06-14T18:12:55Z",
-            "dateModified": "2017-01-11T03:36:55Z"
         }
     }
 ]
