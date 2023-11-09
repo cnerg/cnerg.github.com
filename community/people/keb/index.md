@@ -30,6 +30,6 @@ city_state_zip: "Lemont, IL 60439"
 
 ## Education and Prior Work
 
-* University of Wisconsin - Madison, PhD candidate in Engineering Physics (2017-current)
+* University of Wisconsin - Madison, PhD candidate in Nuclear Engineering & Engineering Physics (2017-current)
 * Manager, PowerAdvocate Client Services (energy consulting group) (2015-2017)
 * Massachusetts Institute of Technology, BS in Nuclear Science and Engineering (2015)
