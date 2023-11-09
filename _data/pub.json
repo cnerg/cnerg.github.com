@@ -10591,6 +10591,106 @@
         }
     },
     {
+        "key": "Q3PC5P5N",
+        "version": 29043,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/Q3PC5P5N",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/Q3PC5P5N",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/RPJSCSSL",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 944085
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "D’Angelo et al.",
+            "parsedDate": "2017",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{dangelo_recovering_2017,\n\ttitle = {Recovering {Topology} of {Nested} {Volumes} {Represented} by {Single} {Closed} {Surfaces}},\n\tvolume = {116},\n\tlanguage = {en},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {D’Angelo, Chelsea A and Davis, Andrew and Wilson, Paul P H},\n\tyear = {2017},\n}\n",
+        "data": {
+            "key": "Q3PC5P5N",
+            "version": 29043,
+            "itemType": "journalArticle",
+            "title": "Recovering Topology of Nested Volumes Represented by Single Closed Surfaces",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Chelsea A",
+                    "lastName": "D’Angelo"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Davis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P H",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Transactions of the American Nuclear Society",
+            "volume": "116",
+            "issue": "",
+            "pages": "",
+            "date": "2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Zotero",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2023-11-08T14:14:36Z",
+            "dateModified": "2023-11-08T14:14:36Z"
+        }
+    },
+    {
         "key": "CEVB5GBX",
         "version": 22412,
         "library": {
@@ -18387,121 +18487,6 @@
             "relations": {},
             "dateAdded": "2012-06-19T18:40:30Z",
             "dateModified": "2017-09-04T20:56:36Z"
-        }
-    },
-    {
-        "key": "6VBRVQC4",
-        "version": 23987,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/6VBRVQC4",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/6VBRVQC4",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/DP3TPT9M",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 451438
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Wilson et al.",
-            "parsedDate": "2010-05-09",
-            "numChildren": 1
-        },
-        "bibtex": "\n@inproceedings{wilson_monte_2010,\n\taddress = {Pittsburgh, PA, United States},\n\ttitle = {A {Monte} {Carlo} {Surface} {Source} {Method} for {Advanced} {Test} {Reactor} {Experiment} {Prototyping}},\n\tbooktitle = {Advances in {Reactor} {Physics} to {Power} the {Nuclear} {Renaissance}},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Wilson, Paul P.H. and Snouffer, Patrick and Schneider, Erich A. and Peterson, Joshua L.},\n\tmonth = may,\n\tyear = {2010},\n\tpages = {12},\n}\n",
-        "data": {
-            "key": "6VBRVQC4",
-            "version": 23987,
-            "itemType": "conferencePaper",
-            "title": "A Monte Carlo Surface Source Method for Advanced Test Reactor Experiment Prototyping",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul P.H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Patrick",
-                    "lastName": "Snouffer"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Erich A.",
-                    "lastName": "Schneider"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Joshua L.",
-                    "lastName": "Peterson"
-                }
-            ],
-            "abstractNote": "",
-            "date": "May 9-14, 2010",
-            "proceedingsTitle": "Advances in Reactor Physics to Power the Nuclear Renaissance",
-            "conferenceName": "PHYSOR 2010",
-            "place": "Pittsburgh, PA, United States",
-            "publisher": "American Nuclear Society",
-            "volume": "",
-            "pages": "12",
-            "series": "",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-07-31T18:18:30Z",
-            "dateModified": "2012-07-31T18:20:59Z"
         }
     }
 ]
