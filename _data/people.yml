@@ -46,6 +46,10 @@
     url: "bn"
     role: "MS Student"
     image: bn.jpg
+  - name: "Andrew Schumaker"
+    url: "aps"
+    role: "MS Student"
+    image: Andrew_Github.jpg
 
 
 - group: 'Undergraduate Students'
