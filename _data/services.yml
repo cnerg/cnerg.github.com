@@ -4,7 +4,7 @@ email:
   cnerg: cnerg.admin@office365.wisc.edus
 twitter:
   baseurl: "https://twitter.com/"
-  icon: "twitter.png"
+  icon: "twitter-x.png"
   cnerg: uw_cnerg
 github:
   baseurl: "https://github.com/"
