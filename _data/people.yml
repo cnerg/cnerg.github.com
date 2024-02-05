@@ -54,6 +54,10 @@
     url: "jtds"
     role: "MS Student"
     image: bluh.jpg
+  - name: "Dean Krueger"
+    url: "dok"
+    role: "PhD Student"
+    image: Dean.jpg
 
 - group: 'Undergraduate Students'
   people:
