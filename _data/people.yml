@@ -58,7 +58,10 @@
     url: "dok"
     role: "PhD Student"
     image: Dean.jpg
-
+  - name: "Anupama Rajendra"
+    url: "asr"
+    role: "PhD Student"
+    image: asr.jpg
 - group: 'Undergraduate Students'
   people:
   - name: "Bowen Quan"
