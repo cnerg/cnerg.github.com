@@ -9,6 +9,7 @@ room: "3rd Floor, Engineering Research Building"
 services:
     github: anu1217
     linkedin: anupama-rajendra-751371190
+    orcid: 0009-0008-3844-3698
 ---
 
 ## Research Interests
