@@ -62,6 +62,7 @@
     url: "asr"
     role: "PhD Student"
     image: asr.jpg
+
 - group: 'Undergraduate Students'
   people:
   - name: "Bowen Quan"
