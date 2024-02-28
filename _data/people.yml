@@ -22,10 +22,6 @@
     url: "keb"
     image: biegel.jpg
     role: "PhD Dissertator, Argonne National Laboratory Graduate Fellow"
-  - name: "Jordan Stomps"
-    url: "js"
-    role: "PhD Candidate"
-    image: stomps.jpg
   - name: "Connor Moreno"
     url: "cam"
     role: "PhD Student, GERS"
@@ -438,6 +434,12 @@
     role: BS Engineering Physics
     employer: Accuray
     employer_url: https://www.accuray.com/
+  - name: Jordan Stomps
+    url: https://www.ornl.gov/staff-profile/jordan-r-stomps
+    year: 2023
+    role: PhD
+    employer: Oak Ridge National Laboratory
+    employer_url: http://www.ornl.gov
   - name: Alex Swenson
     url:
     year: 2019
