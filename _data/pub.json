@@ -1,5 +1,99 @@
 [
     {
+        "key": "4R7ATE42",
+        "version": 29705,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/4R7ATE42",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/4R7ATE42",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/7PH6QJUR",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 632303
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 3315269,
+                "username": "nuclearkatie",
+                "name": "Kathryn Mummah",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/nuclearkatie",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Mummah and Wilson",
+            "parsedDate": "2024",
+            "numChildren": 1
+        },
+        "bibtex": "\n@inproceedings{mummah_cyclus_2024,\n\taddress = {Las Vegas, NV},\n\ttitle = {Cyclus {Toolkit} {Enhancements} to {Simulate} {Nuclear} {Material} {Buying} {Patterns}},\n\tvolume = {130},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}, {Annual} {Meeting} 2024},\n\tauthor = {Mummah, Kathryn A. and Wilson, P. P.H.},\n\tyear = {2024},\n\tnote = {(accepted)},\n}\n",
+        "data": {
+            "key": "4R7ATE42",
+            "version": 29705,
+            "itemType": "conferencePaper",
+            "title": "Cyclus Toolkit Enhancements to Simulate Nuclear Material Buying Patterns",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kathryn A.",
+                    "lastName": "Mummah"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P. P.H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "",
+            "date": "2024",
+            "proceedingsTitle": "Transactions of the American Nuclear Society, Annual Meeting 2024",
+            "conferenceName": "2024 American Nuclear Society Annual Meeting",
+            "place": "Las Vegas, NV",
+            "publisher": "",
+            "volume": "130",
+            "pages": "",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "(accepted)",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2024-03-20T19:47:42Z",
+            "dateModified": "2024-03-20T19:47:42Z"
+        }
+    },
+    {
         "key": "CG8GVP6S",
         "version": 28926,
         "library": {
@@ -124,6 +218,89 @@
             "relations": {},
             "dateAdded": "2023-10-10T20:10:42Z",
             "dateModified": "2023-10-10T20:10:42Z"
+        }
+    },
+    {
+        "key": "WTKDTRL7",
+        "version": 29705,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/WTKDTRL7",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/WTKDTRL7",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 3315269,
+                "username": "nuclearkatie",
+                "name": "Kathryn Mummah",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/nuclearkatie",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Mummah",
+            "parsedDate": "2023-11",
+            "numChildren": 0
+        },
+        "bibtex": "\n@inproceedings{mummah_bridging_2023,\n\taddress = {Washington D.C.},\n\ttitle = {Bridging the {Fidelity} {Gap} in {System}-{Scale} {Nuclear} {Fuel} {Cycle} {Simulations} for {Realistic} {State}-{Level} {Nuclear} {Material} {Accounting}},\n\tauthor = {Mummah, Kathryn A.},\n\tmonth = nov,\n\tyear = {2023},\n}\n",
+        "data": {
+            "key": "WTKDTRL7",
+            "version": 29705,
+            "itemType": "conferencePaper",
+            "title": "Bridging the Fidelity Gap in System-Scale Nuclear Fuel Cycle Simulations for Realistic State-Level Nuclear Material Accounting",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kathryn A.",
+                    "lastName": "Mummah"
+                }
+            ],
+            "abstractNote": "",
+            "date": "November 2023",
+            "proceedingsTitle": "",
+            "conferenceName": "Advances in Nonproliferation Technology and Policy Conference 2023",
+            "place": "Washington D.C.",
+            "publisher": "",
+            "volume": "",
+            "pages": "",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2024-03-20T19:47:42Z",
+            "dateModified": "2024-03-20T19:47:42Z"
         }
     },
     {
@@ -18271,222 +18448,6 @@
             },
             "dateAdded": "2012-06-14T20:46:16Z",
             "dateModified": "2023-09-10T19:10:10Z"
-        }
-    },
-    {
-        "key": "2GFH6VJC",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/2GFH6VJC",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/2GFH6VJC",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/RN572DFR",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 874729
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Hu and Wilson",
-            "parsedDate": "2010-11",
-            "numChildren": 1
-        },
-        "bibtex": "\n@article{hu_water_2010,\n\ttitle = {Water {Reactor} {Steady}-{State}, {Burnup}, and {Transient} {Analyses} with {Extended} {PARCS0RELAP5}},\n\tvolume = {172},\n\tnumber = {2},\n\tjournal = {Nuclear Technology},\n\tauthor = {Hu, Po and Wilson, Paul P.H.},\n\tmonth = nov,\n\tyear = {2010},\n\tkeywords = {Coupled PARCS/RELAP5, Supercritical Water Reactors (SCWRs), Transient},\n\tpages = {143--156},\n}\n",
-        "data": {
-            "key": "2GFH6VJC",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Water Reactor Steady-State, Burnup, and Transient Analyses with Extended PARCS0RELAP5",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Po",
-                    "lastName": "Hu"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "publicationTitle": "Nuclear Technology",
-            "volume": "172",
-            "issue": "2",
-            "pages": "143-156",
-            "date": "Nov 2010",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "",
-            "ISSN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Coupled PARCS/RELAP5"
-                },
-                {
-                    "tag": "Supercritical Water Reactors (SCWRs)"
-                },
-                {
-                    "tag": "Transient"
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-08-01T17:52:04Z",
-            "dateModified": "2012-08-01T17:53:29Z"
-        }
-    },
-    {
-        "key": "F7AQVR6M",
-        "version": 21760,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/F7AQVR6M",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/F7AQVR6M",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/728SEUDT",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 656674
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Smith et al.",
-            "parsedDate": "2010-10-03",
-            "numChildren": 1
-        },
-        "bibtex": "\n@inproceedings{smith_sealing_2010,\n\taddress = {Chattanooga, TN, United States},\n\ttitle = {Sealing {Faceted} {Surfaces} to {Achieve} {Watertight} {CAD} {Models}},\n\tisbn = {978-3-642-15413-3},\n\tdoi = {10.1007/978-3-642-15414-0},\n\tbooktitle = {Proceedings of the 19th {International} {Meshing} {Roundtable}},\n\tpublisher = {Springer},\n\tauthor = {Smith, B.M. and Tautges, T.J. and Wilson, P.P.H.},\n\tmonth = oct,\n\tyear = {2010},\n\tpages = {177--194},\n}\n",
-        "data": {
-            "key": "F7AQVR6M",
-            "version": 21760,
-            "itemType": "conferencePaper",
-            "title": "Sealing Faceted Surfaces to Achieve Watertight CAD Models",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "B.M.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.J.",
-                    "lastName": "Tautges"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "date": "Oct 3-6, 2010",
-            "proceedingsTitle": "Proceedings of the 19th International Meshing Roundtable",
-            "conferenceName": "19th International Meshing Roundtable",
-            "place": "Chattanooga, TN, United States",
-            "publisher": "Springer",
-            "volume": "",
-            "pages": "177-194",
-            "series": "",
-            "language": "",
-            "DOI": "10.1007/978-3-642-15414-0",
-            "ISBN": "978-3-642-15413-3",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "UKXV4KID",
-                "4MDZ29N8"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-19T18:40:30Z",
-            "dateModified": "2017-09-04T20:56:36Z"
         }
     }
 ]
