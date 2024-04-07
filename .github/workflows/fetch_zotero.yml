@@ -54,7 +54,8 @@ jobs:
       - name: Commit files # transfer the new html files back into the repository
         run: |
           ls _data
-          git config --local user.name "CNERG Zotero Bot"
+          git config --global user.name "CNERG Zotero Bot"
+          git config --global user.email "cnerg.admin@office365.wisc.edu"
           git add _data/pub.json _data/theses.json _data/zotero.datestamp
           git commit -m "Updating the publication data from Zotero"
 
