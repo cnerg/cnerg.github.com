@@ -1,5 +1,130 @@
 [
     {
+        "key": "CSQNQM7D",
+        "version": 29800,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/CSQNQM7D",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/CSQNQM7D",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/KPPCSSCP",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 3794687
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Moreno et al.",
+            "parsedDate": "2024-04-04",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{moreno_parastell_2024,\n\ttitle = {{ParaStell}: parametric modeling and neutronics support for stellarator fusion power plants},\n\tvolume = {3},\n\tissn = {2813-3412},\n\tshorttitle = {{ParaStell}},\n\turl = {https://www.frontiersin.org/articles/10.3389/fnuen.2024.1384788},\n\tdoi = {10.3389/fnuen.2024.1384788},\n\tabstract = {The three-dimensional variation inherent to stellarator geometries and fusion sources motivates three-dimensional modeling to obtain accurate results from computational modeling in support of design and analysis of first wall, blanket, and shield (FWBS) systems. Manually constructing stellarator fusion power plant geometries in computer-aided design (CAD) and defining the corresponding fusion source can be cumbersome and challenging. The open-source parametric modeling toolset ParaStell has been developed to automate construction of such geometries in low-fidelity. Low-fidelity modeling is useful during the conceptual phase of engineering design as a means of rapidly exploring the design space of a given device. The modeling capability of ParaStell includes in-vessel components and magnets, for any given stellarator configuration, using a parametric definition and plasma equilibrium data. Furthermore, the toolset automates the generation of detailed, tetrahedral neutron source definitions and DAGMC geometries for use in neutronics modeling. ParaStell assists rapid design iteration, parametric study, and design optimization of stellarator fusion cores. As a demonstration of the design iteration capability, the effect of the three-dimensional parameter space on tritium breeding and magnet shielding is investigated, using the WISTELL-D configuration as a design basis. Blanket and shield thicknesses are varied in three dimensions, using the space available between the plasma edge and magnet coils as a constraint. The corresponding effects on tritium breeding ratio and magnet heating are tallied using the open-source Monte Carlo particle transport code OpenMC. The inclusion of additional and higher-fidelity modeling capabilities is planned for ParaStell's future, as well as its implementation in machine-driven optimization.},\n\tlanguage = {English},\n\turldate = {2024-04-06},\n\tjournal = {Frontiers in Nuclear Engineering},\n\tauthor = {Moreno, Connor and Bader, Aaron and Wilson, Paul},\n\tmonth = apr,\n\tyear = {2024},\n\tnote = {Publisher: Frontiers},\n\tkeywords = {Fusion, Parametric modeling, Tritium breeding, magnet heating, radial build, stellarator},\n}\n",
+        "data": {
+            "key": "CSQNQM7D",
+            "version": 29800,
+            "itemType": "journalArticle",
+            "title": "ParaStell: parametric modeling and neutronics support for stellarator fusion power plants",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Connor",
+                    "lastName": "Moreno"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Aaron",
+                    "lastName": "Bader"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "The three-dimensional variation inherent to stellarator geometries and fusion sources motivates three-dimensional modeling to obtain accurate results from computational modeling in support of design and analysis of first wall, blanket, and shield (FWBS) systems. Manually constructing stellarator fusion power plant geometries in computer-aided design (CAD) and defining the corresponding fusion source can be cumbersome and challenging. The open-source parametric modeling toolset ParaStell has been developed to automate construction of such geometries in low-fidelity. Low-fidelity modeling is useful during the conceptual phase of engineering design as a means of rapidly exploring the design space of a given device. The modeling capability of ParaStell includes in-vessel components and magnets, for any given stellarator configuration, using a parametric definition and plasma equilibrium data. Furthermore, the toolset automates the generation of detailed, tetrahedral neutron source definitions and DAGMC geometries for use in neutronics modeling. ParaStell assists rapid design iteration, parametric study, and design optimization of stellarator fusion cores. As a demonstration of the design iteration capability, the effect of the three-dimensional parameter space on tritium breeding and magnet shielding is investigated, using the WISTELL-D configuration as a design basis. Blanket and shield thicknesses are varied in three dimensions, using the space available between the plasma edge and magnet coils as a constraint. The corresponding effects on tritium breeding ratio and magnet heating are tallied using the open-source Monte Carlo particle transport code OpenMC. The inclusion of additional and higher-fidelity modeling capabilities is planned for ParaStell's future, as well as its implementation in machine-driven optimization.",
+            "publicationTitle": "Frontiers in Nuclear Engineering",
+            "volume": "3",
+            "issue": "",
+            "pages": "",
+            "date": "2024-04-04",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Front. Nucl. Eng.",
+            "language": "English",
+            "DOI": "10.3389/fnuen.2024.1384788",
+            "ISSN": "2813-3412",
+            "shortTitle": "ParaStell",
+            "url": "https://www.frontiersin.org/articles/10.3389/fnuen.2024.1384788",
+            "accessDate": "2024-04-06T20:48:04Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Frontiers",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: Frontiers",
+            "tags": [
+                {
+                    "tag": "Fusion",
+                    "type": 1
+                },
+                {
+                    "tag": "Parametric modeling",
+                    "type": 1
+                },
+                {
+                    "tag": "Tritium breeding",
+                    "type": 1
+                },
+                {
+                    "tag": "magnet heating",
+                    "type": 1
+                },
+                {
+                    "tag": "radial build",
+                    "type": 1
+                },
+                {
+                    "tag": "stellarator",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2024-04-06T20:48:04Z",
+            "dateModified": "2024-04-06T20:48:04Z"
+        }
+    },
+    {
         "key": "4R7ATE42",
         "version": 29705,
         "library": {
@@ -2250,6 +2375,115 @@
             "relations": {},
             "dateAdded": "2019-10-09T02:44:03Z",
             "dateModified": "2019-10-09T02:44:03Z"
+        }
+    },
+    {
+        "key": "FDFY32AB",
+        "version": 29750,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/FDFY32AB",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/FDFY32AB",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/QCCCJ6HC",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 3191207
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Harb et al.",
+            "parsedDate": "2019-10-03",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{harb_calculation_2019,\n\ttitle = {Calculation of {Shutdown} {Dose} {Rate} in {Fusion} {Nuclear} {Science} {Facility} {During} a {Proposed} {Maintenance} {Scheme}},\n\tvolume = {75},\n\tissn = {1536-1055, 1943-7641},\n\turl = {https://www.tandfonline.com/doi/full/10.1080/15361055.2019.1644134},\n\tdoi = {10.1080/15361055.2019.1644134},\n\tlanguage = {en},\n\tnumber = {7},\n\turldate = {2024-03-28},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {Harb, M. and Bohm, T. and Davis, A. and Wilson, P. P. H. and {the FESS-FNSF Team}},\n\tmonth = oct,\n\tyear = {2019},\n\tpages = {747--753},\n}\n",
+        "data": {
+            "key": "FDFY32AB",
+            "version": 29750,
+            "itemType": "journalArticle",
+            "title": "Calculation of Shutdown Dose Rate in Fusion Nuclear Science Facility During a Proposed Maintenance Scheme",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Harb"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "T.",
+                    "lastName": "Bohm"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Davis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P. P. H.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "name": "the FESS-FNSF Team"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Fusion Science and Technology",
+            "volume": "75",
+            "issue": "7",
+            "pages": "747-753",
+            "date": "2019-10-03",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Fusion Science and Technology",
+            "language": "en",
+            "DOI": "10.1080/15361055.2019.1644134",
+            "ISSN": "1536-1055, 1943-7641",
+            "shortTitle": "",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/15361055.2019.1644134",
+            "accessDate": "2024-03-28T19:22:19Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2024-03-28T19:22:19Z",
+            "dateModified": "2024-03-28T19:22:19Z"
         }
     },
     {
@@ -18148,306 +18382,6 @@
             "relations": {},
             "dateAdded": "2013-03-20T20:45:22Z",
             "dateModified": "2013-03-20T20:46:14Z"
-        }
-    },
-    {
-        "key": "PXRHP5N5",
-        "version": 20076,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/PXRHP5N5",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/PXRHP5N5",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/78K5EX8V",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 133553
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Huff et al.",
-            "parsedDate": "2011",
-            "numChildren": 2
-        },
-        "bibtex": "\n@inproceedings{huff_rapid_2011,\n\taddress = {Hollywood, FL, United States},\n\tseries = {Training, {Human} {Performance}, and {Work} {Force} {Development}},\n\ttitle = {Rapid {Peer} {Education} of a {Computational} {Nuclear} {Engineering} {Skill} {Suite}},\n\tvolume = {104},\n\tabstract = {Detailed reactor models, massively parallelized calculations, and enormously collaborative simulation projects are increas- ingly integral to nuclear engineering. However, the quality and caliber of this work is limited by a workforce lacking formal training in a software development skill suite that is becom- ing increasingly essential. To address this unmet need, The Hacker Within (THW), a student organization at the University of Wisconsin, has developed a series of short courses address- ing best practices such as version control and test driven code development, as well as basic skills such as UNIX mobility. These ‘Boot Camps’ seek to provide time efficient introduc- tions to essential programming languages and tools without turning “biochemists and mechanical engineers into computer scientists.”[1][2]},\n\tlanguage = {English},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}},\n\tpublisher = {American Nuclear Society, La Grange Park, IL 60526, United States},\n\tauthor = {Huff, Kathryn and Scopatz, A.M. and Preston, N.D. and Wilson, P.P.H.},\n\tyear = {2011},\n\tkeywords = {Computer Science, Education, Models, Reactor, Software, The Hacker Within (THW)},\n\tpages = {103--104},\n}\n",
-        "data": {
-            "key": "PXRHP5N5",
-            "version": 20076,
-            "itemType": "conferencePaper",
-            "title": "Rapid Peer Education of a Computational Nuclear Engineering Skill Suite",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Kathryn",
-                    "lastName": "Huff"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "A.M.",
-                    "lastName": "Scopatz"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "N.D.",
-                    "lastName": "Preston"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "Detailed reactor models, massively parallelized calculations, and enormously collaborative simulation projects are increas- ingly integral to nuclear engineering. However, the quality and caliber of this work is limited by a workforce lacking formal training in a software development skill suite that is becom- ing increasingly essential. To address this unmet need, The Hacker Within (THW), a student organization at the University of Wisconsin, has developed a series of short courses address- ing best practices such as version control and test driven code development, as well as basic skills such as UNIX mobility. These ‘Boot Camps’ seek to provide time efficient introduc- tions to essential programming languages and tools without turning “biochemists and mechanical engineers into computer scientists.”[1][2]",
-            "date": "2011",
-            "proceedingsTitle": "Transactions of the American Nuclear Society",
-            "conferenceName": "American Nuclear Society Annual Conference",
-            "place": "Hollywood, FL, United States",
-            "publisher": "American Nuclear Society, La Grange Park, IL 60526, United States",
-            "volume": "104",
-            "pages": "103--104",
-            "series": "Training, Human Performance, and Work Force Development",
-            "language": "English",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Computer Science"
-                },
-                {
-                    "tag": "Education"
-                },
-                {
-                    "tag": "Models"
-                },
-                {
-                    "tag": "Reactor"
-                },
-                {
-                    "tag": "Software"
-                },
-                {
-                    "tag": "The Hacker Within (THW)"
-                }
-            ],
-            "collections": [
-                "VBKGWTWB",
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-19T20:02:50Z",
-            "dateModified": "2014-01-28T04:57:32Z"
-        }
-    },
-    {
-        "key": "S9IRDIS3",
-        "version": 28776,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/S9IRDIS3",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/S9IRDIS3",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/BJAP393Q",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 799146
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 2259868,
-                "username": "micah.gale",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/micah.gale",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Wilson et al.",
-            "parsedDate": "2010-12-01",
-            "numChildren": 5
-        },
-        "bibtex": "\n@article{wilson_acceleration_2010,\n\tseries = {Proceedings of the {Ninth} {International} {Symposium} on {Fusion} {Nuclear} {Technology}},\n\ttitle = {Acceleration techniques for the direct use of {CAD}-based geometry in fusion neutronics analysis},\n\tvolume = {85},\n\tissn = {0920-3796},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0920379610002425},\n\tdoi = {10.1016/j.fusengdes.2010.05.030},\n\tabstract = {The Direct Accelerated Geometry Monte Carlo (DAGMC) software library offers a unique approach to performing neutronics analysis on CAD-based geometries of fusion systems. By employing a number of acceleration techniques, the ray-tracing operations that are fundamental to Monte Carlo radiation transport are implemented efficiently for direct use on the CAD-based solid model, eliminating the need to translate to the native Monte Carlo input language. By forming hierarchical trees of oriented bounding boxes, one for each facet that results from a high-fidelity tessellation of the model, the ray-tracing performance is adequate to permit detailed analysis of large complex systems. In addition to the reduction in human effort and improvement in quality assurance that is found in the translation approaches, the DAGMC approach also permits the analysis of geometries with higher order surfaces that cannot be represented by many native Monte Carlo radiation transport tools. The paper describes the various acceleration techniques and demonstrates the resulting capability in a real fusion neutronics analysis.},\n\tnumber = {10},\n\tjournal = {Fusion Engineering and Design},\n\tauthor = {Wilson, Paul P. H. and Tautges, Timothy J. and Kraftcheck, Jason A. and Smith, Brandon M. and Henderson, Douglass L.},\n\tmonth = dec,\n\tyear = {2010},\n\tkeywords = {Acceleration, CAD, CAD-based analysis, DAGMC, Fusion, Fusion neutronics, Geometry, Monte Carlo Methods, Neutronics, Software Development, Software development},\n\tpages = {1759--1765},\n}\n",
-        "data": {
-            "key": "S9IRDIS3",
-            "version": 28776,
-            "itemType": "journalArticle",
-            "title": "Acceleration techniques for the direct use of CAD-based geometry in fusion neutronics analysis",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul P. H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Timothy J.",
-                    "lastName": "Tautges"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Jason A.",
-                    "lastName": "Kraftcheck"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Brandon M.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Douglass L.",
-                    "lastName": "Henderson"
-                }
-            ],
-            "abstractNote": "The Direct Accelerated Geometry Monte Carlo (DAGMC) software library offers a unique approach to performing neutronics analysis on CAD-based geometries of fusion systems. By employing a number of acceleration techniques, the ray-tracing operations that are fundamental to Monte Carlo radiation transport are implemented efficiently for direct use on the CAD-based solid model, eliminating the need to translate to the native Monte Carlo input language. By forming hierarchical trees of oriented bounding boxes, one for each facet that results from a high-fidelity tessellation of the model, the ray-tracing performance is adequate to permit detailed analysis of large complex systems. In addition to the reduction in human effort and improvement in quality assurance that is found in the translation approaches, the DAGMC approach also permits the analysis of geometries with higher order surfaces that cannot be represented by many native Monte Carlo radiation transport tools. The paper describes the various acceleration techniques and demonstrates the resulting capability in a real fusion neutronics analysis.",
-            "publicationTitle": "Fusion Engineering and Design",
-            "volume": "85",
-            "issue": "10",
-            "pages": "1759-1765",
-            "date": "December 1, 2010",
-            "series": "Proceedings of the Ninth International Symposium on Fusion Nuclear Technology",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Fusion Engineering and Design",
-            "language": "",
-            "DOI": "10.1016/j.fusengdes.2010.05.030",
-            "ISSN": "0920-3796",
-            "shortTitle": "",
-            "url": "http://www.sciencedirect.com/science/article/pii/S0920379610002425",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "ScienceDirect",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Acceleration"
-                },
-                {
-                    "tag": "CAD"
-                },
-                {
-                    "tag": "CAD-based analysis",
-                    "type": 1
-                },
-                {
-                    "tag": "DAGMC"
-                },
-                {
-                    "tag": "Fusion"
-                },
-                {
-                    "tag": "Fusion neutronics",
-                    "type": 1
-                },
-                {
-                    "tag": "Geometry"
-                },
-                {
-                    "tag": "Monte Carlo Methods"
-                },
-                {
-                    "tag": "Neutronics"
-                },
-                {
-                    "tag": "Software Development"
-                },
-                {
-                    "tag": "Software development",
-                    "type": 1
-                }
-            ],
-            "collections": [
-                "UKXV4KID",
-                "4MDZ29N8",
-                "H442QZRN"
-            ],
-            "relations": {
-                "dc:replaces": [
-                    "http://zotero.org/groups/10058/items/EEMPBFG5",
-                    "http://zotero.org/groups/10058/items/5R9JV2RS"
-                ]
-            },
-            "dateAdded": "2012-06-14T20:46:16Z",
-            "dateModified": "2023-09-10T19:10:10Z"
         }
     }
 ]
