@@ -10,14 +10,15 @@ address: "1500 Engineering Dr"
 google_map: "https://www.google.com/maps/place/Engineering+Dr,+Madison,+WI+53706/@43.0722638,-89.4132024,17z/data=!4m5!3m4!1s0x8807acc6ec542427:0x8e97163cfd1719a0!8m2!3d43.0722638!4d-89.4110137"
 city_state_zip: "Madison, WI 53706"
 services:
-  twitter: gonuke
   github: gonuke
   bitbucket: gonuke
-  stackoverflow: "4102856/paul-wilson"
   scholar: pWHnbUgAAAAJ
-  facebook: gonuke
-  linkedin: gonuke
   orcid: 0000-0002-8555-4410
+  linkedin: gonuke
+  bluesky: gonuke.bsky.social
+  stackoverflow: "4102856/paul-wilson"
+  facebook: gonuke
+  twitter: gonuke
 twitter-feed: true
 ---
 
