@@ -7,6 +7,10 @@
   - name: "Dr. Tim Bohm"
     url: "tdb"
     role: "Scientist"
+  - name: "Ben Nibbelink"
+    url: "bn"
+    role: "Software Developer"
+    image: bn.jpg
 
 - group: 'Graduate Students'
   people:
@@ -38,14 +42,6 @@
     url: "ep"
     role: "MS Student"
     image: pflug.jpg
-  - name: "Ben Nibbelink"
-    url: "bn"
-    role: "MS Student"
-    image: bn.jpg
-  - name: "Andrew Schumaker"
-    url: "aps"
-    role: "MS Student"
-    image: Andrew_Github.jpg
   - name: "Joshua Smandych"
     url: "jtds"
     role: "MS Student"

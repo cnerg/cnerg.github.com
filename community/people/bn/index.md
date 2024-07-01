@@ -2,7 +2,7 @@
 layout: person
 image: bn.jpg
 title: Ben Nibbelink
-role: MS Student
+role: Software Developer
 email: bnibbelink@wisc.edu
 services:
     github: bennibbelink
