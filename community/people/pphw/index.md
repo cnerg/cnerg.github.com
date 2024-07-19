@@ -39,6 +39,9 @@ was engaged as a consultant to the CEA Saclay, ERC Petten, the Karlsruhe
 Institute of Technology, and the [Blue Ribbon Commission on America’s Nuclear
 Energy
 Future](http://energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pdf).
+More recently he has been an advisor to [LastEnergy](https://www.lastenergy.com/) 
+and served on the founding board of the 
+[Good Energy Collective](https://www.goodenergycollective.org/).
 
 Born in Edinburgh, Scotland, and raised in Fort Saskatchewan, Alberta, Canada,
 Paul specialized in the Nuclear Power option of the [Engineering Science
@@ -57,10 +60,11 @@ over 30 years and was the founding president of the [North American Young
 Generation in Nuclear [NA-YGN]](https://www.naygn.org). He represented the ANS
 and NA-YGN at the [international climate change negotiations](http://unfccc.int)
 in Buenos Aires, Argentina (1998), and Bonn, Germany (1999). He is also a member
-of the Canadian Nuclear Society and the American Society for Engineering
-Education.
+of the Canadian Nuclear Society, the American Society for Engineering
+Education, the Institute for Nuclear Materials Management, and the American
+Association for the Advancement of Science.
 
-Paul is married and has two daughters. They enjoy biking around Madison’s paths,
+Paul is married and has two adult daughters. They enjoy biking around Madison’s paths,
 floating on its lakes, eating at its restaurants, and enjoying its theaters.
 
 * Students who would like to request a reference should review [these
