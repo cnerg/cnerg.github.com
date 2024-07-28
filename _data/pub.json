@@ -1,5 +1,101 @@
 [
     {
+        "key": "4R7ATE42",
+        "version": 30399,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/4R7ATE42",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/4R7ATE42",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/7PH6QJUR",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 632303
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 3315269,
+                "username": "nuclearkatie",
+                "name": "Kathryn Mummah",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/nuclearkatie",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Mummah and Wilson",
+            "parsedDate": "2024-06-19",
+            "numChildren": 1
+        },
+        "bibtex": "\n@inproceedings{mummah_cyclus_2024,\n\taddress = {Las Vegas, NV},\n\ttitle = {Cyclus {Toolkit} {Enhancements} to {Simulate} {Nuclear} {Material} {Buying} {Patterns}},\n\tvolume = {130},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}, {Annual} {Meeting} 2024},\n\tauthor = {Mummah, Kathryn A. and Wilson, Paul P.H.},\n\tmonth = jun,\n\tyear = {2024},\n\tnote = {(accepted)},\n}\n",
+        "data": {
+            "key": "4R7ATE42",
+            "version": 30399,
+            "itemType": "conferencePaper",
+            "title": "Cyclus Toolkit Enhancements to Simulate Nuclear Material Buying Patterns",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kathryn A.",
+                    "lastName": "Mummah"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P.H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "",
+            "date": "2024-06-19",
+            "proceedingsTitle": "Transactions of the American Nuclear Society, Annual Meeting 2024",
+            "conferenceName": "2024 American Nuclear Society Annual Meeting",
+            "place": "Las Vegas, NV",
+            "publisher": "",
+            "volume": "130",
+            "pages": "",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "(accepted)",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/10058/items/9PR5P2RR"
+            },
+            "dateAdded": "2024-03-20T19:47:42Z",
+            "dateModified": "2024-07-23T14:49:03Z"
+        }
+    },
+    {
         "key": "CSQNQM7D",
         "version": 29800,
         "library": {
@@ -122,100 +218,6 @@
             "relations": {},
             "dateAdded": "2024-04-06T20:48:04Z",
             "dateModified": "2024-04-06T20:48:04Z"
-        }
-    },
-    {
-        "key": "4R7ATE42",
-        "version": 29705,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/4R7ATE42",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/4R7ATE42",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/7PH6QJUR",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 632303
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 3315269,
-                "username": "nuclearkatie",
-                "name": "Kathryn Mummah",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/nuclearkatie",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Mummah and Wilson",
-            "parsedDate": "2024",
-            "numChildren": 1
-        },
-        "bibtex": "\n@inproceedings{mummah_cyclus_2024,\n\taddress = {Las Vegas, NV},\n\ttitle = {Cyclus {Toolkit} {Enhancements} to {Simulate} {Nuclear} {Material} {Buying} {Patterns}},\n\tvolume = {130},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}, {Annual} {Meeting} 2024},\n\tauthor = {Mummah, Kathryn A. and Wilson, P. P.H.},\n\tyear = {2024},\n\tnote = {(accepted)},\n}\n",
-        "data": {
-            "key": "4R7ATE42",
-            "version": 29705,
-            "itemType": "conferencePaper",
-            "title": "Cyclus Toolkit Enhancements to Simulate Nuclear Material Buying Patterns",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Kathryn A.",
-                    "lastName": "Mummah"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P. P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "date": "2024",
-            "proceedingsTitle": "Transactions of the American Nuclear Society, Annual Meeting 2024",
-            "conferenceName": "2024 American Nuclear Society Annual Meeting",
-            "place": "Las Vegas, NV",
-            "publisher": "",
-            "volume": "130",
-            "pages": "",
-            "series": "",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "(accepted)",
-            "tags": [],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2024-03-20T19:47:42Z",
-            "dateModified": "2024-03-20T19:47:42Z"
         }
     },
     {
