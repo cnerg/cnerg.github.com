@@ -54,6 +54,10 @@
     url: "asr"
     role: "PhD Student"
     image: asr.jpg
+  - name: "Sarah Francis"
+    url: "sf"
+    role: "PhD Student"
+    image: Sarah.png   
 
 - group: 'Undergraduate Students'
   people:
