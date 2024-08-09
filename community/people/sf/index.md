@@ -1,6 +1,6 @@
 ---
 layout: person
-image: Sarah.png
+image: sgf.png
 title: Sarah Francis
 role: PhD Student
 email:
