@@ -58,7 +58,10 @@
     url: "sf"
     role: "PhD Student"
     image: sgf.png
-
+  - name: "Katie Lygre"
+    url: "klyg"
+    role: "PhD Student"
+    image: lygre.jpeg
 - group: 'Undergraduate Students'
   people:
   - name: "Bowen Quan"
