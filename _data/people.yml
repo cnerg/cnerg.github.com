@@ -62,6 +62,10 @@
     url: "klyg"
     role: "PhD Student"
     image: lygre.jpeg
+  - name: "Ebny Walid Ahammed"
+    url: "walid"
+    role: "PhD Student"
+    image: walid.jpeg
 - group: 'Undergraduate Students'
   people:
   - name: "Bowen Quan"
