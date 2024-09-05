@@ -808,7 +808,7 @@
     },
     {
         "key": "7EJ4AFK3",
-        "version": 27454,
+        "version": 30599,
         "library": {
             "type": "group",
             "id": 10058,
@@ -852,10 +852,10 @@
             "parsedDate": "2023-01-02",
             "numChildren": 1
         },
-        "bibtex": "\n@article{harb_uncertainty_2023,\n\ttitle = {Uncertainty {Quantification} of the {Decay} {Gamma} {Source} in {Mesh}-{Based} {Shutdown} {Dose} {Rate} {Calculations}},\n\tvolume = {79},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2022.2115831},\n\tdoi = {10.1080/15361055.2022.2115831},\n\tabstract = {In fusion energy systems, part of the design effort is dedicated to the assessment of the shutdown dose rate (SDR) due to the decay photons that will be emitted from activated components. Monte Carlo transport codes are often used to obtain the neutron flux distribution in the problem domain. The neutron flux distribution is used in the rigorous 2-step (R2S) workflow to obtain the photon emission density distribution of decaying radionuclides. The photon emission density is then used as an input for a dedicated photon transport step to calculate the SDR. In this paper, the uncertainty of the decay gamma source due to the uncertainty of the neutron flux distribution in the R2S workflow is investigated. A scheme is developed to estimate the uncertainty of the decay gamma source, building on the concept of groupwise transmutation and using standard error propagation techniques. The applicability of the newly developed scheme is then demonstrated on one of the conceptual designs of the fusion nuclear science facility.},\n\tnumber = {1},\n\turldate = {2022-12-14},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {Harb, M. and Davis, A. and Wilson, P. P. H.},\n\tmonth = jan,\n\tyear = {2023},\n\tnote = {Publisher: Taylor \\& Francis\n\\_eprint: https://doi.org/10.1080/15361055.2022.2115831},\n\tkeywords = {DAGMC, Uncertainty propagation, fusion nuclear science facility, rigorous 2-step workflow, shutdown dose rate},\n\tpages = {1--12},\n}\n",
+        "bibtex": "\n@article{harb_uncertainty_2023,\n\ttitle = {Uncertainty {Quantification} of the {Decay} {Gamma} {Source} in {Mesh}-{Based} {Shutdown} {Dose} {Rate} {Calculations}},\n\tvolume = {79},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2022.2115831},\n\tdoi = {10.1080/15361055.2022.2115831},\n\tabstract = {In fusion energy systems, part of the design effort is dedicated to the assessment of the shutdown dose rate (SDR) due to the decay photons that will be emitted from activated components. Monte Carlo transport codes are often used to obtain the neutron flux distribution in the problem domain. The neutron flux distribution is used in the rigorous 2-step (R2S) workflow to obtain the photon emission density distribution of decaying radionuclides. The photon emission density is then used as an input for a dedicated photon transport step to calculate the SDR. In this paper, the uncertainty of the decay gamma source due to the uncertainty of the neutron flux distribution in the R2S workflow is investigated. A scheme is developed to estimate the uncertainty of the decay gamma source, building on the concept of groupwise transmutation and using standard error propagation techniques. The applicability of the newly developed scheme is then demonstrated on one of the conceptual designs of the fusion nuclear science facility.},\n\tnumber = {1},\n\turldate = {2022-12-14},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {Harb, M. and Davis, A. and Wilson, P. P. H.},\n\tmonth = jan,\n\tyear = {2023},\n\tnote = {Publisher: Taylor \\& Francis\n\\_eprint: https://doi.org/10.1080/15361055.2022.2115831},\n\tkeywords = {DAGMC, FIRE MIT, Uncertainty propagation, fusion nuclear science facility, rigorous 2-step workflow, shutdown dose rate},\n\tpages = {1--12},\n}\n",
         "data": {
             "key": "7EJ4AFK3",
-            "version": 27454,
+            "version": 30599,
             "itemType": "journalArticle",
             "title": "Uncertainty Quantification of the Decay Gamma Source in Mesh-Based Shutdown Dose Rate Calculations",
             "creators": [
@@ -903,6 +903,9 @@
                     "type": 1
                 },
                 {
+                    "tag": "FIRE MIT"
+                },
+                {
                     "tag": "Uncertainty propagation",
                     "type": 1
                 },
@@ -925,7 +928,7 @@
             ],
             "relations": {},
             "dateAdded": "2022-12-14T23:18:26Z",
-            "dateModified": "2022-12-14T23:18:26Z"
+            "dateModified": "2024-09-04T15:53:59Z"
         }
     },
     {
