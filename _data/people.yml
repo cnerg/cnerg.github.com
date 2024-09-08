@@ -14,10 +14,6 @@
 
 - group: 'Graduate Students'
   people:
-  - name: "Nancy Granda-Duarte"
-    url: "ngd"
-    role: "PhD Candidate, GERS"
-    image: hacker_granda_duarte.jpg
   - name: "Katie Mummah"
     url: "kam"
     role: "PhD Candidate"
@@ -175,6 +171,11 @@
     role: MS
     employer: NorthStar Medical
     employer_url: https://www.northstarnm.com/
+  - name: Nancy Granda-Duarte
+    role: PhD
+    year: 2024
+    employer: Commonwealth Fusion Systems
+    employer_url: https://cfs.energy
   - name: Moataz Harb
     role: PhD
     year: 2019
