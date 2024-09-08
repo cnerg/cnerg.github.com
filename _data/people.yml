@@ -16,7 +16,7 @@
   people:
   - name: "Katie Mummah"
     url: "kam"
-    role: "PhD Candidate"
+    role: "PhD Dissertator"
     image: mummah.jpg
   - name: "Katie Biegel"
     url: "keb"
@@ -28,7 +28,7 @@
     image: moreno.jpg
   - name: "Lewis Gross"
     url: "lg"
-    role: "PhD Candidate, US NRC Fellow"
+    role: "PhD Dissertator, US NRC Fellow"
     image: lewis.png
   - name: "Micah Gale"
     url: "mgale"
