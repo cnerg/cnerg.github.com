@@ -1,7 +1,7 @@
 [
     {
         "key": "4R7ATE42",
-        "version": 30399,
+        "version": 30807,
         "library": {
             "type": "group",
             "id": 10058,
@@ -41,14 +41,25 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Mummah and Wilson",
             "parsedDate": "2024-06-19",
             "numChildren": 1
         },
-        "bibtex": "\n@inproceedings{mummah_cyclus_2024,\n\taddress = {Las Vegas, NV},\n\ttitle = {Cyclus {Toolkit} {Enhancements} to {Simulate} {Nuclear} {Material} {Buying} {Patterns}},\n\tvolume = {130},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}, {Annual} {Meeting} 2024},\n\tauthor = {Mummah, Kathryn A. and Wilson, Paul P.H.},\n\tmonth = jun,\n\tyear = {2024},\n\tnote = {(accepted)},\n}\n",
+        "bibtex": "\n@inproceedings{mummah_cyclus_2024,\n\taddress = {Las Vegas, NV},\n\ttitle = {Cyclus {Toolkit} {Enhancements} to {Simulate} {Nuclear} {Material} {Buying} {Patterns}},\n\tvolume = {130},\n\turl = {https://www.ans.org/pubs/transactions/article-55965/},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}, {Annual} {Meeting} 2024},\n\tauthor = {Mummah, Kathryn A. and Wilson, Paul P.H.},\n\tmonth = jun,\n\tyear = {2024},\n\tnote = {(accepted)},\n}\n",
         "data": {
             "key": "4R7ATE42",
-            "version": 30399,
+            "version": 30807,
             "itemType": "conferencePaper",
             "title": "Cyclus Toolkit Enhancements to Simulate Nuclear Material Buying Patterns",
             "creators": [
@@ -76,7 +87,7 @@
             "DOI": "",
             "ISBN": "",
             "shortTitle": "",
-            "url": "",
+            "url": "https://www.ans.org/pubs/transactions/article-55965/",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -92,7 +103,7 @@
                 "owl:sameAs": "http://zotero.org/groups/10058/items/9PR5P2RR"
             },
             "dateAdded": "2024-03-20T19:47:42Z",
-            "dateModified": "2024-07-23T14:49:03Z"
+            "dateModified": "2024-09-09T14:48:20Z"
         }
     },
     {
@@ -349,7 +360,7 @@
     },
     {
         "key": "WTKDTRL7",
-        "version": 29705,
+        "version": 30812,
         "library": {
             "type": "group",
             "id": 10058,
@@ -369,6 +380,12 @@
             "alternate": {
                 "href": "https://www.zotero.org/groups/10058/items/WTKDTRL7",
                 "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/DLUFAQQI",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 441719
             }
         },
         "meta": {
@@ -383,14 +400,25 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Mummah",
             "parsedDate": "2023-11",
-            "numChildren": 0
+            "numChildren": 1
         },
-        "bibtex": "\n@inproceedings{mummah_bridging_2023,\n\taddress = {Washington D.C.},\n\ttitle = {Bridging the {Fidelity} {Gap} in {System}-{Scale} {Nuclear} {Fuel} {Cycle} {Simulations} for {Realistic} {State}-{Level} {Nuclear} {Material} {Accounting}},\n\tauthor = {Mummah, Kathryn A.},\n\tmonth = nov,\n\tyear = {2023},\n}\n",
+        "bibtex": "\n@inproceedings{mummah_bridging_2023,\n\taddress = {Washington D.C.},\n\ttitle = {Bridging the {Fidelity} {Gap} in {System}-{Scale} {Nuclear} {Fuel} {Cycle} {Simulations} for {Realistic} {State}-{Level} {Nuclear} {Material} {Accounting}},\n\turl = {https://www.ans.org/pubs/proceedings/article-55005/},\n\tbooktitle = {Proceedings of {Advances} in {Nonproliferation} {Technology} and {Policy} {Conference} 2023},\n\tauthor = {Mummah, Kathryn A.},\n\tmonth = nov,\n\tyear = {2023},\n}\n",
         "data": {
             "key": "WTKDTRL7",
-            "version": 29705,
+            "version": 30812,
             "itemType": "conferencePaper",
             "title": "Bridging the Fidelity Gap in System-Scale Nuclear Fuel Cycle Simulations for Realistic State-Level Nuclear Material Accounting",
             "creators": [
@@ -402,7 +430,7 @@
             ],
             "abstractNote": "",
             "date": "November 2023",
-            "proceedingsTitle": "",
+            "proceedingsTitle": "Proceedings of Advances in Nonproliferation Technology and Policy Conference 2023",
             "conferenceName": "Advances in Nonproliferation Technology and Policy Conference 2023",
             "place": "Washington D.C.",
             "publisher": "",
@@ -413,7 +441,7 @@
             "DOI": "",
             "ISBN": "",
             "shortTitle": "",
-            "url": "",
+            "url": "https://www.ans.org/pubs/proceedings/article-55005/",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -427,7 +455,7 @@
             ],
             "relations": {},
             "dateAdded": "2024-03-20T19:47:42Z",
-            "dateModified": "2024-03-20T19:47:42Z"
+            "dateModified": "2024-09-09T14:49:15Z"
         }
     },
     {
@@ -933,7 +961,7 @@
     },
     {
         "key": "UBSWG585",
-        "version": 27218,
+        "version": 30815,
         "library": {
             "type": "group",
             "id": 10058,
@@ -976,10 +1004,10 @@
             "creatorSummary": "D'Angelo and WILSON",
             "numChildren": 1
         },
-        "bibtex": "\n@inproceedings{dangelo_sdr_2022,\n\taddress = {Seattle, WA, USA},\n\ttitle = {{SDR} {Calculations} {Involving} {Geometry} {Movement} {After} {Shutdown}},\n\tauthor = {D'Angelo, Chelsea and WILSON, Paul P. H.},\n\tmonth = sep,\n\tyear = {2022},\n}\n",
+        "bibtex": "\n@inproceedings{dangelo_sdr_2022,\n\taddress = {Seattle, WA, USA},\n\ttitle = {{SDR} {Calculations} {Involving} {Geometry} {Movement} {After} {Shutdown}},\n\turl = {https://www.ans.org/pubs/proceedings/article-52048/},\n\tbooktitle = {Porceedings of the 14th {International} {Conference} on {Radiation} {Shielding} and 21st {Topical} {Meeting} of the {Radiation} {Protection} and {Shielding} {Division}},\n\tauthor = {D'Angelo, Chelsea and WILSON, Paul P. H.},\n\tmonth = sep,\n\tyear = {2022},\n}\n",
         "data": {
             "key": "UBSWG585",
-            "version": 27218,
+            "version": 30815,
             "itemType": "conferencePaper",
             "title": "SDR Calculations Involving Geometry Movement After Shutdown",
             "creators": [
@@ -996,7 +1024,7 @@
             ],
             "abstractNote": "",
             "date": "2022-09-25 9/25/22-9/29/22",
-            "proceedingsTitle": "",
+            "proceedingsTitle": "Porceedings of the 14th International Conference on Radiation Shielding and 21st Topical Meeting of the Radiation Protection and Shielding Division",
             "conferenceName": "14th International Conference on Radiation Shielding and 21st Topical Meeting of the Radiation Protection and Shielding Division",
             "place": "Seattle, WA, USA",
             "publisher": "",
@@ -1007,7 +1035,7 @@
             "DOI": "",
             "ISBN": "",
             "shortTitle": "",
-            "url": "",
+            "url": "https://www.ans.org/pubs/proceedings/article-52048/",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -1021,7 +1049,7 @@
             ],
             "relations": {},
             "dateAdded": "2022-11-02T11:00:29Z",
-            "dateModified": "2022-11-02T11:02:28Z"
+            "dateModified": "2024-09-09T14:50:11Z"
         }
     },
     {
@@ -1697,7 +1725,7 @@
     },
     {
         "key": "QW38HRSJ",
-        "version": 25069,
+        "version": 30816,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1737,14 +1765,25 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Mummah and WIlson",
             "parsedDate": "2020-07",
-            "numChildren": 1
+            "numChildren": 2
         },
-        "bibtex": "\n@inproceedings{mummah_integrating_2020,\n\ttitle = {Integrating {Acquisition} {Pathway} {Analysis} {Into} {The} {Cyclus} {Fuel} {Cycle} {Simulator}},\n\tabstract = {The IAEA considers a State’s entire fuel cycle capability when evaluating and implementing safeguards, a process known as the State-Level Approach. Conducting Acquisition Path Analysis (APA) is one aspect of ensuring efficient use of safeguards resources and an objective evaluation of member States. APA is designed to identify, characterize, and rank technically-feasible pathways through a fuel cycle to produce weapons-usable material. This paper covers the integration of APA techniques into the Cyclus fuel cycle simulator. Material flowing through a nuclear fuel cycle can be represented by a directed graph (digraph) with vertices V(D) repre-\nsenting facilities and edges E(D) representing trade or material transport. In a Cyclus input file, a user defines a set of facility prototypes and the commodities that can be traded between them.\nFrom this user-specified fuel cycle, a digraph is generated representing all possible commodity trades between facilities. Graph traversal techniques are used to enumerate all pathways for\nmaterial to flow through the given fuel cycle. Pathways that produce weapons-usable material are filtered and further analyzed. Due to the flexibility of the Cyclus fuel cycle simulator, this\nmethod works for any fuel cycle, including ones that use closed facility models that are not part of the open source Cyclus and Cycamore facility libraries.},\n\tbooktitle = {Proceedings of the 61st {INMM} {Meeting}},\n\tauthor = {Mummah, Kathryn and WIlson, P. P.H},\n\tmonth = jul,\n\tyear = {2020},\n}\n",
+        "bibtex": "\n@inproceedings{mummah_integrating_2020,\n\ttitle = {Integrating {Acquisition} {Pathway} {Analysis} {Into} {The} {Cyclus} {Fuel} {Cycle} {Simulator}},\n\turl = {https://resources.inmm.org/annual-meeting-proceedings/integrating-acquisition-pathway-analysis-cyclus-fuel-cycle-simulator},\n\tabstract = {The IAEA considers a State’s entire fuel cycle capability when evaluating and implementing safeguards, a process known as the State-Level Approach. Conducting Acquisition Path Analysis (APA) is one aspect of ensuring efficient use of safeguards resources and an objective evaluation of member States. APA is designed to identify, characterize, and rank technically-feasible pathways through a fuel cycle to produce weapons-usable material. This paper covers the integration of APA techniques into the Cyclus fuel cycle simulator. Material flowing through a nuclear fuel cycle can be represented by a directed graph (digraph) with vertices V(D) repre-\nsenting facilities and edges E(D) representing trade or material transport. In a Cyclus input file, a user defines a set of facility prototypes and the commodities that can be traded between them.\nFrom this user-specified fuel cycle, a digraph is generated representing all possible commodity trades between facilities. Graph traversal techniques are used to enumerate all pathways for\nmaterial to flow through the given fuel cycle. Pathways that produce weapons-usable material are filtered and further analyzed. Due to the flexibility of the Cyclus fuel cycle simulator, this\nmethod works for any fuel cycle, including ones that use closed facility models that are not part of the open source Cyclus and Cycamore facility libraries.},\n\tbooktitle = {Proceedings of the 61st {INMM} {Meeting}},\n\tauthor = {Mummah, Kathryn and WIlson, P. P.H},\n\tmonth = jul,\n\tyear = {2020},\n}\n",
         "data": {
             "key": "QW38HRSJ",
-            "version": 25069,
+            "version": 30816,
             "itemType": "conferencePaper",
             "title": "Integrating Acquisition Pathway Analysis Into The Cyclus Fuel Cycle Simulator",
             "creators": [
@@ -1772,7 +1811,7 @@
             "DOI": "",
             "ISBN": "",
             "shortTitle": "",
-            "url": "",
+            "url": "https://resources.inmm.org/annual-meeting-proceedings/integrating-acquisition-pathway-analysis-cyclus-fuel-cycle-simulator",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -1786,12 +1825,12 @@
             ],
             "relations": {},
             "dateAdded": "2020-11-12T15:04:00Z",
-            "dateModified": "2021-01-21T05:47:23Z"
+            "dateModified": "2024-09-09T14:51:38Z"
         }
     },
     {
         "key": "H4VPVVT5",
-        "version": 25203,
+        "version": 30817,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1813,10 +1852,10 @@
                 "type": "text/html"
             },
             "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/HCUMB62F",
+                "href": "https://api.zotero.org/groups/10058/items/WFMNLVJP",
                 "type": "application/json",
                 "attachmentType": "application/pdf",
-                "attachmentSize": 290296
+                "attachmentSize": 409270
             }
         },
         "meta": {
@@ -1831,14 +1870,25 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Park et al.",
             "parsedDate": "2020-04-29",
-            "numChildren": 1
+            "numChildren": 2
         },
-        "bibtex": "\n@inproceedings{park_evaluation_2020,\n\taddress = {Cambridge, United Kingdom},\n\ttitle = {Evaluation of {Critical} {Experiments} in the {University} of {Wisconsin} {Nuclear} {Reactor} ({UWNR}) with {Uncertainty} {Quantification}},\n\tisbn = {978-1-5272-6447-2},\n\tabstract = {An improved computational model for the University of Wisconsin Nuclear Reactor (UWNR) has been developed to facilitate automated input generation, data provenance, and modularity for alternate representations. This development was initiated as part of efforts to evaluate recent data acquired during an experimental campaign conducted at UWNR to generate benchmark data for validation. Specifically, this evaluation effort aims to contribute a number of fresh and depleted critical (CRIT) configurations of UWNR as well as steady-state and transient reaction-rate (RRATE) measurements. Previous efforts led to a scripted UWNR model that supports automated generation of inputs for MCNP and Serpent. Recently, this capability was extended to SCALE/KENO, which required significant changes to the underlying geometry and material representations. All three Monte Carlo tools (MCNP, Serpent, and KENO) are being used to evaluate a variety of zero-power, fresh-critical configuration and will be used to model burnup for evaluation of depleted-critical configurations. The inclusion of SCALE/KENO input generation makes possible a variety of sensitivity and uncertainty analyses using the TSUNAMI and SAMPLER modules of SCALE. In addition, an automated mesh-generation option was added based on the UW-developed, MCNP-to-CAD plugin. As a result, a meshed geometry for use with deterministic tools (e.g., MAMMOTH/Rattlesnake) can be produced that is fully consistent with the Monte Carlo models. Work is ongoing to develop a full core model in MAMMOTH/Rattlesnake, which is a deterministic code based on the MOOSE framework. This model will be used for the evaluation of several transient experiments conducted at UWNR. Preliminary results of fresh-critical configurations show a good agreement among the four codes and experimental data. Also, preliminary results of depleted-critical configurations indicate that the depleted core model successfully tracks core reactivity over time as long as an initial (but relatively small) reactivity bias is eliminated. Formal uncertainty quantification will be carried out using SCALE to study the impact of model uncertainties on the effective multiplication factor and other observables. In conclusion, the evaluation of UWNR benchmark data provides increased confidence in various states/configurations of the UWNR computational model and will provide a unique model for use by other analysts.},\n\tbooktitle = {Proceedings of the {PHYSOR} 2020},\n\tauthor = {Park, YoungHui and Cheng, Ye and Elzohery, Rabab and Wilson, Paul P.H. and Roberts, Jeremy A. and DeHart, Mark D.},\n\tmonth = apr,\n\tyear = {2020},\n\tpages = {10},\n}\n",
+        "bibtex": "\n@inproceedings{park_evaluation_2020,\n\taddress = {Cambridge, United Kingdom},\n\ttitle = {Evaluation of {Critical} {Experiments} in the {University} of {Wisconsin} {Nuclear} {Reactor} ({UWNR}) with {Uncertainty} {Quantification}},\n\tisbn = {978-1-5272-6447-2},\n\turl = {https://doi.org/10.1051/epjconf/202124710032},\n\tabstract = {An improved computational model for the University of Wisconsin Nuclear Reactor (UWNR) has been developed to facilitate automated input generation, data provenance, and modularity for alternate representations. This development was initiated as part of efforts to evaluate recent data acquired during an experimental campaign conducted at UWNR to generate benchmark data for validation. Specifically, this evaluation effort aims to contribute a number of fresh and depleted critical (CRIT) configurations of UWNR as well as steady-state and transient reaction-rate (RRATE) measurements. Previous efforts led to a scripted UWNR model that supports automated generation of inputs for MCNP and Serpent. Recently, this capability was extended to SCALE/KENO, which required significant changes to the underlying geometry and material representations. All three Monte Carlo tools (MCNP, Serpent, and KENO) are being used to evaluate a variety of zero-power, fresh-critical configuration and will be used to model burnup for evaluation of depleted-critical configurations. The inclusion of SCALE/KENO input generation makes possible a variety of sensitivity and uncertainty analyses using the TSUNAMI and SAMPLER modules of SCALE. In addition, an automated mesh-generation option was added based on the UW-developed, MCNP-to-CAD plugin. As a result, a meshed geometry for use with deterministic tools (e.g., MAMMOTH/Rattlesnake) can be produced that is fully consistent with the Monte Carlo models. Work is ongoing to develop a full core model in MAMMOTH/Rattlesnake, which is a deterministic code based on the MOOSE framework. This model will be used for the evaluation of several transient experiments conducted at UWNR. Preliminary results of fresh-critical configurations show a good agreement among the four codes and experimental data. Also, preliminary results of depleted-critical configurations indicate that the depleted core model successfully tracks core reactivity over time as long as an initial (but relatively small) reactivity bias is eliminated. Formal uncertainty quantification will be carried out using SCALE to study the impact of model uncertainties on the effective multiplication factor and other observables. In conclusion, the evaluation of UWNR benchmark data provides increased confidence in various states/configurations of the UWNR computational model and will provide a unique model for use by other analysts.},\n\tbooktitle = {Proceedings of the {PHYSOR} 2020},\n\tauthor = {Park, YoungHui and Cheng, Ye and Elzohery, Rabab and Wilson, Paul P.H. and Roberts, Jeremy A. and DeHart, Mark D.},\n\tmonth = apr,\n\tyear = {2020},\n\tpages = {10},\n}\n",
         "data": {
             "key": "H4VPVVT5",
-            "version": 25203,
+            "version": 30817,
             "itemType": "conferencePaper",
             "title": "Evaluation of Critical Experiments in the University of Wisconsin Nuclear Reactor (UWNR) with Uncertainty Quantification",
             "creators": [
@@ -1886,7 +1936,7 @@
             "DOI": "",
             "ISBN": "978-1-5272-6447-2",
             "shortTitle": "",
-            "url": "",
+            "url": "https://doi.org/10.1051/epjconf/202124710032",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -1900,7 +1950,7 @@
             ],
             "relations": {},
             "dateAdded": "2021-02-07T00:18:47Z",
-            "dateModified": "2021-02-07T00:43:37Z"
+            "dateModified": "2024-09-09T14:52:31Z"
         }
     },
     {
@@ -10423,7 +10473,7 @@
     },
     {
         "key": "HU8FELQI",
-        "version": 21903,
+        "version": 30749,
         "library": {
             "type": "group",
             "id": 10058,
@@ -10467,10 +10517,10 @@
             "parsedDate": "2017-09-01",
             "numChildren": 2
         },
-        "bibtex": "\n@article{shriwise_particle_2017,\n\tseries = {Special {Issue} on {International} {Conference} on {Mathematics} and {Computational} {Methods} {Applied} to {Nuclear} {Science} and {Engineering} 2017 ({M}\\&{C} 2017)},\n\ttitle = {Particle tracking acceleration via signed distance fields in direct-accelerated geometry {Monte} {Carlo}},\n\tvolume = {49},\n\tissn = {1738-5733},\n\turl = {http://www.sciencedirect.com/science/article/pii/S1738573317303145},\n\tdoi = {10.1016/j.net.2017.08.008},\n\tabstract = {Computer-aided design (CAD)-based Monte Carlo radiation transport is of value to the nuclear engineering community for its ability to conduct transport on high-fidelity models of nuclear systems, but it is more computationally expensive than native geometry representations. This work describes the adaptation of a rendering data structure, the signed distance field, as a geometric query tool for accelerating CAD-based transport in the direct-accelerated geometry Monte Carlo toolkit. Demonstrations of its effectiveness are shown for several problems. The beginnings of a predictive model for the data structure's utilization based on various problem parameters is also introduced.},\n\tnumber = {6},\n\turldate = {2017-11-24},\n\tjournal = {Nuclear Engineering and Technology},\n\tauthor = {Shriwise, Patrick C. and Davis, Andrew and Jacobson, Lucas J. and Wilson, Paul P. H.},\n\tmonth = sep,\n\tyear = {2017},\n\tkeywords = {CAD, DAGMC, Monte Carlo, Radiation Transport},\n\tpages = {1189--1198},\n}\n",
+        "bibtex": "\n@article{shriwise_particle_2017,\n\tseries = {Special {Issue} on {International} {Conference} on {Mathematics} and {Computational} {Methods} {Applied} to {Nuclear} {Science} and {Engineering} 2017 ({M}\\&{C} 2017)},\n\ttitle = {Particle tracking acceleration via signed distance fields in direct-accelerated geometry {Monte} {Carlo}},\n\tvolume = {49},\n\tissn = {1738-5733},\n\turl = {http://www.sciencedirect.com/science/article/pii/S1738573317303145},\n\tdoi = {10.1016/j.net.2017.08.008},\n\tabstract = {Computer-aided design (CAD)-based Monte Carlo radiation transport is of value to the nuclear engineering community for its ability to conduct transport on high-fidelity models of nuclear systems, but it is more computationally expensive than native geometry representations. This work describes the adaptation of a rendering data structure, the signed distance field, as a geometric query tool for accelerating CAD-based transport in the direct-accelerated geometry Monte Carlo toolkit. Demonstrations of its effectiveness are shown for several problems. The beginnings of a predictive model for the data structure's utilization based on various problem parameters is also introduced.},\n\tnumber = {6},\n\turldate = {2017-11-24},\n\tjournal = {Nuclear Engineering and Technology},\n\tauthor = {Shriwise, Patrick C. and Davis, Andrew and Jacobson, Lucas J. and Wilson, Paul P. H.},\n\tmonth = sep,\n\tyear = {2017},\n\tkeywords = {CAD, DAGMC, Monte Carlo, Radiation Transport, product},\n\tpages = {1189--1198},\n}\n",
         "data": {
             "key": "HU8FELQI",
-            "version": 21903,
+            "version": 30749,
             "itemType": "journalArticle",
             "title": "Particle tracking acceleration via signed distance fields in direct-accelerated geometry Monte Carlo",
             "creators": [
@@ -10533,21 +10583,23 @@
                 {
                     "tag": "Radiation Transport",
                     "type": 1
+                },
+                {
+                    "tag": "product"
                 }
             ],
             "collections": [
-                "UKXV4KID",
-                "H442QZRN",
-                "CMA2SK5V"
+                "APMMJXES",
+                "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2017-11-24T19:24:01Z",
-            "dateModified": "2017-11-24T19:24:01Z"
+            "dateModified": "2024-09-08T17:29:03Z"
         }
     },
     {
         "key": "PG5YTTAG",
-        "version": 21903,
+        "version": 30748,
         "library": {
             "type": "group",
             "id": 10058,
@@ -10591,10 +10643,10 @@
             "parsedDate": "2017-07-04",
             "numChildren": 2
         },
-        "bibtex": "\n@article{el-guebaly_design_2017,\n\ttitle = {Design and {Evaluation} of {Nuclear} {System} for {ARIES}-{ACT2} {Power} {Plant} with {DCLL} {Blanket}},\n\tvolume = {72},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2016.1273669},\n\tdoi = {10.1080/15361055.2016.1273669},\n\tabstract = {The ARIES team has examined a multitude of fusion concepts over a period of 25 years. In recent years, the team wrapped up the Advanced Research, Innovation, and Evaluation Study (ARIES) series by completing the detailed design of the ARIES–Advanced and Conservative Tokamak (ARIES-ACT2) power plant—a plant with conservative physics and technology, representing a tokamak with reduced-activation ferritic/martensitic (RAFM) structure and dual-coolant lead-lithium blanket. The integration of nuclear assessments (neutronics, shielding, and activation) is an essential element to ARIES-ACT2 success. This paper highlights the design philosophy of in-vessel components and characterizes several nuclear-related issues that have been addressed during the course of the study to improve the ARIES-ACT2 design: sufficient breeding of tritium to fuel the plasma, well-optimized in-vessel components that satisfy all design requirements and guarantee the shielding functionality of its radial/vertical builds, survivability of low-activation/radiation-resistant structural materials in 14-MeV neutron environment, activation concerns for RAFM and corrosion-resistant oxide-dispersion-strengthened alloys, and an integral approach to handle the mildly radioactive materials during operation and after decommissioning.},\n\tnumber = {1},\n\turldate = {2018-04-05},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {El-Guebaly, L. and Mynsberge, L. and Davis, A. and D’Angelo, C. and Rowcliffe, A. and Pint, B. and Team, ARIES-ACT},\n\tmonth = jul,\n\tyear = {2017},\n\tkeywords = {Activation analysis, DCLL blanket, neutronics},\n\tpages = {17--40},\n}\n",
+        "bibtex": "\n@article{el-guebaly_design_2017,\n\ttitle = {Design and {Evaluation} of {Nuclear} {System} for {ARIES}-{ACT2} {Power} {Plant} with {DCLL} {Blanket}},\n\tvolume = {72},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2016.1273669},\n\tdoi = {10.1080/15361055.2016.1273669},\n\tabstract = {The ARIES team has examined a multitude of fusion concepts over a period of 25 years. In recent years, the team wrapped up the Advanced Research, Innovation, and Evaluation Study (ARIES) series by completing the detailed design of the ARIES–Advanced and Conservative Tokamak (ARIES-ACT2) power plant—a plant with conservative physics and technology, representing a tokamak with reduced-activation ferritic/martensitic (RAFM) structure and dual-coolant lead-lithium blanket. The integration of nuclear assessments (neutronics, shielding, and activation) is an essential element to ARIES-ACT2 success. This paper highlights the design philosophy of in-vessel components and characterizes several nuclear-related issues that have been addressed during the course of the study to improve the ARIES-ACT2 design: sufficient breeding of tritium to fuel the plasma, well-optimized in-vessel components that satisfy all design requirements and guarantee the shielding functionality of its radial/vertical builds, survivability of low-activation/radiation-resistant structural materials in 14-MeV neutron environment, activation concerns for RAFM and corrosion-resistant oxide-dispersion-strengthened alloys, and an integral approach to handle the mildly radioactive materials during operation and after decommissioning.},\n\tnumber = {1},\n\turldate = {2018-04-05},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {El-Guebaly, L. and Mynsberge, L. and Davis, A. and D’Angelo, C. and Rowcliffe, A. and Pint, B. and Team, ARIES-ACT},\n\tmonth = jul,\n\tyear = {2017},\n\tkeywords = {Activation analysis, DCLL blanket, neutronics, product},\n\tpages = {17--40},\n}\n",
         "data": {
             "key": "PG5YTTAG",
-            "version": 21903,
+            "version": 30748,
             "itemType": "journalArticle",
             "title": "Design and Evaluation of Nuclear System for ARIES-ACT2 Power Plant with DCLL Blanket",
             "creators": [
@@ -10668,21 +10720,23 @@
                 {
                     "tag": "neutronics",
                     "type": 1
+                },
+                {
+                    "tag": "product"
                 }
             ],
             "collections": [
-                "UKXV4KID",
-                "H442QZRN",
-                "CMA2SK5V"
+                "APMMJXES",
+                "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2018-04-05T12:34:36Z",
-            "dateModified": "2018-04-05T12:34:36Z"
+            "dateModified": "2024-09-08T17:29:03Z"
         }
     },
     {
         "key": "PP39E2UP",
-        "version": 21903,
+        "version": 30781,
         "library": {
             "type": "group",
             "id": 10058,
@@ -10737,10 +10791,10 @@
             "parsedDate": "2017-07",
             "numChildren": 1
         },
-        "bibtex": "\n@article{biondo_transmutation_2017,\n\ttitle = {Transmutation {Approximations} for the {Application} of {Hybrid} {Monte} {Carlo}/{Deterministic} {Neutron} {Transport} to {Shutdown} {Dose} {Rate} {Analysis}},\n\tvolume = {187},\n\turl = {http://www.tandfonline.com/doi/abs/10.1080/00295639.2016.1275848},\n\tabstract = {In fusion energy systems (FES) neutrons born from burning plasma activate system components. The photon dose rate after shutdown from resulting radionuclides must be quantified. This shutdown dose rate\n(SDR) is calculated by coupling neutron transport, activation analysis, and photon transport. The size, complexity, and attenuating configuration of FES motivate the use of hybrid Monte Carlo (MC)/deterministic\nneutron transport. The Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method can be used to optimize MC neutron transport for coupled multiphysics problems, including SDR analysis, using\ndeterministic estimates of adjoint flux distributions. When used for SDR analysis, MS-CADIS requires the formulation of an adjoint neutron source that approximates the transmutation process. In this work, transmutation approximations are used to derive a solution for this adjoint neutron source. It is shown that these approximations are reasonably met for typical FES neutron spectra and materials over a range of irradiation scenarios. When these approximations are met, the Groupwise Transmutation (GT)-CADIS method, proposed\nhere, can be used effectively. GT-CADIS is an implementation of the MS-CADIS method for SDR analysis that uses a series of single-energy-group irradiations to calculate the adjoint neutron source. For a simple SDR\nproblem, GT-CADIS provides speedups of 200 ± 100 relative to global variance reduction with the Forward Weighted (FW)-CADIS method and 9 ± 5 · 10{\\textasciicircum}4 relative to analog. This work shows that GT-CADIS is broadly applicable to FES problems and will significantly reduce the computational resources necessary for SDR\nanalysis.},\n\tnumber = {1},\n\tjournal = {Nuclear Science and Engineering},\n\tauthor = {Biondo, Elliott D. and Wilson, Paul P.H.},\n\tmonth = jul,\n\tyear = {2017},\n\tpages = {27--48},\n}\n",
+        "bibtex": "\n@article{biondo_transmutation_2017,\n\ttitle = {Transmutation {Approximations} for the {Application} of {Hybrid} {Monte} {Carlo}/{Deterministic} {Neutron} {Transport} to {Shutdown} {Dose} {Rate} {Analysis}},\n\tvolume = {187},\n\turl = {http://www.tandfonline.com/doi/abs/10.1080/00295639.2016.1275848},\n\tabstract = {In fusion energy systems (FES) neutrons born from burning plasma activate system components. The photon dose rate after shutdown from resulting radionuclides must be quantified. This shutdown dose rate\n(SDR) is calculated by coupling neutron transport, activation analysis, and photon transport. The size, complexity, and attenuating configuration of FES motivate the use of hybrid Monte Carlo (MC)/deterministic\nneutron transport. The Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method can be used to optimize MC neutron transport for coupled multiphysics problems, including SDR analysis, using\ndeterministic estimates of adjoint flux distributions. When used for SDR analysis, MS-CADIS requires the formulation of an adjoint neutron source that approximates the transmutation process. In this work, transmutation approximations are used to derive a solution for this adjoint neutron source. It is shown that these approximations are reasonably met for typical FES neutron spectra and materials over a range of irradiation scenarios. When these approximations are met, the Groupwise Transmutation (GT)-CADIS method, proposed\nhere, can be used effectively. GT-CADIS is an implementation of the MS-CADIS method for SDR analysis that uses a series of single-energy-group irradiations to calculate the adjoint neutron source. For a simple SDR\nproblem, GT-CADIS provides speedups of 200 ± 100 relative to global variance reduction with the Forward Weighted (FW)-CADIS method and 9 ± 5 · 10{\\textasciicircum}4 relative to analog. This work shows that GT-CADIS is broadly applicable to FES problems and will significantly reduce the computational resources necessary for SDR\nanalysis.},\n\tnumber = {1},\n\tjournal = {Nuclear Science and Engineering},\n\tauthor = {Biondo, Elliott D. and Wilson, Paul P.H.},\n\tmonth = jul,\n\tyear = {2017},\n\tkeywords = {CNERG:HK20 Final Report, product},\n\tpages = {27--48},\n}\n",
         "data": {
             "key": "PP39E2UP",
-            "version": 21903,
+            "version": 30781,
             "itemType": "journalArticle",
             "title": "Transmutation Approximations for the Application of Hybrid Monte Carlo/Deterministic Neutron Transport to Shutdown Dose Rate Analysis",
             "creators": [
@@ -10777,16 +10831,21 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                },
+                {
+                    "tag": "product"
+                }
+            ],
             "collections": [
-                "UKXV4KID",
-                "4MDZ29N8",
-                "H442QZRN",
-                "CMA2SK5V"
+                "APMMJXES",
+                "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2017-06-23T02:45:37Z",
-            "dateModified": "2017-06-23T02:45:37Z"
+            "dateModified": "2024-09-08T17:38:42Z"
         }
     },
     {
@@ -10906,7 +10965,7 @@
     },
     {
         "key": "H4P52FWV",
-        "version": 21903,
+        "version": 30749,
         "library": {
             "type": "group",
             "id": 10058,
@@ -10950,10 +11009,10 @@
             "parsedDate": "2017",
             "numChildren": 1
         },
-        "bibtex": "\n@article{harb_effect_2017,\n\ttitle = {The {Effect} of {Constructed} {Mesh}-{Based} {Fluxes} on {Shutdown} {Dose} {Rate} {Calculations} in {Fusion} {Energy} {Systems}},\n\tvolume = {117},\n\tnumber = {1},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Harb, Moataz and Wilson, Paul P.H. and Davis, Andrew},\n\tmonth = nov,\n\tyear = {2017},\n\tpages = {1216--1219},\n}\n",
+        "bibtex": "\n@article{harb_effect_2017,\n\ttitle = {The {Effect} of {Constructed} {Mesh}-{Based} {Fluxes} on {Shutdown} {Dose} {Rate} {Calculations} in {Fusion} {Energy} {Systems}},\n\tvolume = {117},\n\tnumber = {1},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Harb, Moataz and Wilson, Paul P.H. and Davis, Andrew},\n\tmonth = nov,\n\tyear = {2017},\n\tkeywords = {product},\n\tpages = {1216--1219},\n}\n",
         "data": {
             "key": "H4P52FWV",
-            "version": 21903,
+            "version": 30749,
             "itemType": "journalArticle",
             "title": "The Effect of Constructed Mesh-Based Fluxes on Shutdown Dose Rate Calculations in Fusion Energy Systems",
             "creators": [
@@ -10995,15 +11054,18 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "product"
+                }
+            ],
             "collections": [
-                "UKXV4KID",
-                "H442QZRN",
-                "CMA2SK5V"
+                "APMMJXES",
+                "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2017-11-24T19:31:43Z",
-            "dateModified": "2017-11-24T19:32:39Z"
+            "dateModified": "2024-09-08T17:29:03Z"
         }
     },
     {
@@ -11940,7 +12002,7 @@
     },
     {
         "key": "USAJZ3FD",
-        "version": 21903,
+        "version": 30781,
         "library": {
             "type": "group",
             "id": 10058,
@@ -11995,10 +12057,10 @@
             "parsedDate": "2016",
             "numChildren": 1
         },
-        "bibtex": "\n@article{biondo_shutdown_2016,\n\ttitle = {Shutdown {Dose} {Rate} {Analysis} with {CAD} {Geometry}, {Cartesian}/{Tetrahedral} {Mesh}, and {Advanced} {Variance} {Reduction}},\n\tvolume = {106},\n\tissn = {0920-3796},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0920379616302009},\n\tdoi = {http://dx.doi.org/10.1016/j.fusengdes.2016.03.004},\n\tabstract = {In fusion energy systems (FES) high-energy neutrons born from burning plasma activate system components to form radionuclides. The biological dose rate that results from photons emitted by these radionuclides after shutdown—the shutdown dose rate (SDR)—must be quantified for maintenance planning. This can be done using the Rigorous Two-Step (R2S) method, which involves separate neutron and photon transport calculations, coupled by a nuclear inventory analysis code. The geometric complexity and highly attenuating configuration of FES motivates the use of CAD geometry and advanced variance\nreduction for this analysis.\n\nAn R2S workflow has been created with the new capability of performing SDR analysis directly from CAD geometry with Cartesian or tetrahedral meshes and with biased photon source sampling, enabling\nthe use of the Consistent Adjoint Driven Importance Sampling (CADIS) variance reduction technique. This workflow has been validated with the Frascati Neutron Generator (FNG)-ITER SDR benchmark using both Cartesian and tetrahedral meshes and both unbiased and biased photon source sampling. All results are\nwithin 20.4\\% of experimental values, which constitutes satisfactory agreement. Photon transport using\nCADIS is demonstrated to yield speedups as high as 8.5·10{\\textasciicircum}5 for problems using the FNG geometry.},\n\tjournal = {Fusion Engineering and Design},\n\tauthor = {Biondo, Elliott D. and Davis, Andrew and Wilson, Paul P.H.},\n\tmonth = may,\n\tyear = {2016},\n\tpages = {77--84},\n}\n",
+        "bibtex": "\n@article{biondo_shutdown_2016,\n\ttitle = {Shutdown {Dose} {Rate} {Analysis} with {CAD} {Geometry}, {Cartesian}/{Tetrahedral} {Mesh}, and {Advanced} {Variance} {Reduction}},\n\tvolume = {106},\n\tissn = {0920-3796},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0920379616302009},\n\tdoi = {http://dx.doi.org/10.1016/j.fusengdes.2016.03.004},\n\tabstract = {In fusion energy systems (FES) high-energy neutrons born from burning plasma activate system components to form radionuclides. The biological dose rate that results from photons emitted by these radionuclides after shutdown—the shutdown dose rate (SDR)—must be quantified for maintenance planning. This can be done using the Rigorous Two-Step (R2S) method, which involves separate neutron and photon transport calculations, coupled by a nuclear inventory analysis code. The geometric complexity and highly attenuating configuration of FES motivates the use of CAD geometry and advanced variance\nreduction for this analysis.\n\nAn R2S workflow has been created with the new capability of performing SDR analysis directly from CAD geometry with Cartesian or tetrahedral meshes and with biased photon source sampling, enabling\nthe use of the Consistent Adjoint Driven Importance Sampling (CADIS) variance reduction technique. This workflow has been validated with the Frascati Neutron Generator (FNG)-ITER SDR benchmark using both Cartesian and tetrahedral meshes and both unbiased and biased photon source sampling. All results are\nwithin 20.4\\% of experimental values, which constitutes satisfactory agreement. Photon transport using\nCADIS is demonstrated to yield speedups as high as 8.5·10{\\textasciicircum}5 for problems using the FNG geometry.},\n\tjournal = {Fusion Engineering and Design},\n\tauthor = {Biondo, Elliott D. and Davis, Andrew and Wilson, Paul P.H.},\n\tmonth = may,\n\tyear = {2016},\n\tkeywords = {CNERG:HK20 Final Report, product},\n\tpages = {77--84},\n}\n",
         "data": {
             "key": "USAJZ3FD",
-            "version": 21903,
+            "version": 30781,
             "itemType": "journalArticle",
             "title": "Shutdown Dose Rate Analysis with CAD Geometry, Cartesian/Tetrahedral Mesh, and Advanced Variance Reduction",
             "creators": [
@@ -12040,16 +12102,21 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                },
+                {
+                    "tag": "product"
+                }
+            ],
             "collections": [
-                "UKXV4KID",
-                "4MDZ29N8",
-                "H442QZRN",
-                "CMA2SK5V"
+                "APMMJXES",
+                "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2016-04-04T19:55:27Z",
-            "dateModified": "2017-01-11T03:36:09Z"
+            "dateModified": "2024-09-08T17:38:42Z"
         }
     },
     {
@@ -12754,8 +12821,7 @@
             "extra": "",
             "tags": [],
             "collections": [
-                "UKXV4KID",
-                "RI2DQ3B2"
+                "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2016-10-26T19:23:01Z",
@@ -12875,7 +12941,7 @@
     },
     {
         "key": "E5STAZZD",
-        "version": 21761,
+        "version": 30777,
         "library": {
             "type": "group",
             "id": 10058,
@@ -12930,10 +12996,10 @@
             "parsedDate": "2015-04-19",
             "numChildren": 2
         },
-        "bibtex": "\n@inproceedings{biondo_accelerating_2015,\n\taddress = {Nashville, Tennessee},\n\ttitle = {Accelerating {Fusion} {Reactor} {Neutronics} {Modeling} by {Automatic} {Coupling} of {Hybrid} {Monte} {Carlo}/{Deterministic} {Transport} on {CAD} {Geometry}},\n\tisbn = {978-0-89448-720-0},\n\tabstract = {Detailed radiation transport calculations are necessary for many aspects of the design of fusion\nenergy systems (FES) such as ensuring occupational safety, assessing the activation of system components\nfor waste disposal, and maintaining cryogenic temperatures within superconducting magnets. Hybrid\nMonte Carlo (MC)/deterministic techniques are necessary for this analysis because FES are large, heavily\nshielded, and contain streaming paths that can only be resolved with MC. The tremendous complexity of\nFES necessitates the use of CAD geometry for design and analysis. Previous ITER analysis has required\nthe translation of CAD geometry to MCNP5 form in order to use the AutomateD VAriaNce reducTion\nGenerator (ADVANTG) for hybrid MC/deterministic transport. In this work, ADVANTG was modified\nto support CAD geometry, allowing hybrid (MC)/deterministic transport to be done automatically and\neliminating the need for this translation step. This was done by adding a new ray tracing routine\nto ADVANTG for CAD geometries using the Direct Accelerated Geometry Monte Carlo (DAGMC)\nsoftware library. This new capability is demonstrated with a prompt dose rate calculation for an ITER\ncomputational benchmark problem using both the Consistent Adjoint Driven Importance Sampling\n(CADIS) method an the Forward Weighted (FW)-CADIS method. The variance reduction parameters\nproduced by ADVANTG are shown to be the same using CAD geometry and standard MCNP5 geometry.\nSignificant speedups were observed for both neutrons (as high as a factor of 7.1) and photons (as high as\na factor of 59.6).},\n\tbooktitle = {Mathematics \\& {Computations} ({M}\\&{C}+{SNA}+{MC} 2015)},\n\tauthor = {Biondo, Elliott and Ibrahim, Ahmad M. and Mosher, Scott W. and Grove, Robert E.},\n\tmonth = apr,\n\tyear = {2015},\n}\n",
+        "bibtex": "\n@inproceedings{biondo_accelerating_2015,\n\taddress = {Nashville, Tennessee},\n\ttitle = {Accelerating {Fusion} {Reactor} {Neutronics} {Modeling} by {Automatic} {Coupling} of {Hybrid} {Monte} {Carlo}/{Deterministic} {Transport} on {CAD} {Geometry}},\n\tisbn = {978-0-89448-720-0},\n\tabstract = {Detailed radiation transport calculations are necessary for many aspects of the design of fusion\nenergy systems (FES) such as ensuring occupational safety, assessing the activation of system components\nfor waste disposal, and maintaining cryogenic temperatures within superconducting magnets. Hybrid\nMonte Carlo (MC)/deterministic techniques are necessary for this analysis because FES are large, heavily\nshielded, and contain streaming paths that can only be resolved with MC. The tremendous complexity of\nFES necessitates the use of CAD geometry for design and analysis. Previous ITER analysis has required\nthe translation of CAD geometry to MCNP5 form in order to use the AutomateD VAriaNce reducTion\nGenerator (ADVANTG) for hybrid MC/deterministic transport. In this work, ADVANTG was modified\nto support CAD geometry, allowing hybrid (MC)/deterministic transport to be done automatically and\neliminating the need for this translation step. This was done by adding a new ray tracing routine\nto ADVANTG for CAD geometries using the Direct Accelerated Geometry Monte Carlo (DAGMC)\nsoftware library. This new capability is demonstrated with a prompt dose rate calculation for an ITER\ncomputational benchmark problem using both the Consistent Adjoint Driven Importance Sampling\n(CADIS) method an the Forward Weighted (FW)-CADIS method. The variance reduction parameters\nproduced by ADVANTG are shown to be the same using CAD geometry and standard MCNP5 geometry.\nSignificant speedups were observed for both neutrons (as high as a factor of 7.1) and photons (as high as\na factor of 59.6).},\n\tbooktitle = {Mathematics \\& {Computations} ({M}\\&{C}+{SNA}+{MC} 2015)},\n\tauthor = {Biondo, Elliott and Ibrahim, Ahmad M. and Mosher, Scott W. and Grove, Robert E.},\n\tmonth = apr,\n\tyear = {2015},\n\tkeywords = {CNERG:HK20 Final Report},\n}\n",
         "data": {
             "key": "E5STAZZD",
-            "version": 21761,
+            "version": 30777,
             "itemType": "conferencePaper",
             "title": "Accelerating Fusion Reactor Neutronics Modeling by Automatic Coupling of Hybrid Monte Carlo/Deterministic Transport on CAD Geometry",
             "creators": [
@@ -12979,14 +13045,18 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                }
+            ],
             "collections": [
                 "UKXV4KID",
-                "4MDZ29N8"
+                "QNJGHVT4"
             ],
             "relations": {},
             "dateAdded": "2015-07-09T20:06:20Z",
-            "dateModified": "2017-09-04T20:57:46Z"
+            "dateModified": "2024-09-08T17:38:36Z"
         }
     },
     {
@@ -13332,7 +13402,7 @@
     },
     {
         "key": "MSA966E9",
-        "version": 21903,
+        "version": 30781,
         "library": {
             "type": "group",
             "id": 10058,
@@ -13387,10 +13457,10 @@
             "parsedDate": "2015",
             "numChildren": 2
         },
-        "bibtex": "\n@article{biondo_rigorous_2015,\n\tseries = {Best of {Radiation} {Protection} and {Shielding} {Division} 2014---{II}},\n\ttitle = {Rigorous {Two}-{Step} {Activation} for {Fusion} {Systems} with {PyNE}},\n\tvolume = {112},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Biondo, Elliott and Davis, Andrew and Scopatz, Anthony and Wilson, Paul P.H.},\n\tyear = {2015},\n\tpages = {617--620},\n}\n",
+        "bibtex": "\n@article{biondo_rigorous_2015,\n\tseries = {Best of {Radiation} {Protection} and {Shielding} {Division} 2014---{II}},\n\ttitle = {Rigorous {Two}-{Step} {Activation} for {Fusion} {Systems} with {PyNE}},\n\tvolume = {112},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Biondo, Elliott and Davis, Andrew and Scopatz, Anthony and Wilson, Paul P.H.},\n\tyear = {2015},\n\tkeywords = {CNERG:HK20 Final Report, product},\n\tpages = {617--620},\n}\n",
         "data": {
             "key": "MSA966E9",
-            "version": 21903,
+            "version": 30781,
             "itemType": "journalArticle",
             "title": "Rigorous Two-Step Activation for Fusion Systems with PyNE",
             "creators": [
@@ -13437,16 +13507,21 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                },
+                {
+                    "tag": "product"
+                }
+            ],
             "collections": [
-                "UKXV4KID",
-                "4MDZ29N8",
-                "H442QZRN",
-                "CMA2SK5V"
+                "APMMJXES",
+                "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2015-07-09T20:27:36Z",
-            "dateModified": "2017-01-11T04:03:41Z"
+            "dateModified": "2024-09-08T17:38:42Z"
         }
     },
     {
@@ -15259,6 +15334,136 @@
         }
     },
     {
+        "key": "WKPH3AP6",
+        "version": 30781,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/WKPH3AP6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/WKPH3AP6",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/62VDJJT6",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 663460
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 708524,
+                "username": "erelson",
+                "name": "Eric Relson",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/erelson",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Relson et al.",
+            "parsedDate": "2013-05-05",
+            "numChildren": 2
+        },
+        "bibtex": "\n@inproceedings{relson_improved_2013,\n\taddress = {Sun Valley, ID},\n\ttitle = {Improved {Mesh} {Based} {Photon} {Sampling} {Techniques} {For} {Neutron} {Activation} {Analysis}},\n\tabstract = {The design of fusion power systems requires analysis of neutron activation of large, complex volumes, and the resulting particles emitted from these volumes. Structured mesh-based discretization of these problems allows for improved modeling in these activation analysis problems. Finer discretization of these problems results in large computational costs, which drives the investigation of more efficient methods. Within an ad hoc subroutine of the Monte Carlo transport code MCNP, we implement sampling of voxels and photon energies for volumetric sources using the alias method. The alias method enables efficient sampling of a discrete probability distribution, and operates in O(1) time, whereas the simpler direct discrete method requires O(log(n)) time. By using the alias method, voxel sampling becomes a viable alternative to sampling space with the O(1) approach of uniformly sampling the problem volume. Additionally, with voxel sampling it is straightforward to introduce biasing of volumetric sources,\nand we implement this biasing of voxels as an additional variance reduction technique that can be applied. We verify our implementation and compare the alias method, with and without biasing, to direct discrete sampling of voxels, and to uniform sampling. We study the behavior of source biasing in a second set of tests and find trends between improvements and source shape, material, and material density. Overall, however, the magnitude of improvements from source biasing appears to be limited. Future work will benefit from the implementation of efficient voxel sampling – particularly with conformal unstructured meshes where the uniform sampling approach cannot be applied.},\n\tbooktitle = {M\\&{C} 2013},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Relson, E. and Wilson, P.P.H. and Biondo, Elliott},\n\tmonth = may,\n\tyear = {2013},\n\tkeywords = {ALARA, CNERG:HK20 Final Report, MCNP, Photons, R2S-ACT, Sampling},\n}\n",
+        "data": {
+            "key": "WKPH3AP6",
+            "version": 30781,
+            "itemType": "conferencePaper",
+            "title": "Improved Mesh Based Photon Sampling Techniques For Neutron Activation Analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "E.",
+                    "lastName": "Relson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P.P.H.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Elliott",
+                    "lastName": "Biondo"
+                }
+            ],
+            "abstractNote": "The design of fusion power systems requires analysis of neutron activation of large, complex volumes, and the resulting particles emitted from these volumes. Structured mesh-based discretization of these problems allows for improved modeling in these activation analysis problems. Finer discretization of these problems results in large computational costs, which drives the investigation of more efficient methods. Within an ad hoc subroutine of the Monte Carlo transport code MCNP, we implement sampling of voxels and photon energies for volumetric sources using the alias method. The alias method enables efficient sampling of a discrete probability distribution, and operates in O(1) time, whereas the simpler direct discrete method requires O(log(n)) time. By using the alias method, voxel sampling becomes a viable alternative to sampling space with the O(1) approach of uniformly sampling the problem volume. Additionally, with voxel sampling it is straightforward to introduce biasing of volumetric sources,\nand we implement this biasing of voxels as an additional variance reduction technique that can be applied. We verify our implementation and compare the alias method, with and without biasing, to direct discrete sampling of voxels, and to uniform sampling. We study the behavior of source biasing in a second set of tests and find trends between improvements and source shape, material, and material density. Overall, however, the magnitude of improvements from source biasing appears to be limited. Future work will benefit from the implementation of efficient voxel sampling – particularly with conformal unstructured meshes where the uniform sampling approach cannot be applied.",
+            "date": "May 5-9, 2013",
+            "proceedingsTitle": "M&C 2013",
+            "conferenceName": "International Conference on Mathematics and Computational Methods Applied to Nuclear Science & Engineering (M&C 2013)",
+            "place": "Sun Valley, ID",
+            "publisher": "American Nuclear Society",
+            "volume": "",
+            "pages": "",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "ALARA"
+                },
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                },
+                {
+                    "tag": "MCNP"
+                },
+                {
+                    "tag": "Photons"
+                },
+                {
+                    "tag": "R2S-ACT"
+                },
+                {
+                    "tag": "Sampling"
+                }
+            ],
+            "collections": [
+                "UKXV4KID",
+                "QNJGHVT4"
+            ],
+            "relations": {},
+            "dateAdded": "2013-04-04T22:35:53Z",
+            "dateModified": "2024-09-08T17:38:42Z"
+        }
+    },
+    {
         "key": "UM2DP2WJ",
         "version": 21760,
         "library": {
@@ -15361,133 +15566,6 @@
             "relations": {},
             "dateAdded": "2013-07-01T15:56:13Z",
             "dateModified": "2014-01-15T21:21:58Z"
-        }
-    },
-    {
-        "key": "WKPH3AP6",
-        "version": 21760,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/WKPH3AP6",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/WKPH3AP6",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/62VDJJT6",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 663460
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 708524,
-                "username": "erelson",
-                "name": "Eric Relson",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/erelson",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Relson et al.",
-            "parsedDate": "2013-05-05",
-            "numChildren": 2
-        },
-        "bibtex": "\n@inproceedings{relson_improved_2013,\n\taddress = {Sun Valley, ID},\n\ttitle = {Improved {Mesh} {Based} {Photon} {Sampling} {Techniques} {For} {Neutron} {Activation} {Analysis}},\n\tabstract = {The design of fusion power systems requires analysis of neutron activation of large, complex volumes, and the resulting particles emitted from these volumes. Structured mesh-based discretization of these problems allows for improved modeling in these activation analysis problems. Finer discretization of these problems results in large computational costs, which drives the investigation of more efficient methods. Within an ad hoc subroutine of the Monte Carlo transport code MCNP, we implement sampling of voxels and photon energies for volumetric sources using the alias method. The alias method enables efficient sampling of a discrete probability distribution, and operates in O(1) time, whereas the simpler direct discrete method requires O(log(n)) time. By using the alias method, voxel sampling becomes a viable alternative to sampling space with the O(1) approach of uniformly sampling the problem volume. Additionally, with voxel sampling it is straightforward to introduce biasing of volumetric sources,\nand we implement this biasing of voxels as an additional variance reduction technique that can be applied. We verify our implementation and compare the alias method, with and without biasing, to direct discrete sampling of voxels, and to uniform sampling. We study the behavior of source biasing in a second set of tests and find trends between improvements and source shape, material, and material density. Overall, however, the magnitude of improvements from source biasing appears to be limited. Future work will benefit from the implementation of efficient voxel sampling – particularly with conformal unstructured meshes where the uniform sampling approach cannot be applied.},\n\tbooktitle = {M\\&{C} 2013},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Relson, E. and Wilson, P.P.H. and Biondo, Elliott},\n\tmonth = may,\n\tyear = {2013},\n\tkeywords = {ALARA, MCNP, Photons, R2S-ACT, Sampling},\n}\n",
-        "data": {
-            "key": "WKPH3AP6",
-            "version": 21760,
-            "itemType": "conferencePaper",
-            "title": "Improved Mesh Based Photon Sampling Techniques For Neutron Activation Analysis",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "E.",
-                    "lastName": "Relson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Elliott",
-                    "lastName": "Biondo"
-                }
-            ],
-            "abstractNote": "The design of fusion power systems requires analysis of neutron activation of large, complex volumes, and the resulting particles emitted from these volumes. Structured mesh-based discretization of these problems allows for improved modeling in these activation analysis problems. Finer discretization of these problems results in large computational costs, which drives the investigation of more efficient methods. Within an ad hoc subroutine of the Monte Carlo transport code MCNP, we implement sampling of voxels and photon energies for volumetric sources using the alias method. The alias method enables efficient sampling of a discrete probability distribution, and operates in O(1) time, whereas the simpler direct discrete method requires O(log(n)) time. By using the alias method, voxel sampling becomes a viable alternative to sampling space with the O(1) approach of uniformly sampling the problem volume. Additionally, with voxel sampling it is straightforward to introduce biasing of volumetric sources,\nand we implement this biasing of voxels as an additional variance reduction technique that can be applied. We verify our implementation and compare the alias method, with and without biasing, to direct discrete sampling of voxels, and to uniform sampling. We study the behavior of source biasing in a second set of tests and find trends between improvements and source shape, material, and material density. Overall, however, the magnitude of improvements from source biasing appears to be limited. Future work will benefit from the implementation of efficient voxel sampling – particularly with conformal unstructured meshes where the uniform sampling approach cannot be applied.",
-            "date": "May 5-9, 2013",
-            "proceedingsTitle": "M&C 2013",
-            "conferenceName": "International Conference on Mathematics and Computational Methods Applied to Nuclear Science & Engineering (M&C 2013)",
-            "place": "Sun Valley, ID",
-            "publisher": "American Nuclear Society",
-            "volume": "",
-            "pages": "",
-            "series": "",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "ALARA"
-                },
-                {
-                    "tag": "MCNP"
-                },
-                {
-                    "tag": "Photons"
-                },
-                {
-                    "tag": "R2S-ACT"
-                },
-                {
-                    "tag": "Sampling"
-                }
-            ],
-            "collections": [
-                "UKXV4KID",
-                "4MDZ29N8"
-            ],
-            "relations": {},
-            "dateAdded": "2013-04-04T22:35:53Z",
-            "dateModified": "2014-01-15T21:21:53Z"
         }
     },
     {

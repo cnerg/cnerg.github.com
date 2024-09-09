@@ -1050,7 +1050,7 @@
     },
     {
         "key": "6VTPU3C5",
-        "version": 30664,
+        "version": 30784,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1105,10 +1105,10 @@
             "parsedDate": "2016-07-21",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{biondo_hybrid_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Hybrid {Monte} {Carlo}/{Deterministic} {Neutron} {Transport} for {Shutdown} {Dose} {Rate} {Analysis}},\n\turl = {https://digital.library.wisc.edu/1711.dl/5DMMVSMDW5LUU9A},\n\tabstract = {In fusion energy systems (FES) neutrons are born from a burning plasma and subsequently activate surrounding system components. The photon dose rate after shutdown from the resultant radionuclides must be quantified for maintenance planning. This shutdown dose rate (SDR) is calculated by coupling neutron transport, activation analysis, and photon transport. The size, complexity, and attenuating configuration of FES motivate the use of hybrid Monte Carlo (MC)/deterministic neutron transport. The Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method can be used to optimize MC neutron transport for this purpose. This requires the formulation of an adjoint neutron source that approximates the transmutation process. In this work one such formulation is introduced which is valid when a specific set of transmutation criteria are met, referred to as the Single Neutron Interaction and Low Burnup (SNILB) criteria. These criteria are quantitatively evaluated for typical FES scenarios and are shown to be met within a reasonable margin. Groupwise Transmutation (GT)-CADIS, proposed here, is an implementation of MS-CADIS that calculates this adjoint neutron source using a series of irradiation calculations. For a simple SDR problem, GT-CADIS provides speedups of 200 ± 100 relative to global variance reduction with the Forward Weighted (FW)-CADIS method and 90,000 ± 50,000 relative to analog. When the SNILB criteria are egregiously violated, GT-CADIS modifications are proposed and are shown to provide significant performance improvements. Finally, GT-CADIS is applied to a production-level problem involving a Spherical Tokamak Fusion Nuclear Science Facility (ST-FNSF) device. This work shows that GT-CADIS is broadly applicable to FES scenarios and will significantly reduce the computational resources necessary for SDR analysis.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Biondo, Elliott Dean},\n\tmonth = jul,\n\tyear = {2016},\n}\n",
+        "bibtex": "\n@phdthesis{biondo_hybrid_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Hybrid {Monte} {Carlo}/{Deterministic} {Neutron} {Transport} for {Shutdown} {Dose} {Rate} {Analysis}},\n\turl = {https://digital.library.wisc.edu/1711.dl/5DMMVSMDW5LUU9A},\n\tabstract = {In fusion energy systems (FES) neutrons are born from a burning plasma and subsequently activate surrounding system components. The photon dose rate after shutdown from the resultant radionuclides must be quantified for maintenance planning. This shutdown dose rate (SDR) is calculated by coupling neutron transport, activation analysis, and photon transport. The size, complexity, and attenuating configuration of FES motivate the use of hybrid Monte Carlo (MC)/deterministic neutron transport. The Multi-Step Consistent Adjoint Driven Importance Sampling (MS-CADIS) method can be used to optimize MC neutron transport for this purpose. This requires the formulation of an adjoint neutron source that approximates the transmutation process. In this work one such formulation is introduced which is valid when a specific set of transmutation criteria are met, referred to as the Single Neutron Interaction and Low Burnup (SNILB) criteria. These criteria are quantitatively evaluated for typical FES scenarios and are shown to be met within a reasonable margin. Groupwise Transmutation (GT)-CADIS, proposed here, is an implementation of MS-CADIS that calculates this adjoint neutron source using a series of irradiation calculations. For a simple SDR problem, GT-CADIS provides speedups of 200 ± 100 relative to global variance reduction with the Forward Weighted (FW)-CADIS method and 90,000 ± 50,000 relative to analog. When the SNILB criteria are egregiously violated, GT-CADIS modifications are proposed and are shown to provide significant performance improvements. Finally, GT-CADIS is applied to a production-level problem involving a Spherical Tokamak Fusion Nuclear Science Facility (ST-FNSF) device. This work shows that GT-CADIS is broadly applicable to FES scenarios and will significantly reduce the computational resources necessary for SDR analysis.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Biondo, Elliott Dean},\n\tmonth = jul,\n\tyear = {2016},\n\tkeywords = {CNERG:HK20 Final Report, product},\n}\n",
         "data": {
             "key": "6VTPU3C5",
-            "version": 30664,
+            "version": 30784,
             "itemType": "thesis",
             "title": "Hybrid Monte Carlo/Deterministic Neutron Transport for Shutdown Dose Rate Analysis",
             "creators": [
@@ -1134,17 +1134,21 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                },
+                {
+                    "tag": "product"
+                }
+            ],
             "collections": [
                 "6259B6TV",
-                "4MDZ29N8",
-                "H442QZRN",
-                "CMA2SK5V",
                 "34I86HPD"
             ],
             "relations": {},
             "dateAdded": "2016-08-20T14:20:24Z",
-            "dateModified": "2024-09-08T16:49:48Z"
+            "dateModified": "2024-09-08T17:38:42Z"
         }
     },
     {
@@ -1596,7 +1600,7 @@
     },
     {
         "key": "GN6PK84Z",
-        "version": 26427,
+        "version": 30781,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1640,10 +1644,10 @@
             "parsedDate": "2013-07",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{relson_improved_2013,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Improved {Methods} {For} {Sampling} {Mesh}-{Based} {Volumetric} {Sources} {In} {Monte} {Carlo} {Transport}},\n\tabstract = {This research focuses on developing mesh-based techniques for sampling distributed,\n volumetric sources in Monte Carlo particle transport codes, such as MCNP. This work\n culminated in several source sampling techniques being implemented within a 3-D neutron\n activation workflow.\n\nThe most significant development is the implementation of an efficient voxel sampling\n technique. Voxel sampling can be applied to source meshes with any number of mesh\n elements thanks to efficient sampling via the alias method, and meshing of non-source volumes\n can be avoided. Voxel sampling in turn enables straight-forward implementation of source\n biasing for variance reduction, and also the use of unstructured source meshes using\n tetrahedral mesh elements. The uniform sampling technique used in past work is effectively a\n biasing scheme, and thus can be implemented more efficiently with biased voxel sampling.\n\nFor this work, the source meshes are inherited from neutron mesh tallies. Cartesian\n structured meshes, which provide straight-forward compatibility with legacy tools can be\n sampled with either the voxel or uniform sampling methods. Alternately, using an unstructured\n mesh (via the unstructured mesh tally capabilities in DAG-MCNP) allows for better conforming\n meshes – particularly with geometries that do not align well with a structured mesh, or where\n the source region is spread out through a region of non-source materials, such as systems of\n pipes.\n\nThe set of source sampling techniques is useful as a toolkit for obtaining quality answers\n from a variety of scenarios. This thesis supplements methods development and\n implementation with experiments to identify and understand which sampling techniques\n should be used in different scenarios. The new sampling methods and workflows are shown to\n be in good agreement with results from older methods. While there remain several aspects of\n the new methods’ behavior to characterize, voxel sampling and its derivatives have fully\n replaced older sampling methods in neutron activation analysis work at UW-Madison.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Relson, Eric},\n\tmonth = jul,\n\tyear = {2013},\n}\n",
+        "bibtex": "\n@phdthesis{relson_improved_2013,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Improved {Methods} {For} {Sampling} {Mesh}-{Based} {Volumetric} {Sources} {In} {Monte} {Carlo} {Transport}},\n\tabstract = {This research focuses on developing mesh-based techniques for sampling distributed,\n volumetric sources in Monte Carlo particle transport codes, such as MCNP. This work\n culminated in several source sampling techniques being implemented within a 3-D neutron\n activation workflow.\n\nThe most significant development is the implementation of an efficient voxel sampling\n technique. Voxel sampling can be applied to source meshes with any number of mesh\n elements thanks to efficient sampling via the alias method, and meshing of non-source volumes\n can be avoided. Voxel sampling in turn enables straight-forward implementation of source\n biasing for variance reduction, and also the use of unstructured source meshes using\n tetrahedral mesh elements. The uniform sampling technique used in past work is effectively a\n biasing scheme, and thus can be implemented more efficiently with biased voxel sampling.\n\nFor this work, the source meshes are inherited from neutron mesh tallies. Cartesian\n structured meshes, which provide straight-forward compatibility with legacy tools can be\n sampled with either the voxel or uniform sampling methods. Alternately, using an unstructured\n mesh (via the unstructured mesh tally capabilities in DAG-MCNP) allows for better conforming\n meshes – particularly with geometries that do not align well with a structured mesh, or where\n the source region is spread out through a region of non-source materials, such as systems of\n pipes.\n\nThe set of source sampling techniques is useful as a toolkit for obtaining quality answers\n from a variety of scenarios. This thesis supplements methods development and\n implementation with experiments to identify and understand which sampling techniques\n should be used in different scenarios. The new sampling methods and workflows are shown to\n be in good agreement with results from older methods. While there remain several aspects of\n the new methods’ behavior to characterize, voxel sampling and its derivatives have fully\n replaced older sampling methods in neutron activation analysis work at UW-Madison.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Relson, Eric},\n\tmonth = jul,\n\tyear = {2013},\n\tkeywords = {CNERG:HK20 Final Report},\n}\n",
         "data": {
             "key": "GN6PK84Z",
-            "version": 26427,
+            "version": 30781,
             "itemType": "thesis",
             "title": "Improved Methods For Sampling Mesh-Based Volumetric Sources In Monte Carlo Transport",
             "creators": [
@@ -1669,20 +1673,23 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                }
+            ],
             "collections": [
                 "6259B6TV",
-                "4MDZ29N8",
                 "Y4UI9B4X"
             ],
             "relations": {},
             "dateAdded": "2013-11-10T16:12:41Z",
-            "dateModified": "2013-11-10T16:15:41Z"
+            "dateModified": "2024-09-08T17:38:42Z"
         }
     },
     {
         "key": "4BD4NW6X",
-        "version": 30671,
+        "version": 30782,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1726,10 +1733,10 @@
             "parsedDate": "2012-06",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{ibrahim_automatic_2012,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Automatic {Mesh} {Adaptivity} for {Hybrid} {Monte} {Carlo}/{Deterministic} {Neutronics} {Modeling} of {Difficult} {Shielding} {Problems}},\n\turl = {https://digital.library.wisc.edu/1711.dl/7KMFF4JZJEU4S87},\n\tabstract = {Over the last decade, the role of neutronics modeling has been shifting from analysis of\neach component separately to high fidelity, full-scale analysis of the nuclear systems entire\ndomains. The high accuracy, associated with minimizing modeling approximations and including\nmore physical and geometric details, is now feasible because of advancements in computing\nhardware and development of efficient modeling methods. The hybrid Monte Carlo/deterministic\ntechniques, CADIS and FW-CADIS dramatically increase the efficiency of neutronics modeling,\nbut their use in the design of large and geometrically complex nuclear systems is restricted by the\navailability of computing resources for their preliminarily deterministic calculations and the\nlarge computer memory requirements of their final Monte Carlo calculations.\nTo reduce the computational time and memory requirements of the hybrid Monte\nCarlo/deterministic techniques while maintaining their efficiency improvements, three automatic\nmesh adaptivity algorithms were developed and added to the Oak Ridge National Laboratory\nAutomateD VAriaNce reducTion Generator (ADVANTG) code. First, a mixed-material\napproach, which we refer to as the macromaterial approach, enhances the fidelity of the\ndeterministic models without having to refine the mesh of the deterministic calculations. Second,\na deterministic mesh refinement algorithm improves the accuracy of structured mesh\ndeterministic calculations by capturing as much geometric detail as possible without exceeding\nthe total number of mesh elements that is usually determined by the availability of computing\nresources. Finally, a weight window coarsening algorithm decouples the weight window mesh\nfrom the mesh of the deterministic calculations to remove the memory constraint of the weight\nwindow map from the deterministic mesh resolution.\nii\nTo analyze the combined effect of the three algorithms developed in this thesis, they were\nused to calculate the prompt dose rate throughout the entire ITER experimental facility. This\ncalculation represents a very challenging shielding problem because of the immense size and\ncomplexity of the ITER structure and the presence of a two meter thick biological shield.\nCompared to a FW-CADIS calculation with the same storage size of the variance reduction\nparameters, the use of the three algorithms resulted in a 23.3\\% increase in the regions where the\ndose rate results are achieved in a 10 day Monte Carlo calculation and increased the efficiency of\nthe Monte Carlo simulation by a factor of 3.4. Because of this significant increase in the Monte\nCarlo efficiency which was not accompanied by an increase in the memory requirements, the use\nof the three algorithms in FW-CADIS simulations enabled the simulation of this difficult\nshielding problem on a regular computer cluster using parallel processing of Monte Carlo\ncalculations. The results of the parallel Monte Carlo calculation agreed at four points with a very\nfine mesh deterministic calculation that was performed on the super-computer, Jaguar.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Ibrahim, Ahmad},\n\tmonth = jun,\n\tyear = {2012},\n}\n",
+        "bibtex": "\n@phdthesis{ibrahim_automatic_2012,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Automatic {Mesh} {Adaptivity} for {Hybrid} {Monte} {Carlo}/{Deterministic} {Neutronics} {Modeling} of {Difficult} {Shielding} {Problems}},\n\turl = {https://digital.library.wisc.edu/1711.dl/7KMFF4JZJEU4S87},\n\tabstract = {Over the last decade, the role of neutronics modeling has been shifting from analysis of\neach component separately to high fidelity, full-scale analysis of the nuclear systems entire\ndomains. The high accuracy, associated with minimizing modeling approximations and including\nmore physical and geometric details, is now feasible because of advancements in computing\nhardware and development of efficient modeling methods. The hybrid Monte Carlo/deterministic\ntechniques, CADIS and FW-CADIS dramatically increase the efficiency of neutronics modeling,\nbut their use in the design of large and geometrically complex nuclear systems is restricted by the\navailability of computing resources for their preliminarily deterministic calculations and the\nlarge computer memory requirements of their final Monte Carlo calculations.\nTo reduce the computational time and memory requirements of the hybrid Monte\nCarlo/deterministic techniques while maintaining their efficiency improvements, three automatic\nmesh adaptivity algorithms were developed and added to the Oak Ridge National Laboratory\nAutomateD VAriaNce reducTion Generator (ADVANTG) code. First, a mixed-material\napproach, which we refer to as the macromaterial approach, enhances the fidelity of the\ndeterministic models without having to refine the mesh of the deterministic calculations. Second,\na deterministic mesh refinement algorithm improves the accuracy of structured mesh\ndeterministic calculations by capturing as much geometric detail as possible without exceeding\nthe total number of mesh elements that is usually determined by the availability of computing\nresources. Finally, a weight window coarsening algorithm decouples the weight window mesh\nfrom the mesh of the deterministic calculations to remove the memory constraint of the weight\nwindow map from the deterministic mesh resolution.\nii\nTo analyze the combined effect of the three algorithms developed in this thesis, they were\nused to calculate the prompt dose rate throughout the entire ITER experimental facility. This\ncalculation represents a very challenging shielding problem because of the immense size and\ncomplexity of the ITER structure and the presence of a two meter thick biological shield.\nCompared to a FW-CADIS calculation with the same storage size of the variance reduction\nparameters, the use of the three algorithms resulted in a 23.3\\% increase in the regions where the\ndose rate results are achieved in a 10 day Monte Carlo calculation and increased the efficiency of\nthe Monte Carlo simulation by a factor of 3.4. Because of this significant increase in the Monte\nCarlo efficiency which was not accompanied by an increase in the memory requirements, the use\nof the three algorithms in FW-CADIS simulations enabled the simulation of this difficult\nshielding problem on a regular computer cluster using parallel processing of Monte Carlo\ncalculations. The results of the parallel Monte Carlo calculation agreed at four points with a very\nfine mesh deterministic calculation that was performed on the super-computer, Jaguar.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Ibrahim, Ahmad},\n\tmonth = jun,\n\tyear = {2012},\n\tkeywords = {CNERG:HK20 Final Report},\n}\n",
         "data": {
             "key": "4BD4NW6X",
-            "version": 30671,
+            "version": 30782,
             "itemType": "thesis",
             "title": "Automatic Mesh Adaptivity for Hybrid Monte Carlo/Deterministic Neutronics Modeling of Difficult Shielding Problems",
             "creators": [
@@ -1755,16 +1762,18 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                }
+            ],
             "collections": [
                 "6259B6TV",
-                "4MDZ29N8",
-                "RI2DQ3B2",
                 "34I86HPD"
             ],
             "relations": {},
             "dateAdded": "2013-01-21T21:43:04Z",
-            "dateModified": "2024-09-08T16:51:31Z"
+            "dateModified": "2024-09-08T17:38:42Z"
         }
     },
     {
@@ -1861,7 +1870,7 @@
     },
     {
         "key": "7CCN265G",
-        "version": 26427,
+        "version": 30781,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1905,10 +1914,10 @@
             "parsedDate": "2011-08",
             "numChildren": 3
         },
-        "bibtex": "\n@phdthesis{snouffer_validation_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Validation and {Verification} of {Direct} {Accelerated} {Geometry} {Monte} {Carlo}},\n\tabstract = {As both Monte Carlo radiation transport codes and 3D CAD modeling become more widely used, there has been an increasing number of efforts to combine these tools. One such effort is the Direct Accelerated Geometry Monte Carlo (DAGMC) software package being developed at the University of Wisconsin-Madison . DAGMC performs the particle tracking needed for\nMonte Carlo radiation transport code directly on CAD geometries. DAGMC has been in development for a number of years and is in need of validation and verification in order to build user confidence in DAGMC's reliability and accuracy.\n\nThis work performs extensive testing of DAGMC implemented with the radiation transport code Monte Carlo N-Particle 5 (DAG-MCNP5). Four tests suites have been compiled for DAG-MCNP5 to ensure the accuracy of the code now and for future developers. These test suites are based largely on the test suites for MCNP5 and include: a suite of 80 regression tests, a suite of 75 verification tests, a suite of 30 validation criticality tests, and a suite of 19 validation shielding tests. These tests encompass a wide range of geometries, materials, and physics to test almost all of the features of DAG-MCNP5. The results of these test were compared to both analytical and experimental results, where appropriate, and MCNP5 results. A faceting tolerance study\nwas also performed for many of these test. It was found that a faceting tolerance of not large than 10-4 cm produces statistically similar results to MCNP5 on a consistent basis for all problem types. It is concluded that DAG-MCNP5 performs as accurately as MCNP5 for these test problems, and that DAG-MCNP5 can be considered a reliable neutronics code.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Snouffer, Patrick},\n\tmonth = aug,\n\tyear = {2011},\n}\n",
+        "bibtex": "\n@phdthesis{snouffer_validation_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Validation and {Verification} of {Direct} {Accelerated} {Geometry} {Monte} {Carlo}},\n\tabstract = {As both Monte Carlo radiation transport codes and 3D CAD modeling become more widely used, there has been an increasing number of efforts to combine these tools. One such effort is the Direct Accelerated Geometry Monte Carlo (DAGMC) software package being developed at the University of Wisconsin-Madison . DAGMC performs the particle tracking needed for\nMonte Carlo radiation transport code directly on CAD geometries. DAGMC has been in development for a number of years and is in need of validation and verification in order to build user confidence in DAGMC's reliability and accuracy.\n\nThis work performs extensive testing of DAGMC implemented with the radiation transport code Monte Carlo N-Particle 5 (DAG-MCNP5). Four tests suites have been compiled for DAG-MCNP5 to ensure the accuracy of the code now and for future developers. These test suites are based largely on the test suites for MCNP5 and include: a suite of 80 regression tests, a suite of 75 verification tests, a suite of 30 validation criticality tests, and a suite of 19 validation shielding tests. These tests encompass a wide range of geometries, materials, and physics to test almost all of the features of DAG-MCNP5. The results of these test were compared to both analytical and experimental results, where appropriate, and MCNP5 results. A faceting tolerance study\nwas also performed for many of these test. It was found that a faceting tolerance of not large than 10-4 cm produces statistically similar results to MCNP5 on a consistent basis for all problem types. It is concluded that DAG-MCNP5 performs as accurately as MCNP5 for these test problems, and that DAG-MCNP5 can be considered a reliable neutronics code.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Snouffer, Patrick},\n\tmonth = aug,\n\tyear = {2011},\n\tkeywords = {CNERG:HK20 Final Report},\n}\n",
         "data": {
             "key": "7CCN265G",
-            "version": 26427,
+            "version": 30781,
             "itemType": "thesis",
             "title": "Validation and Verification of Direct Accelerated Geometry Monte Carlo",
             "creators": [
@@ -1934,15 +1943,18 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                }
+            ],
             "collections": [
                 "6259B6TV",
-                "4MDZ29N8",
                 "Y4UI9B4X"
             ],
             "relations": {},
             "dateAdded": "2012-12-07T14:29:06Z",
-            "dateModified": "2012-12-07T14:31:43Z"
+            "dateModified": "2024-09-08T17:38:42Z"
         }
     },
     {
@@ -2031,8 +2043,108 @@
         }
     },
     {
+        "key": "TW3VBHD8",
+        "version": 30781,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/TW3VBHD8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/TW3VBHD8",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/MUUA6GAS",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1351946
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 708524,
+                "username": "erelson",
+                "name": "Eric Relson",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/erelson",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Moule",
+            "parsedDate": "2011",
+            "numChildren": 2
+        },
+        "bibtex": "\n@phdthesis{moule_sampling_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Sampling {Material} {Composition} of {CAD} {Geometries}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Moule, Damien},\n\tyear = {2011},\n\tkeywords = {CNERG:HK20 Final Report},\n}\n",
+        "data": {
+            "key": "TW3VBHD8",
+            "version": 30781,
+            "itemType": "thesis",
+            "title": "Sampling Material Composition of CAD Geometries",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Damien",
+                    "lastName": "Moule"
+                }
+            ],
+            "abstractNote": "",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
+            "university": "University of Wisconsin-Madison",
+            "place": "Madison, WI, United States",
+            "date": "2011",
+            "numPages": "71",
+            "language": "English",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                }
+            ],
+            "collections": [
+                "6259B6TV",
+                "Y4UI9B4X"
+            ],
+            "relations": {},
+            "dateAdded": "2013-02-07T21:51:45Z",
+            "dateModified": "2024-09-08T17:38:42Z"
+        }
+    },
+    {
         "key": "VDD6RCJQ",
-        "version": 30683,
+        "version": 30781,
         "library": {
             "type": "group",
             "id": 10058,
@@ -2076,10 +2188,10 @@
             "parsedDate": "2011",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{smith_robust_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Robust {Tracking} and {Advanced} {Geometry} for {Monte} {Carlo} {Radiation} {Transport}},\n\turl = {https://www.proquest.com/pqdtglobal/docview/885040837/abstract/49781E1E9AC841E4PQ/1?sourcetype=Dissertations%20&%20Theses},\n\tabstract = {A set of improved geometric capabilities are developed for the Direct Accelerated Geometry for Monte Carlo (DAGMC) library to increase its ease of use and accuracy. The improvements are watertight faceting, robust particle tracking, automatic creation of nonsolid space, and overlap tolerance. Before being sealed, adjacent faceted surfaces do not have the same discretization along shared curves. Sealing together surfaces to create a watertight faceting prevents leakage of particles between surfaces. The tracking algorithm is made robust by ensuring numerical consistency and avoiding geometric tolerances. Monte Carlo simulation requires all space to be defined, whether it be vacuum, air, coolant, or a solid material. The implicit creation of nonsolid space reduces human effort otherwise required to explicitly create nonsolid space in a CAD program. CAD models often contain small gaps and overlaps between adjacent volumes due to imprecise modeling, file translation, or intentional deformation. Although gaps are filled by the implicit creation of nonsolid space, overlaps cause geometric queries to become unreliable. The particle tracking algorithm and point inclusion test are modified to tolerate small overlaps of adjacent volumes. Overlap-tolerant particle tracking eliminates manual repair of CAD models and enables analysis of meshed finite element models undergoing structural deformation. These improvements are implemented in a coupling of DAGMC with the Monte Carlo N-Particle (MCNP) code, known as DAG-MCNP. The elimination of both manual CAD repair and lost particles are demonstrated with CAD models used in production calculations.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Smith, Brandon M.},\n\tyear = {2011},\n}\n",
+        "bibtex": "\n@phdthesis{smith_robust_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Robust {Tracking} and {Advanced} {Geometry} for {Monte} {Carlo} {Radiation} {Transport}},\n\turl = {https://www.proquest.com/pqdtglobal/docview/885040837/abstract/49781E1E9AC841E4PQ/1?sourcetype=Dissertations%20&%20Theses},\n\tabstract = {A set of improved geometric capabilities are developed for the Direct Accelerated Geometry for Monte Carlo (DAGMC) library to increase its ease of use and accuracy. The improvements are watertight faceting, robust particle tracking, automatic creation of nonsolid space, and overlap tolerance. Before being sealed, adjacent faceted surfaces do not have the same discretization along shared curves. Sealing together surfaces to create a watertight faceting prevents leakage of particles between surfaces. The tracking algorithm is made robust by ensuring numerical consistency and avoiding geometric tolerances. Monte Carlo simulation requires all space to be defined, whether it be vacuum, air, coolant, or a solid material. The implicit creation of nonsolid space reduces human effort otherwise required to explicitly create nonsolid space in a CAD program. CAD models often contain small gaps and overlaps between adjacent volumes due to imprecise modeling, file translation, or intentional deformation. Although gaps are filled by the implicit creation of nonsolid space, overlaps cause geometric queries to become unreliable. The particle tracking algorithm and point inclusion test are modified to tolerate small overlaps of adjacent volumes. Overlap-tolerant particle tracking eliminates manual repair of CAD models and enables analysis of meshed finite element models undergoing structural deformation. These improvements are implemented in a coupling of DAGMC with the Monte Carlo N-Particle (MCNP) code, known as DAG-MCNP. The elimination of both manual CAD repair and lost particles are demonstrated with CAD models used in production calculations.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Smith, Brandon M.},\n\tyear = {2011},\n\tkeywords = {CNERG:HK20 Final Report},\n}\n",
         "data": {
             "key": "VDD6RCJQ",
-            "version": 30683,
+            "version": 30781,
             "itemType": "thesis",
             "title": "Robust Tracking and Advanced Geometry for Monte Carlo Radiation Transport",
             "creators": [
@@ -2105,15 +2217,18 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "CNERG:HK20 Final Report"
+                }
+            ],
             "collections": [
                 "6259B6TV",
-                "4MDZ29N8",
                 "34I86HPD"
             ],
             "relations": {},
             "dateAdded": "2012-12-07T14:36:11Z",
-            "dateModified": "2024-09-08T16:57:56Z"
+            "dateModified": "2024-09-08T17:38:42Z"
         }
     },
     {
@@ -2193,104 +2308,6 @@
             "relations": {},
             "dateAdded": "2016-11-27T21:57:05Z",
             "dateModified": "2020-12-30T15:03:12Z"
-        }
-    },
-    {
-        "key": "TW3VBHD8",
-        "version": 26427,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/TW3VBHD8",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/TW3VBHD8",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/MUUA6GAS",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 1351946
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 708524,
-                "username": "erelson",
-                "name": "Eric Relson",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/erelson",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Moule",
-            "parsedDate": "2011",
-            "numChildren": 2
-        },
-        "bibtex": "\n@phdthesis{moule_sampling_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Sampling {Material} {Composition} of {CAD} {Geometries}},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Moule, Damien},\n\tyear = {2011},\n}\n",
-        "data": {
-            "key": "TW3VBHD8",
-            "version": 26427,
-            "itemType": "thesis",
-            "title": "Sampling Material Composition of CAD Geometries",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Damien",
-                    "lastName": "Moule"
-                }
-            ],
-            "abstractNote": "",
-            "thesisType": "MS Nuclear Engineering and Engineering Physics",
-            "university": "University of Wisconsin-Madison",
-            "place": "Madison, WI, United States",
-            "date": "2011",
-            "numPages": "71",
-            "language": "English",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "6259B6TV",
-                "4MDZ29N8",
-                "RI2DQ3B2",
-                "Y4UI9B4X"
-            ],
-            "relations": {},
-            "dateAdded": "2013-02-07T21:51:45Z",
-            "dateModified": "2013-11-10T16:19:44Z"
         }
     },
     {
@@ -2379,6 +2396,105 @@
         }
     },
     {
+        "key": "NGJ8UC47",
+        "version": 30758,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/NGJ8UC47",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/NGJ8UC47",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/GED9HPK8",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 2141571
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 144819,
+                "username": "gidden",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gidden",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Oliver",
+            "parsedDate": "2009",
+            "numChildren": 6
+        },
+        "bibtex": "\n@phdthesis{oliver_geniusv2_2009,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {{GENIUSv2}: {Software} {Design} and {Mathematical} {Formulations} for {Multi}-{Region} {Discrete}  {Nuclear} {Fuel} {Cycle} {Simulation} and {Analysis}},\n\turl = {http://kyleoliver.net/work/thesis_KMO.pdf},\n\turldate = {2012-11-25},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Oliver, Kyle M.},\n\tyear = {2009},\n}\n",
+        "data": {
+            "key": "NGJ8UC47",
+            "version": 30758,
+            "itemType": "thesis",
+            "title": "GENIUSv2: Software Design and Mathematical Formulations for Multi-Region Discrete  Nuclear Fuel Cycle Simulation and Analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kyle M.",
+                    "lastName": "Oliver"
+                }
+            ],
+            "abstractNote": "",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
+            "university": "University of Wisconsin-Madison",
+            "place": "Madison, WI, United States",
+            "date": "2009",
+            "numPages": "131",
+            "language": "",
+            "shortTitle": "",
+            "url": "http://kyleoliver.net/work/thesis_KMO.pdf",
+            "accessDate": "2012-11-25T19:20:07Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "6259B6TV",
+                "7FVXFFRN",
+                "Y4UI9B4X"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/10058/items/HBH5EWGG"
+            },
+            "dateAdded": "2012-11-25T19:24:55Z",
+            "dateModified": "2024-09-08T17:34:27Z"
+        }
+    },
+    {
         "key": "23P9KT43",
         "version": 30686,
         "library": {
@@ -2464,91 +2580,6 @@
             },
             "dateAdded": "2013-11-13T21:36:00Z",
             "dateModified": "2024-09-08T17:00:22Z"
-        }
-    },
-    {
-        "key": "HBH5EWGG",
-        "version": 26428,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/HBH5EWGG",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/HBH5EWGG",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/UB4ATDK5",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 26454
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Oliver",
-            "parsedDate": "2009",
-            "numChildren": 6
-        },
-        "bibtex": "\n@phdthesis{oliver_geniusv2_2009,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {{GENIUSv2}: {Software} {Design} and {Mathematical} {Formulations} for {Multi}-{Region} {Discrete}  {Nuclear} {Fuel} {Cycle} {Simulation} and {Analysis}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Oliver, Kyle M.},\n\tyear = {2009},\n}\n",
-        "data": {
-            "key": "HBH5EWGG",
-            "version": 26428,
-            "itemType": "thesis",
-            "title": "GENIUSv2: Software Design and Mathematical Formulations for Multi-Region Discrete  Nuclear Fuel Cycle Simulation and Analysis",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Kyle M.",
-                    "lastName": "Oliver"
-                }
-            ],
-            "abstractNote": "",
-            "thesisType": "MS Nuclear Engineering and Engineering Physics",
-            "university": "University of Wisconsin-Madison",
-            "place": "Madison, WI, United States",
-            "date": "2009",
-            "numPages": "",
-            "language": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "6259B6TV",
-                "Y4UI9B4X"
-            ],
-            "relations": {},
-            "dateAdded": "2013-09-04T20:14:28Z",
-            "dateModified": "2020-12-30T15:02:53Z"
         }
     },
     {
