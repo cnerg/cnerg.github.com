@@ -20,6 +20,10 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main, test_actions ]
+    # don't run this if the only change was the datestamp - avoids a race condition of this action
+    # being triggered by the action being run
+    paths-ignore:  
+      - '_data/zotero.datestamp'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
