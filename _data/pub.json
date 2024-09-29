@@ -108,7 +108,7 @@
     },
     {
         "key": "CSQNQM7D",
-        "version": 29800,
+        "version": 30997,
         "library": {
             "type": "group",
             "id": 10058,
@@ -152,10 +152,10 @@
             "parsedDate": "2024-04-04",
             "numChildren": 1
         },
-        "bibtex": "\n@article{moreno_parastell_2024,\n\ttitle = {{ParaStell}: parametric modeling and neutronics support for stellarator fusion power plants},\n\tvolume = {3},\n\tissn = {2813-3412},\n\tshorttitle = {{ParaStell}},\n\turl = {https://www.frontiersin.org/articles/10.3389/fnuen.2024.1384788},\n\tdoi = {10.3389/fnuen.2024.1384788},\n\tabstract = {The three-dimensional variation inherent to stellarator geometries and fusion sources motivates three-dimensional modeling to obtain accurate results from computational modeling in support of design and analysis of first wall, blanket, and shield (FWBS) systems. Manually constructing stellarator fusion power plant geometries in computer-aided design (CAD) and defining the corresponding fusion source can be cumbersome and challenging. The open-source parametric modeling toolset ParaStell has been developed to automate construction of such geometries in low-fidelity. Low-fidelity modeling is useful during the conceptual phase of engineering design as a means of rapidly exploring the design space of a given device. The modeling capability of ParaStell includes in-vessel components and magnets, for any given stellarator configuration, using a parametric definition and plasma equilibrium data. Furthermore, the toolset automates the generation of detailed, tetrahedral neutron source definitions and DAGMC geometries for use in neutronics modeling. ParaStell assists rapid design iteration, parametric study, and design optimization of stellarator fusion cores. As a demonstration of the design iteration capability, the effect of the three-dimensional parameter space on tritium breeding and magnet shielding is investigated, using the WISTELL-D configuration as a design basis. Blanket and shield thicknesses are varied in three dimensions, using the space available between the plasma edge and magnet coils as a constraint. The corresponding effects on tritium breeding ratio and magnet heating are tallied using the open-source Monte Carlo particle transport code OpenMC. The inclusion of additional and higher-fidelity modeling capabilities is planned for ParaStell's future, as well as its implementation in machine-driven optimization.},\n\tlanguage = {English},\n\turldate = {2024-04-06},\n\tjournal = {Frontiers in Nuclear Engineering},\n\tauthor = {Moreno, Connor and Bader, Aaron and Wilson, Paul},\n\tmonth = apr,\n\tyear = {2024},\n\tnote = {Publisher: Frontiers},\n\tkeywords = {Fusion, Parametric modeling, Tritium breeding, magnet heating, radial build, stellarator},\n}\n",
+        "bibtex": "\n@article{moreno_parastell_2024,\n\ttitle = {{ParaStell}: parametric modeling and neutronics support for stellarator fusion power plants},\n\tvolume = {3},\n\tissn = {2813-3412},\n\tshorttitle = {{ParaStell}},\n\turl = {https://www.frontiersin.org/articles/10.3389/fnuen.2024.1384788},\n\tdoi = {10.3389/fnuen.2024.1384788},\n\tabstract = {The three-dimensional variation inherent to stellarator geometries and fusion sources motivates three-dimensional modeling to obtain accurate results from computational modeling in support of design and analysis of first wall, blanket, and shield (FWBS) systems. Manually constructing stellarator fusion power plant geometries in computer-aided design (CAD) and defining the corresponding fusion source can be cumbersome and challenging. The open-source parametric modeling toolset ParaStell has been developed to automate construction of such geometries in low-fidelity. Low-fidelity modeling is useful during the conceptual phase of engineering design as a means of rapidly exploring the design space of a given device. The modeling capability of ParaStell includes in-vessel components and magnets, for any given stellarator configuration, using a parametric definition and plasma equilibrium data. Furthermore, the toolset automates the generation of detailed, tetrahedral neutron source definitions and DAGMC geometries for use in neutronics modeling. ParaStell assists rapid design iteration, parametric study, and design optimization of stellarator fusion cores. As a demonstration of the design iteration capability, the effect of the three-dimensional parameter space on tritium breeding and magnet shielding is investigated, using the WISTELL-D configuration as a design basis. Blanket and shield thicknesses are varied in three dimensions, using the space available between the plasma edge and magnet coils as a constraint. The corresponding effects on tritium breeding ratio and magnet heating are tallied using the open-source Monte Carlo particle transport code OpenMC. The inclusion of additional and higher-fidelity modeling capabilities is planned for ParaStell's future, as well as its implementation in machine-driven optimization.},\n\tlanguage = {English},\n\turldate = {2024-04-06},\n\tjournal = {Frontiers in Nuclear Engineering},\n\tauthor = {Moreno, Connor and Bader, Aaron and Wilson, Paul},\n\tmonth = apr,\n\tyear = {2024},\n\tnote = {Publisher: Frontiers},\n\tkeywords = {FIRE UP, Fusion, Parametric modeling, Tritium breeding, magnet heating, radial build, stellarator},\n}\n",
         "data": {
             "key": "CSQNQM7D",
-            "version": 29800,
+            "version": 30997,
             "itemType": "journalArticle",
             "title": "ParaStell: parametric modeling and neutronics support for stellarator fusion power plants",
             "creators": [
@@ -199,6 +199,9 @@
             "extra": "Publisher: Frontiers",
             "tags": [
                 {
+                    "tag": "FIRE UP"
+                },
+                {
                     "tag": "Fusion",
                     "type": 1
                 },
@@ -228,7 +231,7 @@
             ],
             "relations": {},
             "dateAdded": "2024-04-06T20:48:04Z",
-            "dateModified": "2024-04-06T20:48:04Z"
+            "dateModified": "2024-09-24T17:36:00Z"
         }
     },
     {
