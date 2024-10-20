@@ -235,6 +235,131 @@
         }
     },
     {
+        "key": "936FTUAR",
+        "version": 31052,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/936FTUAR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/936FTUAR",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/CXEHK2LU",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1561237
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Stomps et al.",
+            "parsedDate": "2024-01",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{stomps_contrastive_2024,\n\ttitle = {Contrastive {Machine} {Learning} with {Gamma} {Spectroscopy} {Data} {Augmentations} for {Detecting} {Shielded} {Radiological} {Material} {Transfers}},\n\tvolume = {12},\n\tcopyright = {http://creativecommons.org/licenses/by/3.0/},\n\tissn = {2227-7390},\n\turl = {https://www.mdpi.com/2227-7390/12/16/2518},\n\tdoi = {10.3390/math12162518},\n\tabstract = {Data analysis techniques can be powerful tools for rapidly analyzing data and extracting information that can be used in a latent space for categorizing observations between classes of data. Machine learning models that exploit learned data relationships can address a variety of nuclear nonproliferation challenges like the detection and tracking of shielded radiological material transfers. The high resource cost of manually labeling radiation spectra is a hindrance to the rapid analysis of data collected from persistent monitoring and to the adoption of supervised machine learning methods that require large volumes of curated training data. Instead, contrastive self-supervised learning on unlabeled spectra can enhance models that are built on limited labeled radiation datasets. This work demonstrates that contrastive machine learning is an effective technique for leveraging unlabeled data in detecting and characterizing nuclear material transfers demonstrated on radiation measurements collected at an Oak Ridge National Laboratory testbed, where sodium iodide detectors measure gamma radiation emitted by material transfers between the High Flux Isotope Reactor and the Radiochemical Engineering Development Center. Label-invariant data augmentations tailored for gamma radiation detection physics are used on unlabeled spectra to contrastively train an encoder, learning a complex, embedded state space with self-supervision. A linear classifier is then trained on a limited set of labeled data to distinguish transfer spectra between byproducts and tracked nuclear material using representations from the contrastively trained encoder. The optimized hyperparameter model achieves a balanced accuracy score of 80.30\\%. Any given model—that is, a trained encoder and classifier—shows preferential treatment for specific subclasses of transfer types. Regardless of the classifier complexity, a supervised classifier using contrastively trained representations achieves higher accuracy than using spectra when trained and tested on limited labeled data.},\n\tlanguage = {en},\n\tnumber = {16},\n\turldate = {2024-10-15},\n\tjournal = {Mathematics},\n\tauthor = {Stomps, Jordan R. and Wilson, Paul P. H. and Dayman, Kenneth J.},\n\tmonth = jan,\n\tyear = {2024},\n\tnote = {Number: 16\nPublisher: Multidisciplinary Digital Publishing Institute},\n\tkeywords = {contrastive learning, data analysis, gamma-ray spectroscopy, nuclear nonproliferation, radiation monitoring, semi-supervised machine learning},\n\tpages = {2518},\n}\n",
+        "data": {
+            "key": "936FTUAR",
+            "version": 31052,
+            "itemType": "journalArticle",
+            "title": "Contrastive Machine Learning with Gamma Spectroscopy Data Augmentations for Detecting Shielded Radiological Material Transfers",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jordan R.",
+                    "lastName": "Stomps"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kenneth J.",
+                    "lastName": "Dayman"
+                }
+            ],
+            "abstractNote": "Data analysis techniques can be powerful tools for rapidly analyzing data and extracting information that can be used in a latent space for categorizing observations between classes of data. Machine learning models that exploit learned data relationships can address a variety of nuclear nonproliferation challenges like the detection and tracking of shielded radiological material transfers. The high resource cost of manually labeling radiation spectra is a hindrance to the rapid analysis of data collected from persistent monitoring and to the adoption of supervised machine learning methods that require large volumes of curated training data. Instead, contrastive self-supervised learning on unlabeled spectra can enhance models that are built on limited labeled radiation datasets. This work demonstrates that contrastive machine learning is an effective technique for leveraging unlabeled data in detecting and characterizing nuclear material transfers demonstrated on radiation measurements collected at an Oak Ridge National Laboratory testbed, where sodium iodide detectors measure gamma radiation emitted by material transfers between the High Flux Isotope Reactor and the Radiochemical Engineering Development Center. Label-invariant data augmentations tailored for gamma radiation detection physics are used on unlabeled spectra to contrastively train an encoder, learning a complex, embedded state space with self-supervision. A linear classifier is then trained on a limited set of labeled data to distinguish transfer spectra between byproducts and tracked nuclear material using representations from the contrastively trained encoder. The optimized hyperparameter model achieves a balanced accuracy score of 80.30%. Any given model—that is, a trained encoder and classifier—shows preferential treatment for specific subclasses of transfer types. Regardless of the classifier complexity, a supervised classifier using contrastively trained representations achieves higher accuracy than using spectra when trained and tested on limited labeled data.",
+            "publicationTitle": "Mathematics",
+            "volume": "12",
+            "issue": "16",
+            "pages": "2518",
+            "date": "2024/1",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.3390/math12162518",
+            "ISSN": "2227-7390",
+            "shortTitle": "",
+            "url": "https://www.mdpi.com/2227-7390/12/16/2518",
+            "accessDate": "2024-10-15T11:11:41Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "www.mdpi.com",
+            "callNumber": "",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "extra": "Number: 16\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "tags": [
+                {
+                    "tag": "contrastive learning",
+                    "type": 1
+                },
+                {
+                    "tag": "data analysis",
+                    "type": 1
+                },
+                {
+                    "tag": "gamma-ray spectroscopy",
+                    "type": 1
+                },
+                {
+                    "tag": "nuclear nonproliferation",
+                    "type": 1
+                },
+                {
+                    "tag": "radiation monitoring",
+                    "type": 1
+                },
+                {
+                    "tag": "semi-supervised machine learning",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2024-10-15T11:11:41Z",
+            "dateModified": "2024-10-15T11:11:47Z"
+        }
+    },
+    {
         "key": "CG8GVP6S",
         "version": 28926,
         "library": {
@@ -18368,106 +18493,6 @@
             "relations": {},
             "dateAdded": "2012-07-31T18:32:27Z",
             "dateModified": "2013-07-02T04:19:57Z"
-        }
-    },
-    {
-        "key": "N2TGUH9J",
-        "version": 20076,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/N2TGUH9J",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/N2TGUH9J",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/X77TFPUP",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 117942
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 144853,
-                "username": "katyhuff",
-                "name": "Katy Huff",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/katyhuff",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Huff et al.",
-            "parsedDate": "2011",
-            "numChildren": 2
-        },
-        "bibtex": "\n@inproceedings{huff_open_2011,\n\ttitle = {Open {Architecture} and {Modular} {Paradigm} of {Cyclus}, a {Fuel} {Cycle} {Simulation} {Code}},\n\tvolume = {104},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}},\n\tauthor = {Huff, Kathryn D. and Wilson, Paul PH and Gidden, Matthew J.},\n\tyear = {2011},\n\tpages = {183},\n}\n",
-        "data": {
-            "key": "N2TGUH9J",
-            "version": 20076,
-            "itemType": "conferencePaper",
-            "title": "Open Architecture and Modular Paradigm of Cyclus, a Fuel Cycle Simulation Code",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Kathryn D.",
-                    "lastName": "Huff"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul PH",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Matthew J.",
-                    "lastName": "Gidden"
-                }
-            ],
-            "abstractNote": "",
-            "date": "2011",
-            "proceedingsTitle": "Transactions of the American Nuclear Society",
-            "conferenceName": "",
-            "place": "",
-            "publisher": "",
-            "volume": "104",
-            "pages": "183",
-            "series": "",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "Google Scholar",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "VBKGWTWB",
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2013-03-20T20:45:22Z",
-            "dateModified": "2013-03-20T20:46:14Z"
         }
     }
 ]
