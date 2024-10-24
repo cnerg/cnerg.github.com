@@ -10,6 +10,9 @@
     - subtitle: "Events"
       suburl: "community/events.html"
 
+- title: Projects
+  url: "/projects/"
+
 - title: "Manual"
   url: "/manual/"
   subcategories:
