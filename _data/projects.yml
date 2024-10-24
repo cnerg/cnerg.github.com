@@ -1,0 +1,46 @@
+- group: 'Radiation Transport and Nuclear Analysis Methods'
+  projects:
+  - title: Unstructured Adaptive Mesh Algorithms for Monte Carlo Transport
+    agency: US Department of Energy, Nuclear Energy University Program
+    project_id: DOE-ID-XXX-XXX-XXX
+    uw_pi: pphw
+    cnerg_collaborators: walid
+    lead:
+    - name: Prof. April Novak
+      inst: University of Illinois, Urbana-Champaign
+      url: 
+    collaborators:
+    - name: Dr. Paul Romano
+      inst: Argonne National Laboratory
+      url:
+    - name: Dr. Patrick Shriwise
+      inst: Argonne National Laboratory
+      url:
+  - title: HiFiStell
+    agency: US Department of Energy, Fusion Energy Sciences SciDAC program
+    project_id: DOE-ID-XXX-XXX-XXX
+    uw_pi: pphw
+    cnerg_collaborators: cam
+    lead:
+    - name: Prof. Amitava Batter
+      inst: Princeton University
+      url: 
+
+- group: "Nuclear System Analysis"
+  projects:
+  - title: Stellarator blanket optimization
+    agency: Type One Energy
+    uw_pi: pphw
+    cnerg_collaborators: tdb, ep, jtds
+
+- group: 'Nuclear Fuel Cycles and Security'
+  projects:
+  - title: 
+    agency: "US Department of Energy, Nuclear Energy University Program"
+    project_id: DOE-2323-23423-234
+    uw_pi: wilson
+    collaborators:
+    - name: "Prof. April Novak"
+      inst: "University of Illinois, Urbana-Champaign"
+
+  
