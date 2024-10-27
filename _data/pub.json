@@ -1287,7 +1287,7 @@
     },
     {
         "key": "AX5M3M8V",
-        "version": 26575,
+        "version": 31074,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1331,10 +1331,10 @@
             "parsedDate": "2022-06-01",
             "numChildren": 2
         },
-        "bibtex": "\n@article{thiolliere_impact_2022,\n\ttitle = {Impact of fresh fuel loading management in fuel cycle simulators: {A} functionality isolation test},\n\tvolume = {392},\n\tissn = {0029-5493},\n\tshorttitle = {Impact of fresh fuel loading management in fuel cycle simulators},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0029549322001029},\n\tdoi = {10.1016/j.nucengdes.2022.111748},\n\tabstract = {Fuel cycle simulator development started many years ago by several research and engineering institutions or consulting firms for a wide range of applications. To improve confidence in the results, institutions may be tempted to increase the complexity of their software even if this complexity might not be necessary. On the other hand, some simulators may be used outside their range of validity when used in very specific applications. The FIT (Functionality Isolation Test) project is an international effort devoted to improve the confidence in the data produced by fuel cycle simulation tools. The scientific goal is to determine the optimum level of detail a fuel cycle simulator needs according to the type of study and the required confidence level. The project relies on a wide variety of fuel cycle simulators with a large range of complexity levels. The FIT project consists of isolating the impact of one targeted functionality on fuel cycle simulations. The impact of the functionality is assessed using a set of simple basic exercises specifically designed for this purpose, called ”functionality isolation.” The present work focuses on the impact on simulation results of using a fuel loading model (a relation that links the stock isotopic composition with the fresh fuel fabrication according to the reactor requirements) or a fixed fraction approach (the fresh fuel fissile fraction is fixed and does not depend on the stock isotopic composition). The paper first presents the FIT project. The exercise design is described and results show that using a fuel loading model approach has an important impact on fuel cycle outputs under certain conditions that are described. This result is reinforced by the fact that all fuel cycle simulators used in this exercise provide similar conclusions.},\n\tlanguage = {en},\n\turldate = {2022-04-18},\n\tjournal = {Nuclear Engineering and Design},\n\tauthor = {Thiollière, N. and Doligez, X. and Halasz, M. and Krivtchik, G. and Merino, I. and Mouginot, B. and Skarbeli, A. V. and Hernandez-Solis, A. and Alvarez-Velarde, F. and Courtin, F. and Druenne, H. and Ernoult, M. and Huff, K. and Szieberth, M. and Vermeeren, B. and Wilson, P.},\n\tmonth = jun,\n\tyear = {2022},\n\tkeywords = {FIT project, Fuel Cycle Simulators, Fuel Loading Models, Pressurized Water Reactors, Sodium Fast Reactors},\n\tpages = {111748},\n}\n",
+        "bibtex": "\n@article{thiolliere_impact_2022,\n\ttitle = {Impact of fresh fuel loading management in fuel cycle simulators: {A} functionality isolation test},\n\tvolume = {392},\n\tissn = {0029-5493},\n\tshorttitle = {Impact of fresh fuel loading management in fuel cycle simulators},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0029549322001029},\n\tdoi = {10.1016/j.nucengdes.2022.111748},\n\tabstract = {Fuel cycle simulator development started many years ago by several research and engineering institutions or consulting firms for a wide range of applications. To improve confidence in the results, institutions may be tempted to increase the complexity of their software even if this complexity might not be necessary. On the other hand, some simulators may be used outside their range of validity when used in very specific applications. The FIT (Functionality Isolation Test) project is an international effort devoted to improve the confidence in the data produced by fuel cycle simulation tools. The scientific goal is to determine the optimum level of detail a fuel cycle simulator needs according to the type of study and the required confidence level. The project relies on a wide variety of fuel cycle simulators with a large range of complexity levels. The FIT project consists of isolating the impact of one targeted functionality on fuel cycle simulations. The impact of the functionality is assessed using a set of simple basic exercises specifically designed for this purpose, called ”functionality isolation.” The present work focuses on the impact on simulation results of using a fuel loading model (a relation that links the stock isotopic composition with the fresh fuel fabrication according to the reactor requirements) or a fixed fraction approach (the fresh fuel fissile fraction is fixed and does not depend on the stock isotopic composition). The paper first presents the FIT project. The exercise design is described and results show that using a fuel loading model approach has an important impact on fuel cycle outputs under certain conditions that are described. This result is reinforced by the fact that all fuel cycle simulators used in this exercise provide similar conclusions.},\n\tlanguage = {en},\n\turldate = {2022-04-18},\n\tjournal = {Nuclear Engineering and Design},\n\tauthor = {Thiollière, N. and Doligez, X. and Halasz, M. and Krivtchik, G. and Merino, I. and Mouginot, B. and Skarbeli, A. V. and Hernandez-Solis, A. and Alvarez-Velarde, F. and Courtin, F. and Druenne, H. and Ernoult, M. and Huff, K. and Szieberth, M. and Vermeeren, B. and Wilson, P.},\n\tmonth = jun,\n\tyear = {2022},\n\tkeywords = {FIT project, Fuel Cycle Simulators, Fuel Loading Models, NEWTON, Pressurized Water Reactors, Sodium Fast Reactors},\n\tpages = {111748},\n}\n",
         "data": {
             "key": "AX5M3M8V",
-            "version": 26575,
+            "version": 31074,
             "itemType": "journalArticle",
             "title": "Impact of fresh fuel loading management in fuel cycle simulators: A functionality isolation test",
             "creators": [
@@ -1455,6 +1455,9 @@
                     "type": 1
                 },
                 {
+                    "tag": "NEWTON"
+                },
+                {
                     "tag": "Pressurized Water Reactors",
                     "type": 1
                 },
@@ -1468,7 +1471,7 @@
             ],
             "relations": {},
             "dateAdded": "2022-04-18T14:24:04Z",
-            "dateModified": "2022-04-18T14:24:11Z"
+            "dateModified": "2024-10-22T16:27:46Z"
         }
     },
     {
@@ -10008,7 +10011,7 @@
     },
     {
         "key": "H7TKMRKT",
-        "version": 22041,
+        "version": 31073,
         "library": {
             "type": "group",
             "id": 10058,
@@ -10052,10 +10055,10 @@
             "parsedDate": "2018-09-23",
             "numChildren": 1
         },
-        "bibtex": "\n@inproceedings{mouginot_assessing_2018,\n\taddress = {Wilmington, NC},\n\ttitle = {Assessing {Material} {Inventory} {Uncertainties} in {Integrated} {Fuel} {Cycle} {Simulations}},\n\tbooktitle = {Proceedings of the 2018 {Advances} in {Nuclear} {Nonproliferation} {Technology} and {Policy} {Conference}},\n\tauthor = {Mouginot, Baptiste and Mummah, Kathryn and Wilson, Paul P.H.},\n\tmonth = sep,\n\tyear = {2018},\n}\n",
+        "bibtex": "\n@inproceedings{mouginot_assessing_2018,\n\taddress = {Wilmington, NC},\n\ttitle = {Assessing {Material} {Inventory} {Uncertainties} in {Integrated} {Fuel} {Cycle} {Simulations}},\n\tbooktitle = {Proceedings of the 2018 {Advances} in {Nuclear} {Nonproliferation} {Technology} and {Policy} {Conference}},\n\tauthor = {Mouginot, Baptiste and Mummah, Kathryn and Wilson, Paul P.H.},\n\tmonth = sep,\n\tyear = {2018},\n\tkeywords = {NEWTON},\n}\n",
         "data": {
             "key": "H7TKMRKT",
-            "version": 22041,
+            "version": 31073,
             "itemType": "conferencePaper",
             "title": "Assessing Material Inventory Uncertainties in Integrated Fuel Cycle Simulations",
             "creators": [
@@ -10096,18 +10099,22 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "NEWTON"
+                }
+            ],
             "collections": [
                 "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2018-07-27T02:14:12Z",
-            "dateModified": "2018-07-27T02:15:39Z"
+            "dateModified": "2024-10-22T16:27:38Z"
         }
     },
     {
         "key": "CWRZY2B3",
-        "version": 22484,
+        "version": 31078,
         "library": {
             "type": "group",
             "id": 10058,
@@ -10151,10 +10158,10 @@
             "parsedDate": "2018-06-18",
             "numChildren": 3
         },
-        "bibtex": "\n@article{li_communicating_2018,\n\ttitle = {Communicating data: interactive infographics, scientific data and credibility},\n\tvolume = {17},\n\tissn = {1824-2049},\n\tshorttitle = {Communicating data},\n\turl = {https://jcom.sissa.it/archive/17/02/JCOM_1702_2018_A06},\n\tdoi = {10.22323/2.17020206},\n\tabstract = {Information visualization could be used to leverage the credibility of displayed scientific data. However, little was known about how display characteristics interact with individuals' predispositions to affect perception of data credibility. Using an experiment with 517 participants, we tested perceptions of data credibility by manipulating data visualizations related to the issue of nuclear fuel cycle based on three characteristics: graph format, graph interactivity, and source attribution. Results showed that viewers tend to rely on preexisting levels of trust and peripheral cues, such as source attribution, to judge the credibility of shown data, whereas their comprehension level did not relate to perception of data credibility. We discussed the implications for science communicators and design professionals.},\n\tlanguage = {en},\n\tnumber = {2},\n\turldate = {2019-03-21},\n\tjournal = {Journal of Science Communication},\n\tauthor = {Li, Nan and Brossard, Dominique and Scheufele, Dietram A. and Wilson, Paul H. and Rose, Kathleen M.},\n\tmonth = jun,\n\tyear = {2018},\n\tpages = {A06},\n}\n",
+        "bibtex": "\n@article{li_communicating_2018,\n\ttitle = {Communicating data: interactive infographics, scientific data and credibility},\n\tvolume = {17},\n\tissn = {1824-2049},\n\tshorttitle = {Communicating data},\n\turl = {https://jcom.sissa.it/archive/17/02/JCOM_1702_2018_A06},\n\tdoi = {10.22323/2.17020206},\n\tabstract = {Information visualization could be used to leverage the credibility of displayed scientific data. However, little was known about how display characteristics interact with individuals' predispositions to affect perception of data credibility. Using an experiment with 517 participants, we tested perceptions of data credibility by manipulating data visualizations related to the issue of nuclear fuel cycle based on three characteristics: graph format, graph interactivity, and source attribution. Results showed that viewers tend to rely on preexisting levels of trust and peripheral cues, such as source attribution, to judge the credibility of shown data, whereas their comprehension level did not relate to perception of data credibility. We discussed the implications for science communicators and design professionals.},\n\tlanguage = {en},\n\tnumber = {2},\n\turldate = {2019-03-21},\n\tjournal = {Journal of Science Communication},\n\tauthor = {Li, Nan and Brossard, Dominique and Scheufele, Dietram A. and Wilson, Paul H. and Rose, Kathleen M.},\n\tmonth = jun,\n\tyear = {2018},\n\tkeywords = {NEWTON},\n\tpages = {A06},\n}\n",
         "data": {
             "key": "CWRZY2B3",
-            "version": 22484,
+            "version": 31078,
             "itemType": "journalArticle",
             "title": "Communicating data: interactive infographics, scientific data and credibility",
             "creators": [
@@ -10206,18 +10213,22 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "NEWTON"
+                }
+            ],
             "collections": [
                 "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2019-03-21T01:37:22Z",
-            "dateModified": "2019-03-21T01:37:22Z"
+            "dateModified": "2024-10-22T16:33:28Z"
         }
     },
     {
         "key": "FRSPA35E",
-        "version": 22001,
+        "version": 31078,
         "library": {
             "type": "group",
             "id": 10058,
@@ -10261,10 +10272,10 @@
             "parsedDate": "2018-06-01",
             "numChildren": 2
         },
-        "bibtex": "\n@article{li_policymakers_2018,\n\ttitle = {Policymakers and stakeholders' perceptions of science-driven nuclear energy policy},\n\tvolume = {50},\n\tissn = {1738-5733},\n\turl = {http://www.sciencedirect.com/science/article/pii/S1738573318300068},\n\tdoi = {10.1016/j.net.2018.03.012},\n\tabstract = {This study surveyed 137 policymakers and key stakeholders (e.g., employees of government agencies, academic institutions, nonprofit organizations, industry, and advocacy groups) involved in making decisions on nuclear energy policy, investigating how they differentially perceived the importance of scientific evidence in driving nuclear policy. We also identified the policy areas that each group of decision-makers are mostly concerned about and showed how such concerns might contextualize and ultimately shape their perceptions of science-driven policy.},\n\tnumber = {5},\n\turldate = {2018-06-14},\n\tjournal = {Nuclear Engineering and Technology},\n\tauthor = {Li, Nan and Brossard, Dominique and Scheufele, Dietram A. and Wilson, Paul P. H.},\n\tmonth = jun,\n\tyear = {2018},\n\tkeywords = {Nuclear Energy, Nuclear Fuel Cycles, Science-driven Policy, Scientist–Policymaker Communication},\n\tpages = {773--779},\n}\n",
+        "bibtex": "\n@article{li_policymakers_2018,\n\ttitle = {Policymakers and stakeholders' perceptions of science-driven nuclear energy policy},\n\tvolume = {50},\n\tissn = {1738-5733},\n\turl = {http://www.sciencedirect.com/science/article/pii/S1738573318300068},\n\tdoi = {10.1016/j.net.2018.03.012},\n\tabstract = {This study surveyed 137 policymakers and key stakeholders (e.g., employees of government agencies, academic institutions, nonprofit organizations, industry, and advocacy groups) involved in making decisions on nuclear energy policy, investigating how they differentially perceived the importance of scientific evidence in driving nuclear policy. We also identified the policy areas that each group of decision-makers are mostly concerned about and showed how such concerns might contextualize and ultimately shape their perceptions of science-driven policy.},\n\tnumber = {5},\n\turldate = {2018-06-14},\n\tjournal = {Nuclear Engineering and Technology},\n\tauthor = {Li, Nan and Brossard, Dominique and Scheufele, Dietram A. and Wilson, Paul P. H.},\n\tmonth = jun,\n\tyear = {2018},\n\tkeywords = {NEWTON, Nuclear Energy, Nuclear Fuel Cycles, Science-driven Policy, Scientist–Policymaker Communication},\n\tpages = {773--779},\n}\n",
         "data": {
             "key": "FRSPA35E",
-            "version": 22001,
+            "version": 31078,
             "itemType": "journalArticle",
             "title": "Policymakers and stakeholders' perceptions of science-driven nuclear energy policy",
             "creators": [
@@ -10313,6 +10324,9 @@
             "extra": "",
             "tags": [
                 {
+                    "tag": "NEWTON"
+                },
+                {
                     "tag": "Nuclear Energy",
                     "type": 1
                 },
@@ -10334,7 +10348,7 @@
             ],
             "relations": {},
             "dateAdded": "2018-06-14T13:39:20Z",
-            "dateModified": "2018-06-14T13:39:20Z"
+            "dateModified": "2024-10-22T16:33:28Z"
         }
     },
     {
@@ -11772,7 +11786,7 @@
     },
     {
         "key": "9K4GDESN",
-        "version": 21119,
+        "version": 31075,
         "library": {
             "type": "group",
             "id": 10058,
@@ -11816,10 +11830,10 @@
             "parsedDate": "2016-12-15",
             "numChildren": 2
         },
-        "bibtex": "\n@article{gidden_methodology_2016,\n\ttitle = {A methodology for determining the dynamic exchange of resources in nuclear fuel cycle simulation},\n\tvolume = {310},\n\tissn = {0029-5493},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0029549316304101},\n\tdoi = {10.1016/j.nucengdes.2016.10.029},\n\tabstract = {Simulation of the nuclear fuel cycle can be performed using a wide range of techniques and methodologies. Past efforts have focused on specific fuel cycles or reactor technologies. The CYCLUS fuel cycle simulator seeks to separate the design of the simulation from the fuel cycle or technologies of interest. In order to support this separation, a robust supply–demand communication and solution framework is required. Accordingly an agent-based supply-chain framework, the Dynamic Resource Exchange (DRE), has been designed implemented in CYCLUS. It supports the communication of complex resources, namely isotopic compositions of nuclear fuel, between fuel cycle facilities and their managers (e.g., institutions and regions). Instances of supply and demand are defined as an optimization problem and solved for each timestep. Importantly, the DRE allows each agent in the simulation to independently indicate preference for specific trading options in order to meet both physics requirements and satisfy constraints imposed by potential socio-political models. To display the variety of possible simulations that the DRE enables, example scenarios are formulated and described. Important features include key fuel-cycle facility outages, introduction of external recycled fuel sources (similar to the current mixed oxide (MOX) fuel fabrication facility in the United States), and nontrivial interactions between fuel cycles existing in different regions.},\n\turldate = {2017-01-11},\n\tjournal = {Nuclear Engineering and Design},\n\tauthor = {Gidden, Matthew J. and Wilson, Paul P. H.},\n\tmonth = dec,\n\tyear = {2016},\n\tkeywords = {Agent-based modeling, Nuclear fuel cycle, Optimization},\n\tpages = {378--394},\n}\n",
+        "bibtex": "\n@article{gidden_methodology_2016,\n\ttitle = {A methodology for determining the dynamic exchange of resources in nuclear fuel cycle simulation},\n\tvolume = {310},\n\tissn = {0029-5493},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0029549316304101},\n\tdoi = {10.1016/j.nucengdes.2016.10.029},\n\tabstract = {Simulation of the nuclear fuel cycle can be performed using a wide range of techniques and methodologies. Past efforts have focused on specific fuel cycles or reactor technologies. The CYCLUS fuel cycle simulator seeks to separate the design of the simulation from the fuel cycle or technologies of interest. In order to support this separation, a robust supply–demand communication and solution framework is required. Accordingly an agent-based supply-chain framework, the Dynamic Resource Exchange (DRE), has been designed implemented in CYCLUS. It supports the communication of complex resources, namely isotopic compositions of nuclear fuel, between fuel cycle facilities and their managers (e.g., institutions and regions). Instances of supply and demand are defined as an optimization problem and solved for each timestep. Importantly, the DRE allows each agent in the simulation to independently indicate preference for specific trading options in order to meet both physics requirements and satisfy constraints imposed by potential socio-political models. To display the variety of possible simulations that the DRE enables, example scenarios are formulated and described. Important features include key fuel-cycle facility outages, introduction of external recycled fuel sources (similar to the current mixed oxide (MOX) fuel fabrication facility in the United States), and nontrivial interactions between fuel cycles existing in different regions.},\n\turldate = {2017-01-11},\n\tjournal = {Nuclear Engineering and Design},\n\tauthor = {Gidden, Matthew J. and Wilson, Paul P. H.},\n\tmonth = dec,\n\tyear = {2016},\n\tkeywords = {Agent-based modeling, NEWTON, Nuclear fuel cycle, Optimization},\n\tpages = {378--394},\n}\n",
         "data": {
             "key": "9K4GDESN",
-            "version": 21119,
+            "version": 31075,
             "itemType": "journalArticle",
             "title": "A methodology for determining the dynamic exchange of resources in nuclear fuel cycle simulation",
             "creators": [
@@ -11862,6 +11876,9 @@
                     "type": 1
                 },
                 {
+                    "tag": "NEWTON"
+                },
+                {
                     "tag": "Nuclear fuel cycle",
                     "type": 1
                 },
@@ -11875,7 +11892,7 @@
             ],
             "relations": {},
             "dateAdded": "2017-01-11T03:45:08Z",
-            "dateModified": "2017-01-11T03:45:08Z"
+            "dateModified": "2024-10-22T16:28:06Z"
         }
     },
     {
@@ -11975,7 +11992,7 @@
     },
     {
         "key": "BPC2HT2P",
-        "version": 20912,
+        "version": 31075,
         "library": {
             "type": "group",
             "id": 10058,
@@ -12019,10 +12036,10 @@
             "parsedDate": "2016-04",
             "numChildren": 2
         },
-        "bibtex": "\n@article{huff_fundamental_2016,\n\ttitle = {Fundamental concepts in the {Cyclus} nuclear fuel cycle simulation framework},\n\tvolume = {94},\n\tissn = {0965-9978},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0965997816300229},\n\tdoi = {10.1016/j.advengsoft.2016.01.014},\n\tabstract = {As nuclear power expands, technical, economic, political, and environmental analyses of nuclear fuel cycles by simulators increase in importance. To date, however, current tools are often fleet-based rather than discrete and restrictively licensed rather than open source. Each of these choices presents a challenge to modeling fidelity, generality, efficiency, robustness, and scientific transparency. The Cyclus nuclear fuel cycle simulator framework and its modeling ecosystem incorporate modern insights from simulation science and software architecture to solve these problems so that challenges in nuclear fuel cycle analysis can be better addressed. A summary of the Cyclus fuel cycle simulator framework and its modeling ecosystem are presented. Additionally, the implementation of each is discussed in the context of motivating challenges in nuclear fuel cycle simulation. Finally, the current capabilities of Cyclus are demonstrated for both open and closed fuel cycles.},\n\turldate = {2016-07-31},\n\tjournal = {Advances in Engineering Software},\n\tauthor = {Huff, Kathryn D. and Gidden, Matthew J. and Carlsen, Robert W. and Flanagan, Robert R. and McGarry, Meghan B. and Opotowsky, Arrielle C. and Schneider, Erich A. and Scopatz, Anthony M. and Wilson, Paul P. H.},\n\tmonth = apr,\n\tyear = {2016},\n\tkeywords = {Agent based modeling, Nuclear engineering, Nuclear fuel cycle, Object orientation, Simulation, Systems analysis},\n\tpages = {46--59},\n}\n",
+        "bibtex": "\n@article{huff_fundamental_2016,\n\ttitle = {Fundamental concepts in the {Cyclus} nuclear fuel cycle simulation framework},\n\tvolume = {94},\n\tissn = {0965-9978},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0965997816300229},\n\tdoi = {10.1016/j.advengsoft.2016.01.014},\n\tabstract = {As nuclear power expands, technical, economic, political, and environmental analyses of nuclear fuel cycles by simulators increase in importance. To date, however, current tools are often fleet-based rather than discrete and restrictively licensed rather than open source. Each of these choices presents a challenge to modeling fidelity, generality, efficiency, robustness, and scientific transparency. The Cyclus nuclear fuel cycle simulator framework and its modeling ecosystem incorporate modern insights from simulation science and software architecture to solve these problems so that challenges in nuclear fuel cycle analysis can be better addressed. A summary of the Cyclus fuel cycle simulator framework and its modeling ecosystem are presented. Additionally, the implementation of each is discussed in the context of motivating challenges in nuclear fuel cycle simulation. Finally, the current capabilities of Cyclus are demonstrated for both open and closed fuel cycles.},\n\turldate = {2016-07-31},\n\tjournal = {Advances in Engineering Software},\n\tauthor = {Huff, Kathryn D. and Gidden, Matthew J. and Carlsen, Robert W. and Flanagan, Robert R. and McGarry, Meghan B. and Opotowsky, Arrielle C. and Schneider, Erich A. and Scopatz, Anthony M. and Wilson, Paul P. H.},\n\tmonth = apr,\n\tyear = {2016},\n\tkeywords = {Agent based modeling, NEWTON, Nuclear engineering, Nuclear fuel cycle, Object orientation, Simulation, Systems analysis},\n\tpages = {46--59},\n}\n",
         "data": {
             "key": "BPC2HT2P",
-            "version": 20912,
+            "version": 31075,
             "itemType": "journalArticle",
             "title": "Fundamental concepts in the Cyclus nuclear fuel cycle simulation framework",
             "creators": [
@@ -12100,6 +12117,9 @@
                     "type": 1
                 },
                 {
+                    "tag": "NEWTON"
+                },
+                {
                     "tag": "Nuclear engineering",
                     "type": 1
                 },
@@ -12125,7 +12145,7 @@
             ],
             "relations": {},
             "dateAdded": "2016-07-31T15:57:59Z",
-            "dateModified": "2016-07-31T15:57:59Z"
+            "dateModified": "2024-10-22T16:28:06Z"
         }
     },
     {
@@ -12459,7 +12479,7 @@
     },
     {
         "key": "HEDFIS9Q",
-        "version": 21761,
+        "version": 31075,
         "library": {
             "type": "group",
             "id": 10058,
@@ -12514,10 +12534,10 @@
             "parsedDate": "2015-11",
             "numChildren": 3
         },
-        "bibtex": "\n@article{carlsen_fast_2015,\n\ttitle = {Fast {Finding} of {Fast} {Transitions} to {Fast} {Reactor} {Fuel} {Cycles} with {Cyclus}},\n\tvolume = {113},\n\tabstract = {While many potential fuel cycles have been evaluated for their equilibrium properties, there has been less investigation into the properties of transitions from the current once-through light water reactor (LWR) fuel cycle to other candidate fuel cycles.  This work describes a transition analysis performed using black-box optimization techniques coupled with the Cyclus fuel cycle simulator on large scale computing resources.  A transition deployment schedule for thermal and fast reactors was computed by wrapping Cyclus simulations inside an external optimizer.  The resulting deployments provide an approximate optimal solution for the fastest way to transition to an EG23-like fuel cycle without forced early retirement of reactors (for the utilized objective function). Although only reactor deployments are looked at here, the optimization workflow developed is flexible enough to handle deployment of an arbitrary number of facility types. The optimization runs were performed on the HT Condor high throughput computing infrastructure at University of Wisconsin-Madison.  Optimization tools were developed that are robust against failures and instability in the cluster environment.  The optimizer used is a hybrid of particle swarm and modified pattern search algorithms based on PSwarm. It is robust against failed simulations and objective function evaluations and is easy to parallelize.},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Carlsen, Robert W. and Wilson, Paul P.H.},\n\tmonth = nov,\n\tyear = {2015},\n\tpages = {364--367},\n}\n",
+        "bibtex": "\n@article{carlsen_fast_2015,\n\ttitle = {Fast {Finding} of {Fast} {Transitions} to {Fast} {Reactor} {Fuel} {Cycles} with {Cyclus}},\n\tvolume = {113},\n\tabstract = {While many potential fuel cycles have been evaluated for their equilibrium properties, there has been less investigation into the properties of transitions from the current once-through light water reactor (LWR) fuel cycle to other candidate fuel cycles.  This work describes a transition analysis performed using black-box optimization techniques coupled with the Cyclus fuel cycle simulator on large scale computing resources.  A transition deployment schedule for thermal and fast reactors was computed by wrapping Cyclus simulations inside an external optimizer.  The resulting deployments provide an approximate optimal solution for the fastest way to transition to an EG23-like fuel cycle without forced early retirement of reactors (for the utilized objective function). Although only reactor deployments are looked at here, the optimization workflow developed is flexible enough to handle deployment of an arbitrary number of facility types. The optimization runs were performed on the HT Condor high throughput computing infrastructure at University of Wisconsin-Madison.  Optimization tools were developed that are robust against failures and instability in the cluster environment.  The optimizer used is a hybrid of particle swarm and modified pattern search algorithms based on PSwarm. It is robust against failed simulations and objective function evaluations and is easy to parallelize.},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Carlsen, Robert W. and Wilson, Paul P.H.},\n\tmonth = nov,\n\tyear = {2015},\n\tkeywords = {NEWTON},\n\tpages = {364--367},\n}\n",
         "data": {
             "key": "HEDFIS9Q",
-            "version": 21761,
+            "version": 31075,
             "itemType": "journalArticle",
             "title": "Fast Finding of Fast Transitions to Fast Reactor Fuel Cycles with Cyclus",
             "creators": [
@@ -12554,13 +12574,17 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "NEWTON"
+                }
+            ],
             "collections": [
                 "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2015-07-29T14:07:55Z",
-            "dateModified": "2016-02-04T14:46:20Z"
+            "dateModified": "2024-10-22T16:28:06Z"
         }
     },
     {
@@ -13885,7 +13909,7 @@
     },
     {
         "key": "DNX3W3P9",
-        "version": 21761,
+        "version": 31075,
         "library": {
             "type": "group",
             "id": 10058,
@@ -13940,10 +13964,10 @@
             "parsedDate": "2014-11",
             "numChildren": 1
         },
-        "bibtex": "\n@article{carlsen_deployment_2014,\n\ttitle = {Deployment {Optimization} with the {CYCLUS} {Fuel} {Cycle} {Simulator}},\n\tvolume = {111},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Carlsen, Robert W. and Gidden, Matthew J. and Wilson, Paul P.H.},\n\tmonth = nov,\n\tyear = {2014},\n\tnote = {DOI link for code, methods, etc: http://dx.doi.org/10.6084/m9.figshare.1086284},\n\tpages = {241--244},\n}\n",
+        "bibtex": "\n@article{carlsen_deployment_2014,\n\ttitle = {Deployment {Optimization} with the {CYCLUS} {Fuel} {Cycle} {Simulator}},\n\tvolume = {111},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Carlsen, Robert W. and Gidden, Matthew J. and Wilson, Paul P.H.},\n\tmonth = nov,\n\tyear = {2014},\n\tnote = {DOI link for code, methods, etc: http://dx.doi.org/10.6084/m9.figshare.1086284},\n\tkeywords = {NEWTON},\n\tpages = {241--244},\n}\n",
         "data": {
             "key": "DNX3W3P9",
-            "version": 21761,
+            "version": 31075,
             "itemType": "journalArticle",
             "title": "Deployment Optimization with the CYCLUS Fuel Cycle Simulator",
             "creators": [
@@ -13985,13 +14009,17 @@
             "callNumber": "",
             "rights": "",
             "extra": "DOI link for code, methods, etc: http://dx.doi.org/10.6084/m9.figshare.1086284",
-            "tags": [],
+            "tags": [
+                {
+                    "tag": "NEWTON"
+                }
+            ],
             "collections": [
                 "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2015-03-25T14:29:12Z",
-            "dateModified": "2016-10-26T13:54:20Z"
+            "dateModified": "2024-10-22T16:28:06Z"
         }
     },
     {
