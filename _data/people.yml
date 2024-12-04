@@ -11,6 +11,10 @@
     url: "bn"
     role: "Software Developer"
     image: bn.jpg
+  - name: "Enrique Miralles-Dolz"
+    url: "emd"
+    role: "Associate Research Engineer, PPPL"
+    image: emd.jpg
 
 - group: 'Graduate Students'
   people:
