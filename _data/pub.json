@@ -9014,7 +9014,7 @@
     },
     {
         "key": "9I2BVANW",
-        "version": 25070,
+        "version": 31163,
         "library": {
             "type": "group",
             "id": 10058,
@@ -9061,7 +9061,7 @@
         "bibtex": "\n@inproceedings{mummah_acquisition_2019,\n\taddress = {Palm Desert, CA, USA},\n\ttitle = {Acquisition {Pathway} {Analysis} using {Fuel} {Cycle} {Simulators}},\n\tabstract = {As part of a comprehensive safeguards evaluation, Acquisition Path Analysis (APA) of a State provides a method to “analyze the plausible paths by which, from a technical point of view, nuclear material suitable for use in a nuclear weapon or other nuclear explosive device could be acquired” APA is part of an effort by\nthe International Atomic Energy Agency (IAEA) to maximize the efficiency and effectiveness of international safeguards by considering each State as a whole and not just a collection of individual facilities. Nuclear fuel cycle simulators (FCS) codes are fundamentally tools to track material as it undergoes chemical and nuclear changes and moves between facilities in a nuclear fuel cycle. The ability to model facilities at high fidelity creates the opportunity to study the material throughput in an individual facility, for a potential acquisition path, or for a full set of nuclear facilities mimicking a State. This throughput tracking can also be coupled with the ability to study dynamic scenarios where facilities may be opening, retiring, or ramping up (down) in production. The use of FCS tools has the ability to add in-depth modeling capability\nto APA and inform the continued effort to increase the efficiency and effectiveness of international safeguards.},\n\tbooktitle = {Proceedings of the 60th {INMM} {Meeting}},\n\tauthor = {Mummah, Kathryn and Bahran, Rian and Miller, Karen and Wilson,, Paul PH},\n\tmonth = jul,\n\tyear = {2019},\n}\n",
         "data": {
             "key": "9I2BVANW",
-            "version": 25070,
+            "version": 31163,
             "itemType": "conferencePaper",
             "title": "Acquisition Pathway Analysis using Fuel Cycle Simulators",
             "creators": [
@@ -9109,7 +9109,8 @@
             "extra": "",
             "tags": [],
             "collections": [
-                "UKXV4KID"
+                "UKXV4KID",
+                "TNV4QIMM"
             ],
             "relations": {},
             "dateAdded": "2019-07-17T04:17:36Z",
@@ -11992,7 +11993,7 @@
     },
     {
         "key": "BPC2HT2P",
-        "version": 31075,
+        "version": 31179,
         "library": {
             "type": "group",
             "id": 10058,
@@ -12032,6 +12033,17 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 3315269,
+                "username": "nuclearkatie",
+                "name": "Kathryn Mummah",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/nuclearkatie",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Huff et al.",
             "parsedDate": "2016-04",
             "numChildren": 2
@@ -12039,7 +12051,7 @@
         "bibtex": "\n@article{huff_fundamental_2016,\n\ttitle = {Fundamental concepts in the {Cyclus} nuclear fuel cycle simulation framework},\n\tvolume = {94},\n\tissn = {0965-9978},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0965997816300229},\n\tdoi = {10.1016/j.advengsoft.2016.01.014},\n\tabstract = {As nuclear power expands, technical, economic, political, and environmental analyses of nuclear fuel cycles by simulators increase in importance. To date, however, current tools are often fleet-based rather than discrete and restrictively licensed rather than open source. Each of these choices presents a challenge to modeling fidelity, generality, efficiency, robustness, and scientific transparency. The Cyclus nuclear fuel cycle simulator framework and its modeling ecosystem incorporate modern insights from simulation science and software architecture to solve these problems so that challenges in nuclear fuel cycle analysis can be better addressed. A summary of the Cyclus fuel cycle simulator framework and its modeling ecosystem are presented. Additionally, the implementation of each is discussed in the context of motivating challenges in nuclear fuel cycle simulation. Finally, the current capabilities of Cyclus are demonstrated for both open and closed fuel cycles.},\n\turldate = {2016-07-31},\n\tjournal = {Advances in Engineering Software},\n\tauthor = {Huff, Kathryn D. and Gidden, Matthew J. and Carlsen, Robert W. and Flanagan, Robert R. and McGarry, Meghan B. and Opotowsky, Arrielle C. and Schneider, Erich A. and Scopatz, Anthony M. and Wilson, Paul P. H.},\n\tmonth = apr,\n\tyear = {2016},\n\tkeywords = {Agent based modeling, NEWTON, Nuclear engineering, Nuclear fuel cycle, Object orientation, Simulation, Systems analysis},\n\tpages = {46--59},\n}\n",
         "data": {
             "key": "BPC2HT2P",
-            "version": 31075,
+            "version": 31179,
             "itemType": "journalArticle",
             "title": "Fundamental concepts in the Cyclus nuclear fuel cycle simulation framework",
             "creators": [
@@ -12141,7 +12153,8 @@
                 }
             ],
             "collections": [
-                "UKXV4KID"
+                "UKXV4KID",
+                "SLWPXX98"
             ],
             "relations": {},
             "dateAdded": "2016-07-31T15:57:59Z",

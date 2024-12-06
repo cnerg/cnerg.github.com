@@ -1153,7 +1153,7 @@
     },
     {
         "key": "38F2U7DS",
-        "version": 30665,
+        "version": 31179,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1193,13 +1193,24 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 3315269,
+                "username": "nuclearkatie",
+                "name": "Kathryn Mummah",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/nuclearkatie",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Carlsen",
             "numChildren": 1
         },
         "bibtex": "\n@phdthesis{carlsen_advanced_2016,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Advanced {Nuclear} {Fuel} {Cycle} {Transitions}: {Optimization}, {Modeling} {Choices}, and {Disruptions}},\n\turl = {https://digital.library.wisc.edu/1711.dl/RXV7VRVTZ2BCW8I},\n\tabstract = {Nuclear fuel cycle analysis is a field focused on understanding and modeling the nuclear industry and ecosystem at a macroscopic level. To date, fuel cycle analysis has mostly involved hand-crafting details of fuel cycle scenarios for investigation. Many different tools have evolved over time to help address the need to investigate both the equilibrium properties of nuclear fuel cycles and the dynamics of transitions between them. There is great potential for computational resources to improve both the quality of answers and the size of questions that can be asked. Cyclus is one of the first nuclear fuel cycle simulators to strongly accommodate larger-scale analysis with its free availability, liberal open-source licensing, and first-class Linux support. Cyclus also provides features that uniquely enable investigating the effects of modeling choices and modeling fidelity within fuel cycle scenarios. This is made possible by the complementary nature of Cyclus’ dynamic resource exchange and plugin based architecture. This work is divided into three major pieces focusing on optimization, investigating effects of modeling choices, and dealing with uncertainty.\n\nEffective optimization techniques are developed for automatically determining desirable facility deployment schedules for fuel cycle scenarios with Cyclus. A novel method for mapping optimization variables to deployment schedules is developed. This method allows relationships between reactor types and power capacity constraints to be represented implicitly in the definition of the optimization variables. This not only enables optimizers without constraint support to be used, but it also prevents wasting computational resources searching through many infeasible deployment schedules. With the simplified constraint handling, optimization can be used to analyze larger problems in addition to providing better solutions generally. The developed methodology also enables the deployed power generation capacity over time and the deployment of non-reactor support facilities to be included as optimization variables.\n\nThere exist many fuel cycle simulators built with many different combinations of mod\n\nix eling choices and assumptions. This makes comparing results from them difficult. The flexibility of Cyclus makes it a rich playground for comparing the effects of such modeling choices in a consistent way. Effects such as reactor refueling cycle synchronization, inter-facility competition, on-hand inventory requirements, and others are compared in four fuel cycle scenarios each using combinations of fleet or individually modeled reactors with 1-month or 3-month long time steps. There are noticeable differences in results from the different cases. The largest differences are seen during periods of constrained fuel availability for reactors. Research into the effects of modeling choices such as these can help improve the quality and consistency of fuel cycle analysis codes in addition to increasing confidence in the utility of fuel cycle analysis generally.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Carlsen, Robert W.},\n\tmonth = mar,\n\tyear = {2016},\n}\n",
         "data": {
             "key": "38F2U7DS",
-            "version": 30665,
+            "version": 31179,
             "itemType": "thesis",
             "title": "Advanced Nuclear Fuel Cycle Transitions: Optimization, Modeling Choices, and Disruptions",
             "creators": [
@@ -1228,7 +1239,8 @@
             "tags": [],
             "collections": [
                 "6259B6TV",
-                "34I86HPD"
+                "34I86HPD",
+                "SLWPXX98"
             ],
             "relations": {
                 "dc:replaces": "http://zotero.org/groups/10058/items/KKSPE7A5"
@@ -1430,7 +1442,7 @@
     },
     {
         "key": "2ATC4MDN",
-        "version": 30670,
+        "version": 31179,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1470,6 +1482,17 @@
                     }
                 }
             },
+            "lastModifiedByUser": {
+                "id": 3315269,
+                "username": "nuclearkatie",
+                "name": "Kathryn Mummah",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/nuclearkatie",
+                        "type": "text/html"
+                    }
+                }
+            },
             "creatorSummary": "Huff",
             "parsedDate": "2013-08-16",
             "numChildren": 2
@@ -1477,7 +1500,7 @@
         "bibtex": "\n@phdthesis{huff_integrated_2013,\n\taddress = {Madison, WI, United States},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {An {Integrated} {Used} {Fuel} {Disposition} and {Generic} {Repository} {Model} for {Fuel} {Cycle} {Analysis}},\n\turl = {https://digital.library.wisc.edu/1711.dl/PPEWADM4OG5ST9B},\n\tabstract = {As the United States and other nuclear nations consider alternative fuel cycles and waste disposal options simultaneously, an integrated fuel cycle and generic disposal system analysis tool grows increasingly necessary for informing spent nuclear fuel management policy.  The long term performance characteristics of deep geologic disposal concepts are affected by heat and radionuclide release characteristics sensitive to disposal system choices as well as variable spent fuel compositions associated with alternative fuel cycles. Computational tools capable of simulating the dynamic, heterogeneous spent fuel isotopics resulting from alternative nuclear fuel cycles and fuel cycle transition scenarios are, however, lacking in disposal system modeling options. This work has resulted in Cyder , a generic repository software library appropriate for system analysis of potential future fuel cycle deployment scenarios.   By emphasizing modularity and speed, Cyder is capable of representing the dominant physics of candidate geologic host media, repository designs, and engineering components. Robust and flexible integration with the Cyclus fuel cycle simulator enables this analysis in the context of fuel cycle options.},\n\tlanguage = {English},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Huff, Kathryn D.},\n\tmonth = aug,\n\tyear = {2013},\n}\n",
         "data": {
             "key": "2ATC4MDN",
-            "version": 30670,
+            "version": 31179,
             "itemType": "thesis",
             "title": "An Integrated Used Fuel Disposition and Generic Repository Model for Fuel Cycle Analysis",
             "creators": [
@@ -1506,7 +1529,8 @@
             "tags": [],
             "collections": [
                 "6259B6TV",
-                "34I86HPD"
+                "34I86HPD",
+                "SLWPXX98"
             ],
             "relations": {},
             "dateAdded": "2016-02-04T14:51:49Z",
