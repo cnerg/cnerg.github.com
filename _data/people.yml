@@ -11,6 +11,10 @@
     url: "bn"
     role: "Software Developer"
     image: bn.jpg
+  - name: "Dr. Enrique Miralles-Dolz"
+    url: "emd"
+    role: "Visiting Researcher"
+    image: emd.jpg
 
 - group: 'Graduate Students'
   people:
