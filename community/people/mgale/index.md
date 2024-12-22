@@ -17,13 +17,16 @@ services:
 
 ## Research Interests
 
- * Neutronics
- * Computer Aided Design
- * Computer Integrated Engineering workflows
- * Software Defined Modeling
- * Ray tracing
- * Radiation Damage Modeling
- * Software Quality Assurance
+ * Monte Carlo Methods
+    * Nonorthogonal functional expansion tallies (FET)
+    * Computer Aided Design (CAD) based transport
+    * Ray tracing
+ * Neutronics Methods
+ * Neutronics as a tool
+    * Computer Integrated Engineering workflows
+    * Software Defined Modeling
+    * Radiation Damage Modeling
+    * Software Quality Assurance
 
 
 ## Education and Prior Work
