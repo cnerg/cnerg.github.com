@@ -28,7 +28,30 @@ services:
     * Radiation Damage Modeling
     * Software Quality Assurance
 
+## Academic Research
 
+Micah is currently researching the feasibility of using [Non-uniform rational B-spline](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) (NURBS) 
+as a possible basis for functional expansion tallies (FET) in Monte Carlo radiation transport.
+NURBS are primarily used in CAD as the mathematical way to represent the complicated surfaces that can be present in CAD,
+and they have shown to be very useful in this role.
+NURBS as a class of FET bases show great potential for being generalized FET bases.
+
+### Publications
+
+ * Micah D. Gale, Patrick C. Shriwise, and Paul P. H. Wilson, "Working with Bézier Curves as Nonorthogonal Bases for Functional Expansion Tallies", 
+*International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)*, Accepted.
+
+## National Laboratory Projects
+
+* Micah is the lead developer of the Open-Source Python library: [MontePy](https://github.com/idaholab/montepy). [MontePy](https://www.montepy.org/en/stable/) is the most user-friendly Python library for reading, editing, and writing [MCNP](https://mcnp.lanl.gov/) input files in an object-oriented way.
+  * Publications:
+    * Micah D. Gale, Travis J. Labossiere-Hickman, and Brenna Carbno, "A Practical Guide to Parsing MCNP Inputs: Lessons Learned from Implementing Context-Free Parsing in MontePy", 
+    *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)*, Accepted.
+    * Micah D. Gale, Travis J. Labossiere-Hickman, Brenna Carbno, and Andrew J. Bascom, "MontePy: A Python library for reading, editing, and writing MCNP input files",
+    Journal of Open Source Software, submitted.
+
+* Micah previously worked in the Irradiation Experiments Neutronics Analysis department. 
+In that work he conducted neutronics analyses to support irradiation of fuels and materials experiments using MCNP and SCALE.
 ## Education and Prior Work
 
 
