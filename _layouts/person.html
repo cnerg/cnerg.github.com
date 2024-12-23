@@ -22,11 +22,11 @@ layout: default
           {{ page.phone }}</br>
           {{ page.room }}</br>
           {% if page.google_map != null %}
-          <a href="{{ page.google_map }}" target=_blank>
+          <a href="{{ page.google_map }}" target=_blank><img class="cnerg-service-icon" src="{{ site.baseurl }}/services/icons/google_maps.png">
             {{ page.address }}</br>
           </a>
           {% elsif page.open_street_map != null %}
-          <a href="{{ page.open_street_map }}" target=_blank>
+          <a href="{{ page.open_street_map }}" target=_blank><img class="cnerg-service-icon" src="{{ site.baseurl }}/services/icons/open_street_map.svg">
             {{ page.address }}</br>
           </a>
           {% else %}
