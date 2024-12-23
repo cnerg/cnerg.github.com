@@ -6,7 +6,7 @@ role: PhD Student, Nuclear Engineer at Idaho National Laboratory
 email: mdgale@wisc.edu
 room: "440 Engineering Research Building"
 address: "1500 Engineering Dr"
-google_map: "https://www.google.com/maps/place/Engineering+Research+Bldg,+1500+Engineering+Dr,+Madison,+WI+53706/@43.0722466,-89.411409,19z/data=!4m6!3m5!1s0x8807acc695f684f1:0x2fe05f887d68081a!8m2!3d43.0725321!4d-89.4114737!16s%2Fg%2F1tzvx40_!5m2!1e3!1e4?entry=ttu"
+open_street_map: "https://www.openstreetmap.org/way/56997837"
 city_state_zip: "Madison, WI 53706"
 services:
     github: micahgale
@@ -17,15 +17,41 @@ services:
 
 ## Research Interests
 
- * Neutronics
- * Computer Aided Design
- * Computer Integrated Engineering workflows
- * Software Defined Modeling
- * Ray tracing
- * Radiation Damage Modeling
- * Software Quality Assurance
+ * Monte Carlo Methods
+    * Nonorthogonal functional expansion tallies (FET)
+    * Computer Aided Design (CAD) based transport
+    * Ray tracing
+ * Neutronics Methods
+ * Neutronics as a tool
+    * Computer Integrated Engineering workflows
+    * Software Defined Modeling
+    * Radiation Damage Modeling
+    * Software Quality Assurance
 
+## Academic Research
 
+Micah is currently researching the feasibility of using [Non-uniform rational B-spline](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) (NURBS) 
+as a possible basis for functional expansion tallies (FET) in Monte Carlo radiation transport.
+NURBS are primarily used in CAD as the mathematical way to represent the complicated surfaces that can be present in CAD,
+and they have shown to be very useful in this role.
+NURBS as a class of FET bases show great potential for being generalized FET bases.
+
+### Publications
+
+ * Micah D. Gale, Patrick C. Shriwise, and Paul P. H. Wilson, "Working with Bézier Curves as Nonorthogonal Bases for Functional Expansion Tallies", 
+*International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)*, Accepted.
+
+## National Laboratory Projects
+
+* Micah is the lead developer of the Open-Source Python library: [MontePy](https://github.com/idaholab/montepy). [MontePy](https://www.montepy.org/en/stable/) is the most user-friendly Python library for reading, editing, and writing [MCNP](https://mcnp.lanl.gov/) input files in an object-oriented way.
+  * Publications:
+    * Micah D. Gale, Travis J. Labossiere-Hickman, and Brenna Carbno, "A Practical Guide to Parsing MCNP Inputs: Lessons Learned from Implementing Context-Free Parsing in MontePy", 
+    *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)*, Accepted.
+    * Micah D. Gale, Travis J. Labossiere-Hickman, Brenna Carbno, and Andrew J. Bascom, "MontePy: A Python library for reading, editing, and writing MCNP input files",
+    Journal of Open Source Software, submitted.
+
+* Micah previously worked in the Irradiation Experiments Neutronics Analysis department. 
+In that work he conducted neutronics analyses to support irradiation of fuels and materials experiments using MCNP and SCALE.
 ## Education and Prior Work
 
 
