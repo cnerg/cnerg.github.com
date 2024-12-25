@@ -1,46 +1,98 @@
-- group: 'Radiation Transport and Nuclear Analysis Methods'
-  projects:
-  - title: Unstructured Adaptive Mesh Algorithms for Monte Carlo Transport
-    agency: US Department of Energy, Nuclear Energy University Program
-    project_id: DOE-ID-XXX-XXX-XXX
-    uw_pi: pphw
+- projects:
+  - short_code: amrmc
+    group_code: rtnam
+    title: Unstructured Adaptive Mesh Algorithms for Monte Carlo Transport
+    agency: neup
+    start_date: 2024-08-01
+    end_date: 2027-09-30
+    lead_pi: ajn
+    cnerg_pi: pphw
     cnerg_collaborators: walid
-    lead:
-    - name: Prof. April Novak
-      inst: University of Illinois, Urbana-Champaign
-      url: 
-    collaborators:
-    - name: Dr. Paul Romano
-      inst: Argonne National Laboratory
-      url:
-    - name: Dr. Patrick Shriwise
-      inst: Argonne National Laboratory
-      url:
-  - title: HiFiStell
-    agency: US Department of Energy, Fusion Energy Sciences SciDAC program
-    project_id: DOE-ID-XXX-XXX-XXX
-    uw_pi: pphw
+    other_collaborators: [ 'pcs', 'pkr' ]
+    abstract:
+    pubs:
+    project_url:
+  - short_code: hifistell
+    group_code: rtnam
+    title: HiFiStell
+    agency: fes-scidac
+    start_date: 2023-10-01
+    end_date: 2027-09-30
+    lead_pi: ab
+    cnerg_pi: pphw
     cnerg_collaborators: cam
-    lead:
-    - name: Prof. Amitava Batter
-      inst: Princeton University
-      url: 
+    uw_collaborators: crs
+    abstract:
+    pubs:
+    project_url:
+  - short_code: t1e-blankets
+    group_code: nsa
+    title: Stellarator Breeding Blanket Design & Optimization
+    agency: t13
+    start_date: 2023-12-10
+    end_date: 2025-03-31
+    lead_pi: pphw
+    cnerg_collaborators: [ 'tdb', 'cam', 'ep', 'jtds' ]
+    abstract:
+    pubs:
+    project_url:
+  - short_code: frontend
+    group_code: nfca
+    title: 
+    agency: neup
+    start_date: 2023-10-01
+    end_date: 2026-09-30
+    lead_pi: mm
+    cnerg_pi: pphw
+    cnerg_collaborators: dok
+    abstract:
+    pubs:
+    project_url:
+  # - short_code:
+  #   group_code:
+  #   title:
+  #   agency:
+  #   start_date:
+  #   end_date:
+  #   lead_pi:
+  #   cnerg_pi:
+  #   cnerg_collaborators:
+  #   uw_collaborators:
+  #   other_collaborators:
+  #   abstract:
+  #   pubs:
+  #   project_url:
 
-- group: "Nuclear System Analysis"
-  projects:
-  - title: Stellarator blanket optimization
-    agency: Type One Energy
-    uw_pi: pphw
-    cnerg_collaborators: tdb, ep, jtds
+- agencies:
+  - agency: neup
+    name: "Nuclear Energy University Program, Office of Nuclear Energy, US Department of Energy"
+  - agency: fes-scidac
+    name: Fusion Energy Sciences SciDAC program, US Department of Energy
+  - agency: t1e
+    name: Type One Energy
 
-- group: 'Nuclear Fuel Cycles and Security'
-  projects:
-  - title: 
-    agency: "US Department of Energy, Nuclear Energy University Program"
-    project_id: DOE-2323-23423-234
-    uw_pi: wilson
-    collaborators:
-    - name: "Prof. April Novak"
-      inst: "University of Illinois, Urbana-Champaign"
-
-  
+- collaborators:
+  - code: mm
+    name: Prof. Madicken Munk
+    inst: Oregon State University
+    url: https://engineering.oregonstate.edu/people/madicken-munk
+  - code: ab
+    name: Prof. Amitava Battacharjee
+    inst: Princeton University
+    url: https://amitava.scholar.princeton.edu/
+  - code: crs
+    name: Prof. Emeritus Carl Sovinec
+    inst: University of Wisconsin-Madison
+    url: https://directory.engr.wisc.edu/neep/faculty/sovinec_carl
+  - code: ajn
+    name: Prof. April Novak
+    inst: University of Illinois, Urbana-Champaign
+    url: https://npre.illinois.edu/people/profile/ajnovak2
+  - code: pkr
+    name: Dr. Paul Romano
+    inst: Argonne National Laboratory
+    url: https://www.anl.gov/profile/paul-romano
+  - code: pcs
+    name: Dr. Patrick Shriwise
+    inst: Argonne National Laboratory
+    url: https://www.anl.gov/profile/patrick-c-shriwise
