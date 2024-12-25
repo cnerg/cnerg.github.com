@@ -1,30 +1,31 @@
 ---
 layout: default
 ---
-{% assign pi_project_list = site.data.projects | where_exp: "project", "project.lead_pi == page.code" %}
+{% assign code = page.url | split: "/" | last %}
+{% assign pi_project_list = site.data.projects | where_exp: "project", "project.lead_pi == code" %}
 {% if pi_project_list.size > 0 %}
   {% assign project_list = pi_project_list %}
 {% endif %}
-{% assign cnerg_pi_project_list = site.data.projects | where_exp: "project", "project.cnerg_pi == page.code" %}
+{% assign cnerg_pi_project_list = site.data.projects | where_exp: "project", "project.cnerg_pi == code" %}
 {% if cnerg_pi_project_list.size > 0 %}
   {% if project_list.size > 0 %}
     {% assign project_list = project_list | concat: cnerg_pi_project_list %}
-  {% else }
+  {% else %}
     {% assign project_list = cnerg_pi_project_list %}
   {% endif %}
 {% endif %}
-{% assign cnerg_collab_project_list = site.data.proejcts | where_exp: "project", "page.cnerg_collaborators contains page.code" %}
+{% assign cnerg_collab_project_list = site.data.projects | where_exp: "project", "project.cnerg_collaborators contains code" %}
 {% if cnerg_collab_project_list.size > 0 %}
   {% if project_list.size > 0 %}
     {% assign project_list = project_list | concat: cnerg_collab_project_list %}
-  {% else }
+  {% else %}
     {% assign project_list = cnerg_collab_project_list %}
   {% endif %}
 {% endif %}
 
 <article>
   
-  <header>
+  <header> 
   </header>
   
   <section>
