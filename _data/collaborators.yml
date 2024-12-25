@@ -1,0 +1,41 @@
+- code: mm
+  name: Prof. Madicken Munk
+  inst: Oregon State University
+  url: https://engineering.oregonstate.edu/people/madicken-munk
+- code: ab
+  name: Prof. Amitava Battacharjee
+  inst: Princeton University
+  url: https://amitava.scholar.princeton.edu/
+- code: crs
+  name: Prof. Emeritus Carl Sovinec
+  inst: University of Wisconsin-Madison
+  url: https://directory.engr.wisc.edu/neep/faculty/sovinec_carl
+- code: ajn
+  name: Prof. April Novak
+  inst: University of Illinois, Urbana-Champaign
+  url: https://npre.illinois.edu/people/profile/ajnovak2
+- code: pkr
+  name: Dr. Paul Romano
+  inst: Argonne National Laboratory
+  url: https://www.anl.gov/profile/paul-romano
+- code: pcs
+  name: Dr. Patrick Shriwise
+  inst: Argonne National Laboratory
+  url: https://www.anl.gov/profile/patrick-c-shriwise
+- code: jwb
+  name: Jin Wan Bae
+  inst: Oak Ridge National Laboratory
+  url: https://www.ornl.gov/staff-profile/jin-whan-bae
+- code: eed
+  name: Dr. Eva Davidson
+  inst: Oak Ridge National Laboratory
+  url: https://www.ornl.gov/staff-profile/eva-e-davidson
+- code: ase
+  name: Prof. Anna Erickson
+  inst: Georgia Institute of Technology
+  url: https://www.me.gatech.edu/faculty/erickson
+- code: sap
+  name: Prof. Sara Pozzi
+  inst: University of Michigan
+  url: https://ners.engin.umich.edu/people/pozzi-sara/
+
