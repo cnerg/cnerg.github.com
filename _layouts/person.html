@@ -69,10 +69,15 @@ layout: default
           {% endif %}
         </div>
       </div>
+      <div class="row">
+        <div class="col-sm-12">
+          {{ content }}
+        </div>
+      </div>
       {% if project_list.size > 0 %}
         <div class="row">
           <div class="col-sm-12">
-            <h3>Current Projects</h3>
+            <h4>Current Projects</h4>
             <ul>
               {% for project in project_list %}
               <li>{{ project.title }}</li>
@@ -81,11 +86,6 @@ layout: default
           </div>
         </div>
       {% endif %}
-      <div class="row">
-        <div class="col-sm-12">
-          {{ content }}
-        </div>
-      </div>
     </div>
   </section>
   
