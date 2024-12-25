@@ -7,8 +7,20 @@
   lead_pi: ajn
   cnerg_pi: pphw
   cnerg_collaborators: walid
-  other_collaborators: [ 'pcs', 'pkr' ]
-  abstract: foo testing here
+  other_collaborators: [ 'pcs', 'pkr', ks ]
+  abstract: "Recent growth in computing now permits large-scale multiphysics modeling using Monte Carlo methods,
+considered state-of-the-art for particle transport. The Monte Carlo method is well-suited for
+benchmarking lower-fidelity tools, guiding multigroup cross section library development, and aspects of
+reactor design. However, Monte Carlo methods remain expensive, especially in multiphysics workflows
+where simulations are performed iteratively. Significant expertise is also needed to pre-divide phase
+space for scoring tallies, taking into account competing effects including spatial detail, runtime, memory
+usage, and propagation of truncation/statistical errors to coupled physics solvers. Adaptive mesh
+refinement (AMR) is a technique which adaptively refines (or coarsens) a mesh to preferentially add
+Degrees of Freedom (DOFs) where the error is highest, and remove DOFs where the solution is already
+well-captured. Despite the remarkable success of AMR in other fields, there has been very limited use of
+AMR for Monte Carlo tally meshes, especially in the context of multiphysics or in combination with hand p-refinement. This proposal will develop the fundamental methods and techniques for
+unstructured mesh AMR with Monte Carlo tallies to enable a transformative leap forward in
+speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   pubs:
   project_url: https://github.com/neams-th-coe/cardinal_amr
 - short_code: hifistell
@@ -20,14 +32,14 @@
   lead_pi: ab
   cnerg_pi: pphw
   cnerg_collaborators: cam
-  uw_collaborators: crs
+  other_collaborators: crs
   abstract:
   pubs:
   project_url: https://hifistell.plasma.princeton.edu/
 - short_code: t1e-blankets
   area_code: nsa
   title: Stellarator Breeding Blanket Design & Optimization
-  agency: t13
+  agency: t1e
   start_date: 2023-12-10
   end_date: 2025-03-31
   lead_pi: pphw
@@ -43,7 +55,7 @@
   end_date: 2026-09-30
   lead_pi: mm
   cnerg_pi: pphw
-  cnerg_collaborators: dok
+  cnerg_collaborators: [ dok, gaeg ]
   other_collaborators: [ 'jwb', 'eed']
   abstract:
   pubs:
@@ -69,11 +81,48 @@
   end_date: 2025-09-30
   lead_pi: sap
   cnerg_pi: pphw
-  cnerg_collaborators: kam
+  cnerg_collaborators: [ kam, dj ]
   other_collaborators:
   abstract:
   pubs:
   project_url: https://mtv.engin.umich.edu/
+- short_code: abce
+  area_code: econ
+  title: Agent-based Capacity Expansion
+  agency: unfunded
+  start_date: 2020-09-01
+  end_date: 2025-06-30
+  lead_pi: pphw
+  cnerg_collaborators: keb
+  other_collaborators:
+  abstract:
+  pubs:
+  project_url:
+- short_code: gcmr
+  area_code: nsa
+  title: High-fidelity Power Distribution and Burnup for Load-Following Microreactor
+  agency: unfunded
+  start_date: 2021-09-01
+  end_date: 2026-12-31
+  lead_pi: pphw
+  cnerg_collaborators: lg
+  other_collaborators:
+  abstract:
+  pubs:
+  project_url:
+- short_code: fusact
+  area_code: rtnam
+  title: Rapid Assessment of Fusion Material Activation
+  agency: just
+  start_date: 2024-01-01
+  end_date: 2027-05-01
+  lead_pi: pphw
+  cnerg_collaborators: [ asr, ew ]
+  other_collaborators:
+  abstract:
+  pubs:
+  project_url:
+
 # - short_code:
 #   area_code:
 #   title:
@@ -83,7 +132,6 @@
 #   lead_pi:
 #   cnerg_pi:
 #   cnerg_collaborators:
-#   uw_collaborators:
 #   other_collaborators:
 #   abstract:
 #   pubs:
