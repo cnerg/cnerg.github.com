@@ -1,6 +1,5 @@
 ---
 layout: person
-code: pphw
 title: Paul P.H. Wilson
 role: Grainger Professor of Nuclear Engineering
 image: pphw4.jpg
