@@ -82,6 +82,48 @@ title: Current CNERG Projects
                         <div class="card card-body">{{ project.abstract }}</div>
                     </div>
                 {% endif %}
+                {% if project.pubs != None %}
+                    {% assign pub_list = None %}
+                    {% for pub_code in project.pubs %}
+                        {% assign found_pubs = site.data.pub | where_exp: "item", 'item["bibtex"] contains pub_code' %}
+                        {% assign pub_list = pub_list | concat: found_pubs %}
+                    {% endfor %}
+                    {% if pub_list.size > 0 %}
+                        <div class="col-sm-2 text-left">
+                            <a data-toggle="collapse" href="#pubs-{{ project.short_code }}" 
+                                aria-expanded="false" aria-controls="pubs-{{ project.short_code }}">Publications</a>
+                        </div>
+                        <div id="pubs-{{ project.short_code }}" class="collapse">
+                            <div class="card card-body">
+                                <ul>
+                                {% for pub in pub_list %}
+                                    {% assign data = pub["data"] %}
+                                    <li>
+                                    {% for author in data["creators"] limit:max_authors %}
+                                        {{ author["firstName"] }} {{ author["lastName"] }},
+                                    {% endfor %}
+                                    {% if data["creators"].size > max_authors %}
+                                        <span class="font-italic">et al,</span>
+                                    {% endif %}
+                                    "{%- if data["url"] != "" %}<a href="{{ data['url'] }}" target="_blank">{{ data["title"] }}</a>
+                                    {%- else %}{{ data["title"] }}{%- endif %}",
+                                    {% if page.itemType == "journalArticle" %}
+                                        <span class="font-italic">{{ data["publicationTitle"] }}</span>,
+                                        <span class="font-weight-bold">{{ data["volume"] }}</span>,
+                                        pp. {{ data["pages"] }} 
+                                    {% elsif page.itemType == "conferencePaper" %}
+                                        <span class="font-italic">{{ data["proceedingsTitle"] }}</span>,
+                                    {% elsif page.itemType == "thesis" %}
+                                        {{ data["thesisType"]  }}, {{ data["university"] }},
+                                    {% endif %}
+                                    ({{ data["date"] }})
+                                    </li>
+                                {% endfor %}
+                                </ul>
+                            </div>
+                    </div>
+                    {% endif %}
+                {% endif %}
             </div>
             <hr>
         {% endfor %}
