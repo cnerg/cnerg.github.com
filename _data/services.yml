@@ -5,11 +5,14 @@ email:
 twitter:
   baseurl: "https://twitter.com/"
   icon: "twitter-x.png"
-  cnerg: uw_cnerg
 github:
   baseurl: "https://github.com/"
   icon: "github.png"
   cnerg: CNERG
+bluesky:
+  baseurl: "https://bsky.app/profile/"
+  icon: bluesky.png
+  cnerg: cnerg.bsky.social
 bitbucket:
   baseurl: "https://bitbucket.org/"
   icon: "bitbucket.png"
@@ -32,7 +35,4 @@ zotero:
 orcid:
   baseurl: https://orcid.org/
   icon: orcid.png
-bluesky:
-  baseurl: "https://bsky.app/profile/"
-  icon: bluesky.png
 
