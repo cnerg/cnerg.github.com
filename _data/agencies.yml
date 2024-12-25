@@ -6,4 +6,7 @@
   name: Type One Energy
 - agency: nnsa
   name: Office of Nuclear Non-proliferation R&D, National Nuclear Security Administration
-  
+- agency: unfunded
+  name: Unfunded project; students may be supported by various sources
+- agency: just
+  name: Just Fusion funded by WARF  
