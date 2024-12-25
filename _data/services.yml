@@ -22,6 +22,10 @@ stackoverflow:
 scholar:
   baseurl: "https://scholar.google.com/citations?hl=enusers/&user="
   icon: "scholar.jpg"
+instagram:
+  baseurl: "https://www.instagram.com/"
+  icon: instagram.svg
+  cnerg: uw_cnerg
 facebook:
   baseurl: "https://facebook.com/"
   icon: "facebook.png"
