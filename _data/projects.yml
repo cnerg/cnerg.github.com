@@ -71,7 +71,7 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   cnerg_collaborators: ['sf', 'klyg']
   other_collaborators:
   abstract:
-  pubs:
+  pubs: [ stomps_contrastive_2024 ]
   project_url: https://eti.gatech.edu
 - short_code: mtv
   area_code: nucsec
