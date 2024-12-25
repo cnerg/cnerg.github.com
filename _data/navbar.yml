@@ -11,7 +11,7 @@
       suburl: "community/events.html"
 
 - title: Projects
-  url: "/projects/"
+  url: "projects/"
 
 - title: "Manual"
   url: "/manual/"
