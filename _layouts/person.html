@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+{% assign pi_project_list = site.data.projects | where_exp: "project", "project.lead_pi == page.code" %}
+{% if pi_project_list.size > 0 %}
+  {% assign project_list = pi_project_list %}
+{% endif %}
+{% assign cnerg_pi_project_list = site.data.projects | where_exp: "project", "project.cnerg_pi == page.code" %}
+{% if cnerg_pi_project_list.size > 0 %}
+  {% if project_list.size > 0 %}
+    {% assign project_list = project_list | concat: cnerg_pi_project_list %}
+  {% else }
+    {% assign project_list = cnerg_pi_project_list %}
+  {% endif %}
+{% endif %}
+{% assign cnerg_collab_project_list = site.data.proejcts | where_exp: "project", "page.cnerg_collaborators contains page.code" %}
+{% if cnerg_collab_project_list.size > 0 %}
+  {% if project_list.size > 0 %}
+    {% assign project_list = project_list | concat: cnerg_collab_project_list %}
+  {% else }
+    {% assign project_list = cnerg_collab_project_list %}
+  {% endif %}
+{% endif %}
+
 <article>
   
   <header>
@@ -48,6 +69,18 @@ layout: default
           {% endif %}
         </div>
       </div>
+      {% if project_list.size > 0 %}
+        <div class="row">
+          <div class="col-sm-12">
+            <h3>Current Projects</h3>
+            <ul>
+              {% for project in project_list %}
+              <li>{{ project.title }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      {% endif %}
       <div class="row">
         <div class="col-sm-12">
           {{ content }}
