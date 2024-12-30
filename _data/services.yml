@@ -5,11 +5,14 @@ email:
 twitter:
   baseurl: "https://twitter.com/"
   icon: "twitter-x.png"
-  cnerg: uw_cnerg
 github:
   baseurl: "https://github.com/"
   icon: "github.png"
   cnerg: CNERG
+bluesky:
+  baseurl: "https://bsky.app/profile/"
+  icon: bluesky.png
+  cnerg: cnerg.bsky.social
 bitbucket:
   baseurl: "https://bitbucket.org/"
   icon: "bitbucket.png"
@@ -19,6 +22,10 @@ stackoverflow:
 scholar:
   baseurl: "https://scholar.google.com/citations?hl=enusers/&user="
   icon: "scholar.jpg"
+instagram:
+  baseurl: "https://www.instagram.com/"
+  icon: instagram.svg
+  cnerg: uw_cnerg
 facebook:
   baseurl: "https://facebook.com/"
   icon: "facebook.png"
@@ -32,7 +39,4 @@ zotero:
 orcid:
   baseurl: https://orcid.org/
   icon: orcid.png
-bluesky:
-  baseurl: "https://bsky.app/profile/"
-  icon: bluesky.png
 
