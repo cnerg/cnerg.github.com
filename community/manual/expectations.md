@@ -131,7 +131,8 @@ investment in that community.  The simplest way to contribute is by attending
 group meetings and spending time in your office during common hours.  The
 combination of formal and informal interactions that results from these two
 simple steps creates a sense of familiarity that will directly contribute to our
-combined success.
+combined success. The strength of our community depends on collective 
+commitment to these activities.
 
 ### Meeting Attendance
 
@@ -162,6 +163,14 @@ available to your advisor and colleagues for impromptu meetings and
 consultations.  It is therefore necessary to establish some regular work-day
 hours, typically including the middle of the day, when you can generally be
 found in your office most days of the week.
+
+### Software/Code Review
+
+Review of each other's software is an important activity that contributes both
+to the quality of the software and the development of both the software author
+and software reviewer. Students are expected to regularly review each other's
+software contributions using their own developing knowledge of programming
+best practices and algorithm design.
 
 ### Working with Scientists
 
