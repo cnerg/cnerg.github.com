@@ -27,10 +27,12 @@
       text: Setting up alerts from ScienceDirect for Elsevier publications (e.g. Annals of Nuclear Energy)
 - title: Writing
   links:
-    - url: https://writing.wisc.edu/ 
+    - url: https://writing.wisc.edu/
       text: UW Writing Center
 - title: Version Control
   desc: Managing revisions to source code with robustness and intention
   links:
     - url: http://swcarpentry.github.io/git-novice/
       text: Software Carpentry Git Lesson
+    - url: https://docs.google.com/document/d/1n9BxL8PwSnaLsdo4yZBqq0UIO1EHykagdm-Q_rsCFqM/edit?usp=sharing
+      text: Git "Oops! How do I fix this?" and common operations
