@@ -213,6 +213,17 @@ common to find connections to your own work, even if they are weak connections,
 and in so doing you will develop a deeper understanding of the work you are
 pursuing.
 
+### Internships
+
+Students are welcome to pursue internships at companies and national
+laboratories during their graduate studies, but these should be discussed and
+coordinated with their advisor. Important considerations include academic
+milestones, student funding duration, and research deliverables.  As students
+progress in their research, there will be a strong incentive for internships
+to be aligned to their own research efforts to allow them to continue making
+progress during the internship. In some instances, students have identified
+their PhD research projects during an internship when early in their plan.
+
 ### Technical Conferences and Professional Networks
 
 You are encouraged to attend technical conferences to as a way to engage with
