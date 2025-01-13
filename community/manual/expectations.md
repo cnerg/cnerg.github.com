@@ -47,7 +47,7 @@ opportunity to review your research progress and performance as a researcher
 under the expectations described here.  This will also provide you a time to
 provide feedback to me on my role as an advisor. You will be asked to provide a
 formal report of the following: Your progress during the previous time period,
-including a self-assessment of that work Your goals for the coming semester Any
+including a self-assessment of that work, Your goals for the coming semester, Any
 concerns of frustrations you have with the CNERG community, including myself.
 
 
@@ -79,11 +79,17 @@ Journal publications are the most important way to share your knowledge and
 creativity with the rest of the scientific community. Students pursuing a
 Masters degree will be expected to author or make major contributions to at
 least one journal paper submission. Students pursuing a doctoral degree will be
-expected to author at least two journal papers submissions.  In many cases,
-these publications will be directly related to your thesis research and will
-contribute to your ability to communicate your final research product. Reviewing
-student writing is one of the most time-consuming and important parts of my job.
-The ability to write well about your research will demonstrate a deep
+expected to author at least two journal papers submissions.  More publications
+are possible depending on how the work progresses, and different career paths
+have different expectations for publications. In many cases, these publications
+will be directly related to your thesis research and will contribute to your
+ability to communicate your final research product. For a Masters student, their
+paper might loosely align with the completion of their thesis.  For a PhD
+student, these publications might loosely align with their Preliminary Exam and
+their defense.
+
+Reviewing student writing is one of the most time-consuming and important parts
+of my job. The ability to write well about your research will demonstrate a deep
 understanding and amplify your scientific successes.  We will work together to
 identify strategies for improving your writing throughout your training.  Over
 time you will become a more independent writer, needing less feedback from me to
@@ -96,16 +102,18 @@ but will not edit or rewrite sections.
 
 Presenting your work at conferences is an important way to draw attention to
 your contributions and leads to valuable interactions with peers about your
-research.  Both oral and poster presentations allow you to attach a personal
-element to your work and convince the audience to learn more about your research
-through your written publications. The quality of the presentations can be
-important in establishing your professional identity.  We will work together to
-identify the most important information to include and the most effective way to
-present it, both in oral and poster presentations. Over time you will become
-comfortable at presenting your work to peers in a variety of formats and
-environments. You are encouraged to submit your work to technical conferences
-and will receive reasonable travel support to present your work.  Travel to ANS
-Student conferences will generally not be supported.
+research.  We will work together to identify the most relevant conferences for
+your work and track the rhythm and deadlines to plan your participation. Both
+oral and poster presentations allow you to attach a personal element to your
+work and convince the audience to learn more about your research through your
+written publications. The quality of the presentations can be important in
+establishing your professional identity.  We will work together to identify the
+most important information to include and the most effective way to present it,
+both in oral and poster presentations. Over time you will become comfortable at
+presenting your work to peers in a variety of formats and environments. You are
+encouraged to submit your work to technical conferences and will receive
+reasonable travel support to present your work.  Travel to ANS Student
+conferences will generally not be supported.
 
 ## Community Interactions
 
@@ -134,7 +142,7 @@ Choosing when you will spend time in the office as a professional is a matter of
 finding a balance between your personal lifestyle and work habits and being
 available to your advisor and colleagues for impromptu meetings and
 consultations.  It is therefore necessary to establish some regular work-day
-hours when you can generally be found in your office.
+hours when you can generally be found in your office most days of the week.
 
 ### Working with Scientists
 
@@ -170,31 +178,35 @@ original contribution.  We will work together to identify the best strategies
 for finding useful and interesting articles.  Over time, you will become
 proficient at finding good quality articles that are relevant to your work.
 Reading other people’s published work will also contribute to improved writing
-skills.  A goal of a detailed reading of one publication per month is a good
+skills.  A goal of a detailed reading of a few publications per month is a good
 minimum standard.
 
 ### Seminars
 
-The Nuclear Engineering & Engineering Physics department conducts a regular seminar series with a wide
-range of topics from all the research areas of the department.  These seminars
-are generally scheduled on Tuesdays at 12 PM and you should receive notification
-from the department office.  All graduate students in the EP department are
-expected to attend these seminars.  While it may be tempting to dismiss some
-topics as unrelated to your work, this is an opportunity to learn about a wide
-variety of interesting research.  More importantly, it is common to find
-connections to your own work, even if they are weak connections, and in so doing
-you will develop a deeper understanding of the work you are pursuing.
+The Nuclear Engineering & Engineering Physics department conducts a regular
+seminar series with a wide range of topics from all the research areas of the
+department.  These seminars are generally scheduled weekly and you should
+receive notification from the department office.  All graduate students in the
+NEEP department are expected to attend these seminars.  While it may be tempting
+to dismiss some topics as unrelated to your work, this is an opportunity to
+learn about a wide variety of interesting research.  More importantly, it is
+common to find connections to your own work, even if they are weak connections,
+and in so doing you will develop a deeper understanding of the work you are
+pursuing.
 
 ### Technical Conferences and Professional Networks
 
-You are encouraged to attend technical conferences even if you are not
-presenting CNERG research, but should not expect to receive financial support.
-The personal interactions that are possible in face-to-face meetings are
-uniquely valuable and are likely to provide near term input to your research and
-professional development as well as establish your place in a professional
-network for the long term.  We will work together to identify important and
-relevant conferences and creating ties to other scientists working in your
-field.  Over time you will become connected to a network of peers and
-colleagues. Travel to ANS National Meetings and Student Conferences can be
-organized in conjunction with the UW-ANS Student Section.
+You are encouraged to attend technical conferences to as a way to engage with
+your technical community. We will discuss which conferences make sense for you
+to present your CNERG research with funding from the grants that support that
+research. You may also identify conferences that are valuable and interesting,
+beyond those for which you will receive financial support. The personal
+interactions that are possible in face-to-face meetings are uniquely valuable
+and are likely to provide near term input to your research and professional
+development as well as establish your place in a professional network for the
+long term.  We will work together to identify important and relevant conferences
+and creating ties to other scientists working in your field.  Over time you will
+become connected to a network of peers and colleagues. Travel to ANS National
+Meetings and Student Conferences can be organized in conjunction with the UW-ANS
+Student Section.
 
