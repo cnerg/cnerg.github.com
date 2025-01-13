@@ -19,6 +19,7 @@ independently on an original contribution to earn your degree.
 
 One of my primary duties is to represent our research group externally by
 * writing proposals for new and innovative research ideas,
+* bringing in financial resources to support research needs,
 * writing journal articles and conference papers,
 * attending meetings and workshops,
 * participating in professional societies, and
@@ -33,9 +34,11 @@ your graduate experience.
 You have a right to the following from me as your advisor:
 * Maintenance/support of your research tools and environment to maximize your
   research progress,
+* Provide financial support to attend conferences to present CNERG research
 * Timely review of your research products,
-* Access to my time to address questions and obstacles to your research,
+* Access to my time to individually address questions and obstacles to your research,
 * Constructive assessment of the quality and progress of your research,
+* Provide guidance for academic progress and plan, 
 * Management of the health of the CNERG community,
 * Flexibility in accommodating individual circumstances, and
 * Opportunities for you to provide feedback on my role as an advisor.
@@ -61,6 +64,12 @@ including milestone dates and deliverables.  Over time you will become
 increasingly responsible for independently defining these goals.  During the
 academic semester, performing well in your courses is certainly important, but
 should not result in a complete lack of research productivity.
+
+Completing a graduate degree should be viewed as a full time professional job,
+with commensurate workload. While CNERG is committed to allowing everyone to
+maintain a healthy work-life balance, and graduate degrees are not awarded for 
+effort alone, the more time spent on your academic and research tasks, the
+more quickly you should be able to graduate.
 
 ### Research Documentation
 
@@ -136,13 +145,23 @@ at times seem as though the work of others is not related to your own, but
 making an effort to understand their work will add creative energy to your own
 work and allow you to recognize the overlaps that are sure to exist.
 
+Most CNERG meetings are setup to allow remote participation, intended for
+specific purposes including participating in meetings while living/working
+remotely or traveling. There may be rare circumstances where you need to work
+from home and choose to participate in a meeting, e.g. deliveries, illness, etc.
+In these situations, you should discuss whether it's appropriate to participate
+remotely in meetings with your advisor. Specifically, in the case of illness,
+please use your own judgment to determine whether you are well enough to
+participate. 
+
 ### Office Hours
 
 Choosing when you will spend time in the office as a professional is a matter of
 finding a balance between your personal lifestyle and work habits and being
 available to your advisor and colleagues for impromptu meetings and
 consultations.  It is therefore necessary to establish some regular work-day
-hours when you can generally be found in your office most days of the week.
+hours, typically including the middle of the day, when you can generally be
+found in your office most days of the week.
 
 ### Working with Scientists
 
