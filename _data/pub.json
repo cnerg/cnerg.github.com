@@ -235,6 +235,110 @@
         }
     },
     {
+        "key": "YK6J2YM6",
+        "version": 31567,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/YK6J2YM6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/YK6J2YM6",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/7T9UUWBY",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 2296616
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6628775,
+                "username": "ligross",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/ligross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Gross et al.",
+            "parsedDate": "2024-04",
+            "numChildren": 1
+        },
+        "bibtex": "\n@inproceedings{gross_exploring_2024,\n\taddress = {San Francisco, CA},\n\ttitle = {Exploring {Effects} of {Homogenization} on an {OpenMC} {Depletion} {Analysis} of a {TRISO} {Fueled}, {Helium} {Cooled} {Microreactor}},\n\tdoi = {10.13182/PHYSOR24-43599},\n\tauthor = {Gross, Lewis and SHRIWISE, Patrick C. and Lindley, Ben and WILSON, Paul P. H.},\n\tmonth = apr,\n\tyear = {2024},\n}\n",
+        "data": {
+            "key": "YK6J2YM6",
+            "version": 31567,
+            "itemType": "conferencePaper",
+            "title": "Exploring Effects of Homogenization on an OpenMC Depletion Analysis of a TRISO Fueled, Helium Cooled Microreactor",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Lewis",
+                    "lastName": "Gross"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Patrick C.",
+                    "lastName": "SHRIWISE"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Lindley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "WILSON"
+                }
+            ],
+            "abstractNote": "",
+            "date": "April 2024",
+            "proceedingsTitle": "",
+            "conferenceName": "International Conference on the Physics of Reactors",
+            "place": "San Francisco, CA",
+            "publisher": "",
+            "volume": "",
+            "pages": "",
+            "series": "",
+            "language": "",
+            "DOI": "10.13182/PHYSOR24-43599",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2025-01-13T22:21:49Z",
+            "dateModified": "2025-01-13T22:24:08Z"
+        }
+    },
+    {
         "key": "936FTUAR",
         "version": 31052,
         "library": {
@@ -18429,111 +18533,6 @@
             },
             "dateAdded": "2012-07-30T20:40:06Z",
             "dateModified": "2013-03-20T21:23:12Z"
-        }
-    },
-    {
-        "key": "XERTX53Z",
-        "version": 21760,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/XERTX53Z",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/XERTX53Z",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/M6J2TC55",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 1241088
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Smith and Wilson",
-            "parsedDate": "2011-02-07",
-            "numChildren": 3
-        },
-        "bibtex": "\n@inproceedings{smith_modeling_2011,\n\taddress = {Albuquerque, NM, United States},\n\ttitle = {Modeling {Impact}-{Induced} {Reactivity} {Changes} {Using} {DAG}-{MCNP}},\n\tbooktitle = {Nuclear and {Emerging} {Technologies} for {Space} 2011},\n\tauthor = {Smith, Brandon M. and Wilson, Paul P.H.},\n\tmonth = feb,\n\tyear = {2011},\n\tnote = {Paper 3290},\n\tpages = {8},\n}\n",
-        "data": {
-            "key": "XERTX53Z",
-            "version": 21760,
-            "itemType": "conferencePaper",
-            "title": "Modeling Impact-Induced Reactivity Changes Using DAG-MCNP",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Brandon M.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "date": "Feb 7-10, 2011",
-            "proceedingsTitle": "Nuclear and Emerging Technologies for Space 2011",
-            "conferenceName": "Nuclear and Emerging Technologies for Space 2011",
-            "place": "Albuquerque, NM, United States",
-            "publisher": "",
-            "volume": "",
-            "pages": "8",
-            "series": "",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "Paper 3290",
-            "tags": [],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-07-31T18:32:27Z",
-            "dateModified": "2013-07-02T04:19:57Z"
         }
     }
 ]
