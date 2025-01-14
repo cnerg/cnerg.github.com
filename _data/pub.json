@@ -236,7 +236,7 @@
     },
     {
         "key": "YK6J2YM6",
-        "version": 31567,
+        "version": 31579,
         "library": {
             "type": "group",
             "id": 10058,
@@ -280,10 +280,10 @@
             "parsedDate": "2024-04",
             "numChildren": 1
         },
-        "bibtex": "\n@inproceedings{gross_exploring_2024,\n\taddress = {San Francisco, CA},\n\ttitle = {Exploring {Effects} of {Homogenization} on an {OpenMC} {Depletion} {Analysis} of a {TRISO} {Fueled}, {Helium} {Cooled} {Microreactor}},\n\tdoi = {10.13182/PHYSOR24-43599},\n\tauthor = {Gross, Lewis and SHRIWISE, Patrick C. and Lindley, Ben and WILSON, Paul P. H.},\n\tmonth = apr,\n\tyear = {2024},\n}\n",
+        "bibtex": "\n@inproceedings{gross_exploring_2024,\n\taddress = {San Francisco, CA},\n\ttitle = {Exploring {Effects} of {Homogenization} on an {OpenMC} {Depletion} {Analysis} of a {TRISO} {Fueled}, {Helium} {Cooled} {Microreactor}},\n\turl = {https://www.researchgate.net/publication/380127457_Exploring_Effects_of_Homogenization_on_an_OpenMC_Depletion_Analysis_of_a_TRISO_Fueled_Helium_Cooled_Microreactor?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJob21lIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ},\n\tdoi = {10.13182/PHYSOR24-43599},\n\tbooktitle = {The {International} {Conference} on the {Physics} of {Reactors}},\n\tauthor = {Gross, Lewis and {Patrick C. Shriwise} and Lindley, Ben and Wilson, Paul P. H.},\n\tmonth = apr,\n\tyear = {2024},\n\tpages = {10},\n}\n",
         "data": {
             "key": "YK6J2YM6",
-            "version": 31567,
+            "version": 31579,
             "itemType": "conferencePaper",
             "title": "Exploring Effects of Homogenization on an OpenMC Depletion Analysis of a TRISO Fueled, Helium Cooled Microreactor",
             "creators": [
@@ -294,8 +294,7 @@
                 },
                 {
                     "creatorType": "author",
-                    "firstName": "Patrick C.",
-                    "lastName": "SHRIWISE"
+                    "name": "Patrick C. Shriwise"
                 },
                 {
                     "creatorType": "author",
@@ -305,23 +304,23 @@
                 {
                     "creatorType": "author",
                     "firstName": "Paul P. H.",
-                    "lastName": "WILSON"
+                    "lastName": "Wilson"
                 }
             ],
             "abstractNote": "",
             "date": "April 2024",
-            "proceedingsTitle": "",
-            "conferenceName": "International Conference on the Physics of Reactors",
+            "proceedingsTitle": "The International Conference on the Physics of Reactors",
+            "conferenceName": "PHYSOR 2024",
             "place": "San Francisco, CA",
             "publisher": "",
             "volume": "",
-            "pages": "",
+            "pages": "10",
             "series": "",
             "language": "",
             "DOI": "10.13182/PHYSOR24-43599",
             "ISBN": "",
             "shortTitle": "",
-            "url": "",
+            "url": "https://www.researchgate.net/publication/380127457_Exploring_Effects_of_Homogenization_on_an_OpenMC_Depletion_Analysis_of_a_TRISO_Fueled_Helium_Cooled_Microreactor?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJob21lIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ",
             "accessDate": "",
             "archive": "",
             "archiveLocation": "",
@@ -335,7 +334,7 @@
             ],
             "relations": {},
             "dateAdded": "2025-01-13T22:21:49Z",
-            "dateModified": "2025-01-13T22:24:08Z"
+            "dateModified": "2025-01-14T15:48:49Z"
         }
     },
     {
