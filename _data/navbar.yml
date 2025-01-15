@@ -35,11 +35,13 @@
     - subtitle: "Resources"
       suburl: "community/manual/resources.html"
     - subtitle: divider
-    - subtitle: "Reserve a Conf. Room (NetID Required)"
+    - subtitle: "Reserve a Conf. Room"
       exturl: "https://uwmadison.emscloudservice.com/web/Default.aspx"
       target: "_blank"
+      icon: crest
     - subtitle: Intranet
       exturl: "https://drive.google.com/drive/u/1/folders/0AOzx5AA80HbuUk9PVA"
+      icon: cnerg-c
 
 - title: "Publications"
   url: "/publications"
