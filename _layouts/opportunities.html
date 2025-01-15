@@ -14,13 +14,18 @@ layout: default
  <section>
     <h2>Current Openings</h2>
     <dl>
+    {% assign current_opps = 0 %}
     {% for opportunity in site.opportunities %}
-    {% if opportunity.active == true %}
-    <dt><a href="{{ opportunity.url }}">{{ opportunity.title }}</a></dt>
-    <dd>{{ opportunity.desc }}<br/>
-    Posted: {{ opportunity.posted | date: date_format }}, Closes: {{ opportunity.closes | date: date_format }}</dd>
-    {% endif %}
+      {% if opportunity.active == true %}
+        {% assign current_opps = current_opps | plus:  1 %}
+        <dt><a href="{{ opportunity.url }}">{{ opportunity.title }}</a></dt>
+        <dd>{{ opportunity.desc }}<br/>
+        Posted: {{ opportunity.posted | date: date_format }}, Closes: {{ opportunity.closes | date: date_format }}</dd>
+      {% endif %}
     {% endfor %}
+    {% if current_opps == 0 %}
+    <dt>None</dt>
+    {% endif %}
     </dl>
 </section>
 
