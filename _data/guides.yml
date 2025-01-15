@@ -13,8 +13,8 @@
   links:
     - url: https://docs.google.com/document/d/1-6e7QAhklcXMxr3H05808iVopLy65atuhBNH7cvUCyY/edit
       text: "How to: Travel with the UW (intranet)"
-- title: How to use CHTC
-  desc: Resources on for making use of Center for High Throughput Computing (CHTC) at UW-Madison
+- title: CHTC
+  desc: Resources for using the Center for High Throughput Computing (CHTC) at UW-Madison
     - url: https://chtc.cs.wisc.edu/uw-research-computing/htc/guides.html
       text: "HTC Computing Guides"
     - url: https://chtc.cs.wisc.edu/uw-research-computing/hpc/guides.html
