@@ -3,6 +3,8 @@ layout: page
 title: Policies
 ---
 
+A number of policies are in place to govern practices in CNERG.  These policies exist to ensure compliance with regulations and policies imposed by others and/or to ensure a consistent set of practices across the community.
+
 * TOC
 {:toc}
 
