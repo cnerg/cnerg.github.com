@@ -1,7 +1,7 @@
 ---
 layout: desc_list
-title: Guides and How-to's
-data: guides
+title: Guides and Templates
+data: guides_and_templates
 ---
 
 <h2>Specific {{ page.data }} to consider</h2>

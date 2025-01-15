@@ -28,8 +28,8 @@
     - subtitle: divider
     - subtitle: "Skills"
       suburl: "community/manual/skills.html"
-    - subtitle: "Guides"
-      suburl: "community/manual/guides.html"
+    - subtitle: "Guides and Templates"
+      suburl: "community/manual/guides_and_templates.html"
     - subtitle: "Tools"
       suburl: "community/manual/tools.html"
     - subtitle: "Resources"
