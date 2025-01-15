@@ -246,7 +246,7 @@ interactions that are possible in face-to-face meetings are uniquely valuable
 and are likely to provide near term input to your research and professional
 development as well as establish your place in a professional network for the
 long term.  We will work together to identify important and relevant conferences
-and creating ties to other scientists working in your field.  Over time you will
+and create ties to other scientists working in your field.  Over time you will
 become connected to a network of peers and colleagues. Travel to ANS National
 Meetings and Student Conferences can be organized in conjunction with the UW-ANS
 Student Section.
