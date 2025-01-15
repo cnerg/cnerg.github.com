@@ -15,23 +15,31 @@
               {% if subcategory.subtitle == "divider" %}
               <div class="dropdown-divider"></div>
               {% else %}
+              <div class="dropdown-item">
               {% if subcategory.suburl == null %}
-                  <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ subcategory.exturl }}">
+                  <a target="{{ subcategory.target }}" href="{{ subcategory.exturl }}">
                     {% if subcategory.icon != null %}
                     <img class="cnerg-service-icon" src="{{ site.baseurl }}/assets/images/{{ subcategory.icon }}.png">
                     {% endif %}
-                    {{ subcategory.subtitle }}{{ icon }}</a>
+                    {{ subcategory.subtitle }}</a>
+                    {% if subcategory.github != null %}
+                    <a href="{{ subcategory.github }}" target="_blank"><img class="cnerg-service-menu-icon" src="{{ site.baseurl }}/services/icons/github.svg"></a>
+                    {% endif %}
               {% else %}
-                  <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ site.baseurl }}/{{ subcategory.suburl }}">
+                  <a target="{{ subcategory.target }}" href="{{ site.baseurl }}/{{ subcategory.suburl }}">
                     {% if subcategory.icon != null %}
                     <img class="cnerg-service-icon" src="{{ site.baseurl }}/assets/images/{{ subcategory.icon }}.png">
                     {% endif %}
                     {{ subcategory.subtitle }}
                   </a>
+                  {% if subcategory.github != null %}
+                  <a href="{{ subcategory.github }}" target="_blank"><img class="cnerg-service-menu-icon" src="{{ site.baseurl }}/services/icons/github.svg"></a>
+                  {% endif %}
               {% endif %}
+              </div>
               {% endif %}
             {% endfor %}
-                </dive>
+            </div>
             {% else %}
               {% if item.url != null %}
               <li class="nav-item">
