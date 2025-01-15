@@ -18,7 +18,7 @@
   url: https://fuelcycle.org
   image: cyclus.png
   alt-text: Cyclus logo - a gear with a letter C inscribed
-  desc: Open source software tools that allow flexible modeling of nuclear fuel cycles over varying time and physical fidelities.
+  desc: Open source software tools that allow flexible modeling of nuclear fuel cycles over varying time and physical fidelities
 
 - code: nucsec
   title: Nuclear Security and  Nonproliferation
