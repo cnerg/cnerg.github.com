@@ -50,6 +50,82 @@ jekyll's internal dependencies.  (see
 
 You can then load the URL `localhost:4000` in a browser on your native system.
 
+# Add yourself to the CNERG website
+
+1. Before you start:
+  * If you are not familiar with git and version control, consider [this tutorial](http://swcarpentry.github.io/git-novice/)
+  * You may also want to refer to [this summary of git workflows](https://docs.google.com/presentation/d/1zWa5y-BUZVvR0jKCtG6ueDxPYoODKTP8xeyhZYP_eGo/edit#slide=id.g93ff427fad_0_0)
+  * Create a [github](https://github.com/join) account, if you don’t already have one.
+
+2. Clone a copy of the CNERG website repository
+
+   a. Fork [the CNERG website
+      repository](https://github.com/cnerg/cnerg.github.com). This can be done
+      by clicking the “Fork” button in the top-right corner. Forking means you have
+      your own version of the repository where you can make changes that won’t be
+      reflected in the main repository.
+
+  b. Clone your fork. This will download your fork to a directory on your local machine.
+      `$ git clone https://github.com/<github_username>/cnerg.github.com`
+If you don’t have git on your machine, you can get it with
+$ sudo apt-get install git
+Move into the newly created cnerg.github.com folder
+$ cd cnerg.github.com
+Make a branch to isolate the changes
+Create a new branch where you will make the changes. (It doesn’t have to be called “add_myself”, that’s just an example.)
+$ git branch add_myself
+Switch to your new branch.
+$ git checkout add_myself
+Note that steps 4 and 5 can be completed simultaneously with
+$ git checkout -b add_myself
+Add the Data/Files for your Page
+Descend into the community/people (cd community/people) directory and make a directory for yourself (mkdir <initials>). Most people use initials, but you can use anything that is unique
+Change to that directory
+Add a photo of yourself by copying a file into this directory (cp <path to image> .)
+Add an index.md file - it’s easiest to copy one from someone else (either touch index.md or cp <path to someone elses index.md> .)
+Edit the index.md file by changing the data in the header
+You can delete any that are not relevant
+Make sure the image data refers to the photo you have copied in to this directory
+Add Your Data to the Site Data
+Descend into the _data directory (cd ../../../_data) and edit people.yml
+Create an entry for yourself in the correct group - it’s easiest to just copy someone else’s entry 
+Update the data for you
+The url should be the name of the directory you created above
+The image should be the name of the file you copied into that directory above 
+Test Your Addition
+
+You can test your addition by running the docker image referenced in the README:
+	
+	cd <path-to-website-repo> (e.g. cd .. if in the _data directory)
+
+docker run --rm --volume="${PWD}:/srv/jekyll" --volume="${PWD}/vendor/bundle:/usr/local/bundle" -p 4000:4000 jekyll/jekyll jekyll serve
+
+
+Review your changes in a web browser at localhost:4000. If you make a change, you can refresh the browser and it should auto update.
+Save your changes
+Once you feel it looks correct and the way you want it, add and commit your changes. This will save your changes to your local clone of your fork.
+$ git add <new_or_modified_files>
+$ git commit -m “Added <my_name>”
+It is often very useful to use git status, which will give you information like which files have been modified but are not staged for commit, which files have been modified and have been staged for commit (i.e. they have been git added), and whether you have commits in your clone that are not yet reflected in your github fork or vice versa.
+Push your new branch to your github fork.
+$ git push -u origin add_myself
+If your fork already contains the branch and you are only updating it with new commits, then git push by itself is sufficient.
+Request that your changes be added to the official website
+Create a pull request (PR) between the branch on your fork and the “source” branch in the main repo. This can be done by using a web browser to navigate to your new branch on your fork and clicking “Pull request”.
+
+It will probably look like this:
+
+
+But you may need to go through the “Contribute” menu to start a PR:
+
+
+NOTE: you must be on the new branch for the contribute menu to pop up with a PR
+	(step 1 in the picture)
+
+This will allow other users to review the changes you made and make comments, request changes, or approve your changes. Once your PR has been created, you should be able to see it here.
+Once you and one or more reviewers are satisfied with your changes, someone with write access will merge your branch into the main repo. This only updates the .rst files; it doesn’t update the rendered html. Someone will also need to regenerate the rendered .html before your changes will be reflected in the actual website.
+Once this is done, you’ll be able to find yourself on the staff and students page of the website!
+
 # Boostrap 4 Github Pages
 
 [![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
