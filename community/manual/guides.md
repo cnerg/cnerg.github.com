@@ -1,6 +1,6 @@
 ---
 layout: desc_list
-title: Guides and How-to's
+title: Guides and Templates
 data: guides
 ---
 

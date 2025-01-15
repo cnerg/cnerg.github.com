@@ -13,3 +13,11 @@
   links:
     - url: https://docs.google.com/document/d/1-6e7QAhklcXMxr3H05808iVopLy65atuhBNH7cvUCyY/edit
       text: "How to: Travel with the UW (intranet)"
+
+- title: CNERG templates
+  desc: Templates to use when starting new projects
+  links:
+    - url: https://github.com/cnerg/templates
+      text: LaTeX document templates
+    - url: https://github.com/cnerg/py-template
+      text: Python project template
