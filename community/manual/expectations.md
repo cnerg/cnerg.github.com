@@ -34,7 +34,7 @@ your graduate experience.
 You have a right to the following from me as your advisor:
 * Maintenance/support of your research tools and environment to maximize your
   research progress,
-* Provide financial support to attend conferences to present CNERG research
+* Provide financial support to attend conferences to present CNERG research,
 * Timely review of your research products,
 * Access to my time to individually address questions and obstacles to your research,
 * Constructive assessment of the quality and progress of your research,
