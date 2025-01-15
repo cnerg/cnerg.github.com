@@ -54,51 +54,99 @@ You can then load the URL `localhost:4000` in a browser on your native system.
 
 1. Before you start:
   * If you are not familiar with git and version control, consider [this tutorial](http://swcarpentry.github.io/git-novice/)
+  * Make sure you already have git installed on your computer
   * You may also want to refer to [this summary of git workflows](https://docs.google.com/presentation/d/1zWa5y-BUZVvR0jKCtG6ueDxPYoODKTP8xeyhZYP_eGo/edit#slide=id.g93ff427fad_0_0)
   * Create a [github](https://github.com/join) account, if you don’t already have one.
 
 2. Clone a copy of the CNERG website repository
 
-   a. Fork [the CNERG website
+    a. Fork [the CNERG website
       repository](https://github.com/cnerg/cnerg.github.com). This can be done
       by clicking the “Fork” button in the top-right corner. Forking means you have
       your own version of the repository where you can make changes that won’t be
       reflected in the main repository.
 
-  b. Clone your fork. This will download your fork to a directory on your local machine.
-      `$ git clone https://github.com/<github_username>/cnerg.github.com`
-If you don’t have git on your machine, you can get it with
-$ sudo apt-get install git
-Move into the newly created cnerg.github.com folder
-$ cd cnerg.github.com
-Make a branch to isolate the changes
-Create a new branch where you will make the changes. (It doesn’t have to be called “add_myself”, that’s just an example.)
-$ git branch add_myself
-Switch to your new branch.
-$ git checkout add_myself
-Note that steps 4 and 5 can be completed simultaneously with
-$ git checkout -b add_myself
-Add the Data/Files for your Page
-Descend into the community/people (cd community/people) directory and make a directory for yourself (mkdir <initials>). Most people use initials, but you can use anything that is unique
-Change to that directory
-Add a photo of yourself by copying a file into this directory (cp <path to image> .)
-Add an index.md file - it’s easiest to copy one from someone else (either touch index.md or cp <path to someone elses index.md> .)
-Edit the index.md file by changing the data in the header
-You can delete any that are not relevant
-Make sure the image data refers to the photo you have copied in to this directory
-Add Your Data to the Site Data
-Descend into the _data directory (cd ../../../_data) and edit people.yml
-Create an entry for yourself in the correct group - it’s easiest to just copy someone else’s entry 
-Update the data for you
-The url should be the name of the directory you created above
-The image should be the name of the file you copied into that directory above 
-Test Your Addition
+    b. Clone your fork. This will download your fork to a directory on your local machine.
+    
+      ```
+      git clone https://github.com/<github_username>/cnerg.github.com
+      ```
 
-You can test your addition by running the docker image referenced in the README:
-	
-	cd <path-to-website-repo> (e.g. cd .. if in the _data directory)
+    c. Move into the newly created cnerg.github.com folder
 
-docker run --rm --volume="${PWD}:/srv/jekyll" --volume="${PWD}/vendor/bundle:/usr/local/bundle" -p 4000:4000 jekyll/jekyll jekyll serve
+      ```
+      cd cnerg.github.com
+      ```
+
+3. Make a branch to isolate the changes
+
+    a. Create a new branch where you will make the changes. (It doesn’t have to be called “add_myself”, that’s just an example.)
+
+      ```
+      git branch add_myself
+      ```
+
+    b. Switch to your new branch.
+      ```
+      git checkout add_myself
+      ```
+
+    c. Note that steps 4 and 5 can be completed simultaneously with
+      ```
+      git checkout -b add_myself
+      ```
+
+4. Add the Data/Files for your Page
+
+    a. Descend into the `community/people` directory and make a directory for yourself (mkdir <initials>). Most people use initials, but you can use anything that is unique
+    ```
+    cd community/people
+    mkdir <initials>
+    ```
+
+    b. Change to that directory
+    c. Add a photo of yourself by copying a file into this directory 
+    ```
+    cp <path to image> .
+    ```
+
+    c. Add an `index.md` file - it’s easiest to copy one from someone else. Either 
+    ```
+    touch index.md
+    ```
+    or
+    ```
+    cp <path to someone elses index.md> .
+    ```
+
+    c. Edit the `index.md` file by changing the data in the header
+        * You can delete any that are not relevant
+        * Make sure the `image` data refers to the photo you have copied in to this directory
+
+5. Add Your Data to the Site Data
+
+    a. Descend into the `_data` directory
+      ```
+      cd ../../../_data
+      ```
+      and edit `people.yml`
+
+    b. Create an entry for yourself in the correct group - it’s easiest to just copy someone else’s entry 
+    c. Update the data for you
+        * The url should be the name of the directory you created above
+        * The image should be the name of the file you copied into that directory above 
+
+6. Test Your Addition
+
+    a. You can test your addition by running the docker image referenced in the README:
+    ```
+	  cd <path-to-website-repo>
+    ``` 
+    (e.g. `cd ..` if in the `_data` directory)
+
+    ```
+    docker run --rm --volume="${PWD}:/srv/jekyll" --volume="${PWD}/vendor/bundle:/usr/local/bundle" -p 4000:4000 jekyll/jekyll jekyll serve
+    ```
 
 
 Review your changes in a web browser at localhost:4000. If you make a change, you can refresh the browser and it should auto update.
