@@ -173,9 +173,10 @@ You can then load the URL `localhost:4000` in a browser on your native system.
     a. Create a pull request (PR) between the branch on your fork and the “source” branch in the main repo. This can be done by using a web browser to navigate to your new branch on your fork and clicking “Pull request”.
 
     It will probably look like this:
-
+    ![The big green button at the top of the screen](Quick_PR.png)
 
     But you may need to go through the “Contribute” menu to start a PR:
+    ![Contribute --> Pull Request](Default_PR.png)
 
 
     NOTE: you must be on the new branch for the contribute menu to pop up with a PR
