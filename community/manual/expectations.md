@@ -236,8 +236,8 @@ their PhD research projects during an internship when early in their plan.
 ### Technical Conferences and Professional Networks
 
 You are encouraged to attend technical conferences to as a way to engage with
-your technical community. We will discuss which conferences make sense for you
-to present your CNERG research with funding from the grants that support that
+your technical community. We will discuss at which conferences make sense for you
+to present your CNERG research, with funding from the grants that support that
 research. You may also identify conferences that are valuable and interesting,
 beyond those for which you will receive financial support. (The Graduate School
 has [programs to request support for travel to
