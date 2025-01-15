@@ -50,7 +50,7 @@ opportunity to review your research progress and performance as a researcher
 under the expectations described here.  This will also provide you a time to
 provide feedback to me on my role as an advisor. You will be asked to provide a
 formal report of the following: Your progress during the previous time period,
-including a self-assessment of that work, Your goals for the coming semester, Any
+including a self-assessment of that work, your goals for the coming semester, any
 concerns of frustrations you have with the CNERG community, including myself.
 
 
