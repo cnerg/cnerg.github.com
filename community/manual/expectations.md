@@ -235,13 +235,13 @@ projects during an internship when early in their plan.
 ### Technical Conferences and Professional Networks
 
 You are encouraged to attend technical conferences to as a way to engage with
-your technical community. We will discuss at which conferences make sense for you
+your technical community. We will discuss at which conferences it makes sense for you
 to present your CNERG research, with funding from the grants that support that
 research. You may also identify conferences that are valuable and interesting,
 beyond those for which you will receive financial support. (The Graduate School
 has [programs to request support for travel to
 conferences.](https://grad.wisc.edu/funding/grants-competition/)) The personal
-interactions that are possible in face-to-face meetings are uniquely valuable
+interactions that are possible in face-to-face meetings at conferences are uniquely valuable
 and are likely to provide near term input to your research and professional
 development as well as establish your place in a professional network for the
 long term.  We will work together to identify important and relevant conferences
