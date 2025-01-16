@@ -1,9 +1,7 @@
 ---
 layout: desc_list
-title: Upcoming Events
+title: Past CNERG Events
 data: events
 ---
-
-<h1>UNDER DEVELOPMENT</h1>
 
 
