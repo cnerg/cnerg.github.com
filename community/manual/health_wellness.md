@@ -44,3 +44,13 @@ emotional health can be facilitated by a change in your academic environment or
 duties, it is your advisor’s responsibility to provide a welcoming environment
 for a conversation on these topics, while retaining your right to privacy on
 such matters.
+
+The UW-Madison provides a number of resources to support emotional health:
+
+* [UHS mental health](https://www.uhs.wisc.edu/mental-health/) providers
+  understand the complexities of student life and offer an open, safe, and
+  confidential environment to help students through issues that may interfere
+  with their well-being, academic productivity, and happiness.
+
+* The UW-Madison campus has a [Wellness](https://www.uhs.wisc.edu/wellness/)
+  initiative promoting the overall wellness of the campus community.
