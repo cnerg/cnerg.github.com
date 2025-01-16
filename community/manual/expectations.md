@@ -38,7 +38,7 @@ You have a right to the following from me as your advisor:
 * Timely review of your research products,
 * Access to my time to individually address questions and obstacles to your research,
 * Constructive assessment of the quality and progress of your research,
-* Provide guidance for academic progress and plan, 
+* Guidance for your academic progress and plan, 
 * Management of the health of the CNERG community,
 * Flexibility in accommodating individual circumstances, and
 * Opportunities for you to provide feedback on my role as an advisor.
