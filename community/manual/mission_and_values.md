@@ -36,3 +36,22 @@ Our vision is best achieved by developing software tools that are accessible to
 all, produce the same results over multiple invocations, and permit new
 developers to easily contribute.  Every member of CNERG is expected to develop
 skills to contribute to the development and maintenance of our software tools. 
+
+## CNERG Research Philosophy
+
+In addition to computational modeling in general, a defining characteristic of
+CNERG research is the physics of nuclear reactions and the radiation that they
+produce. This puts our work at the heart of nuclear engineering, more removed
+from other fields of study than most other parts of nuclear engineering.
+
+While there may be diversity among the projects being pursued within CNERG, a
+common thread is a desire to improve the understanding of nuclear energy
+systems. This leads to a research philosophy that puts us on the boundary
+between methods development and systems analysis, delivering real analysis
+capability. Where some research groups focus on theoretical methods development
+with little regard for realistic problems, and others focus on using other
+people’s computational tools to analyze systems, we focus on delivering new
+capability to analyze real systems. This can include the development of new
+methods and often requires the analysis of real systems to test the delivered
+capability, but CNERG’s strength is in delivering robust tools that extend the
+types of analysis that are available for nuclear energy systems.
