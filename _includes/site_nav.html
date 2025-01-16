@@ -8,7 +8,7 @@
         <ul class="navbar-nav mr-auto">
             {% for item in site.data.navbar %}
             {% if item.subcategories != null %}
-            <li class="nav-itme dropdown">
+            <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/{{ item.url }}" >{{ item.title }}</a>
                 <div class="dropdown-menu" aria-labelledby="download">
             {% for subcategory in item.subcategories %}
@@ -29,7 +29,7 @@
                     <a href="{{ subcategory.github }}" target="_blank"><img class="cnerg-service-menu-icon" src="{{ site.baseurl }}/services/icons/github.svg"></a>
                     {% endif %}
               {% else %}
-                  <a target="{{ subcategory.target }}" href="{{ site.baseurl }}/{{ subcategory.suburl }}">
+                  <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ site.baseurl }}/{{ subcategory.suburl }}">
                     {% if subcategory.icon != null %}
                     <img class="cnerg-service-icon" src="{{ site.baseurl }}/assets/images/{{ subcategory.icon }}.png">
                     {% endif %}
