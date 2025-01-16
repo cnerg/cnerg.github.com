@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article>
+  
+  <header>
+  </header>
+  
+  <section>
+    <p><a href="/">CNERG</a> / <a href="../">Current CNERG Projects</a></p>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-4">
+          <img class="cnerg-person-headshot" src="{{ page.image }}">
+        </div>
+        <div class="col-sm-8">
+          <h1>{{ page.title | escape }}</h1>
+          <h2>{{ page.agency | escape}}</h2>
+          <h2>{{ page.program | escape}}</h2>
+
+          Duration: {{ page.start }} - {{ page.end}}</br>
+
+          Project Lead: 
+          <a href="{{ page.lead.url }}" target="_blank">{{ page.lead.name }} 
+            ({{ page.lead.inst }})</a></br>
+
+          CNERG Team:
+          <ol>
+            <li> Lead: <a href="/community/people/{{ page.cnerg_lead.url }}">{{ page.cnerg_lead.name }}</a></li>
+            {% for cnerg_collab in page.cnerg %}
+            <li><a href="/community/people/{{ cnerg_collab.url }}">{{ cnerg_collab.name }}</a></li>
+            {% endfor %}
+          </ol>
+
+          Collaborators:
+          <ol>
+            {% for collab in page.collaborators %}
+            <li><a href="collab.url">{{ collab.name }} ({{ collab.inst }})</a></li>
+            {% endfor %}
+          </ol>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </section>
+  
+</article>

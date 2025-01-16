@@ -8,21 +8,36 @@
         <ul class="navbar-nav mr-auto">
             {% for item in site.data.navbar %}
             {% if item.subcategories != null %}
-            <li class="nav-itme dropdown">
+            <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/{{ item.url }}" >{{ item.title }}</a>
                 <div class="dropdown-menu" aria-labelledby="download">
             {% for subcategory in item.subcategories %}
-              {% if subcategory.subtitle == "divider" %}
-              <div class="dropdown-divider"></div>
+              {% if subcategory.subheading != null %}
+                <div class="dropdown-header">{{ subcategory.subheading }}</div>
               {% else %}
-              {% if subcategory.suburl == null %}
-                  <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ subcategory.exturl }}">{{ subcategory.subtitle }}</a>
-              {% else %}
-                  <a class="dropdown-item" target="{{ subcategory.target }}" href="{{ site.baseurl }}/{{ subcategory.suburl }}">{{ subcategory.subtitle }}</a>
-              {% endif %}
+                {% if subcategory.subtitle == "divider" %}
+                  <div class="dropdown-divider"></div>
+                {% else %}
+                  <div class="dropdown-item">
+                    {% if subcategory.suburl != null %}
+                      {% assign nav_url = site.baseurl | append: "/" | append: subcategory.suburl %}
+                    {% else %}
+                      {% assign nav_url = subcategory.exturl %}
+                    {% endif %}
+                    <a class="dropdown-item" style="display:inline;" target="{{ subcategory.target }}" href="{{ nav_url }}">
+                    {% if subcategory.icon != null %}
+                      <img class="cnerg-service-icon" src="{{ site.baseurl }}/assets/images/{{ subcategory.icon }}.png">
+                    {% endif %}
+                    {{ subcategory.subtitle }}</a>
+                    {% if subcategory.github != null %}
+                      <a class="dropdown-item" style="display:inline;" href="{{ subcategory.github }}" target="_blank">
+                        <img class="cnerg-service-icon"  src="{{ site.baseurl }}/services/icons/github.svg"></a>
+                    {% endif %}
+                  </div>
+                {% endif %}
               {% endif %}
             {% endfor %}
-                </dive>
+            </div>
             {% else %}
               {% if item.url != null %}
               <li class="nav-item">

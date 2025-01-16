@@ -1,0 +1,32 @@
+- title: Style guide
+  desc: Established style for CNERG publications
+  links:
+    - url: https://docs.google.com/document/d/11olSnxB78TBg0Tjns4JTMhzFB-jHXBfPPNoaRu-A4Zc/edit
+      text: Style Guide for Authoring Papers and Presentations (intranet)
+- title: PEP8
+  desc: Style guide for python code
+  links:
+    - url: https://www.python.org/dev/peps/pep-0008/
+      text: PEP8 Style Guide
+- title: Travel with UW
+  desc: Tips and advice for making your travel reimbursement experience as painless as possible
+  links:
+    - url: https://docs.google.com/document/d/1-6e7QAhklcXMxr3H05808iVopLy65atuhBNH7cvUCyY/edit
+      text: "How to: Travel with the UW (intranet)"
+
+- title: CNERG templates
+  desc: Templates to use when starting new projects
+  links:
+    - url: https://github.com/cnerg/templates
+      text: LaTeX document templates
+    - url: https://github.com/cnerg/py-template
+      text: Python project template
+- title: CHTC
+  desc: Resources for using the Center for High Throughput Computing (CHTC) at UW-Madison
+  links:
+    - url: https://chtc.cs.wisc.edu/uw-research-computing/htc/guides.html
+      text: "HTC Computing Guides"
+    - url: https://chtc.cs.wisc.edu/uw-research-computing/hpc/guides.html
+      text: "HPC Computing Guides"
+    - url: https://docs.google.com/document/d/1Nl1E2jM0z6VLQSe8C2Tbpvm79l9Yxt6pc2PumhwX9is/edit?usp=sharing
+      text: "Tips & Tricks: Using CHTC (intranet)"

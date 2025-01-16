@@ -50,9 +50,147 @@ jekyll's internal dependencies.  (see
 
 You can then load the URL `localhost:4000` in a browser on your native system.
 
-# Boostrap 4 Github Pages
+# Add yourself to the CNERG website
 
-[![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
+1. Before you start:
+  * If you are not familiar with git and version control, consider [this tutorial](http://swcarpentry.github.io/git-novice/)
+  * Make sure you already have git installed on your computer
+  * You may also want to refer to [this summary of git workflows](https://docs.google.com/presentation/d/1zWa5y-BUZVvR0jKCtG6ueDxPYoODKTP8xeyhZYP_eGo/edit#slide=id.g93ff427fad_0_0)
+  * Create a [github](https://github.com/join) account, if you don’t already have one.
+
+2. Clone a copy of the CNERG website repository
+
+    1. Fork [the CNERG website
+      repository](https://github.com/cnerg/cnerg.github.com). This can be done
+      by clicking the “Fork” button in the top-right corner. Forking means you have
+      your own version of the repository where you can make changes that won’t be
+      reflected in the main repository.
+
+    2. Clone your fork. This will download your fork to a directory on your local machine.
+    
+      ```
+      git clone git@github.com:<github_username>/cnerg.github.com
+      ```
+
+    3. Move into the newly created cnerg.github.com folder
+
+      ```
+      cd cnerg.github.com
+      ```
+
+3. Make a branch to isolate the changes
+
+    1. Create a new branch where you will make the changes. (It doesn’t have to be called “add_myself”, that’s just an example.)
+
+      ```
+      git branch add_myself
+      ```
+
+    2. Switch to your new branch.
+      ```
+      git checkout add_myself
+      ```
+
+    3. Note that steps 4 and 5 can be completed simultaneously with
+      ```
+      git checkout -b add_myself
+      ```
+
+4. Add the Data/Files for your Page
+
+    1. Descend into the `community/people` directory and make a directory for yourself (mkdir <initials>). Most people use initials, but you can use anything that is unique
+    ```
+    cd community/people
+    mkdir <initials>
+    ```
+
+    2. Change to that directory
+    ```
+    cd <initials>
+    ```
+
+    3. Add a photo of yourself by copying a file into this directory 
+    ```
+    cp <path to image> .
+    ```
+
+    4. Add an `index.md` file - it’s easiest to copy one from someone else. Either 
+    ```
+    touch index.md
+    ```
+    or
+    ```
+    cp <path to someone elses index.md> .
+    ```
+
+    5. Edit the `index.md` file by changing the data in the header
+        * You can delete any that are not relevant
+        * Make sure the `image` data refers to the photo you have copied in to this directory
+
+5. Add Your Data to the Site Data
+
+    1. Descend into the `_data` directory
+      ```
+      cd ../../../_data
+      ```
+      and edit `people.yml`
+
+    2. Create an entry for yourself in the correct group - it’s easiest to just copy someone else’s entry 
+    3. Update the data for you
+        * The url should be the name of the directory you created above
+        * The image should be the name of the file you copied into that directory above 
+
+6. Test Your Addition
+
+    1. You can test your addition by running the docker image referenced in the README:
+    ```
+	  cd <path-to-website-repo>
+    ``` 
+    (e.g. `cd ..` if in the `_data` directory)
+
+    ```
+    docker run --rm --volume="${PWD}:/srv/jekyll" --volume="${PWD}/vendor/bundle:/usr/local/bundle" -p 4000:4000 jekyll/jekyll jekyll serve
+    ```
+
+
+    2. Review your changes in a web browser at `localhost:4000`. If you make a change, you can refresh the browser and it should auto update (a few seconds after you save the changes)
+
+7. Save your changes
+
+    1. Once you feel it looks correct and the way you want it, add and commit your changes. This will save your changes to your local clone of your fork. 
+    It is often very useful to use `git status`, which will give you information like which files have been modified but are not staged for commit, which files have been modified and have been staged for commit (i.e. they have been `git add`ed), and whether you have commits in your clone that are not yet reflected in your github fork or vice versa.
+
+    ```
+    git add <new_or_modified_files>
+    git commit -m “Added <my_name>”
+    ```
+
+    2. Push your new branch to your github fork. If your fork already contains the branch and you are only updating it with new commits, then git push by itself is sufficient.
+    ```
+    git push -u origin add_myself
+    ```
+
+8. Request that your changes be added to the official website
+
+    1. Create a pull request (PR) between the branch on your fork and the “source” branch in the main repo. This can be done by using a web browser to navigate to your new branch on your fork and clicking “Pull request”.
+    
+    It will probably look like this:
+    ![The big green button at the top of the screen](Quick_PR.png)
+
+    But you may need to go through the “Contribute” menu to start a PR:
+    ![Contribute --> Pull Request](Default_PR.png)
+
+
+    NOTE: you must be on the new branch for the contribute menu to pop up with a PR
+	  (step 1 in the picture)
+
+    This will allow other users to review the changes you made and make comments, request changes, or approve your changes. Once your PR has been created, you should be able to see it [here](https://github.com/cnerg/cnerg.github.com/pulls).
+
+    2. Once you and one or more reviewers are satisfied with your changes, someone with write access will merge your branch into the main repo. This only updates the .rst files; it doesn’t update the rendered html. Someone will also need to regenerate the rendered .html before your changes will be reflected in the actual website.
+
+    3. Once this is done, you’ll be able to find yourself on [the staff and students](https://cnerg.github.io/community/people/) page of the website!
+
+# Boostrap 4 Github Pages
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
@@ -71,6 +209,3 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 
 [See the license file.](./LICENSE.md)
 
-## Notes
-
-* Twitter timeline embedded successfully on GH pages thanks to: https://github.com/liquid-utilities/twitter-timeline

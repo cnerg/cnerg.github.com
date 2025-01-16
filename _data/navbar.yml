@@ -10,6 +10,9 @@
     - subtitle: "Events"
       suburl: "community/events.html"
 
+- title: Projects
+  url: "projects/"
+
 - title: "Manual"
   url: "/manual/"
   subcategories:
@@ -28,14 +31,20 @@
     - subtitle: divider
     - subtitle: "Skills"
       suburl: "community/manual/skills.html"
-    - subtitle: "Guides"
-      suburl: "community/manual/guides.html"
+    - subtitle: "Guides and Templates"
+      suburl: "community/manual/guides_and_templates.html"
     - subtitle: "Tools"
       suburl: "community/manual/tools.html"
     - subtitle: "Resources"
       suburl: "community/manual/resources.html"
+    - subtitle: divider
+    - subtitle: "Reserve a Conf. Room"
+      exturl: "https://uwmadison.emscloudservice.com/web/Default.aspx"
+      target: "_blank"
+      icon: crest
     - subtitle: Intranet
       exturl: "https://drive.google.com/drive/u/1/folders/0AOzx5AA80HbuUk9PVA"
+      icon: cnerg-c
 
 - title: "Publications"
   url: "/publications"
@@ -54,24 +63,44 @@
 - title: "Software"
   url: "/software"
   subcategories:
+    - subheading: "CNERG-Managed"
+      target: "_blank"
     - subtitle: "Svalinn"
       exturl: "https://svalinn.github.io"
       target: "_blank"
+      github: "https://github.com/svalinn"
     - subtitle: "DAGMC"
       exturl: "https://svalinn.github.io/DAGMC"
       target: "_blank"
+      github: "https://github.com/svalinn/DAGMC"
     - subtitle: "ALARA"
       exturl: "https://svalinn.github.io/ALARA"
       target: "_blank"
+      github: "https://github.com/svalinn/ALARA"
     - subtitle: "PyNE"
       exturl: "https://pyne.io"
       target: "_blank"
+      github: "https://github.com/pyne/pyne"
     - subtitle: "Cyclus"
       exturl: "https://fuelcycle.org"
       target: "_blank"
-    - subtitle: "FRENSIE"
-      exturl: "https://github.com/FRENSIE/FRENSIE"
+      github: "https://github.com/cyclus/cyclus"
+    - subtitle: divider
+    - subheading: "Affiliates"
       target: "_blank"
+    - subtitle: Cardinal
+      exturl: "https://cardinal.cels.anl.gov/"
+      target: "_blank"
+      github: "https://github.com/neams-th-coe/cardinal"
+    - subtitle: OpenMC
+      exturl: "https://docs.openmc.org"
+      target: "_blank"
+      github: "https://github.com/openmc-dev/openmc"
+    - subtitle: MontePy
+      exturl: "https://www.montepy.org/en/stable/"
+      target: "_blank"
+      github: "https://github.com/idaholab/MontePy"
+
 
 - title: "Upload to CNERG"
   url: "upload.html"
