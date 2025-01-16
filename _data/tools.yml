@@ -35,6 +35,16 @@
   links:
     - url: https://colab.research.google.com
       text: Google Colaboratory for cloud based python
+- title: VS Code
+  desc: The Integrated Development Environment (IDE) strongly recommended by CNERG
+  links:
+    - url: https://code.visualstudio.com
+      text: Link to the main VS Code page
+- title: Docker
+  desc: The main container system used for code development in CNERG
+  links:
+    - url: https://www.docker.com
+      text: Docker homepage
 - title: Zoom
   desc: Free video conferencing platform, available with UW NetID or private Gmail account
   links:
