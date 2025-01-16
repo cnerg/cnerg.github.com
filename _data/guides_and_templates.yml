@@ -21,7 +21,7 @@
       text: LaTeX document templates
     - url: https://github.com/cnerg/py-template
       text: Python project template
-  - title: CHTC
+- title: CHTC
   desc: Resources for using the Center for High Throughput Computing (CHTC) at UW-Madison
   links:
     - url: https://chtc.cs.wisc.edu/uw-research-computing/htc/guides.html
