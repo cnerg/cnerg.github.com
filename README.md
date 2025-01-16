@@ -105,6 +105,10 @@ You can then load the URL `localhost:4000` in a browser on your native system.
     ```
 
     2. Change to that directory
+    ```
+    cd <initials>
+    ```
+
     3. Add a photo of yourself by copying a file into this directory 
     ```
     cp <path to image> .
