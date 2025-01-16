@@ -69,6 +69,12 @@ maintainers who do not follow or enforce the Code of Conduct in good faith may
 face temporary or permanent repercussions as determined by other members of the
 project's leadership.
 
+## Mandatory Reporters
+
+Some members of CNERG may be considered "mandatory reporters" under Title IX
+compliance rules and may not be able to guarantee confidentiality under all
+circumstances.
+
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4,
