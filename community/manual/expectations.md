@@ -34,7 +34,7 @@ your graduate experience.
 You have a right to the following from me as your advisor:
 * Maintenance/support of your research tools and environment to maximize your
   research progress,
-* Provide financial support to attend conferences to present CNERG research,
+* Financial support to attend conferences to present CNERG research,
 * Timely review of your research products,
 * Access to my time to individually address questions and obstacles to your research,
 * Constructive assessment of the quality and progress of your research,
@@ -112,17 +112,17 @@ but will not edit or rewrite sections.
 Presenting your work at conferences is an important way to draw attention to
 your contributions and leads to valuable interactions with peers about your
 research.  We will work together to identify the most relevant conferences for
-your work and track the rhythm and deadlines to plan your participation. Both
-oral and poster presentations allow you to attach a personal element to your
-work and convince the audience to learn more about your research through your
-written publications. The quality of the presentations can be important in
-establishing your professional identity.  We will work together to identify the
-most important information to include and the most effective way to present it,
-both in oral and poster presentations. Over time you will become comfortable at
-presenting your work to peers in a variety of formats and environments. You are
-encouraged to submit your work to technical conferences and will receive
-reasonable travel support to present your work.  Travel to ANS Student
-conferences will generally not be supported.
+your work and track the frequency and submission deadlines in order to plan your
+participation. Both oral and poster presentations allow you to attach a personal
+element to your work and convince the audience to learn more about your research
+through your written publications. The quality of the presentations can be
+important in establishing your professional identity.  We will work together to
+identify the most important information to include and the most effective way to
+present it, in both oral and poster presentations. Over time you will become
+comfortable at presenting your work to peers in a variety of formats and
+environments. You are encouraged to submit your work to technical conferences
+and will receive reasonable travel support to present your work.  Travel to ANS
+Student conferences will generally not be supported.
 
 ## Community Interactions
 
@@ -150,19 +150,18 @@ Most CNERG meetings are setup to allow remote participation, intended for
 specific purposes including participating in meetings while living/working
 remotely or traveling. There may be rare circumstances where you need to work
 from home and choose to participate in a meeting, e.g. deliveries, illness, etc.
-In these situations, you should discuss whether it's appropriate to participate
-remotely in meetings with your advisor. Specifically, in the case of illness,
-please use your own judgment to determine whether you are well enough to
-participate. 
+In these situations, you should discuss with me whether it's appropriate to
+participate remotely in meetings. Specifically, in the case of illness, please
+use your own judgment to determine whether you are well enough to participate. 
 
 ### Office Hours
 
 Choosing when you will spend time in the office as a professional is a matter of
 finding a balance between your personal lifestyle and work habits and being
-available to your advisor and colleagues for impromptu meetings and
-consultations.  It is therefore necessary to establish some regular work-day
-hours, typically including the middle of the day, when you can generally be
-found in your office most days of the week.
+available to me and colleagues for impromptu meetings and consultations.  It is
+therefore necessary to establish some regular work-day hours, typically
+including the middle of the day, when you can generally be found in your office
+most days of the week.
 
 ### Software/Code Review
 
@@ -177,9 +176,9 @@ best practices and algorithm design.
 The CNERG community includes scientists and other staff who are a valuable part
 of your support network.  Whether or not they have a formal role in evaluating
 your work, their guidance and input to your work should be considered in the
-same way as guidance and input from your advisor.  Similarly, you should expect
-their role in your research to be similar to that of your advisor, including
-co-authorship on publications, when appropriate.
+same way as guidance and input from me.  Similarly, you should expect their role
+in your research to be similar to that of me, including co-authorship on
+publications, when appropriate.
 
 ### Working with PhD Committees
 
@@ -188,7 +187,7 @@ support your research progress.  While it may be common to select these
 individuals for the expertise that they will bring to evaluating your finished
 work, this same expertise is often useful during the process of completing that
 work.  There are likely to be facets of your research for which those committee
-members can provide more valuable advice than your advisor, and they should be
+members can provide more valuable advice than me, and they should be
 consulted on those topics.  This will both improve the quality of the final work
 and also keep your committee members abreast of your progress, helping them
 better understand your completed work with less effort.
@@ -226,12 +225,12 @@ pursuing.
 
 Students are welcome to pursue internships at companies and national
 laboratories during their graduate studies, but these should be discussed and
-coordinated with their advisor. Important considerations include academic
-milestones, student funding duration, and research deliverables.  As students
-progress in their research, there will be a strong incentive for internships
-to be aligned to their own research efforts to allow them to continue making
-progress during the internship. In some instances, students have identified
-their PhD research projects during an internship when early in their plan.
+coordinated with me. Important considerations include academic milestones,
+student funding duration, and research deliverables.  As students progress in
+their research, there will be a strong incentive for internships to be aligned
+to their own research efforts to allow them to continue making progress during
+the internship. In some instances, students have identified their PhD research
+projects during an internship when early in their plan.
 
 ### Technical Conferences and Professional Networks
 
