@@ -40,4 +40,9 @@
   links:
     - url: https://uwmadison.zoom.us
       text: UW-Madison Zoom account configuration
-      
+- title: Office365
+  desc: Used to manage a group calendar for meetings, etc.
+  links:
+    - url: https://outlook.office.com/calendar/group/office365.wisc.edu/cnerg/view/week
+      text: CNERG Shared Calendar
+
