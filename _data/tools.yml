@@ -14,7 +14,7 @@
     - url: https://www.zotero.org/user/register
       text: Sign up for a free account
 - title: Slack
-  desc: Message-based communication within CNERG and beyond
+  desc: Chat tool with channels, direct messaging, ad-hoc groups, and integration with other collaborative services
   links:
     - url: https://cnerg.slack.com/
       text: Visit the CNERG Slack workspace
@@ -35,3 +35,14 @@
   links:
     - url: https://colab.research.google.com
       text: Google Colaboratory for cloud based python
+- title: Zoom
+  desc: Free video conferencing platform, available with UW NetID or private Gmail account
+  links:
+    - url: https://uwmadison.zoom.us
+      text: UW-Madison Zoom account configuration
+- title: Office365
+  desc: Used to manage a group calendar for meetings, etc.
+  links:
+    - url: https://outlook.office.com/calendar/group/office365.wisc.edu/cnerg/view/week
+      text: CNERG Shared Calendar
+
