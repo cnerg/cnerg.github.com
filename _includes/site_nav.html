@@ -12,10 +12,13 @@
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/{{ item.url }}" >{{ item.title }}</a>
                 <div class="dropdown-menu" aria-labelledby="download">
             {% for subcategory in item.subcategories %}
-              {% if subcategory.subtitle == "divider" %}
-              <div class="dropdown-divider"></div>
+              {% if subcategory.subheading != null %}
+                  <div class="dropdown-header">{{ subcategory.subheading }}</div>
               {% else %}
               <div class="dropdown-item">
+              {% if subcategory.subtitle == "divider" %}
+                <div class="dropdown-divider"></div>
+              {% else %}
               {% if subcategory.suburl == null %}
                   <a target="{{ subcategory.target }}" href="{{ subcategory.exturl }}">
                     {% if subcategory.icon != null %}
@@ -35,6 +38,7 @@
                   {% if subcategory.github != null %}
                   <a href="{{ subcategory.github }}" target="_blank"><img class="cnerg-service-menu-icon" src="{{ site.baseurl }}/services/icons/github.svg"></a>
                   {% endif %}
+              {% endif %}
               {% endif %}
               </div>
               {% endif %}
