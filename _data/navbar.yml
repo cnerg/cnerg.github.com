@@ -60,6 +60,8 @@
 - title: "Software"
   url: "/software"
   subcategories:
+    - subheading: "CNERG-Managed"
+      target: "_blank"
     - subtitle: "Svalinn"
       exturl: "https://svalinn.github.io"
       target: "_blank"
@@ -80,9 +82,22 @@
       exturl: "https://fuelcycle.org"
       target: "_blank"
       github: "https://github.com/cyclus/cyclus"
-    - subtitle: "FRENSIE"
-      exturl: "https://github.com/FRENSIE/FRENSIE"
+    - subtitle: divider
+    - subheading: "Affiliates"
       target: "_blank"
+    - subtitle: Cardinal
+      exturl: "https://cardinal.cels.anl.gov/"
+      target: "_blank"
+      github: "https://github.com/neams-th-coe/cardinal"
+    - subtitle: OpenMC
+      exturl: "https://docs.openmc.org"
+      target: "_blank"
+      github: "https://github.com/openmc-dev/openmc"
+    - subtitle: MontePy
+      exturl: "https://www.montepy.org/en/stable/"
+      target: "_blank"
+      github: "https://github.com/idaholab/MontePy"
+
 
 - title: "Upload to CNERG"
   url: "upload.html"
