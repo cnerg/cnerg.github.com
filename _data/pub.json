@@ -1,5 +1,123 @@
 [
     {
+        "key": "S4IHG8IY",
+        "version": 31658,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/S4IHG8IY",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/S4IHG8IY",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/GPFIQ4TL",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 355325
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2259868,
+                "username": "micah.gale",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/micah.gale",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Gale et al.",
+            "parsedDate": "2025-04-27",
+            "numChildren": 1
+        },
+        "bibtex": "\n@inproceedings{gale_working_2025,\n\taddress = {Denver, CO},\n\ttitle = {Working with {Bézier} {Curves} as {Nonorthogonal} {Bases} for {Functional} {Expansion} {Tallies}},\n\tabstract = {Functional expansion tallies (FETs) are powerful tools for getting more information per history from Monte Carlo simulations, but in the past they have been constrained to orthogonal bases. Bézier curves are used widely in computer aided design (CAD) geometry kernels and could be well-suited for FETs due to their ability to assume many arbitrary shapes, but they use  onorthogonal bases. Recent developments in 2021 have made nonorthogonal FETs possible. The convergence of Bézier curve FETs in both polynomial order and number of samples is explored in this work. It is shown that these bases are well-suited for representing normal distributions and this opens the door to the possibility of other CAD-derived FET bases.},\n\tbooktitle = {{ANS} {M}\\&{C} 2021 {October} 3–7, 2021 i {Proceedings} of {The} {International} {Conference} on {Mathematics} and {Computational} {Methods} {Applied} to {Nuclear} {Science} and {Engineering} ({M}\\&{C} 2025)},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Gale, Micah and Shriwise, Patrick and Wilson, Paul},\n\tmonth = apr,\n\tyear = {2025},\n\tkeywords = {B-spline, Bernstein polynomials, Functional Expansion Tallies, NURBS, bezier, nonorthogonal FET},\n}\n",
+        "data": {
+            "key": "S4IHG8IY",
+            "version": 31658,
+            "itemType": "conferencePaper",
+            "title": "Working with Bézier Curves as Nonorthogonal Bases for Functional Expansion Tallies",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Micah",
+                    "lastName": "Gale"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Patrick",
+                    "lastName": "Shriwise"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "Functional expansion tallies (FETs) are powerful tools for getting more information per history from Monte Carlo simulations, but in the past they have been constrained to orthogonal bases. Bézier curves are used widely in computer aided design (CAD) geometry kernels and could be well-suited for FETs due to their ability to assume many arbitrary shapes, but they use  onorthogonal bases. Recent developments in 2021 have made nonorthogonal FETs possible. The convergence of Bézier curve FETs in both polynomial order and number of samples is explored in this work. It is shown that these bases are well-suited for representing normal distributions and this opens the door to the possibility of other CAD-derived FET bases.",
+            "date": "April 27-30 2025",
+            "proceedingsTitle": "ANS M&C 2021 October 3–7, 2021 i Proceedings of The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)",
+            "conferenceName": "International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)",
+            "place": "Denver, CO",
+            "publisher": "American Nuclear Society",
+            "volume": "",
+            "pages": "",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "B-spline"
+                },
+                {
+                    "tag": "Bernstein polynomials"
+                },
+                {
+                    "tag": "Functional Expansion Tallies"
+                },
+                {
+                    "tag": "NURBS"
+                },
+                {
+                    "tag": "bezier"
+                },
+                {
+                    "tag": "nonorthogonal FET"
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2025-02-05T04:00:23Z",
+            "dateModified": "2025-02-05T04:13:49Z"
+        }
+    },
+    {
         "key": "4R7ATE42",
         "version": 30807,
         "library": {
@@ -18380,158 +18498,6 @@
             "relations": {},
             "dateAdded": "2012-06-14T20:35:56Z",
             "dateModified": "2012-06-14T20:40:49Z"
-        }
-    },
-    {
-        "key": "M66T2GDZ",
-        "version": 21760,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/M66T2GDZ",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/M66T2GDZ",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/3TX6D6I2",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 746112
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Huff et al.",
-            "parsedDate": "2011-03",
-            "numChildren": 2
-        },
-        "bibtex": "\n@misc{huff_cyclus_2011,\n\ttype = {Poster},\n\ttitle = {Cyclus : {An} {Open}, {Modular}, {Next} {Generation} {Fuel} {Cycle} {Simulator} {Platform}},\n\tauthor = {Huff, Kathryn and Wilson, P. and Gidden, M. and Elmore, R.},\n\tmonth = mar,\n\tyear = {2011},\n\tkeywords = {CYCLUS, Development, Environmental Impact, Fuel Cycle, Materials, Next Generation, Nuclear Energy, Open Source, Production, Proliferation Resistance, Quality Control, Reliability, Simulation, Software},\n}\n",
-        "data": {
-            "key": "M66T2GDZ",
-            "version": 21760,
-            "itemType": "presentation",
-            "title": "Cyclus : An Open, Modular, Next Generation Fuel Cycle Simulator Platform",
-            "creators": [
-                {
-                    "creatorType": "presenter",
-                    "firstName": "Kathryn",
-                    "lastName": "Huff"
-                },
-                {
-                    "creatorType": "presenter",
-                    "firstName": "P.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "presenter",
-                    "firstName": "M.",
-                    "lastName": "Gidden"
-                },
-                {
-                    "creatorType": "presenter",
-                    "firstName": "R.",
-                    "lastName": "Elmore"
-                }
-            ],
-            "abstractNote": "",
-            "presentationType": "Poster",
-            "date": "Mar 2011",
-            "place": "",
-            "meetingName": "",
-            "url": "",
-            "accessDate": "",
-            "language": "",
-            "shortTitle": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "CYCLUS"
-                },
-                {
-                    "tag": "Development"
-                },
-                {
-                    "tag": "Environmental Impact"
-                },
-                {
-                    "tag": "Fuel Cycle"
-                },
-                {
-                    "tag": "Materials"
-                },
-                {
-                    "tag": "Next Generation"
-                },
-                {
-                    "tag": "Nuclear Energy"
-                },
-                {
-                    "tag": "Open Source"
-                },
-                {
-                    "tag": "Production"
-                },
-                {
-                    "tag": "Proliferation Resistance"
-                },
-                {
-                    "tag": "Quality Control"
-                },
-                {
-                    "tag": "Reliability"
-                },
-                {
-                    "tag": "Simulation"
-                },
-                {
-                    "tag": "Software"
-                }
-            ],
-            "collections": [
-                "VBKGWTWB",
-                "UKXV4KID"
-            ],
-            "relations": {
-                "dc:replaces": "http://zotero.org/groups/10058/items/VFAQUEKA",
-                "owl:sameAs": "http://zotero.org/users/144853/items/P4TSRES5"
-            },
-            "dateAdded": "2012-07-30T20:40:06Z",
-            "dateModified": "2013-03-20T21:23:12Z"
         }
     }
 ]
