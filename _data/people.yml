@@ -76,7 +76,7 @@
 - group: 'Alumni and Former CNERG members'
   people:
   - name: Tae Wook Ahn
-    url: https://www.linkedin.com/in/taewook-ahn/
+    linkedin: https://www.linkedin.com/in/taewook-ahn/
     year: 2010
     role: MS
     employer: Constellation
@@ -85,28 +85,29 @@
     year: 2011
     role: MS - Environment and Resources
     employer: BP
-    url: https://www.linkedin.com/in/marina-arabidze-7b025024/
+    linkedin: https://www.linkedin.com/in/marina-arabidze-7b025024/
   - name: Elliott Biondo
     url: https://www.ornl.gov/staff-profile/elliott-d-biondo
+    linkedin: https://www.linkedin.com/in/elliottbiondo/
     year: 2016
     role: PhD
     employer: Oak Ridge National Laboratory
     employer_url: https://www.ornl.gov
   - name: Philip Britt
-    url: https://www.linkedin.com/in/philip-britt-aa1a2b1b6/
+    linkedin: https://www.linkedin.com/in/philip-britt-aa1a2b1b6/
     year: 2021
     role: PhD
     employer: TerraPower
     employer_url: https://www.terrapower.com/
-    url: https://www.linkedin.com/in/philip-britt-aa1a2b1b6/
+    linkedin: https://www.linkedin.com/in/philip-britt-aa1a2b1b6/
   - name: Goeff Bull
-    url: https://www.linkedin.com/in/geoffreyrbull/
+    linkedin: https://www.linkedin.com/in/geoffreyrbull/
     year: 2005
     role: MS
     employer: US Army
     employer_url:
   - name: Drew Buys
-    url:
+    linkedin: https://www.linkedin.com/in/drew-buys-288931162/
     year: 2017
     role: Project Assistant
     employer: Booz Allen Hamilton
@@ -115,19 +116,19 @@
     year: 2021
     role: Researcher
   - name: Robert Carlsen
-    url:
+    linkedin: https://www.linkedin.com/in/robert-carlsen-67072718/
     year: 2016
     role: PhD
-    employer: Canonical
-    employer_url: https://canonical.com/
+    employer: Coreform
+    employer_url: https://coreform.com
   - name: Ryan Dailey
-    url: 
+    linkedin: https://www.linkedin.com/in/ryan-dailey-4b2295127/
     year: 2021
     role: MS
     employer: UW-Madison
     employer_url: https://reti.ep.wisc.edu
   - name: Andrew Davis
-    url:
+    linkedin: https://www.linkedin.com/in/andrew-davis-4690271b/
     year: 2012-2017
     role: Scientist
     employer: Culham Centre for Fusion Energy
@@ -144,29 +145,32 @@
     employer: Sandia National Laboratories
     employer_url: https://www.sandia.gov
   - name: Eric Edwards
-    url:
+    linkedin: https://www.linkedin.com/in/eric-edwards-phd-b00963135/
     year: 2007
     role: PhD
     employer: SHINE Technologies
     employer_url: https://shinefusion.com
   - name: Matthew Gidden
-    url: https://www.mattgidden.com
+    linkedin: https://www.linkedin.com/in/matthew-gidden-11a6366/
     year: 2015
     role: PhD
-    employer: IIASA
-    employer_url: https://iiasa.ac.at
-  - name: Ryan Grady
-    url:
+    employer: Pacific Northwest National Laboratory
+    employer_url: https://www.pnnl.gov
+  - name: Ryan (Grady) Grayson
+    linkedin: https://www.linkedin.com/in/rymgrayson/
     year: 2008
     role: MS
     employer: NorthStar Medical
     employer_url: https://www.northstarnm.com/
   - name: Nancy Granda-Duarte
+    linkedin: https://www.linkedin.com/in/nancy-granda-duarte-50b8b8104/
     role: PhD
     year: 2024
     employer: Commonwealth Fusion Systems
     employer_url: https://cfs.energy
   - name: Moataz Harb
+    linkedin: https://www.linkedin.com/in/moataz-harb-539090136/
+    url: https://www.ornl.gov/staff-profile/moataz-s-harb
     role: PhD
     year: 2019
     employer: Oak Ridge National Laboratory
@@ -174,11 +178,13 @@
   - name: Louis Hartono
     year: 2020
     role: Research Intern
+    linkedin: https://www.linkedin.com/in/louishartono/
+    employer: Slimstock
   - name: Chris Hoffman
     year: 2017
     role: MS
     employer: DNV
-    employer_url:
+    linkedin: https://www.linkedin.com/in/chris-hoffman-36633457/
   - name: Po Hu
     year: 2008
     role: PhD
@@ -187,27 +193,30 @@
   - name: "Syn Hubbard"
     role: Research Intern
     year: 2023-2024
+    linkedin: https://www.linkedin.com/in/synh/
   - name: Katy Huff
     url: https://katyhuff.github.io
     year: 2013
     role: PhD
     employer: University of Illinois
     employer_url: https://npre.illinois.edu
+    linkedin: https://www.linkedin.com/in/katyhuff/
   - name: Shai'Anthony Huff
     year: 2021
     role: Undergraduate intern
   - name: Paul Humrickhouse
-    url:
+    url: https://www.ornl.gov/staff-profile/paul-w-humrickhouse
     year: 2005
     role: MS
     employer: Oak Ridge National Laboratory
     employer_url: https://www.ornl.gov
   - name: Ahmad Ibrahim
-    url: https://www.linkedin.com/pub/ahmad-ibrahim/13/585/161
+    linkedin: https://www.linkedin.com/pub/ahmad-ibrahim/13/585/161
     year: 2012
     role: PhD
     employer: Oak Ridge National Laboratory
     employer_url: https://www.ornl.gov
+    url: https://www.ornl.gov/staff-profile/ahmad-m-ibrahim
   - name: Steven Jackson
     url:
     year: 2013
@@ -219,48 +228,58 @@
     year: 2018
     employer: SHINE Technologies
     employer_url: https://shinefusion.com
+    linkedin: https://www.linkedin.com/in/lucas-jacobson-b777a465/
   - name: C Grace Kelly
     year: 2021
     role: Undergraduate intern
+    linkedin: https://www.linkedin.com/in/c-grace-kelly-b9542b180/
   - name: Anatara Khadria
     url:
+    linkedin: https://www.linkedin.com/in/antara-khadria-030175b6/
     year: 2021
     role: MS
-    employer: Bates White Consulting
-    employer_url: https://www.bateswhite.com/
+    employer: Georgetown Climate Center
+    employer_url: https://www.georgetownclimate.org/
   - name: Brian Kiedrowski
     url: https://www.engin.umich.edu/ners/people/faculty/brian-kiedrowski
+    linkedin: 
     year: 2009
     role: PhD
     employer: University of Michigan
     employer_url: https://ners.engin.umich.edu
   - name: Kalin R. Kiesling
+    url: https://www.anl.gov/profile/kalin-kiesling
     role: PhD
     year: 2022
     employer: Argonne National Laboratory
     employer_url: https://www.anl.gov
+    linkedin:  https://www.linkedin.com/in/kalin-kiesling-32921951/
   - name: Matthew Klebenow
-    url:
+    linkedin: https://www.linkedin.com/in/klebenowm/
     year: 2013
     role: BS Engineering Physics
     employer: EPIC Systems
-    employer_url:
+    employer_url: https://www.epic.com/
   - name: Bradly Laufenberg
+    linkedin: https://www.linkedin.com/in/bradly-laufenberg-48b541171/
     year: 2021
     role: BS Nuclear Engineering
-    employer: Naval Nuclear Laboratory
-    employer_url: https://navalnuclearlab.energy.gov/
+    employer: Framatome
+    employer_url: https://www.framatome.com
   - name: "Kenneth Lee"
     role: "Undergraduate Intern"
     year: 2022-2023
+    linkedin: https://www.linkedin.com/in/kenneth-nagase-lee/
+    employer: Global Power Components
   - name: Piper Lincoln
-    url: https://www.linkedin.com/in/piperlincoln
+    linkedin: https://www.linkedin.com/in/piperlincoln
     year: 2020
     role: BS Engineering Mechanics
     employer: General Dynamics Mission Systems
     employer_url:
   - name: Meghan McGarry
     url:
+    linkedin: https://www.linkedin.com/in/meghan-m-8806476a/
     year: 2014-2017
     role: Scientist
     employer: Lawrence Livermore National Laboratory
@@ -272,26 +291,27 @@
     employer:
     employer_url:
   - name: Damien Moule
-    url:
+    linkedin: https://www.linkedin.com/in/damien-moule-41a69012a/
     year: 2011
     role: MS
     employer: Kinetrics
     employer_url: https://www.kinectrics.com/
   - name: Baptiste Mouginot
-    url: https://www.linkedin.com/in/baptiste-mouginot-75992520/
+    linkedin: https://www.linkedin.com/in/baptiste-mouginot-75992520/
     year: 2015-2021
     role: Scientist
     employer: BaM Scientific Consulting
-    employer_url:  
   - name: Matthew Nyberg
     year: 2021
     role: Undergraduate Intern
     employer: UW-Madison
     employer_url: https://reti.ep.wisc.edu
+    linkedin: https://www.linkedin.com/in/matthew-n-727a8011a/
   - name: "Katie Mummah"
     year: 2025
     role: PhD
     url: https://nuclearkatie.com
+    linkedin: https://www.linkedin.com/in/nuclearkatie/
     employer: Los Alamos National Lab
     employer_url: https://www.lanl.gov
   - name: "Ben Nibbelink"
@@ -299,71 +319,70 @@
     role: "Software Developer"
     employer: SAS
     employer_url: https://sas.com
+    linkedin: https://www.linkedin.com/in/ben-nibbelink/
   - name: Erik Nygaard
-    url:
+    linkedin: https://www.linkedin.com/in/erik-nygaard-60868535/
     year: 2011
     role: MS
     employer: BWXT Technologies
     employer_url: https://www.bwxt.com/
   - name: Kyle Oliver
     url: https://www.kyleoliver.net
+    linkedin: https://www.linkedin.com/in/kyle-matthew-oliver/
     year: 2009
     role: MS
-    employer: Learning Forte
-    employer_url: https://learningforte.com/
+    employer: Church Divinity School of the Pacific
+    employer_url: https://cdsp.edu/
   - name: Arrielle Opotowsky
     year: 2021
     role: PhD
+    linkedin: https://www.linkedin.com/in/aopotowsky/
     employer: TerraPower
     employer_url: https://www.terrapower.com
   - name: "Young Hui Park"
     year: 2021
     role: MS
   - name: Phiphat Phruksarojanakun
-    url:
     year: 2007
     role: PhD
     employer: Thai Office of Atoms for Peace
-    employer_url: https://www.oaep.go.th/index_en.php
+    employer_url: https://www.oap.go.th/en/hometh-english/
   - name: Eliot Pickhardt
-    url:
+    linkedin: https://www.linkedin.com/in/eliot-pickhardt/
     year: 2021
     role: Undergraduate Intern
     employer:
     employer_url:
   - name: Michael Priaulx
-    url:
     year: 2008
     role: MS
-    employer:
-    employer_url:
   - name: Yuehan Qin
     role: Undergraduate Intern
     year: 2022
     employer: University of Southern California
-  - name: "Bowen Quan"
-    role: "Undergraduate Researcher"
+    linkedin: https://www.linkedin.com/in/yuehan-qin-845071176/
+  - name: Bowen Quan
+    role: Undergraduate Researcher
     year: 2022-2024
   - name: Tracy Radel
-    url: https://www.linkedin.com/pub/tracy-radel/24/6b7/538
+    linkedin: https://www.linkedin.com/pub/tracy-radel/24/6b7/538
     year: 2007
     role: MS
     employer: US Nuclear Regulatory Commission
     employer_url: https://www.nrc.gov
   - name: Olzhas Rakhimov
-    url:
     year: 2014
     role: Research Intern
-    employer:
-    employer_url:
   - name: Eric Relson
+    linkedin: https://www.linkedin.com/in/eric-relson-5384a712/
     url: https://hackaday.io/hacker/614-gertlex
     year: 2013
     role: MS
     employer: Zebra Technologies
     employer_url: https://www.zebra.com/
   - name: Jeremy Roberts
-    url: https://www.mne.ksu.edu/people/roberts
+    url: https://www.mne.k-state.edu/about/people/faculty/roberts/
+    linkedin: https://www.linkedin.com/in/jeremy-roberts-ba8a99147/
     year: 2009
     role: MS
     employer: Kansas State University
@@ -372,55 +391,56 @@
     year: 2022
     role: MS
   - name: Ben Schmitt
-    url:
+    linkedin: https://www.linkedin.com/in/benjamin-schmitt-79518677/
     year: 2006
     role: MS
-    employer: Global Nuclear Fuels
-    employer_url:
+    employer: Framatome
+    employer_url: https://www.framatome.com
   - name: Andy Scholbrock
-    url:
+    linkedin: https://www.linkedin.com/in/andrew-scholbrock-88810131/
     year: 2009
     role: BS Engineering Physics
     employer: National Renewable Energy Laboratory
     employer_url: https://www.nrel.gov
   - name: Lane Schultz
-    url: https://www.linkedin.com/in/lane-schultz-983920236/
+    linkedin: https://www.linkedin.com/in/lane-schultz-983920236/
     year: 2017
     role: Research Intern
     employer: Sandia National Laboratories
     employer_url: https://www.sandia.gov
   - name: Anthony Scopatz
-    url:
+    linkedin: https://www.linkedin.com/in/scopatz/
     year: 2013-2015
     role: Scientist
     employer: Citadel
     employer_url: https://www.citadel.com
   - name: Owen Selles
-    url:
+    linkedin: https://www.linkedin.com/in/oaselles/
     year: 2017
     role: Project Assistant
     employer: New Jersey Highlands Council
-    employer_url: https://www.nj.gov/dep/
+    employer_url: https://www.nj.gov/njhighlands/
   - name: Tim Setter
-    url:
+    linkedin: https://www.linkedin.com/in/tim-setter-55225492/
     year: 2007
     role: MS
-    employer: Tennessee Valley Authority
-    employer_url:
+    employer: Rus-Set Farms, LLC
   - name: Patrick Shriwise
-    url: https://pshriwise.github.io
+    url: https://www.anl.gov/profile/patrick-c-shriwise
+    linkedin: https://www.linkedin.com/in/patrick-shriwise-682a23176/
     year: 2018
     role: PhD
     employer: Argonne National Laboratory
     employer_url: https://www.anl.gov
   - name: Stuart Slattery
-    url: https://www.csm.ornl.gov/newsite/cees.html
+    url: https://www.ornl.gov/staff-profile/stuart-r-slattery
     year: 2013
     role: PhD
     employer: Oak Ridge National Laboratory
     employer_url: https://www.ornl.gov
   - name: Rachel Slaybaugh
-    url: https://www.nuc.berkeley.edu/people/rachel-slaybaugh
+    url: https://www.dcvc.com/team/rachel-slaybaugh/
+    linkedin: https://www.linkedin.com/in/rslaybaugh/
     year: 2012
     role: PhD
     employer: DCVC
@@ -428,6 +448,7 @@
   - name: Brandon Smith
     year: 2011
     role: PhD
+    linkedin: https://www.linkedin.com/in/brandon-smith-7a1136235/
     employer: Los Alamos National Laboratory
     employer_url: https://www.lanl.gov
   - name: Patrick Snouffer
@@ -435,56 +456,52 @@
     role: MS
     employer: Zeno Power
     employer_url: https://www.zenopower.com/
+    linkedin: https://www.linkedin.com/in/patrick-snouffer-p-e-5948a511/
   - name: Chris Staum
-    url:
+    linkedin: https://www.linkedin.com/in/christopher-staum-29362246/
     year: 2006
     role: MS
     employer: Constellation
     employer_url: https://www.constellationenergy.com/
   - name: Samuel Stern
-    url:
+    linkedin: https://www.linkedin.com/in/sam-stern-693813122/
     year: 2019
     role: BS Engineering Physics
     employer: Accuray
     employer_url: https://www.accuray.com/
   - name: Jordan Stomps
     url: https://www.ornl.gov/staff-profile/jordan-r-stomps
+    linkedin: https://www.linkedin.com/in/jordan-stomps-556912b8/
     year: 2023
     role: PhD
     employer: Oak Ridge National Laboratory
     employer_url: https://www.ornl.gov
   - name: Alex Swenson
-    url:
+    linkedin: https://www.linkedin.com/in/alex-swenson-b5045769/
     year: 2019
     role: MS
     employer: GE-Hitachi
     employer_url: https://nuclear.gepower.com/
   - name: Zach Welch
-    url:
+    linkedin: https://www.linkedin.com/in/zach-welch-35b0a359/
     year: 2013-2015
     role: Research Support
     employer: Amazon
     employer_url: https://aboutamazon.com
   - name: Ellis Wilson
-    url:
     year: 2018
     role: BS Engineering Physics
-    employer:
-    employer_url:
   - name: John Xia
-    url:
     year: 2014-2015
     role: Researcher
-    employer:
-    employer_url:
   - name: Juie Zachman
-    url:
+    linkedin: https://www.linkedin.com/in/jzachman/
     year: 2013-2015
     role: Programmer
     employer: University of Wisconsin-Madison
     employer_url: https://www.wisc.edu
   - name: Xiaokang Zhang
-    url:
+    linkedin: https://www.linkedin.com/in/xiaokang-zhang-33748a160/
     year: 2017-2019
     role: Visiting Student Researcher
     employer: Hefei Institutes of Physical Science, Chinese Academy of Sciences
