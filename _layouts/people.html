@@ -15,9 +15,12 @@ layout: default
         {% for person in group.people %}
         <li>
           {% if person.url != null %}
-          <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>,
+          <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
           {% else %}
-          {{ person.name }},
+          {{ person.name }}
+          {% endif %}
+          {% if person.linkedin != null %}
+          <a href="{{ person.linkedin }}" target="_blank"><img class="cnerg-service-icon" src="{{ site.baseurl }}/services/icons/linkedin.png" alt="icon for linkedin"></a>
           {% endif %}
           ({{ person.role }}, {{ person.year }}), 
           {% if person.employer != null %}
