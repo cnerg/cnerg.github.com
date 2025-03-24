@@ -118,6 +118,176 @@
         }
     },
     {
+        "key": "SSKQZMRM",
+        "version": 31782,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/SSKQZMRM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/SSKQZMRM",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/WWI9VVC5",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 19465897
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Clark et al.",
+            "parsedDate": "2025-03-24",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{clark_breeder_2025,\n\ttitle = {Breeder blanket and tritium fuel cycle feasibility of the {Infinity} {Two} {Fusion} {Pilot} {Plant}},\n\tissn = {0022-3778, 1469-7807},\n\turl = {https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/breeder-blanket-and-tritium-fuel-cycle-feasibility-of-the-infinity-two-fusion-pilot-plant/248C49CCA0B7ABEA2F7BF7031290EDC4},\n\tdoi = {10.1017/S002237782500039X},\n\tabstract = {The selection, design, and optimization of a suitable blanket configuration for an advanced high-field stellarator concept is seen as a key feasibility issue and has been incorporated as a vital and necessary part of the Infinity Two Fusion Pilot Plant (FPP) physics basis. The focus of this work was to identify a baseline blanket which can be rapidly deployed for Infinity Two while also maintaining flexibility and opportunities for higher performing concepts later in development. Results from this analysis indicate that gas-cooled solid breeder designs such as the Helium Cooled Pebble Bed (HCPB) are the most promising concepts, primarily motivated by the neutronics performance at applicable blanket build depths, and the relatively mature technology basis. The lithium lead (PbLi) family of concepts, particularly the Dual Cooled Lithium Lead (DCLL), offer a compelling alternative to solid blanket concepts as they have synergistic developmental pathways while simultaneously mitigating much of the technical risk of those designs. Homogenized 3-dimensional neutronics analysis of the Infinity Two configuration indicates that the HCPB achieves an adequate tritium breeding ratio (TBR) (1.30 which enables sufficient margin at low engineering fidelity), and near appropriate shielding of the magnets (average fast fluence of 1.3 x 1018 n/cm2 per fullpower year). The thermal analysis indicates that reasonably high thermal efficiencies (greater than 30\\%) are readily achievable with the HCPB paired with a simple Rankine cycle using reheat. Finally, the tritium fuel cycle analysis for Infinity Two shows viability, with anticipated operational inventories of less than one kilogram (approximately 675 grams) and a required TBR (TBRreq) of less than 1.05 to maintain fuel self-sufficiency (approximately 1.023 for a driver blanket with no inventory doubling). Although further optimization and engineering design is still required, at the physics basis stage all initial targets have been met for the Infinity Two configuration.},\n\tlanguage = {en},\n\turldate = {2025-03-24},\n\tjournal = {Journal of Plasma Physics},\n\tauthor = {Clark, D. W. S. and Goh, B. and Ramirez, S. and Pflug, E. and Smandych, J. and Kessing, J. R. and Moreno, C. and Bohm, T. D. and Wilson, P. P. H. and Singh, L. and Cerfon, A. and Mandell, N. R. and Schmitt, J. C. and Guttenfelder, W. and Lau, C. and Tillack, M. S. and Canik, J. M.},\n\tmonth = mar,\n\tyear = {2025},\n\tpages = {1--48},\n}\n",
+        "data": {
+            "key": "SSKQZMRM",
+            "version": 31782,
+            "itemType": "journalArticle",
+            "title": "Breeder blanket and tritium fuel cycle feasibility of the Infinity Two Fusion Pilot Plant",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "D. W. S.",
+                    "lastName": "Clark"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "B.",
+                    "lastName": "Goh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "S.",
+                    "lastName": "Ramirez"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "E.",
+                    "lastName": "Pflug"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J.",
+                    "lastName": "Smandych"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. R.",
+                    "lastName": "Kessing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Moreno"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "T. D.",
+                    "lastName": "Bohm"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P. P. H.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "L.",
+                    "lastName": "Singh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Cerfon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "N. R.",
+                    "lastName": "Mandell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. C.",
+                    "lastName": "Schmitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "W.",
+                    "lastName": "Guttenfelder"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Lau"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M. S.",
+                    "lastName": "Tillack"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. M.",
+                    "lastName": "Canik"
+                }
+            ],
+            "abstractNote": "The selection, design, and optimization of a suitable blanket configuration for an advanced high-field stellarator concept is seen as a key feasibility issue and has been incorporated as a vital and necessary part of the Infinity Two Fusion Pilot Plant (FPP) physics basis. The focus of this work was to identify a baseline blanket which can be rapidly deployed for Infinity Two while also maintaining flexibility and opportunities for higher performing concepts later in development. Results from this analysis indicate that gas-cooled solid breeder designs such as the Helium Cooled Pebble Bed (HCPB) are the most promising concepts, primarily motivated by the neutronics performance at applicable blanket build depths, and the relatively mature technology basis. The lithium lead (PbLi) family of concepts, particularly the Dual Cooled Lithium Lead (DCLL), offer a compelling alternative to solid blanket concepts as they have synergistic developmental pathways while simultaneously mitigating much of the technical risk of those designs. Homogenized 3-dimensional neutronics analysis of the Infinity Two configuration indicates that the HCPB achieves an adequate tritium breeding ratio (TBR) (1.30 which enables sufficient margin at low engineering fidelity), and near appropriate shielding of the magnets (average fast fluence of 1.3 x 1018 n/cm2 per fullpower year). The thermal analysis indicates that reasonably high thermal efficiencies (greater than 30%) are readily achievable with the HCPB paired with a simple Rankine cycle using reheat. Finally, the tritium fuel cycle analysis for Infinity Two shows viability, with anticipated operational inventories of less than one kilogram (approximately 675 grams) and a required TBR (TBRreq) of less than 1.05 to maintain fuel self-sufficiency (approximately 1.023 for a driver blanket with no inventory doubling). Although further optimization and engineering design is still required, at the physics basis stage all initial targets have been met for the Infinity Two configuration.",
+            "publicationTitle": "Journal of Plasma Physics",
+            "volume": "",
+            "issue": "",
+            "pages": "1-48",
+            "date": "2025/03/24",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1017/S002237782500039X",
+            "ISSN": "0022-3778, 1469-7807",
+            "shortTitle": "",
+            "url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/breeder-blanket-and-tritium-fuel-cycle-feasibility-of-the-infinity-two-fusion-pilot-plant/248C49CCA0B7ABEA2F7BF7031290EDC4",
+            "accessDate": "2025-03-24T17:54:30Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Cambridge University Press",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2025-03-24T17:54:30Z",
+            "dateModified": "2025-03-24T17:54:30Z"
+        }
+    },
+    {
         "key": "4R7ATE42",
         "version": 30807,
         "library": {
@@ -18347,157 +18517,6 @@
             "relations": {},
             "dateAdded": "2012-06-14T20:42:25Z",
             "dateModified": "2013-03-05T18:05:50Z"
-        }
-    },
-    {
-        "key": "E2UFGTIW",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/E2UFGTIW",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/E2UFGTIW",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/EKRAGTA5",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 477228
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Ibrahim et al.",
-            "parsedDate": "2011-07",
-            "numChildren": 3
-        },
-        "bibtex": "\n@article{ibrahim_iter_2011,\n\ttitle = {{ITER} {Neutronics} {Modeling} {Using} {Hybrid} {Monte} {Carlo}/{Deterministic} and {CAD}-based {Monte} {Carlo} {Methods}},\n\tvolume = {175},\n\turl = {http://www.ornl.gov/sci/scale/pubs/RPSD_2010_Ibrahim.pdf},\n\tabstract = {The immense size and complex geometry of the ITER experimental fusion reactor require the development of special techniques that can accurately and efficiently perform neutronics simulations with minimal human effort. This paper shows the effect of the hybrid Monte Carlo (MC)/deterministic techniques - Consistent Adjoint Driven Importance Sampling (CADIS) and Forward-Weighted CADIS (FW-CADIS) - in enhancing the efficiency of the neutronics modeling of ITER and demonstrates the applicability of coupling these methods with computer-aided-design-based MC. Three quantities were calculated in this analysis: the total nuclear heating in the inboard leg of the toroidal field coils (TFCs), the prompt dose outside the biological shield, and the total neutron and gamma fluxes over a mesh tally covering the entire reactor. The use of FW-CADIS in estimating the nuclear heating in the inboard TFCs resulted in a factor of [approximately]275 increase in the MC figure of merit (FOM) compared with analog MC and a factor of [approximately]9 compared with the traditional methods of variance reduction. By providing a factor of [approximately]21 000 increase in the MC FOM, the radiation dose calculation showed how the CADIS method can be effectively used in the simulation of problems that are practically impossible using analog MC. The total flux calculation demonstrated the ability of FW-CADIS to simultaneously enhance the MC statistical precision throughout the entire ITER geometry. Collectively, these calculations demonstrate the ability of the hybrid techniques to accurately model very challenging shielding problems in reasonable execution times.},\n\tnumber = {1},\n\tjournal = {Nuclear Technology},\n\tauthor = {Ibrahim, A.M. and Mosher, S.W. and Evans, T.M. and Peplow, D.E. and Sawan, M.E. and Wilson, P.P.H. and Wagner, J.C.},\n\tmonth = jul,\n\tyear = {2011},\n\tkeywords = {CAD, Consistent Adjoint Driven Importance Sampling (CADIS), Deterministic, Forward Weighted CADIS (FW-CADIS), Fusion reactors, Hybrid, International Thermonuclear Reactor (ITER), Modeling, Monte Carlo Methods, Neutronics},\n\tpages = {251--258},\n}\n",
-        "data": {
-            "key": "E2UFGTIW",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "ITER Neutronics Modeling Using Hybrid Monte Carlo/Deterministic and CAD-based Monte Carlo Methods",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "A.M.",
-                    "lastName": "Ibrahim"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "S.W.",
-                    "lastName": "Mosher"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.M.",
-                    "lastName": "Evans"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "D.E.",
-                    "lastName": "Peplow"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M.E.",
-                    "lastName": "Sawan"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "J.C.",
-                    "lastName": "Wagner"
-                }
-            ],
-            "abstractNote": "The immense size and complex geometry of the ITER experimental fusion reactor require the development of special techniques that can accurately and efficiently perform neutronics simulations with minimal human effort. This paper shows the effect of the hybrid Monte Carlo (MC)/deterministic techniques - Consistent Adjoint Driven Importance Sampling (CADIS) and Forward-Weighted CADIS (FW-CADIS) - in enhancing the efficiency of the neutronics modeling of ITER and demonstrates the applicability of coupling these methods with computer-aided-design-based MC. Three quantities were calculated in this analysis: the total nuclear heating in the inboard leg of the toroidal field coils (TFCs), the prompt dose outside the biological shield, and the total neutron and gamma fluxes over a mesh tally covering the entire reactor. The use of FW-CADIS in estimating the nuclear heating in the inboard TFCs resulted in a factor of [approximately]275 increase in the MC figure of merit (FOM) compared with analog MC and a factor of [approximately]9 compared with the traditional methods of variance reduction. By providing a factor of [approximately]21 000 increase in the MC FOM, the radiation dose calculation showed how the CADIS method can be effectively used in the simulation of problems that are practically impossible using analog MC. The total flux calculation demonstrated the ability of FW-CADIS to simultaneously enhance the MC statistical precision throughout the entire ITER geometry. Collectively, these calculations demonstrate the ability of the hybrid techniques to accurately model very challenging shielding problems in reasonable execution times.",
-            "publicationTitle": "Nuclear Technology",
-            "volume": "175",
-            "issue": "1",
-            "pages": "251-258",
-            "date": "Jul 2011",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "",
-            "ISSN": "",
-            "shortTitle": "",
-            "url": "http://www.ornl.gov/sci/scale/pubs/RPSD_2010_Ibrahim.pdf",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "CAD"
-                },
-                {
-                    "tag": "Consistent Adjoint Driven Importance Sampling (CADIS)"
-                },
-                {
-                    "tag": "Deterministic"
-                },
-                {
-                    "tag": "Forward Weighted CADIS (FW-CADIS)"
-                },
-                {
-                    "tag": "Fusion reactors"
-                },
-                {
-                    "tag": "Hybrid"
-                },
-                {
-                    "tag": "International Thermonuclear Reactor (ITER)"
-                },
-                {
-                    "tag": "Modeling"
-                },
-                {
-                    "tag": "Monte Carlo Methods"
-                },
-                {
-                    "tag": "Neutronics"
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-14T20:35:56Z",
-            "dateModified": "2012-06-14T20:40:49Z"
         }
     }
 ]
