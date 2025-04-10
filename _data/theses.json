@@ -1,7 +1,7 @@
 [
     {
         "key": "5H9W7FRP",
-        "version": 31818,
+        "version": 31820,
         "library": {
             "type": "group",
             "id": 10058,
@@ -56,10 +56,10 @@
             "parsedDate": "2025-02",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{mummah_state-level_2025,\n\taddress = {Madison, WI, USA},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {State-{Level} {Nuclear} {Fuel} {Cycle} {Simulations} for {International} {Safeguards} {Applications}},\n\turl = {https://digital.library.wisc.edu/1711.dl/FN5YK4KUQOBGD9A},\n\tlanguage = {en},\n\tschool = {University of Wisconsin—Madison},\n\tauthor = {Mummah, Kathryn A.},\n\tmonth = feb,\n\tyear = {2025},\n}\n",
+        "bibtex": "\n@phdthesis{mummah_state-level_2025,\n\taddress = {Madison, WI, USA},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {State-{Level} {Nuclear} {Fuel} {Cycle} {Simulations} for {International} {Safeguards} {Applications}},\n\turl = {https://digital.library.wisc.edu/1711.dl/FN5YK4KUQOBGD9A},\n\tabstract = {With more countries considering nuclear power as part of their energy future than ever before, it is critical to ensure that all uses of nuclear materials for commercial nuclear energy are and remain peaceful. With this expanding mission, the International Atomic Energy Agency (IAEA) also faces an increase in data to process, without a correspondingly large increase in analyst time. Several tools were built on or within the Cyclus nuclear fuel cycle simulation platform that enable system-scale modeling and analysis to aid nuclear safeguards approaches and evaluation. \nSpecifically, this work addresses the lack of real or realistic data on State accountancy reports available to the R\\&D community by expanding the realistic behaviors able to be modeled within Cyclus (Chapter 4), allowing the tool to track nuclear material using material balance areas and/or key measurement points. Building on the enhanced simulation capabilities added to Cyclus, a tool was developed to generate accountancy reports in the exact style and form of reports submitted to the IAEA, often called Code 10 (Chapter 5). With the wealth of additional tools and capability resulting from these efforts, I demonstrate a new capability to simulate realistic nuclear fuel cycles on a number of systematically created synthetic States (Chapter 6) to aid in the larger mission of developing enhanced techniques for nuclear material accountancy report and declaration processing and diversion detection.},\n\tlanguage = {en},\n\tschool = {University of Wisconsin—Madison},\n\tauthor = {Mummah, Kathryn A.},\n\tmonth = feb,\n\tyear = {2025},\n}\n",
         "data": {
             "key": "5H9W7FRP",
-            "version": 31818,
+            "version": 31820,
             "itemType": "thesis",
             "title": "State-Level Nuclear Fuel Cycle Simulations for International Safeguards Applications",
             "creators": [
@@ -69,7 +69,7 @@
                     "lastName": "Mummah"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "With more countries considering nuclear power as part of their energy future than ever before, it is critical to ensure that all uses of nuclear materials for commercial nuclear energy are and remain peaceful. With this expanding mission, the International Atomic Energy Agency (IAEA) also faces an increase in data to process, without a correspondingly large increase in analyst time. Several tools were built on or within the Cyclus nuclear fuel cycle simulation platform that enable system-scale modeling and analysis to aid nuclear safeguards approaches and evaluation. \nSpecifically, this work addresses the lack of real or realistic data on State accountancy reports available to the R&D community by expanding the realistic behaviors able to be modeled within Cyclus (Chapter 4), allowing the tool to track nuclear material using material balance areas and/or key measurement points. Building on the enhanced simulation capabilities added to Cyclus, a tool was developed to generate accountancy reports in the exact style and form of reports submitted to the IAEA, often called Code 10 (Chapter 5). With the wealth of additional tools and capability resulting from these efforts, I demonstrate a new capability to simulate realistic nuclear fuel cycles on a number of systematically created synthetic States (Chapter 6) to aid in the larger mission of developing enhanced techniques for nuclear material accountancy report and declaration processing and diversion detection.",
             "thesisType": "PhD Nuclear Engineering and Engineering Physics",
             "university": "University of Wisconsin—Madison",
             "place": "Madison, WI, USA",
@@ -92,7 +92,7 @@
             ],
             "relations": {},
             "dateAdded": "2025-02-19T16:41:43Z",
-            "dateModified": "2025-04-10T02:48:45Z"
+            "dateModified": "2025-04-10T03:05:27Z"
         }
     },
     {
