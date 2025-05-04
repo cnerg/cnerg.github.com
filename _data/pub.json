@@ -1,7 +1,7 @@
 [
     {
         "key": "S4IHG8IY",
-        "version": 31658,
+        "version": 31889,
         "library": {
             "type": "group",
             "id": 10058,
@@ -42,13 +42,13 @@
                 }
             },
             "creatorSummary": "Gale et al.",
-            "parsedDate": "2025-04-27",
+            "parsedDate": "2025-04-29",
             "numChildren": 1
         },
-        "bibtex": "\n@inproceedings{gale_working_2025,\n\taddress = {Denver, CO},\n\ttitle = {Working with {Bézier} {Curves} as {Nonorthogonal} {Bases} for {Functional} {Expansion} {Tallies}},\n\tabstract = {Functional expansion tallies (FETs) are powerful tools for getting more information per history from Monte Carlo simulations, but in the past they have been constrained to orthogonal bases. Bézier curves are used widely in computer aided design (CAD) geometry kernels and could be well-suited for FETs due to their ability to assume many arbitrary shapes, but they use  onorthogonal bases. Recent developments in 2021 have made nonorthogonal FETs possible. The convergence of Bézier curve FETs in both polynomial order and number of samples is explored in this work. It is shown that these bases are well-suited for representing normal distributions and this opens the door to the possibility of other CAD-derived FET bases.},\n\tbooktitle = {{ANS} {M}\\&{C} 2021 {October} 3–7, 2021 i {Proceedings} of {The} {International} {Conference} on {Mathematics} and {Computational} {Methods} {Applied} to {Nuclear} {Science} and {Engineering} ({M}\\&{C} 2025)},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Gale, Micah and Shriwise, Patrick and Wilson, Paul},\n\tmonth = apr,\n\tyear = {2025},\n\tkeywords = {B-spline, Bernstein polynomials, Functional Expansion Tallies, NURBS, bezier, nonorthogonal FET},\n}\n",
+        "bibtex": "\n@inproceedings{gale_working_2025,\n\taddress = {Denver, CO},\n\ttitle = {Working with {Bézier} {Curves} as {Nonorthogonal} {Bases} for {Functional} {Expansion} {Tallies}},\n\tabstract = {Functional expansion tallies (FETs) are powerful tools for getting more information per history from Monte Carlo simulations, but in the past they have been constrained to orthogonal bases. Bézier curves are used widely in computer aided design (CAD) geometry kernels and could be well-suited for FETs due to their ability to assume many arbitrary shapes, but they use  onorthogonal bases. Recent developments in 2021 have made nonorthogonal FETs possible. The convergence of Bézier curve FETs in both polynomial order and number of samples is explored in this work. It is shown that these bases are well-suited for representing normal distributions and this opens the door to the possibility of other CAD-derived FET bases.},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Gale, Micah and Shriwise, Patrick and Wilson, Paul},\n\tmonth = apr,\n\tyear = {2025},\n\tkeywords = {B-spline, Bernstein polynomials, Functional Expansion Tallies, NURBS, bezier, nonorthogonal FET},\n}\n",
         "data": {
             "key": "S4IHG8IY",
-            "version": 31658,
+            "version": 31889,
             "itemType": "conferencePaper",
             "title": "Working with Bézier Curves as Nonorthogonal Bases for Functional Expansion Tallies",
             "creators": [
@@ -69,8 +69,8 @@
                 }
             ],
             "abstractNote": "Functional expansion tallies (FETs) are powerful tools for getting more information per history from Monte Carlo simulations, but in the past they have been constrained to orthogonal bases. Bézier curves are used widely in computer aided design (CAD) geometry kernels and could be well-suited for FETs due to their ability to assume many arbitrary shapes, but they use  onorthogonal bases. Recent developments in 2021 have made nonorthogonal FETs possible. The convergence of Bézier curve FETs in both polynomial order and number of samples is explored in this work. It is shown that these bases are well-suited for representing normal distributions and this opens the door to the possibility of other CAD-derived FET bases.",
-            "date": "April 27-30 2025",
-            "proceedingsTitle": "ANS M&C 2021 October 3–7, 2021 i Proceedings of The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)",
+            "date": "April 29 2025",
+            "proceedingsTitle": "",
             "conferenceName": "International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)",
             "place": "Denver, CO",
             "publisher": "American Nuclear Society",
@@ -110,11 +110,12 @@
                 }
             ],
             "collections": [
+                "EAMVHRJQ",
                 "UKXV4KID"
             ],
             "relations": {},
             "dateAdded": "2025-02-05T04:00:23Z",
-            "dateModified": "2025-02-05T04:13:49Z"
+            "dateModified": "2025-05-02T02:19:06Z"
         }
     },
     {
