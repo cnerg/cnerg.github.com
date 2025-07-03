@@ -18,7 +18,6 @@ services:
   bluesky: gonuke.bsky.social
   stackoverflow: "4102856/paul-wilson"
   facebook: gonuke
-  twitter: gonuke
 twitter-feed: true
 ---
 
@@ -42,7 +41,8 @@ Energy
 Future](http://energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pdf).
 More recently he has been an advisor to [LastEnergy](https://www.lastenergy.com/) 
 and served on the founding board of the 
-[Good Energy Collective](https://www.goodenergycollective.org/).
+[Good Energy Collective](https://www.goodenergycollective.org/). 
+
 
 Born in Edinburgh, Scotland, and raised in Fort Saskatchewan, Alberta, Canada,
 Paul specialized in the Nuclear Power option of the [Engineering Science
@@ -61,9 +61,14 @@ over 30 years and was the founding president of the [North American Young
 Generation in Nuclear [NA-YGN]](https://www.naygn.org). He represented the ANS
 and NA-YGN at the [international climate change negotiations](http://unfccc.int)
 in Buenos Aires, Argentina (1998), and Bonn, Germany (1999). He is also a member
-of the Canadian Nuclear Society, the American Society for Engineering
-Education, the Institute for Nuclear Materials Management, and the American
-Association for the Advancement of Science.
+of the Canadian Nuclear Society, the American Society for Engineering Education,
+the Institute for Nuclear Materials Management, and the American Association for
+the Advancement of Science. Paul was elevated to the rank of [Fellow of the
+American Nuclear Society](https://www.ans.org/honors/fellows/) in 2023.  He has
+also been awarded the ANS's [Arthur Holly Compton
+Award](https://www.ans.org/honors/award-compton/) (2018) and the [Young Members
+Advancement Award](https://www.ans.org/honors/award-yngmbradvance/) (2019).
+
 
 Paul is married and has two adult daughters. They enjoy biking around Madison’s paths,
 floating on its lakes, eating at its restaurants, and enjoying its theaters.
