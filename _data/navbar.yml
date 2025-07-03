@@ -12,6 +12,11 @@
 
 - title: Projects
   url: "projects/"
+  subcategories:
+    - subtitle: "Current Projects"
+      suburl: "projects/index.html"
+    - subtitle: "Past Projects"
+      suburl: "projects/archive.html"
 
 - title: "Manual"
   url: "/manual/"
