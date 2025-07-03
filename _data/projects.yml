@@ -36,17 +36,6 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   abstract:
   pubs:
   project_url: https://hifistell.plasma.princeton.edu/
-- short_code: t1e-blankets
-  area_code: nsa
-  title: Stellarator Breeding Blanket Design & Optimization
-  agency: t1e
-  start_date: 2023-12-10
-  end_date: 2025-03-31
-  lead_pi: pphw
-  cnerg_collaborators: [ 'tdb', 'cam', 'ep', 'jtds' ]
-  abstract:
-  pubs:
-  project_url:
 - short_code: frontend
   area_code: nfca
   title: Illuminating Emerging Supply Chain and Waste Management Challenges
@@ -73,19 +62,19 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   abstract:
   pubs: [ stomps_contrastive_2024 ]
   project_url: https://eti.gatech.edu
-- short_code: mtv
+- short_code: eti2
   area_code: nucsec
-  title: Consortium for Monitoring Technology and Verification (MTV)
+  title: Consortium for Enabling Technology and Innovation 2.0 (ETI 2.0)
   agency: nnsa
-  start_date: 2019-10-01
-  end_date: 2025-09-30
-  lead_pi: sap
+  start_date: 2025-03-15
+  end_date: 2030-03-14
+  lead_pi: ase
   cnerg_pi: pphw
-  cnerg_collaborators: [ kam, dj ]
-  other_collaborators:
+  cnerg_collaborators: ['sf']
+  other_collaborators: bl
   abstract:
-  pubs:
-  project_url: https://mtv.engin.umich.edu/
+  pubs: [ stomps_contrastive_2024 ]
+  project_url: https://eti.gatech.edu
 - short_code: abce
   area_code: econ
   title: Agent-based Capacity Expansion
@@ -122,6 +111,33 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   abstract:
   pubs:
   project_url:
+- short_code: inlfes
+  area_code: nsa
+  title: Foundational Research to Support Fusion Systems Safety Assessment
+  agency: fes
+  start_date: 2025-05-01
+  end_date: 2028-09-30
+  lead_pi: pc_s
+  cnerg_pi: pphw
+  cnerg_collaborators: klyg
+  other_collaborators:
+  abstract:
+  pubs:
+  project_url:
+- short_code: inlrafm
+  area_code: nsa
+  title: Neutron Activation Research For Reduced Activation Ferritic Martensitic Steels
+  agency: inlldrd
+  start_date: 2025-05-01
+  end_date: 2027-09-30
+  lead_pi: nw
+  cnerg_pi: pphw
+  cnerg_collaborators: jtds
+  other_collaborators: cah
+  abstract:
+  pubs:
+  project_url:
+
 
 # - short_code:
 #   area_code:
