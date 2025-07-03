@@ -10,6 +10,7 @@ title: Current CNERG Projects
 {% for area in site.data.areas %}
     {% assign area_projects = site.data.projects | where_exp: "project", "project.area_code == area.code" %}
     <section>
+    <hr>
     <h2>{{ area.title }}</h2>
     <div class="container">
         {% for project in area_projects %}
@@ -125,7 +126,6 @@ title: Current CNERG Projects
                     {% endif %}
                 {% endif %}
             </div>
-            <hr>
         {% endfor %}
     </div>
     </section>
