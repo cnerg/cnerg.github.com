@@ -18,7 +18,6 @@ services:
   bluesky: gonuke.bsky.social
   stackoverflow: "4102856/paul-wilson"
   facebook: gonuke
-twitter-feed: true
 ---
 
 Paul Wilson is the Grainger Professor of Nuclear Engineering and current
