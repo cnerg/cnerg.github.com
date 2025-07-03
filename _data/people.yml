@@ -30,10 +30,6 @@
     url: "mgale"
     role: "PhD Student"
     image: DSC_4522.jpg
-  - name: "Edgar Pflug"
-    url: "ep"
-    role: "MS Student"
-    image: pflug.jpg
   - name: "Joshua Smandych"
     url: "jtds"
     role: "MS Student"
@@ -342,6 +338,12 @@
   - name: "Young Hui Park"
     year: 2021
     role: MS
+  - name: "Edgar Pflug"
+    linkedin: https://www.linkedin.com/in/edgar-pflug/
+    year: 2025
+    role: MS
+    employer: Constellation
+    employer_url: https://www.constellationenergy.com/
   - name: Phiphat Phruksarojanakun
     year: 2007
     role: PhD
