@@ -56,10 +56,6 @@
     image: walid.jpeg
 - group: 'Undergraduate Students'
   people:
-  - name: "Damian Jilk"
-    url: "dj"
-    role: "Undergraduate Intern"
-    image: damian_jilk.jpg
   - name: "Gerson A. Esquivel Garcia"
     url: "gaeg"
     role: "Undergraduate Intern"
@@ -225,6 +221,10 @@
     employer: SHINE Technologies
     employer_url: https://shinefusion.com
     linkedin: https://www.linkedin.com/in/lucas-jacobson-b777a465/
+  - name: "Damian Jilk"
+    linkedin: https://www.linkedin.com/in/damian-jilk/
+    year: 2023-2025
+    role: Undergraduate Intern
   - name: C Grace Kelly
     year: 2021
     role: Undergraduate intern
