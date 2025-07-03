@@ -17,6 +17,6 @@
   end_date: 2025-09-30
   lead_pi: sap
   cnerg_pi: pphw
-  cnerg_collaborators: 
+  cnerg_collaborators: [ kam ]
   other_collaborators:
   project_url: https://mtv.engin.umich.edu/
