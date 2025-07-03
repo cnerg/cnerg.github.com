@@ -304,6 +304,7 @@
     employer_url: https://reti.ep.wisc.edu
     linkedin: https://www.linkedin.com/in/matthew-n-727a8011a/
   - name: "Katie Mummah"
+    code: kam
     year: 2025
     role: PhD
     url: https://nuclearkatie.com
@@ -339,6 +340,7 @@
     year: 2021
     role: MS
   - name: "Edgar Pflug"
+    code: ep
     linkedin: https://www.linkedin.com/in/edgar-pflug/
     year: 2025
     role: MS
@@ -356,6 +358,7 @@
     employer:
     employer_url:
   - name: Michael Priaulx
+    code: mp
     year: 2008
     role: MS
   - name: Yuehan Qin
@@ -472,6 +475,7 @@
     employer: Accuray
     employer_url: https://www.accuray.com/
   - name: Jordan Stomps
+    code: js
     url: https://www.ornl.gov/staff-profile/jordan-r-stomps
     linkedin: https://www.linkedin.com/in/jordan-stomps-556912b8/
     year: 2023
