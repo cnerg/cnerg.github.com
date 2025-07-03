@@ -34,7 +34,7 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   cnerg_collaborators: cam
   other_collaborators: crs
   abstract:
-  pubs:
+  pubs: [moreno_parastell_2024]
   project_url: https://hifistell.plasma.princeton.edu/
 - short_code: frontend
   area_code: nfca
@@ -57,7 +57,7 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   end_date: 2025-09-30
   lead_pi: ase
   cnerg_pi: pphw
-  cnerg_collaborators: ['sf', 'klyg']
+  cnerg_collaborators: ['js', 'sf', 'klyg']
   other_collaborators:
   abstract:
   pubs: [ stomps_contrastive_2024 ]
@@ -82,7 +82,7 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   start_date: 2020-09-01
   end_date: 2025-06-30
   lead_pi: pphw
-  cnerg_collaborators: keb
+  cnerg_collaborators: [ keb ]
   other_collaborators:
   abstract:
   pubs:
