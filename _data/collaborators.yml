@@ -42,4 +42,20 @@
   name: Prof. Sara Pozzi
   inst: University of Michigan
   url: https://ners.engin.umich.edu/people/pozzi-sara/
+- code: bl
+  name: Prof. Ben Lindley
+  inst: University of Wisconsin-Madison
+  url: https://engineering.wisc.edu/directory/profile/ben-lindley/
+- code: pc_s
+  name: P.C. Simon 
+  inst: Idaho National Laboratory
+  url: https://inl.gov/fusion-safety/staff/
+- code: cah
+  name: Prof. Charlie Hirst
+  inst: University of Wisconsin-Madison
+  url: https://engineering.wisc.edu/directory/profile/charlie-hirst/
+- code: nw
+  name: Nick Woolstenhulme
+  inst: Idaho National Laboratory
+  url: https://inl.gov/
 

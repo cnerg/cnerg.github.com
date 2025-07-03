@@ -1,0 +1,22 @@
+- short_code: t1e-blankets
+  area_code: nsa
+  title: Stellarator Breeding Blanket Design & Optimization
+  agency: t1e
+  start_date: 2023-12-10
+  end_date: 2025-03-31
+  lead_pi: pphw
+  cnerg_collaborators: [ 'tdb', 'cam', 'ep', 'jtds' ]
+  abstract:
+  pubs:
+  project_url:
+- short_code: mtv
+  area_code: nucsec
+  title: Consortium for Monitoring Technology and Verification (MTV)
+  agency: nnsa
+  start_date: 2019-10-01
+  end_date: 2025-09-30
+  lead_pi: sap
+  cnerg_pi: pphw
+  cnerg_collaborators: 
+  other_collaborators:
+  project_url: https://mtv.engin.umich.edu/
