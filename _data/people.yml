@@ -30,10 +30,6 @@
     url: "mgale"
     role: "PhD Student"
     image: DSC_4522.jpg
-  - name: "Edgar Pflug"
-    url: "ep"
-    role: "MS Student"
-    image: pflug.jpg
   - name: "Joshua Smandych"
     url: "jtds"
     role: "MS Student"
@@ -60,10 +56,6 @@
     image: walid.jpeg
 - group: 'Undergraduate Students'
   people:
-  - name: "Damian Jilk"
-    url: "dj"
-    role: "Undergraduate Intern"
-    image: damian_jilk.jpg
   - name: "Gerson A. Esquivel Garcia"
     url: "gaeg"
     role: "Undergraduate Intern"
@@ -229,6 +221,10 @@
     employer: SHINE Technologies
     employer_url: https://shinefusion.com
     linkedin: https://www.linkedin.com/in/lucas-jacobson-b777a465/
+  - name: "Damian Jilk"
+    linkedin: https://www.linkedin.com/in/damian-jilk/
+    year: 2023-2025
+    role: Undergraduate Intern
   - name: C Grace Kelly
     year: 2021
     role: Undergraduate intern
@@ -308,6 +304,7 @@
     employer_url: https://reti.ep.wisc.edu
     linkedin: https://www.linkedin.com/in/matthew-n-727a8011a/
   - name: "Katie Mummah"
+    code: kam
     year: 2025
     role: PhD
     url: https://nuclearkatie.com
@@ -342,6 +339,13 @@
   - name: "Young Hui Park"
     year: 2021
     role: MS
+  - name: "Edgar Pflug"
+    code: ep
+    linkedin: https://www.linkedin.com/in/edgar-pflug/
+    year: 2025
+    role: MS
+    employer: Constellation
+    employer_url: https://www.constellationenergy.com/
   - name: Phiphat Phruksarojanakun
     year: 2007
     role: PhD
@@ -354,6 +358,7 @@
     employer:
     employer_url:
   - name: Michael Priaulx
+    code: mp
     year: 2008
     role: MS
   - name: Yuehan Qin
@@ -470,6 +475,7 @@
     employer: Accuray
     employer_url: https://www.accuray.com/
   - name: Jordan Stomps
+    code: js
     url: https://www.ornl.gov/staff-profile/jordan-r-stomps
     linkedin: https://www.linkedin.com/in/jordan-stomps-556912b8/
     year: 2023

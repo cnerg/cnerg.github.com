@@ -10,3 +10,7 @@
   name: Unfunded project; students may be supported by various sources
 - agency: just
   name: Just Fusion funded by WARF  
+- agency: fes
+  name: US Department of Energy, Office of Fusion Energy Sciences
+- agency: inlldrd
+  name: Idaho National Laboratory Laboratory Directed Research and Development (LDRD)
