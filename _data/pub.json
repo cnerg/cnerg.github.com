@@ -1,5 +1,304 @@
 [
     {
+        "key": "6ZXRX62P",
+        "version": 32189,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/6ZXRX62P",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/6ZXRX62P",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/BNJDMMK9",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 3249818
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Hegna et al.",
+            "parsedDate": "2025-06",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{hegna_infinity_2025,\n\ttitle = {The {Infinity} {Two} fusion pilot plant baseline plasma physics design},\n\tvolume = {91},\n\tissn = {0022-3778, 1469-7807},\n\turl = {https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/infinity-two-fusion-pilot-plant-baseline-plasma-physics-design/EFAA8FF6D37C95272E9F53AEFFE087A7},\n\tdoi = {10.1017/S0022377825000364},\n\tabstract = {We provide an assessment of the Infinity Two fusion pilot plant (FPP) baseline plasma physics design. Infinity Two is a four-field period, aspect ratio 𝐴=10A=10A = 10, quasi-isodynamic stellarator with improved confinement appealing to a max-𝐽JJ approach, elevated plasma density and high magnetic fields (⟨𝐵⟩=9⟨B⟩=9 {\\textbackslash}langle B{\\textbackslash}rangle = 9 T). Here 𝐽JJ denotes the second adiabatic invariant. At the envisioned operating point (800800800 MW deuterium-tritium (DT) fusion), the configuration has robust magnetic surfaces based on magnetohydrodynamic (MHD) equilibrium calculations and is stable to both local and global MHD instabilities. The configuration has excellent confinement properties with small neoclassical transport and low bootstrap current ({\\textbar}𝐼𝑏𝑜𝑜𝑡𝑠𝑡𝑟𝑎𝑝{\\textbar}∼2{\\textbar}Ibootstrap{\\textbar}∼2{\\textbar}I\\_\\{bootstrap\\}{\\textbar} {\\textbackslash}sim 2 kA). Calculations of collisional alpha-particle confinement in a DT FPP scenario show small energy losses to the first wall ({\\textless}1.5\\%{\\textless}1.5\\%\\{{\\textbackslash}lt\\}1.5 {\\textbackslash},{\\textbackslash}\\%) and stable energetic particle/Alfvén eigenmodes at high ion density. Low turbulent transport is produced using a combination of density profile control consistent with pellet fueling and reduced stiffness to turbulent transport via three-dimensional shaping. Transport simulations with the T3D-GX-SFINCS code suite with self-consistent turbulent and neoclassical transport predict that the DT fusion power𝑃𝑓𝑢𝑠=800Pfus=800P\\_\\{\\{fus\\}\\}=800 MW operating point is attainable with high fusion gain (𝑄=40Q=40Q=40) at volume-averaged electron densities 𝑛𝑒≈2×1020ne≈2×1020n\\_e{\\textbackslash}approx 2 {\\textbackslash}times 10{\\textasciicircum}\\{20\\} m−3−3{\\textasciicircum}\\{-3\\}, below the Sudo density limit. Additional transport calculations show that an ignited (𝑄=∞Q=∞Q={\\textbackslash}infty) solution is available at slightly higher density (2.2×10202.2×10202.2 {\\textbackslash}times 10{\\textasciicircum}\\{20\\} m−3−3{\\textasciicircum}\\{-3\\}) with 𝑃𝑓𝑢𝑠=1.5Pfus=1.5P\\_\\{\\{fus\\}\\}=1.5 GW. The magnetic configuration is defined by a magnetic coil set with sufficient room for an island divertor, shielding and blanket solutions with tritium breeding ratios (TBR) above unity. An optimistic estimate for the gas-cooled solid breeder designed helium-cooled pebble bed is TBR ∼1.3∼1.3{\\textbackslash}sim 1.3. Infinity Two satisfies the physics requirements of a stellarator fusion pilot plant.},\n\tlanguage = {en},\n\tnumber = {3},\n\turldate = {2025-08-04},\n\tjournal = {Journal of Plasma Physics},\n\tauthor = {Hegna, C. C. and Anderson, D. T. and Andrew, E. C. and Ayilaran, A. and Bader, A. and Bohm, T. D. and Mata, K. Camacho and Canik, J. M. and Carbajal, L. and Cerfon, A. and Clark, D. W. S. and Cooper, W. A. and Davila, N. M. and Dorland, W. D. and Duff, J. M. and Goh, B. and Guttenfelder, W. and Holland, C. and Huet, D. P. and Kessing, J. and Knilans, M. and Landreman, M. and Lau, C. and Bars, G. Le and Malkus, A. and Mandell, N. R. and Medasani, B. and Moreno, C. and Morrissey, J. and Pedersen, T. S. and Pflug, E. and Ramirez, S. and Smandych, J. and Schmitt, J. C. and Sinha, P. and Singh, L. and Suzuki, Y. and Tillack, M. S. and Rodriguez, J. Varela and Willis, K. and Wilson, P. P. H.},\n\tmonth = jun,\n\tyear = {2025},\n\tkeywords = {Fusion plasma, Plasma confinement},\n\tpages = {E76},\n}\n",
+        "data": {
+            "key": "6ZXRX62P",
+            "version": 32189,
+            "itemType": "journalArticle",
+            "title": "The Infinity Two fusion pilot plant baseline plasma physics design",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "C. C.",
+                    "lastName": "Hegna"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "D. T.",
+                    "lastName": "Anderson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "E. C.",
+                    "lastName": "Andrew"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Ayilaran"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Bader"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "T. D.",
+                    "lastName": "Bohm"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "K. Camacho",
+                    "lastName": "Mata"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. M.",
+                    "lastName": "Canik"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "L.",
+                    "lastName": "Carbajal"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Cerfon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "D. W. S.",
+                    "lastName": "Clark"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "W. A.",
+                    "lastName": "Cooper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "N. M.",
+                    "lastName": "Davila"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "W. D.",
+                    "lastName": "Dorland"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. M.",
+                    "lastName": "Duff"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "B.",
+                    "lastName": "Goh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "W.",
+                    "lastName": "Guttenfelder"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Holland"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "D. P.",
+                    "lastName": "Huet"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J.",
+                    "lastName": "Kessing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Knilans"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Landreman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Lau"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "G. Le",
+                    "lastName": "Bars"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Malkus"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "N. R.",
+                    "lastName": "Mandell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "B.",
+                    "lastName": "Medasani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Moreno"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J.",
+                    "lastName": "Morrissey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "T. S.",
+                    "lastName": "Pedersen"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "E.",
+                    "lastName": "Pflug"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "S.",
+                    "lastName": "Ramirez"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J.",
+                    "lastName": "Smandych"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. C.",
+                    "lastName": "Schmitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P.",
+                    "lastName": "Sinha"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "L.",
+                    "lastName": "Singh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Y.",
+                    "lastName": "Suzuki"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M. S.",
+                    "lastName": "Tillack"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. Varela",
+                    "lastName": "Rodriguez"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "K.",
+                    "lastName": "Willis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P. P. H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "We provide an assessment of the Infinity Two fusion pilot plant (FPP) baseline plasma physics design. Infinity Two is a four-field period, aspect ratio 𝐴=10A=10A = 10, quasi-isodynamic stellarator with improved confinement appealing to a max-𝐽JJ approach, elevated plasma density and high magnetic fields (⟨𝐵⟩=9⟨B⟩=9 \\langle B\\rangle = 9 T). Here 𝐽JJ denotes the second adiabatic invariant. At the envisioned operating point (800800800 MW deuterium-tritium (DT) fusion), the configuration has robust magnetic surfaces based on magnetohydrodynamic (MHD) equilibrium calculations and is stable to both local and global MHD instabilities. The configuration has excellent confinement properties with small neoclassical transport and low bootstrap current (|𝐼𝑏𝑜𝑜𝑡𝑠𝑡𝑟𝑎𝑝|∼2|Ibootstrap|∼2|I_{bootstrap}| \\sim 2 kA). Calculations of collisional alpha-particle confinement in a DT FPP scenario show small energy losses to the first wall (<1.5%<1.5%{\\lt}1.5 \\,\\%) and stable energetic particle/Alfvén eigenmodes at high ion density. Low turbulent transport is produced using a combination of density profile control consistent with pellet fueling and reduced stiffness to turbulent transport via three-dimensional shaping. Transport simulations with the T3D-GX-SFINCS code suite with self-consistent turbulent and neoclassical transport predict that the DT fusion power𝑃𝑓𝑢𝑠=800Pfus=800P_{{fus}}=800 MW operating point is attainable with high fusion gain (𝑄=40Q=40Q=40) at volume-averaged electron densities 𝑛𝑒≈2×1020ne≈2×1020n_e\\approx 2 \\times 10^{20} m−3−3^{-3}, below the Sudo density limit. Additional transport calculations show that an ignited (𝑄=∞Q=∞Q=\\infty) solution is available at slightly higher density (2.2×10202.2×10202.2 \\times 10^{20} m−3−3^{-3}) with 𝑃𝑓𝑢𝑠=1.5Pfus=1.5P_{{fus}}=1.5 GW. The magnetic configuration is defined by a magnetic coil set with sufficient room for an island divertor, shielding and blanket solutions with tritium breeding ratios (TBR) above unity. An optimistic estimate for the gas-cooled solid breeder designed helium-cooled pebble bed is TBR ∼1.3∼1.3\\sim 1.3. Infinity Two satisfies the physics requirements of a stellarator fusion pilot plant.",
+            "publicationTitle": "Journal of Plasma Physics",
+            "volume": "91",
+            "issue": "3",
+            "pages": "E76",
+            "date": "2025/06",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1017/S0022377825000364",
+            "ISSN": "0022-3778, 1469-7807",
+            "shortTitle": "",
+            "url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/infinity-two-fusion-pilot-plant-baseline-plasma-physics-design/EFAA8FF6D37C95272E9F53AEFFE087A7",
+            "accessDate": "2025-08-04T15:46:28Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Cambridge University Press",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Fusion plasma",
+                    "type": 1
+                },
+                {
+                    "tag": "Plasma confinement",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2025-08-04T15:46:28Z",
+            "dateModified": "2025-08-04T15:46:28Z"
+        }
+    },
+    {
         "key": "S4IHG8IY",
         "version": 31889,
         "library": {
@@ -18391,133 +18690,6 @@
             "relations": {},
             "dateAdded": "2012-08-01T17:53:54Z",
             "dateModified": "2012-08-01T17:56:10Z"
-        }
-    },
-    {
-        "key": "7AINPC8B",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/7AINPC8B",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/7AINPC8B",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/TW22BJ7W",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 397083
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 708524,
-                "username": "erelson",
-                "name": "Eric Relson",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/erelson",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Kiedrowski et al.",
-            "parsedDate": "2011-07",
-            "numChildren": 2
-        },
-        "bibtex": "\n@article{kiedrowski_adjoint-weighted_2011,\n\ttitle = {Adjoint-{Weighted} {Tallies} for k-{Eigenvalue} {Calculations} with {Continuous}-{Energy} {Monte} {Carlo}},\n\tvolume = {168},\n\tabstract = {A Monte Carlo method is developed that performs adjoint-weighted tallies in continuous-energy k-eigenvalue calculations. Each contribution to a tally score is weighted by an estimate of the relative magnitude of the fundamental adjoint mode, by way of the iterated fission probability, at the phase-space location of the contribution. The method is designed around the power iteration method such that no additional random walks are necessary, resulting in a minimal increase in computational time. The method is implemented in the Monte Carlo N-Particle (MCNP) code. These adjoint-weighted tallies are used to calculate adjoint-weighted fluxes, point reactor kinetics parameters, and reactivity changes from first-order perturbation theory. The results are benchmarked against discrete ordinates calculations, experimental measurements, and direct Monte Carlo calculations.},\n\tnumber = {3},\n\tjournal = {Nuclear Science and Engineering},\n\tauthor = {Kiedrowski, B.C. and Brown, F.B. and Wilson, P.P.H.},\n\tmonth = jul,\n\tyear = {2011},\n\tkeywords = {Energy, Kinetics, MCNP, Monte Carlo Methods, k-Eigenvalue},\n\tpages = {226--241},\n}\n",
-        "data": {
-            "key": "7AINPC8B",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Adjoint-Weighted Tallies for k-Eigenvalue Calculations with Continuous-Energy Monte Carlo",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "B.C.",
-                    "lastName": "Kiedrowski"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "F.B.",
-                    "lastName": "Brown"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "A Monte Carlo method is developed that performs adjoint-weighted tallies in continuous-energy k-eigenvalue calculations. Each contribution to a tally score is weighted by an estimate of the relative magnitude of the fundamental adjoint mode, by way of the iterated fission probability, at the phase-space location of the contribution. The method is designed around the power iteration method such that no additional random walks are necessary, resulting in a minimal increase in computational time. The method is implemented in the Monte Carlo N-Particle (MCNP) code. These adjoint-weighted tallies are used to calculate adjoint-weighted fluxes, point reactor kinetics parameters, and reactivity changes from first-order perturbation theory. The results are benchmarked against discrete ordinates calculations, experimental measurements, and direct Monte Carlo calculations.",
-            "publicationTitle": "Nuclear Science and Engineering",
-            "volume": "168",
-            "issue": "3",
-            "pages": "226-241",
-            "date": "Jul 2011",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "",
-            "DOI": "",
-            "ISSN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Energy"
-                },
-                {
-                    "tag": "Kinetics"
-                },
-                {
-                    "tag": "MCNP"
-                },
-                {
-                    "tag": "Monte Carlo Methods"
-                },
-                {
-                    "tag": "k-Eigenvalue"
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-14T20:42:25Z",
-            "dateModified": "2013-03-05T18:05:50Z"
         }
     }
 ]
