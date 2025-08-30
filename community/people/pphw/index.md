@@ -68,10 +68,20 @@ also been awarded the ANS's [Arthur Holly Compton
 Award](https://www.ans.org/honors/award-compton/) (2018) and the [Young Members
 Advancement Award](https://www.ans.org/honors/award-yngmbradvance/) (2019).
 
-
 Paul is married and has two adult daughters. They enjoy biking around Madison’s paths,
 floating on its lakes, eating at its restaurants, and enjoying its theaters.
 
 * Students who would like to request a reference should review [these
 guidelines]( {% link community/people/pphw/reference_request.md %}).
 * [A shorter bio]({% link community/people/pphw/nontech.md %})
+
+#### Recent Media Appearances
+* 2025-07-24: [WTMJ Morning News: How Soon Will We Have Nuclear Energy in Our House?](https://player.amperwavepodcasting.com/?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7539089_2025-07-24-165629%2Fitunes_akrgV)
+* 2025-07-22: [WISC-TV: Nuclear energy plants could come to Wisconsin](https://www.channel3000.com/video/nuclear-energy-plants-could-come-to-wisconsin/video_6749f029-132c-5f1d-9f5a-7dbb0ee7502b.html)
+* 2025-07-09: [WTMJ Point Taken](https://player.amperwavepodcasting.com/?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7512623_2025-07-09-185023%2Fitunes_akrgV)
+* 2025-06-25: [Central Current: New York wants clean energy. Is nuclear energy the answer?](https://centralcurrent.org/new-york-wants-clean-energy-is-nuclear-energy-the-answer/)
+* 2025-03-11: [DW: Is this forgotten nuclear tech due for a second change?](https://www.youtube.com/watch?v=ttfonYWDvm4)
+* 2025-03-06: [Scientific American Opinion: Killing a Nuclear Watchdog’s Independence Threatens Disaster](https://www.scientificamerican.com/article/killing-a-nuclear-watchdogs-independence-threatens-disaster/)
+* 2025-02-13: [WPR: 2 GOP state lawmakers pushing to advance nuclear energy in Wisconsin](https://www.wpr.org/news/gop-state-lawmakers-pushing-to-advance-nuclear-energy-wisconsin)
+* 2024-09-19: [Titans of Nuclear: Ep. 456](https://www.lastenergy.com/titansofnuclear/experts/paulwilson)
+* 2024-08-19: [Michigan Public Radio: Southeast Michigan facility will soon house waste from the Manhattan Project](https://www.michiganpublic.org/environment-climate-change/2024-08-19/southeast-michigan-facility-will-soon-house-waste-from-the-manhattan-project)
