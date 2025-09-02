@@ -1,15 +1,15 @@
-- date: "2022-05-24"
-  venue: Wisconsin Technology Council
-  venue_url: https://www.wisconsintechnologycouncil.com/
-  title: "Nuclear Power: Part of a decarbonized future?"
-  url: https://madison.com/business/tom-still-next-gen-nuclear-power-can-augment-renewable-energy-sources/article_9d447141-2bec-50d3-8ebd-1a85f80d4413.html
-  person: Paul Wilson
-  person_dir: pphw
 - date: "2022-08-01"
   venue: Nuclear Innovation Bootcamp
   venue_url: https://www.nuclearinnovationbootcamp.org/
   title: "Nuclear Energy in a Shifting Landscape"
   url: https://docs.google.com/presentation/d/e/2PACX-1vRFlsQkLOL6GRvF4vqt84gTDkfb3SS5uBOuZ0yVvlyZL9JFILpnfwSUJZDnHyyYOynDrqlLU27fcviQ/pub
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2022-05-24"
+  venue: Wisconsin Technology Council
+  venue_url: https://www.wisconsintechnologycouncil.com/
+  title: "Nuclear Power: Part of a decarbonized future?"
+  url: https://madison.com/business/tom-still-next-gen-nuclear-power-can-augment-renewable-energy-sources/article_9d447141-2bec-50d3-8ebd-1a85f80d4413.html
   person: Paul Wilson
   person_dir: pphw
 - date: "2022-05-18"
@@ -87,6 +87,27 @@
   venue_url: http://pserc.wisc.edu
   title: Nuclear Energy in a Shifting Landscape
   url: https://docs.google.com/presentation/d/e/2PACX-1vRVrUJTfJvIExxwhCssUtrcwNtv4a8hL4hxe99Mvh0MZyWkQkTZjUIHCAQ_TFp6Nt85KDsEWP2fiPQP/pub
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2023-06-23"
+  venue: Midwest Renewable Energy Associate Energy Faire
+  venue_url: https://midwestrenew.org/
+  title: "A Role for Nuclear Energy in a Low-Carbon Future"
+  url: https://docs.google.com/presentation/d/e/2PACX-1vQSAlv9Ncsse3GjADDFSkuB9QhePF8mvKuXw-6QlvjKWTBZMffl9y8jyCEhIslgGtqJoa3nf9Q0oMzA/pub
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2025-08-07"
+  venue: Minnesota Rural Electric Associate Energy Issues Summit
+  venue_url: https://association.mrea.org/events/Details/2025-energy-issues-summit-reception-and-tradeshow-1168568?sourceTypeId=Hub
+  title: "Nuclear Energy in a Shifting Landscape"
+  url: https://docs.google.com/presentation/d/e/2PACX-1vTV9L1DK8l_orcS3k7HpZYikPFyn3hqNFITUBtjSu5evMf_RbMChjrk45dZhThFCK36ToQN8VLsSNXe/pub
+  person: Paul Wilson
+  person_dir: pphw
+- date: "2025-06-17"
+  venue: North Central Electric League CEO Executive Symposium
+  venue_url: https://www.ncel.org/
+  title: "Update on Nuclear Energy Technology"
+  url: https://docs.google.com/presentation/d/e/2PACX-1vSccvVdEKYOSmvtVp3zVysCeW9qaW17GjDIMQjWWXkIzj64Gzu9ZbCVrR1930QxsHyvyS6XX8q943PZ/pub
   person: Paul Wilson
   person_dir: pphw
 

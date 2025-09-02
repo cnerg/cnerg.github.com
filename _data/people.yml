@@ -11,6 +11,10 @@
     url: "emd"
     role: "Visiting Researcher"
     image: emd.jpg
+  - name: "Eitan Weinstein"
+    url: "ew"
+    role: "Research Technician"
+    image: EitanHeadshot.jpg
 
 - group: 'Graduate Students'
   people:
@@ -60,10 +64,6 @@
     url: "gaeg"
     role: "Undergraduate Intern"
     image: Gerson.jpg
-  - name: "Eitan Weinstein"
-    url: "ew"
-    role: "Undergraduate Intern"
-    image: EitanHeadshot.jpg
 
 - group: 'Alumni and Former CNERG members'
   people:
