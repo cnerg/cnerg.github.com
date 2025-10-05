@@ -824,7 +824,7 @@
     },
     {
         "key": "YK6J2YM6",
-        "version": 31579,
+        "version": 32275,
         "library": {
             "type": "group",
             "id": 10058,
@@ -871,7 +871,7 @@
         "bibtex": "\n@inproceedings{gross_exploring_2024,\n\taddress = {San Francisco, CA},\n\ttitle = {Exploring {Effects} of {Homogenization} on an {OpenMC} {Depletion} {Analysis} of a {TRISO} {Fueled}, {Helium} {Cooled} {Microreactor}},\n\turl = {https://www.researchgate.net/publication/380127457_Exploring_Effects_of_Homogenization_on_an_OpenMC_Depletion_Analysis_of_a_TRISO_Fueled_Helium_Cooled_Microreactor?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJob21lIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ},\n\tdoi = {10.13182/PHYSOR24-43599},\n\tbooktitle = {The {International} {Conference} on the {Physics} of {Reactors}},\n\tauthor = {Gross, Lewis and {Patrick C. Shriwise} and Lindley, Ben and Wilson, Paul P. H.},\n\tmonth = apr,\n\tyear = {2024},\n\tpages = {10},\n}\n",
         "data": {
             "key": "YK6J2YM6",
-            "version": 31579,
+            "version": 32275,
             "itemType": "conferencePaper",
             "title": "Exploring Effects of Homogenization on an OpenMC Depletion Analysis of a TRISO Fueled, Helium Cooled Microreactor",
             "creators": [
@@ -918,7 +918,8 @@
             "extra": "",
             "tags": [],
             "collections": [
-                "UKXV4KID"
+                "UKXV4KID",
+                "QNJGHVT4"
             ],
             "relations": {},
             "dateAdded": "2025-01-13T22:21:49Z",
@@ -1415,7 +1416,7 @@
     },
     {
         "key": "HUFPIYNT",
-        "version": 28807,
+        "version": 32274,
         "library": {
             "type": "group",
             "id": 10058,
@@ -1462,7 +1463,7 @@
         "bibtex": "\n@inproceedings{gross_verification_2023,\n\taddress = {Niagara Falls, Ontario, Canada},\n\ttitle = {Verification of the {Cardinal} {Multiphysics} {Solver} for 1-{D} {Coupled} {Heat} {Transfer} and {Neutron} {Transport}},\n\turl = {https://www.researchgate.net/publication/373173646_Verification_of_the_Cardinal_Multiphysics_Solver_for_1-D_Coupled_Heat_Transfer_and_Neutron_Transport},\n\tabstract = {Cardinal is a multiphysics software tool that couples OpenMC Monte Carlo transport and NekRS Computational Fluid Dynamics (CFD) to the Multiphysics Object-Oriented Simulation Environment (MOOSE). This work verifies Cardinal for coupled neutron transport and heat conduction using a 1-D analytical solution from previous work by the Naval Nuclear Laboratory. This numerical benchmark includes S2 transport, Doppler-broadened cross sections, thermal conduction and expansion, and convective boundary conditions. The goal of this work is to verify Cardi-nal's basic multiphysics modeling capabilities for coupled neutronics and heat conduction. The benchmark provides analytical solutions for the temperature and flux distributions, as well as the k-eigenvalue. Using these solutions, an L2 error norm was computed for each spatial discretiza-tion: namely finite element heat conduction mesh and Monte Carlo cells. The temperature error showed linear convergence on a log-log plot of error vs. mesh element number, with a slope of −0.9986 (R{\\textasciicircum}2 ≈ 1.0). Nearly all spatial flux predictions, except a few points in the N = 250 case, space were within 2σ of the analytical solution, for Monte Carlo cell counts between 50 and 1000. The eigenvalue k eff also agrees well with the benchmark value for each mesh size. The outcome of this work is verification of coupled Monte Carlo-thermal conduction modeling using Cardinal.},\n\tbooktitle = {The {International} {Conference} on {Mathematics} and {Computational} {Methods} {Applied} to {Nuclear} {Science} and {Engineering}},\n\tauthor = {Gross, Lewis I. and Novak, April J. and Shriwise, Patrick and Wilson, Paul P. H.},\n\tmonth = aug,\n\tyear = {2023},\n\tpages = {10},\n}\n",
         "data": {
             "key": "HUFPIYNT",
-            "version": 28807,
+            "version": 32274,
             "itemType": "conferencePaper",
             "title": "Verification of the Cardinal Multiphysics Solver for 1-D Coupled Heat Transfer and Neutron Transport",
             "creators": [
@@ -1510,7 +1511,8 @@
             "extra": "",
             "tags": [],
             "collections": [
-                "UKXV4KID"
+                "UKXV4KID",
+                "QNJGHVT4"
             ],
             "relations": {},
             "dateAdded": "2023-09-11T15:43:08Z",
