@@ -1,6 +1,6 @@
 - code: rtnam
   title: Radiation Transport and Nuclear Analysis Methods
-  url: https://svalinn.github.io
+  url: projects/index.html#rtan
   image: hab1.png
   alt-text: Cut-away of NASA habitat module showing radiation deposition
   desc: "Open source software tools that support Monte Carlo radiation transport on complex CAD-based geometries, 
@@ -8,26 +8,28 @@
 
 - code: nsa
   title: Nuclear Systems Analysis
-  url: https://svalinn.github.io
+  url: projects/index.html#nsa
   image: parastell.png
   alt-text: A sample stellarator geometry showing blanket layers and magnets
   desc: Analysis of specific nuclear systems in support of design and licensing
 
 - code: nfca
   title: Nuclear Fuel Cycle Analysis
-  url: https://fuelcycle.org
+  url: projects/index.html#nfca
   image: cyclus.png
   alt-text: Cyclus logo - a gear with a letter C inscribed
   desc: Open source software tools that allow flexible modeling of nuclear fuel cycles over varying time and physical fidelities
 
 - code: nucsec
   title: Nuclear Security and  Nonproliferation
+  url: projects/index.html#nucsec
   desc: Simulation of nuclear fuel cycle facilities and application of data science techniques to their signatures
   image: nuc_sec.png
   alt-text: Sample signatures from fuel cycle facilities
 
 - code: econ
   title: Techno-economics and Energy Transitions
+  url: projects/index.html#econ
   desc: Software tools and analyses of energy futures, with specific interest in the role of nuclear energy
   image: technoecon.png
   alt-text: Representative facility layout and demand curve for federal facility with on-site microreactors
