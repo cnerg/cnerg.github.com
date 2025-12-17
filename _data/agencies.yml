@@ -9,8 +9,12 @@
 - agency: unfunded
   name: Unfunded project; students may be supported by various sources
 - agency: just
-  name: Just Fusion funded by WARF  
+  name: Fusion Impacts funded by WARF  
 - agency: fes
   name: US Department of Energy, Office of Science, Fusion Energy Sciences Program
 - agency: inlldrd
   name: Idaho National Laboratory Laboratory Directed Research and Development (LDRD) Program
+- agency: epri
+  name: Electric Power Research Institute, Inc (EPRI)
+- agency: arpa-e
+  name: Advanced Research Projects Agency ‑ Energy (ARPA-E)

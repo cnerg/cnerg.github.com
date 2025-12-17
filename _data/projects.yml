@@ -49,19 +49,6 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   abstract:
   pubs:
   project_url:
-- short_code: eti
-  area_code: nucsec
-  title: Consortium for Enabling Technology and Innovation (ETI)
-  agency: nnsa
-  start_date: 2019-10-01
-  end_date: 2025-09-30
-  lead_pi: ase
-  cnerg_pi: pphw
-  cnerg_collaborators: ['js', 'sf', 'klyg']
-  other_collaborators:
-  abstract:
-  pubs: [ stomps_contrastive_2024 ]
-  project_url: https://eti.gatech.edu
 - short_code: eti2
   area_code: nucsec
   title: Consortium for Enabling Technology and Innovation 2.0 (ETI 2.0)
@@ -80,11 +67,11 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   title: Agent-based Capacity Expansion
   agency: unfunded
   start_date: 2020-09-01
-  end_date: 2025-06-30
+  end_date: 2028-08-31
   lead_pi: pphw
   cnerg_collaborators: [ keb ]
   other_collaborators:
-  abstract:
+  abstract: 
   pubs:
   project_url:
 - short_code: gcmr
@@ -137,7 +124,55 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   abstract:
   pubs:
   project_url:
-
+- short_code: uw-fire
+  area_code: nsa
+  title: "FIRE Collaborative: Fusion Neutrons for Integrated Blanket Technology Development Through Advanced Testing and Design"
+  agency: fes
+  start_date: 2025-10-01
+  end_date: 2029-09-30
+  lead_pi: bl
+  cnerg_pi: pphw
+  cnerg_collaborators: 
+  other_collaborators: jpd
+  abstract:
+  pubs:
+  project_url:
+- short_code: epri-tritium
+  area_code: nfca
+  title: Running out of Fusion Gas
+  agency: epri
+  start_date: 2025-10-01
+  end_date: 2029-09-30
+  lead_pi: bl
+  cnerg_pi: pphw
+  cnerg_collaborators: dok
+  other_collaborators: maa
+  abstract:
+  pubs:
+  project_url:
+- short_code: shine-newton
+  area_code: nsa
+  title: REDUCE
+  agency: arpa-e
+  start_date: 2025-10-01
+  end_date: 2029-09-30
+  lead_pi: rr
+  cnerg_pi: pphw
+  cnerg_collaborators: 
+  other_collaborators: [ bl, ac ]
+  abstract: "SHINE Technologies will develop an innovative method to reduce used
+nuclear fuel (UNF) and the disposal impact through its Recover Elements -
+Destroy Undesirables - Create Energy (REDUCE) procedure. The proposed approach
+will reduce the volume, longevity, and hazard level of reactor waste, and will
+improve the economics of its reprocessing/transmutation. After recovery of
+uranium and plutonium (for advanced reactor fuel) and other valuable elements,
+the remaining UNF constituents will be incorporated into a molten salt
+transmutation target designed to be coupled to an external neutron source. This
+program will design, simulate, and test game-changing technologies that will
+reduce the environmental impact of nuclear energy through the recycling and
+transmutation of used nuclear fuel.  "
+  pubs:
+  project_url: https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/reduce-recover-elements-destroy-undesirables-create-energy
 
 # - short_code:
 #   area_code:
