@@ -20,3 +20,16 @@
   cnerg_collaborators: [ kam ]
   other_collaborators:
   project_url: https://mtv.engin.umich.edu/
+- short_code: eti
+  area_code: nucsec
+  title: Consortium for Enabling Technology and Innovation (ETI)
+  agency: nnsa
+  start_date: 2019-10-01
+  end_date: 2025-09-30
+  lead_pi: ase
+  cnerg_pi: pphw
+  cnerg_collaborators: ['js', 'sf', 'klyg']
+  other_collaborators:
+  abstract:
+  pubs: [ stomps_contrastive_2024 ]
+  project_url: https://eti.gatech.edu
