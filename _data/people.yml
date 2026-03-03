@@ -34,10 +34,6 @@
     url: "mgale"
     role: "PhD Student"
     image: DSC_4522.jpg
-  - name: "Joshua Smandych"
-    url: "jtds"
-    role: "MS Student"
-    image: bluh.jpg
   - name: "Dean Krueger"
     url: "dok"
     role: "PhD Student"
@@ -450,6 +446,9 @@
     role: PhD
     employer: DCVC
     employer_url: https://www.dcvc.com/
+  - name: "Joshua Smandych"
+    role: MS
+    year: 2026
   - name: Brandon Smith
     year: 2011
     role: PhD
