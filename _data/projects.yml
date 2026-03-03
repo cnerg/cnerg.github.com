@@ -91,7 +91,7 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   title: Rapid Assessment of Fusion Material Activation
   agency: just
   start_date: 2024-01-01
-  end_date: 2027-05-01
+  end_date: 2027-06-30
   lead_pi: pphw
   cnerg_collaborators: [ asr, ew ]
   other_collaborators:
@@ -119,7 +119,7 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   end_date: 2027-09-30
   lead_pi: nw
   cnerg_pi: pphw
-  cnerg_collaborators: jtds
+  cnerg_collaborators: [jtds, ew]
   other_collaborators: cah
   abstract:
   pubs:
@@ -128,8 +128,8 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   area_code: nsa
   title: "FIRE Collaborative: Fusion Neutrons for Integrated Blanket Technology Development Through Advanced Testing and Design"
   agency: fes
-  start_date: 2025-10-01
-  end_date: 2029-09-30
+  start_date: 2025-09-01
+  end_date: 2029-08-31
   lead_pi: bl
   cnerg_pi: pphw
   cnerg_collaborators: 
@@ -141,8 +141,8 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   area_code: nfca
   title: Running out of Fusion Gas
   agency: epri
-  start_date: 2025-10-01
-  end_date: 2029-09-30
+  start_date: 2025-11-01
+  end_date: 2029-10-31
   lead_pi: bl
   cnerg_pi: pphw
   cnerg_collaborators: dok
