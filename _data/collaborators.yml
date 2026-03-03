@@ -8,7 +8,7 @@
   url: https://amitava.scholar.princeton.edu/
 - code: crs
   name: Prof. Emeritus Carl Sovinec
-  inst: University of Wisconsin-Madison
+  inst: University of Wisconsin-Madison, Department of Nuclear Engineering & Engineering Physics
   url: https://directory.engr.wisc.edu/neep/faculty/sovinec_carl
 - code: ajn
   name: Prof. April Novak
@@ -44,7 +44,7 @@
   url: https://ners.engin.umich.edu/people/pozzi-sara/
 - code: bl
   name: Prof. Ben Lindley
-  inst: University of Wisconsin-Madison
+  inst: University of Wisconsin-Madison, Department of Nuclear Engineering & Engineering Physics
   url: https://engineering.wisc.edu/directory/profile/ben-lindley/
 - code: pc_s
   name: Dr. Pierre-Clément "P.C." Simon 
@@ -52,7 +52,7 @@
   url: https://inl.gov/fusion-safety/staff/#eael-team-member-5632bbb
 - code: cah
   name: Prof. Charlie Hirst
-  inst: University of Wisconsin-Madison
+  inst: University of Wisconsin-Madison, Department of Nuclear Engineering & Engineering Physics
   url: https://engineering.wisc.edu/directory/profile/charlie-hirst/
 - code: nw
   name: Dr. Nick Woolstenhulme
@@ -64,14 +64,35 @@
   url: https://www.shinefusion.com/
 - code: ac
   name: Prof. Adrien Couet
-  inst: University of Wisconsin-Madison
+  inst: University of Wisconsin-Madison, Department of Nuclear Engineering & Engineering Physics
   url: https://engineering.wisc.edu/directory/profile/adrien-couet/
 - code: jpd
   name: Prof. Juliana Pacheco Duarte
-  inst: University of Wisconsin-Madison
+  inst: University of Wisconsin-Madison, Department of Nuclear Engineering & Engineering Physics
   url: https://engineering.wisc.edu/directory/profile/juliana-pacheco-duarte/
 - code: maa 
   name: Dr. Mohammad Amer Allaf
-  inst: University of Wisconsin-Madison
+  inst: University of Wisconsin-Madison, Department of Nuclear Engineering & Engineering Physics
   url: https://reti.neep.wisc.edu/staff/mohammad-amer-allaf/
-  
+- code: eag 
+  name: Dr. Elisabeth "Elisa" Graffy
+  inst: Pacific Northwest National Laboratory
+  url: https://www.pnnl.gov/people/elisabeth-graffy
+- code: jf
+  name: Jacob Fowler
+  inst: University of Wisconsin-Madison, Department of Nuclear Engineering & Engineering Physics
+- code: pjm
+  name: Dr. Paul Meier
+  inst: University of Wisconsin-Madison, Nelson Institute for Environmental Studies
+- code: db 
+  name: Prof. Dominique Brossard
+  inst: University of Wisconsin-Madison, Department of Life Science Communication
+  url: https://lsc.wisc.edu/facstaff/brossard-dominique/
+- code: jkn
+  name: Prof. Jonathan Nelson
+  inst: University of Wisconsin-Madison, Department of Geography
+  url: https://geography.wisc.edu/staff/nelson-jonathan/
+- code: eg
+  name: Eugene "Gene" Grecheck
+  inst: Grecheck Consulting LLC 
+  url: https://www.linkedin.com/in/eugenegrecheck/

@@ -173,6 +173,20 @@ reduce the environmental impact of nuclear energy through the recycling and
 transmutation of used nuclear fuel.  "
   pubs:
   project_url: https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/reduce-recover-elements-destroy-undesirables-create-energy
+- short_code: wness
+  area_code: econ
+  title: Wisconsin Nuclear Energy Siting Study
+  agency: pscw
+  start_date: 2026-01-05
+  end_date: 2027-01-02
+  lead_pi: pphw
+  cnerg_collaborators: 
+  other_collaborators: [ eag, bl, pjm, db, jkn, eg ]
+  abstract:
+  pubs:
+  project_url:
+
+
 
 # - short_code:
 #   area_code:
