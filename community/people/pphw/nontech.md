@@ -21,7 +21,7 @@ twitter-feed: true
 ---
 
 Paul Wilson is the Grainger Professor of Nuclear Engineering and current
-department chair of [University of Wisconsin-Madison](http://www.wisc.edu)‘s
+department chair of [University of Wisconsin--Madison](http://www.wisc.edu)‘s
 [Department of Nuclear Engineering & Engineering
 Physics](http://engineering.wisc.edu/neep). His research uses computer models to
 improve the designs of complex nuclear energy systems and to shed light on
@@ -32,7 +32,7 @@ Initiative](https://facstaff.provost.wisc.edu/cluster-hiring-initiative/). Born
 in Scotland and raised Canada, Paul has a degrees from the [University of
 Toronto](https://www.utoronto.ca) (1992), the [Karlsruhe Institute of
 Technology](https://www.kit.edu) (1998), and a PhD. in Nuclear Engineering and
-Engineering Physics from [UW-Madison](https://www.wisc.edu) (1999). He is a
+Engineering Physics from [UW--Madison](https://www.wisc.edu) (1999). He is a
 Fellow of the [American Nuclear Society](https://www.ans.org) and was the
 founding president of the [North American Young Generation in Nuclear
 [NA-YGN]](https://www.naygn.org). He represented the ANS and NA-YGN at the
