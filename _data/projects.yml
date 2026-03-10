@@ -104,10 +104,10 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   agency: fes
   start_date: 2025-05-01
   end_date: 2028-09-30
-  lead_pi: pc_s
+  lead_pi: ar
   cnerg_pi: pphw
   cnerg_collaborators: klyg
-  other_collaborators:
+  other_collaborators: pc_s
   abstract:
   pubs:
   project_url:
