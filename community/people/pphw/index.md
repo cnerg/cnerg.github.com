@@ -21,12 +21,12 @@ services:
 ---
 
 Paul Wilson is the Grainger Professor of Nuclear Engineering and current
-department chair of the [University of Wisconsin-Madison](http://www.wisc.edu)‘s
+department chair of the [University of Wisconsin--Madison](http://www.wisc.edu)‘s
 [Department of Nuclear Engineering & Engineering Physics](http://engineering.wisc.edu/neep). His research
 interests focus on developing improved tools for computational modeling of
 complex nuclear energy systems, with applications in radiation shielding,
 nuclear waste management, nuclear non-proliferation and energy policy. Paul
-joined the University of Wisconsin-Madison as an assistant professor in August
+joined the UW--Madison as an assistant professor in August
 2001 as part of the [Energy Systems and Policy Hiring
 Initiative](https://facstaff.provost.wisc.edu/cluster-hiring-initiative/). 
 
@@ -48,7 +48,7 @@ Paul specialized in the Nuclear Power option of the [Engineering Science
 program](https://engsci.utoronto.ca/) at the [University of
 Toronto](https://www.utoronto.ca) in 1992. After receiving his Bachelor of
 Applied Science in Engineering Science, he began his graduate schooling in
-nuclear engineering at the University of Wisconsin-Madison. After three years,
+nuclear engineering at the UW--Madison. After three years,
 he moved to Karlsruhe, Germany, where he studied in the Institute for Neutron
 Physics and Reactor Engineering (of the [Karlsruhe Institute of
 Technology](https://www.kit.edu)), earning his Dr.-Ing. degree in Mechanical
@@ -76,6 +76,9 @@ guidelines]( {% link community/people/pphw/reference_request.md %}).
 * [A shorter bio]({% link community/people/pphw/nontech.md %})
 
 #### Recent Media Appearances
+* 2026-02-25: [WFRV: Sustainably Speaking: Bipartisan law launches study on nuclear energy’s Wisconsin future](https://www.wearegreenbay.com/news/sustainably-speaking/sustainably-speaking-bipartisan-law-launches-study-on-nuclear-energys-wisconsin-future/)
+* 2026-02-17: [WPR: Wisconsin PSC, UW-Madison partner to identify possible nuclear plant sites](https://www.wpr.org/news/wisconsin-psc-uw-madison-partnering-to-identify-possible-nuclear-plant-sites)
+* 2026-02-02: [WPR: Plans move forward to bring new nuclear energy to Kewaunee County](https://www.wpr.org/news/plans-move-forward-new-nuclear-energy-plant-kewaunee-county-wisconsin)
 * 2025-07-24: [WTMJ Morning News: How Soon Will We Have Nuclear Energy in Our House?](https://player.amperwavepodcasting.com/?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7539089_2025-07-24-165629%2Fitunes_akrgV)
 * 2025-07-22: [WISC-TV: Nuclear energy plants could come to Wisconsin](https://www.channel3000.com/video/nuclear-energy-plants-could-come-to-wisconsin/video_6749f029-132c-5f1d-9f5a-7dbb0ee7502b.html)
 * 2025-07-09: [WTMJ Point Taken](https://player.amperwavepodcasting.com/?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7512623_2025-07-09-185023%2Fitunes_akrgV)
@@ -84,4 +87,3 @@ guidelines]( {% link community/people/pphw/reference_request.md %}).
 * 2025-03-06: [Scientific American Opinion: Killing a Nuclear Watchdog’s Independence Threatens Disaster](https://www.scientificamerican.com/article/killing-a-nuclear-watchdogs-independence-threatens-disaster/)
 * 2025-02-13: [WPR: 2 GOP state lawmakers pushing to advance nuclear energy in Wisconsin](https://www.wpr.org/news/gop-state-lawmakers-pushing-to-advance-nuclear-energy-wisconsin)
 * 2024-09-19: [Titans of Nuclear: Ep. 456](https://www.lastenergy.com/titansofnuclear/experts/paulwilson)
-* 2024-08-19: [Michigan Public Radio: Southeast Michigan facility will soon house waste from the Manhattan Project](https://www.michiganpublic.org/environment-climate-change/2024-08-19/southeast-michigan-facility-will-soon-house-waste-from-the-manhattan-project)

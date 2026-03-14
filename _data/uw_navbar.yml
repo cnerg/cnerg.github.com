@@ -1,8 +1,8 @@
 - name: "University of Wisconsin-Madison"
-  url: "http://www.wisc.edu/"
+  url: "https://www.wisc.edu/"
 
 - name: "College of Engineering"
-  url: "https://www.engr.wisc.edu/"
+  url: "https://engineering.wisc.edu/"
 
 - name: "Nuclear Engineering & Engineering Physics"
   url: "https://engineering.wisc.edu/neep"
