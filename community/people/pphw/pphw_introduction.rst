@@ -9,13 +9,13 @@ Paul P.H. Wilson
 | `paul.wilson@wisc.edu <mailto:paul.wilson@wisc.edu>`_
 | 608/263-0807
 | 419 Engineering Research Building
-| `1500 Engineering Dr <https://www.google.com/maps/place/Engineering+Dr,+University+of+Wisconsin-Madison,+Madison,+WI+53706/@43.0722616,-89.4113922,17z/data=!3m1!4b1!4m2!3m1!1s0x8807acc6ec542427:0x8e97163cfd1719a0>`_
+| `1500 Engineering Dr <https://www.google.com/maps/place/Engineering+Dr,+University+of+Wisconsin–Madison,+Madison,+WI+53706/@43.0722616,-89.4113922,17z/data=!3m1!4b1!4m2!3m1!1s0x8807acc6ec542427:0x8e97163cfd1719a0>`_
 | Madison, WI 53706
 
 ----
 
 Paul Wilson is the Grainger Professor of Nuclear Engineering in the
-`University of Wisconsin-Madison <http://www.wisc.edu>`_'s `Department of
+`University of Wisconsin–Madison <http://www.wisc.edu>`_'s `Department of
 Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty Director of
 the `Advanced Computing Initiative <http://aci.wisc.edu>`_.  His research
 interests focus on developing improved tools for computational modeling of
@@ -38,7 +38,7 @@ Born in Edinburgh, Scotland, and raised in Fort Saskatchewan, Alberta, Canada,
 Paul received a B.A.Sc. in `Engineering Science program
 <http://engsci.utoronto.ca/>`_ at the `University of Toronto
 <http://www.utoronto.ca/>`_ in 1992. After three years of graduate school at
-the University of Wisconsin-Madison, he moved to Karlsruhe, Germany, where he
+the University of Wisconsin–Madison, he moved to Karlsruhe, Germany, where he
 studied in the Institute for Neutron Physics and Reactor Engineering (of the
 `Karlsruhe Institute of Technology <http://www.kit.edu>`_), earning his
 Dr.-Ing. degree in Mechanical Engineering in 1998.  Returning to Madison, Paul

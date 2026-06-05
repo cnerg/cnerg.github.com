@@ -12,5 +12,5 @@ address: "1500 Engineering Dr"
 * Energy systems   
 * CAD designs and simulations
 ## Education
-* University of Wisconsin-Madison, [B.S. in Mechanical Engineering, class of 2029]
+* University of Wisconsin–Madison, [B.S. in Mechanical Engineering, class of 2029]
 

@@ -29,7 +29,7 @@
   desc: Quick collaborative documents, spreadsheets and presentations
   links:
     - url: https://drive.google.com/a/wisc.edu
-      text: Log in to your UW-Madison account on Google Drive
+      text: Log in to your UW–Madison account on Google Drive
 - title: Jupyter Notebooks
   desc: Interactive tool for developing and deploying Python code
   links:
@@ -49,7 +49,7 @@
   desc: Free video conferencing platform, available with UW NetID or private Gmail account
   links:
     - url: https://uwmadison.zoom.us
-      text: UW-Madison Zoom account configuration
+      text: UW–Madison Zoom account configuration
 - title: Office365
   desc: Used to manage a group calendar for meetings, etc.
   links:

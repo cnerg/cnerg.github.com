@@ -20,5 +20,5 @@ city_state_zip: "Madison, WI 53706"
 
 ## Education
 
-* University of Wisconsin-Madison, [B.S. in Nuclear Engineering, current]
+* University of Wisconsin–Madison, [B.S. in Nuclear Engineering, current]
 

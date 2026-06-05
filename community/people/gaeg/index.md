@@ -13,5 +13,5 @@ services:
 ---
 
 Gerson Esquivel (pronounced "HER-sen") is an undergraduate student at the
-University of Wisconsin-Madison. Gerson is a Nuclear Engineering student aiming to graduate
+University of Wisconsin–Madison. Gerson is a Nuclear Engineering student aiming to graduate
 in 2026. His main interests include soccer, Formula 1, and Marvel movies. 

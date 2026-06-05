@@ -31,7 +31,7 @@ city_state_zip: "Madison, WI 53706"
 ## Education 
 
 
-* University of Wisconsin--Madison [Ph.D. in Nuclear Engineering and Engineering Physics, current]
-* University of Wisconsin--Madison [M.S. in Nuclear Engineering and Engineering Physics, 2014]
-* University of Wisconsin--Madison [B.S. in Nuclear Engineering, 2014]
+* University of Wisconsin-–Madison [Ph.D. in Nuclear Engineering and Engineering Physics, current]
+* University of Wisconsin-–Madison [M.S. in Nuclear Engineering and Engineering Physics, 2014]
+* University of Wisconsin-–Madison [B.S. in Nuclear Engineering, 2014]
 * Oak Creek High School [valedictorian, 2009]

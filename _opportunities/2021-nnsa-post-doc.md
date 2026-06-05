@@ -19,7 +19,7 @@ CNERG is a leading participant in Data Science research thrust area of the
 that will integrate cutting edge algorithms for machine learning and data fusion
 with evolving data streams to enhance the ability to identify misuse of nuclear
 materials and facilities.  The collaboration includes researchers from the U.
-Wisconsin-Madison, U. Michigan, Duke, MIT, Texas A&M, Georgia Tech, Washington
+Wisconsin–Madison, U. Michigan, Duke, MIT, Texas A&M, Georgia Tech, Washington
 State, & U. Hawaii, as well as a number of DOE National Laboratories.  The four
 over-arching research areas within this thrust are:
   * Framework for rapid evaluation of algorithms and data streams
