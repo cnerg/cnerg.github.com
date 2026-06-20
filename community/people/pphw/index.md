@@ -20,8 +20,8 @@ services:
   facebook: gonuke
 ---
 
-Paul Wilson is the Grainger Professor of Nuclear Engineering in  [University
-of Wisconsin–Madison](http://www.wisc.edu)‘s [Department of Nuclear Engineering
+Paul Wilson is the Grainger Professor of Nuclear Engineering in [University
+of Wisconsin—Madison](http://www.wisc.edu)‘s [Department of Nuclear Engineering
 & Engineering Physics](http://engineering.wisc.edu/neep). His research interests
 focus on developing improved tools for computational modeling of complex nuclear
 energy systems, with applications in radiation shielding, nuclear waste
