@@ -20,6 +20,11 @@
       text: SWC
     - url: https://software-carpentry.org/lessons/
       text: Lessons
+- title: Design Patterns
+  desc: A design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.
+  links:
+    - url: https://refactoring.guru/design-patterns
+      text: Refactoring Guru Design Patterns
 - title: Center for High Throughput Computing
   links:
     - url: http://chtc.cs.wisc.edu
