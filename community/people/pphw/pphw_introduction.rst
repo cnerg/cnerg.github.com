@@ -14,7 +14,7 @@ Paul P.H. Wilson
 
 ----
 
-Paul Wilson is the Grainger Professor of Nuclear Engineering in the
+Paul Wilson is the Grainger Professor of Nuclear Engineering in 
 `University of Wisconsin–Madison <http://www.wisc.edu>`_'s `Department of
 Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty Director of
 the `Advanced Computing Initiative <http://aci.wisc.edu>`_.  His research
