@@ -31,7 +31,7 @@ Hiring
 Initiative](https://facstaff.provost.wisc.edu/cluster-hiring-initiative/). Born
 in Scotland and raised Canada, Paul has a degrees from the [University of
 Toronto](https://www.utoronto.ca) (1992), the [Karlsruhe Institute of
-Technology](https://www.kit.edu) (1998), and a PhD. in Nuclear Engineering and
+Technology](https://www.kit.edu) (1998), and a PhD in Nuclear Engineering and
 Engineering Physics from [UW–Madison](https://www.wisc.edu) (1999). He is a
 Fellow of the [American Nuclear Society](https://www.ans.org) and was the
 founding president of the [North American Young Generation in Nuclear
