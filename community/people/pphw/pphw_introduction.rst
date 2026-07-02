@@ -8,31 +8,29 @@ Paul P.H. Wilson
 | |vcard_icon|_ 
 | `paul.wilson@wisc.edu <mailto:paul.wilson@wisc.edu>`_
 | 608/263-0807
-| 419 Engineering Research Building
+| 511 Engineering Research Building
 | `1500 Engineering Dr <https://www.google.com/maps/place/Engineering+Dr,+University+of+Wisconsin-Madison,+Madison,+WI+53706/@43.0722616,-89.4113922,17z/data=!3m1!4b1!4m2!3m1!1s0x8807acc6ec542427:0x8e97163cfd1719a0>`_
 | Madison, WI 53706
 
 ----
 
-Paul Wilson is the Grainger Professor of Nuclear Engineering in 
-`University of Wisconsin–Madison <http://www.wisc.edu>`_'s `Department of
-Engineering Physics <http://www.engr.wisc.edu/ep>`_, and Faculty Director of
-the `Advanced Computing Initiative <http://aci.wisc.edu>`_.  His research
+Paul Wilson is the Grainger Professor of Nuclear Engineering in `University of
+Wisconsin–Madison <http://www.wisc.edu>`_'s `Department of Nuclear Engineering &
+Engineering Physics <https://engineering.wisc.edu/neep>`_.  His research
 interests focus on developing improved tools for computational modeling of
 complex nuclear energy systems, with applications in radiation shielding,
-nuclear waste management, nuclear non-proliferation and energy policy.  Hired
-as part of the `Energy Systems and Policy Hiring Initiative
-<http://www.clusters.wisc.edu/clusters/show/18>`_, he serves on leadership
-committees for the `Energy Analysis and Policy Graduate Certificate
-<http://nelson.wisc.edu/eap>`_, the `Wisconsin Energy Institute
-<http://www.energy.wisc.edu>`_ and the `Nelson Institute
-<http://nelson.wisc.edu>`_ for Environmental Studies.  In 2010, he was engaged
-as a consultant to the `Blue Ribbon Commission on America's Nuclear Energy
-Future
+nuclear waste management, nuclear non-proliferation and energy policy. He also
+has an interest in various forms of stakeholder engagement to understand and
+address challenges for continued deployment of nuclear energy and related
+facilities.
+
+An expert in the assessment of nuclear fuel cycle alternatives, in 2010, he was
+engaged as a consultant to the `Blue Ribbon Commission on America's Nuclear
+Energy Future
 <http://energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pdf>`_.
 In 1998 & 1999, he represented the American Nuclear Society at the
 `international climate change negotiations <http://unfccc.int/>`_ in Buenos
-Aires, Argentina, and Bonn, Germany.
+Aires, Argentina, and Bonn, Germany. He is a Fellow of the American Nuclear Society.
 
 Born in Edinburgh, Scotland, and raised in Fort Saskatchewan, Alberta, Canada,
 Paul received a B.A.Sc. in `Engineering Science program
