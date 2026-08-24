@@ -6,8 +6,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: write
 
     steps:
       - name: Checkout
@@ -18,7 +16,4 @@ jobs:
         uses: actions/jekyll-build-pages@v1
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
-      - name: Post comment
-        uses: live-codes/pr-comment-from-artifact@v1
-        with:
-          GITHUB_TOKEN: ${{ github.token }}
+
