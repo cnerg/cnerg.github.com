@@ -62,8 +62,7 @@
     url: "mgrove"
     role: "PHD Student"
     image: headshot.png
-	
-    
+
 - group: 'Undergraduate Students'
   people:
   - name: "Gerson A. Esquivel Garcia"
