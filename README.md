@@ -31,6 +31,20 @@ In order to edit this file, you can:
  * (advanced) edit the CSS style files: `_sass/_variables.scss` or
    `_sass/_bootstrap_customization.scss` 
 
+## CI Testing of File Rendering
+
+(see below for local testing)
+
+When a pull request (PR) is submitted for this repository, an action will automatically attempt to build the
+pages and upload an artifact of that process as part of the test, named `github-pages`. The artifact can be 
+found by viewing the results of the test, clicking on the “Summary” and scrolling to the bottom of the page.
+
+To view the result of the pages you can:
+* download the artifact
+* unzip the file
+* change to the folder that is created
+* run `python3 -m http.server` and open the location on your browser, usually `localhost:8000`
+
 ## Local testing of file rendering
 
 In order to test the rendering of the files, you can run a local Jekyll server
