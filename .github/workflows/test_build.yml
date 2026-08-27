@@ -18,4 +18,13 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
            retention-days: 14
+   link:
+     needs: build # make sure the artifacts are uploaded first
+     permissions:
+        contents: write # for commenting on your commit
+        pull-requests: write # for commenting on your pr
+     steps:
+       - uses: beni69/artifact-link@v1
+         with:
+           token: ${{ github.token }}
 
