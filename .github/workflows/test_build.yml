@@ -23,7 +23,5 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
            retention-days: 14
-      - uses: beni69/artifact-link@v1
-        with:
-           token: ${{ github.token }}
+           
 
