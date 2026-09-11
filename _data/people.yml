@@ -53,14 +53,18 @@
   - name: "Ebny Walid Ahammed"
     url: "walid"
     role: "PhD Student"
-    image: walid.jpeg
+    image: walid.jpeg 
+  - name: "Juan Miguel Valderrama" 
+    url: "jmv"
+    role: "PhD Student"  
+    image: jmv.jpeg
   - name: "Max Mateer"
     url: "mdm"
     role: "PhD Student"
     image: Mateer.jpg
   - name: "Madison Grove"
     url: "mgrove"
-    role: "PHD Student"
+    role: "PhD Student"
     image: headshot.png
 
 - group: 'Undergraduate Students'
