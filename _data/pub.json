@@ -129,6 +129,149 @@
         }
     },
     {
+        "key": "6UEVF3PQ",
+        "version": 32706,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/6UEVF3PQ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/6UEVF3PQ",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/CRGKMRTG",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 2101772
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Ostad Rahimi et al.",
+            "parsedDate": "2026",
+            "numChildren": 2
+        },
+        "bibtex": "\n@article{ostad_rahimi_perceived_2026,\n\ttitle = {Perceived risks, benefits, and support for siting energy infrastructure: comparing perceptions of carbon capture, nuclear fuel, and large-scale energy facilities},\n\tvolume = {29},\n\tshorttitle = {Perceived risks, benefits, and support for siting energy infrastructure},\n\turl = {https://www.tandfonline.com/doi/abs/10.1080/13669877.2026.2689344},\n\tdoi = {https://doi.org/10.1080/13669877.2026.2689344},\n\tabstract = {Public perceptions of energy infrastructure often hinge on how communities perceive the risks and benefits of proposed facilities. This study investigates how U.S. residents evaluate energy facility types when imagining them near their communities, including a used nuclear fuel storage (UNFS) and a carbon capture and storage (CCS) facility, compared to a generic large-scale energy (LSE) facility as a control. Drawing on a nationally representative survey experiment (N = 1,141), we examine how perceived risks and benefits vary by facility type, how proximity influences support, and how mental models may shape perceptions. Quantitative analyses reveal that UNFS facilities are perceived as significantly riskier and less beneficial than CCS or LSE facilities. Support increases with proximity, but it does not override technology-specific perceptions. Qualitative data analyzed via structured topic modelling (STM) show that risk narratives for UNFS facilities emphasize long-term health and safety concerns rooted in historical events and institutional distrust. Public risk perceptions for CCS center on uncertainty and unfamiliarity, while LSE facilities elicit more localized concerns. Benefit perceptions are less detailed and varied in scale, with UNFS facilities tied to economic utility, CCS to environmental mitigation, and LSE facilities to community development. These findings illustrate the importance of tailoring public engagement activities and communication strategies to distinct facility types and community mental models. Effective siting strategies must address not only geographic proximity but also the symbolic and emotional dimensions of public perceptions.},\n\tlanguage = {en},\n\tnumber = {8},\n\turldate = {2026-09-01},\n\tjournal = {Journal of Risk Research},\n\tpublisher = {Taylor \\& Francis},\n\tauthor = {Ostad Rahimi, Sara and Molder, Amanda L and Livingston, Will and Léon-Corwin, Maggie and Bitterman, Abby and Calice, Mikhaila and Gupta, Kuhika and Ripberger, Joseph and Wilson, Paul and Brossard, Dominique},\n\tyear = {2026},\n\tpages = {1066--1087},\n}\n",
+        "data": {
+            "key": "6UEVF3PQ",
+            "version": 32706,
+            "itemType": "journalArticle",
+            "title": "Perceived risks, benefits, and support for siting energy infrastructure: comparing perceptions of carbon capture, nuclear fuel, and large-scale energy facilities",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sara",
+                    "lastName": "Ostad Rahimi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Amanda L",
+                    "lastName": "Molder"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Will",
+                    "lastName": "Livingston"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maggie",
+                    "lastName": "Léon-Corwin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Abby",
+                    "lastName": "Bitterman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mikhaila",
+                    "lastName": "Calice"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kuhika",
+                    "lastName": "Gupta"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joseph",
+                    "lastName": "Ripberger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dominique",
+                    "lastName": "Brossard"
+                }
+            ],
+            "abstractNote": "Public perceptions of energy infrastructure often hinge on how communities perceive the risks and benefits of proposed facilities. This study investigates how U.S. residents evaluate energy facility types when imagining them near their communities, including a used nuclear fuel storage (UNFS) and a carbon capture and storage (CCS) facility, compared to a generic large-scale energy (LSE) facility as a control. Drawing on a nationally representative survey experiment (N = 1,141), we examine how perceived risks and benefits vary by facility type, how proximity influences support, and how mental models may shape perceptions. Quantitative analyses reveal that UNFS facilities are perceived as significantly riskier and less beneficial than CCS or LSE facilities. Support increases with proximity, but it does not override technology-specific perceptions. Qualitative data analyzed via structured topic modelling (STM) show that risk narratives for UNFS facilities emphasize long-term health and safety concerns rooted in historical events and institutional distrust. Public risk perceptions for CCS center on uncertainty and unfamiliarity, while LSE facilities elicit more localized concerns. Benefit perceptions are less detailed and varied in scale, with UNFS facilities tied to economic utility, CCS to environmental mitigation, and LSE facilities to community development. These findings illustrate the importance of tailoring public engagement activities and communication strategies to distinct facility types and community mental models. Effective siting strategies must address not only geographic proximity but also the symbolic and emotional dimensions of public perceptions.",
+            "publicationTitle": "Journal of Risk Research",
+            "publisher": "Taylor & Francis",
+            "place": "",
+            "date": "2026",
+            "volume": "29",
+            "issue": "8",
+            "section": "",
+            "partNumber": "",
+            "partTitle": "",
+            "pages": "1066-1087",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "DOI": "https://doi.org/10.1080/13669877.2026.2689344",
+            "citationKey": "",
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/13669877.2026.2689344",
+            "accessDate": "2026-09-01T13:42:18Z",
+            "PMID": "",
+            "PMCID": "",
+            "ISSN": "",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "Perceived risks, benefits, and support for siting energy infrastructure",
+            "language": "en",
+            "libraryCatalog": "www-tandfonline-com.ezproxy.library.wisc.edu",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2026-09-01T13:42:39Z",
+            "dateModified": "2026-09-01T13:49:20Z"
+        }
+    },
+    {
         "key": "NVCVP6N8",
         "version": 32409,
         "library": {
@@ -19540,156 +19683,6 @@
             "relations": {},
             "dateAdded": "2012-06-14T19:03:05Z",
             "dateModified": "2012-06-14T19:05:00Z"
-        }
-    },
-    {
-        "key": "F8DTNU7N",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/F8DTNU7N",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/F8DTNU7N",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/DGU3R8MG",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 538279
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Ibrahim et al.",
-            "parsedDate": "2011-08",
-            "numChildren": 1
-        },
-        "bibtex": "\n@article{ibrahim_global_2011,\n\ttitle = {Global {Evaluation} of {Prompt} {Dose} {Rates} in {ITER} {Using} {Hybrid} {Monte} {Carlo}/{Deterministic} {Techniques}},\n\tvolume = {60},\n\tabstract = {The hybrid Monte Carlo (MC)/deterministic techniques - Consistent Adjoint Driven Importance Sampling (CADIS) and Forward Weighted CADIS (FW-CADIS) - enable the full 3-D modeling of very large and complicated geometries. The ability of performing global MC calculations for nuclear parameters throughout the entire ITER reactor was demonstrated. The 2 m biological shield (bioshield) reduces the total prompt operational dose by six orders of magnitude. The divertor cryo-pump port results in a peaking factor of 120 in the prompt operational dose rate behind the bioshield of ITER. The equatorial port, plugged by 2 m of shielding, increases the prompt dose rate behind the bioshield by a factor of 47. The peak values of the prompt dose rates at the back surface of the bioshield were 240 Sv/hr and 94 Sv/hr corresponding to the regions behind the divertor cryo-pump port and the equatorial port, respectively.},\n\tnumber = {2},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {Ibrahim, A. and Sawan, M. and Mosher, S.W. and Evans, T.M. and Peplow, D.E. and Wilson, P. and Wagner, J.C.},\n\tmonth = aug,\n\tyear = {2011},\n\tkeywords = {Consistent Adjoint Driven Importance Sampling (CADIS), Deterministic, Dose Rates, Forward Weighted CADIS (FW-CADIS), Hybrid, International Thermonuclear Reactor (ITER), Monte Carlo Methods},\n\tpages = {676--680},\n}\n",
-        "data": {
-            "key": "F8DTNU7N",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Global Evaluation of Prompt Dose Rates in ITER Using Hybrid Monte Carlo/Deterministic Techniques",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "A.",
-                    "lastName": "Ibrahim"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M.",
-                    "lastName": "Sawan"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "S.W.",
-                    "lastName": "Mosher"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.M.",
-                    "lastName": "Evans"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "D.E.",
-                    "lastName": "Peplow"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "J.C.",
-                    "lastName": "Wagner"
-                }
-            ],
-            "abstractNote": "The hybrid Monte Carlo (MC)/deterministic techniques - Consistent Adjoint Driven Importance Sampling (CADIS) and Forward Weighted CADIS (FW-CADIS) - enable the full 3-D modeling of very large and complicated geometries. The ability of performing global MC calculations for nuclear parameters throughout the entire ITER reactor was demonstrated. The 2 m biological shield (bioshield) reduces the total prompt operational dose by six orders of magnitude. The divertor cryo-pump port results in a peaking factor of 120 in the prompt operational dose rate behind the bioshield of ITER. The equatorial port, plugged by 2 m of shielding, increases the prompt dose rate behind the bioshield by a factor of 47. The peak values of the prompt dose rates at the back surface of the bioshield were 240 Sv/hr and 94 Sv/hr corresponding to the regions behind the divertor cryo-pump port and the equatorial port, respectively.",
-            "publicationTitle": "Fusion Science and Technology",
-            "publisher": "",
-            "place": "",
-            "date": "Aug 2011",
-            "volume": "60",
-            "issue": "2",
-            "section": "",
-            "partNumber": "",
-            "partTitle": "",
-            "pages": "676-680",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "DOI": "",
-            "citationKey": "",
-            "url": "",
-            "accessDate": "",
-            "PMID": "",
-            "PMCID": "",
-            "ISSN": "",
-            "archive": "",
-            "archiveLocation": "",
-            "shortTitle": "",
-            "language": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Consistent Adjoint Driven Importance Sampling (CADIS)"
-                },
-                {
-                    "tag": "Deterministic"
-                },
-                {
-                    "tag": "Dose Rates"
-                },
-                {
-                    "tag": "Forward Weighted CADIS (FW-CADIS)"
-                },
-                {
-                    "tag": "Hybrid"
-                },
-                {
-                    "tag": "International Thermonuclear Reactor (ITER)"
-                },
-                {
-                    "tag": "Monte Carlo Methods"
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-14T20:16:33Z",
-            "dateModified": "2012-06-14T20:28:50Z"
         }
     }
 ]
