@@ -1,5 +1,253 @@
 [
     {
+        "key": "IP7GT9TN",
+        "version": 32759,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/IP7GT9TN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/IP7GT9TN",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/29I3GLMQ",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1215011
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Mummah and Wilson",
+            "parsedDate": "2026-12-01",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{mummah_set_2026,\n\ttitle = {A set of fictitious fuel cycle test cases for simulator demonstration and benchmarking},\n\tvolume = {238},\n\tissn = {0306-4549},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0306454926003919},\n\tdoi = {10.1016/j.anucene.2026.112503},\n\tabstract = {This work proposes a minimal set of fifteen parameters to characterize a nuclear fuel cycle, including a main reactor design and supporting front end and back end facilities. Thirteen fictitious fuel cycles span the fuel cycle parameter space and are described in enough detail to model using common fuel cycle simulators. Once-through fuel cycles are similar to, but not exactly replicating any nation’s current nuclear facilities or potential deployments of near-term advanced reactors. Limited and continuous recycle cases present wide ranging possible futures, including cases that separate and burn light water reactor fuel from decommissioned reactors. These cases may be useful for nuclear fuel cycle simulator benchmarking, simplified transition studies, isolating system dynamics, and simulator methods development where fictitious fuel cycles are preferable, such as in nonproliferation analyses.},\n\turldate = {2026-09-13},\n\tjournal = {Annals of Nuclear Energy},\n\tauthor = {Mummah, Kathryn A. and Wilson, Paul P. H.},\n\tmonth = dec,\n\tyear = {2026},\n\tkeywords = {Advanced reactors, Fuel cycle simulator, Nonproliferation, Nuclear fuel cycle scenarios, Reprocessing},\n\tpages = {112503},\n}\n",
+        "data": {
+            "key": "IP7GT9TN",
+            "version": 32759,
+            "itemType": "journalArticle",
+            "title": "A set of fictitious fuel cycle test cases for simulator demonstration and benchmarking",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kathryn A.",
+                    "lastName": "Mummah"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "This work proposes a minimal set of fifteen parameters to characterize a nuclear fuel cycle, including a main reactor design and supporting front end and back end facilities. Thirteen fictitious fuel cycles span the fuel cycle parameter space and are described in enough detail to model using common fuel cycle simulators. Once-through fuel cycles are similar to, but not exactly replicating any nation’s current nuclear facilities or potential deployments of near-term advanced reactors. Limited and continuous recycle cases present wide ranging possible futures, including cases that separate and burn light water reactor fuel from decommissioned reactors. These cases may be useful for nuclear fuel cycle simulator benchmarking, simplified transition studies, isolating system dynamics, and simulator methods development where fictitious fuel cycles are preferable, such as in nonproliferation analyses.",
+            "publicationTitle": "Annals of Nuclear Energy",
+            "publisher": "",
+            "place": "",
+            "date": "2026-12-01",
+            "volume": "238",
+            "issue": "",
+            "section": "",
+            "partNumber": "",
+            "partTitle": "",
+            "pages": "112503",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Annals of Nuclear Energy",
+            "DOI": "10.1016/j.anucene.2026.112503",
+            "citationKey": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0306454926003919",
+            "accessDate": "2026-09-13T16:03:54Z",
+            "PMID": "",
+            "PMCID": "",
+            "ISSN": "0306-4549",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "",
+            "language": "",
+            "libraryCatalog": "ScienceDirect",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Advanced reactors",
+                    "type": 1
+                },
+                {
+                    "tag": "Fuel cycle simulator",
+                    "type": 1
+                },
+                {
+                    "tag": "Nonproliferation",
+                    "type": 1
+                },
+                {
+                    "tag": "Nuclear fuel cycle scenarios",
+                    "type": 1
+                },
+                {
+                    "tag": "Reprocessing",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2026-09-14T18:29:37Z",
+            "dateModified": "2026-09-14T18:29:37Z"
+        }
+    },
+    {
+        "key": "3G6ZWT7W",
+        "version": 32755,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/3G6ZWT7W",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/3G6ZWT7W",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/PB46L45C",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 49288104
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Moreno and Wilson",
+            "parsedDate": "2026-09-04",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{moreno_investigation_2026,\n\ttitle = {An {Investigation} of {Surrogate}-{Assisted}, {Gradient}-{Based} {Methods} for {Stellarator} {Breeder} {Geometry} {Optimization}},\n\tvolume = {0},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2026.2721695},\n\tdoi = {10.1080/15361055.2026.2721695},\n\tabstract = {The stellarator blanket design problem is characterized by many degrees of freedom in which the designer is tasked with fitting a series of layered components between the plasma and the magnets, usually resulting in components of a nonuniform geometry to meet the performance goals. For such a problem, numerical optimization methods are well suited to efficiently and autonomously explore the design space and find an optimized design. This preliminary study investigates the application of surrogate-assisted, gradient-based methods to stellarator breeder geometry design. The investigation includes the development of an accurate surrogate model to predict design point gradients and its incorporation into gradient-based algorithms. The developed methodology is successfully demonstrated for the WIS℡L-D stellarator configuration, reducing blanket material costs below that of a reference while meeting a target tritium breeding ratio, and a detailed analysis of the optimization runs is presented. Future work will expand this methodology to incorporate control of the shielding components and shielding-relevant metrics.},\n\tnumber = {0},\n\turldate = {2026-09-13},\n\tjournal = {Fusion Science and Technology},\n\tpublisher = {Taylor \\& Francis},\n\tauthor = {Moreno, Connor A. and Wilson, Paul P. H.},\n\tmonth = sep,\n\tyear = {2026},\n\tkeywords = {Fusion energy, breeding blanket, gradient-based optimization, stellarator, surrogate modeling},\n\tpages = {1--28},\n}\n",
+        "data": {
+            "key": "3G6ZWT7W",
+            "version": 32755,
+            "itemType": "journalArticle",
+            "title": "An Investigation of Surrogate-Assisted, Gradient-Based Methods for Stellarator Breeder Geometry Optimization",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Connor A.",
+                    "lastName": "Moreno"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "The stellarator blanket design problem is characterized by many degrees of freedom in which the designer is tasked with fitting a series of layered components between the plasma and the magnets, usually resulting in components of a nonuniform geometry to meet the performance goals. For such a problem, numerical optimization methods are well suited to efficiently and autonomously explore the design space and find an optimized design. This preliminary study investigates the application of surrogate-assisted, gradient-based methods to stellarator breeder geometry design. The investigation includes the development of an accurate surrogate model to predict design point gradients and its incorporation into gradient-based algorithms. The developed methodology is successfully demonstrated for the WIS℡L-D stellarator configuration, reducing blanket material costs below that of a reference while meeting a target tritium breeding ratio, and a detailed analysis of the optimization runs is presented. Future work will expand this methodology to incorporate control of the shielding components and shielding-relevant metrics.",
+            "publicationTitle": "Fusion Science and Technology",
+            "publisher": "Taylor & Francis",
+            "place": "",
+            "date": "2026-09-04",
+            "volume": "0",
+            "issue": "0",
+            "section": "",
+            "partNumber": "",
+            "partTitle": "",
+            "pages": "1-28",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "DOI": "10.1080/15361055.2026.2721695",
+            "citationKey": "",
+            "url": "https://doi.org/10.1080/15361055.2026.2721695",
+            "accessDate": "2026-09-13T18:49:52Z",
+            "PMID": "",
+            "PMCID": "",
+            "ISSN": "1536-1055",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "",
+            "language": "",
+            "libraryCatalog": "Taylor and Francis+NEJM",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Fusion energy",
+                    "type": 1
+                },
+                {
+                    "tag": "breeding blanket",
+                    "type": 1
+                },
+                {
+                    "tag": "gradient-based optimization",
+                    "type": 1
+                },
+                {
+                    "tag": "stellarator",
+                    "type": 1
+                },
+                {
+                    "tag": "surrogate modeling",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2026-09-13T18:49:54Z",
+            "dateModified": "2026-09-13T18:49:54Z"
+        }
+    },
+    {
         "key": "MFBQQT9R",
         "version": 32386,
         "library": {
@@ -19420,269 +19668,6 @@
             "relations": {},
             "dateAdded": "2012-06-19T18:38:05Z",
             "dateModified": "2018-02-17T23:25:28Z"
-        }
-    },
-    {
-        "key": "CZWMCT2T",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/CZWMCT2T",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/CZWMCT2T",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/ITCD85NW",
-                "type": "application/json",
-                "attachmentType": "application/msword",
-                "attachmentSize": 2193920
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 708524,
-                "username": "erelson",
-                "name": "Eric Relson",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/erelson",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Bohm et al.",
-            "parsedDate": "2012-02",
-            "numChildren": 1
-        },
-        "bibtex": "\n@article{bohm_detailed_2012,\n\ttitle = {Detailed nuclear analysis of {ITER} {ELM} coils},\n\turl = {http://www.sciencedirect.com/science/article/pii/S0920379612000427},\n\tabstract = {The ELM coils in ITER are intended to provide control of Edge Localized Modes (ELMs). These coils are located on the outboard side of ITER between the shield modules and vacuum vessel (VV) and are subject to high radiation levels. Detailed three-dimensional (3-D) models of the toroidal and poloidal legs of the ELM coil and surrounding region for the MCNP code were updated to reflect the latest design changes. Neutronics calculations were performed to determine a variety of radiation damage parameters for the ELM coils as well as the VV located behind them. Additionally, detailed CAD based models for the upper ELM coil region were used to perform a CAD based analysis using the DAG-MCNP5 code. The results show that the ELM coil will meet the specified material radiation limits. However, the nuclear heating on the vacuum vessel behind the poloidal multi-pipe manifolds will exceed the specified limit.},\n\tjournal = {Fusion Engineering and Design},\n\tauthor = {Bohm, T.D. and Sawan, M.E. and Jackson, S.T. and Wilson, P.P.H.},\n\tmonth = feb,\n\tyear = {2012},\n\tkeywords = {CAD, CAD, Coils, Edge Localized Modes, International Thermonuclear Reactor (ITER), MCNP, MCNP, Neutronics, Neutronics},\n}\n",
-        "data": {
-            "key": "CZWMCT2T",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Detailed nuclear analysis of ITER ELM coils",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "T.D.",
-                    "lastName": "Bohm"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M.E.",
-                    "lastName": "Sawan"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "S.T.",
-                    "lastName": "Jackson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "The ELM coils in ITER are intended to provide control of Edge Localized Modes (ELMs). These coils are located on the outboard side of ITER between the shield modules and vacuum vessel (VV) and are subject to high radiation levels. Detailed three-dimensional (3-D) models of the toroidal and poloidal legs of the ELM coil and surrounding region for the MCNP code were updated to reflect the latest design changes. Neutronics calculations were performed to determine a variety of radiation damage parameters for the ELM coils as well as the VV located behind them. Additionally, detailed CAD based models for the upper ELM coil region were used to perform a CAD based analysis using the DAG-MCNP5 code. The results show that the ELM coil will meet the specified material radiation limits. However, the nuclear heating on the vacuum vessel behind the poloidal multi-pipe manifolds will exceed the specified limit.",
-            "publicationTitle": "Fusion Engineering and Design",
-            "publisher": "",
-            "place": "",
-            "date": "Feb 2012",
-            "volume": "",
-            "issue": "",
-            "section": "",
-            "partNumber": "",
-            "partTitle": "",
-            "pages": "",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "DOI": "",
-            "citationKey": "",
-            "url": "http://www.sciencedirect.com/science/article/pii/S0920379612000427",
-            "accessDate": "",
-            "PMID": "",
-            "PMCID": "",
-            "ISSN": "",
-            "archive": "",
-            "archiveLocation": "",
-            "shortTitle": "",
-            "language": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "CAD"
-                },
-                {
-                    "tag": "CAD",
-                    "type": 1
-                },
-                {
-                    "tag": "Coils"
-                },
-                {
-                    "tag": "Edge Localized Modes"
-                },
-                {
-                    "tag": "International Thermonuclear Reactor (ITER)"
-                },
-                {
-                    "tag": "MCNP"
-                },
-                {
-                    "tag": "MCNP",
-                    "type": 1
-                },
-                {
-                    "tag": "Neutronics"
-                },
-                {
-                    "tag": "Neutronics",
-                    "type": 1
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {
-                "dc:replaces": [
-                    "http://zotero.org/groups/10058/items/VUD2Z7S6",
-                    "http://zotero.org/groups/10058/items/ABJAANZC",
-                    "http://zotero.org/groups/10058/items/6SD4KFQR"
-                ]
-            },
-            "dateAdded": "2012-06-14T19:26:12Z",
-            "dateModified": "2012-06-21T14:23:05Z"
-        }
-    },
-    {
-        "key": "FESREVAI",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/FESREVAI",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/FESREVAI",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Roberts et al.",
-            "parsedDate": "2012",
-            "numChildren": 1
-        },
-        "bibtex": "\n@article{roberts_determination_2012,\n\ttitle = {Determination and {Application} of {Partial} {Biases} in {Criticality} {Safety} {Validation}},\n\tjournal = {Nuclear Science and Engineering},\n\tauthor = {Roberts, J.A. and Rearden, B.T. and Wilson, P.P.H.},\n\tyear = {2012},\n}\n",
-        "data": {
-            "key": "FESREVAI",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Determination and Application of Partial Biases in Criticality Safety Validation",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "J.A.",
-                    "lastName": "Roberts"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "B.T.",
-                    "lastName": "Rearden"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "publicationTitle": "Nuclear Science and Engineering",
-            "publisher": "",
-            "place": "",
-            "date": "2012",
-            "volume": "",
-            "issue": "",
-            "section": "",
-            "partNumber": "",
-            "partTitle": "",
-            "pages": "",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "DOI": "",
-            "citationKey": "",
-            "url": "",
-            "accessDate": "",
-            "PMID": "",
-            "PMCID": "",
-            "ISSN": "",
-            "archive": "",
-            "archiveLocation": "",
-            "shortTitle": "",
-            "language": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-14T19:03:05Z",
-            "dateModified": "2012-06-14T19:05:00Z"
         }
     }
 ]
