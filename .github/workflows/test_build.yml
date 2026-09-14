@@ -4,9 +4,6 @@ on:
  workflow_dispatch:
 
 jobs:
-  permissions:
-    contents: read
-
   build:
     runs-on: ubuntu-latest
 
