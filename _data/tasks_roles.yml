@@ -10,3 +10,7 @@
   desc: "Responsible for assisting group members with hardware questions and
   issues.  This person should be familiar with the processes for purchasing
   computers and peripherals."
+- title: Software Manager
+  type: role desc: "Responsible for overall software health, with lead
+  responsibility for CI workflows, PR & documentation reviews, and scheduling
+  hack-a-thons."
