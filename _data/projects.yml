@@ -6,6 +6,21 @@
   end_date: 2027-06-30
   lead_pi: pphw
   other_collaborators: [pcs, dbcs, srm]
+  abstract: "Breeding blankets for fusion energy systems must balance multiple
+objectives: magnet shielding, energy conversion and tritium fuel breeding.
+This is challenging enough in any magnetic fusion energy system, but the
+complex three-dimensional geometry of stellarators compounds this complexity.
+The available space for breeding blanket components between the plasma and the
+magnets that generate that plasma shape varies in three dimensions, giving a
+high-dimensional design space for those blanket components. Naive approaches
+for machine-driven optimization require O(10E7) expensive Monte Carlo radiation
+transport simulations. Some reliance on surrogate models can reduce this to
+O(10E3) of these simulations. This proposal seeks to employ AI to reduce this
+to O(10) simulations, reducing the time to find an optimum stellarator blanket
+configuration from thousands of cpu-years to thousands of cpu-hours. This
+improvement will allow fusion energy developers to produce optimal blanket
+systems for new plasma configurations at a rate that allows for tighter
+coupled optimization of plasmas with blankets rather than as separate steps."
 - short_code: cardinal-pose
   area_code: rtnam
   title: Cardinal - An Open-Source Ecosystem for High-Fidelity Multiphysics for Energy Applications
@@ -18,7 +33,7 @@
   other_collaborators: [ 'pcs' ]
   abstract: 
   pubs: [ ]
-  project_url: https://github.com/neams-th-coe/cardinal_amr
+  project_url: https://cardinal.cels.anl.gov/
 - short_code: amrmc
   area_code: rtnam
   title: Unstructured Adaptive Mesh Algorithms for Monte Carlo Transport
