@@ -1,5 +1,149 @@
 [
     {
+        "key": "GGUC3FE9",
+        "version": 36002,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/GGUC3FE9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/GGUC3FE9",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/SKML7R4H",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 11599206
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Sawatzky et al.",
+            "parsedDate": "2027-02-01",
+            "numChildren": 2
+        },
+        "bibtex": "\n@article{sawatzky_adaptive_2027,\n\ttitle = {Adaptive mesh refinement for {Monte} {Carlo} unstructured mesh tallies: {Studies} from rod bundles to a whole core},\n\tvolume = {242},\n\tissn = {0306-4549},\n\tshorttitle = {Adaptive mesh refinement for {Monte} {Carlo} unstructured mesh tallies},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0306454926007760},\n\tdoi = {10.1016/j.anucene.2026.112888},\n\tabstract = {An integral component of Monte Carlo radiation transport methods is the specification of tallies, which accumulate quantities of interest during transport. Selecting an appropriate set of spatial regions for tallies, especially in a multiphysics simulation, requires a great deal of a priori knowledge to avoid the runtime and stochastic penalties associated with refinement while still capturing the spatial detail of the solution field. This work develops unstructured mesh tally adaptive mesh refinement (AMR) as an alternative to manual tally refinement in order to reduce tally spatial discretization error iteratively while minimizing the stochastic penalty of refinement. Unstructured mesh tally AMR has been implemented in the open-source multiphysics driver application Cardinal, which connects the AMR implementation in libMesh to mesh tallies in the continuous energy Monte Carlo transport code OpenMC. The different methods proposed are evaluated against light water reactor (LWR) problems of different radial length scales using a figure of merit (FOM) for AMR. This work found that AMR resulted in an improvement in FOM compared to two stages of uniform refinement, where the statistics-informed “look-ahead” refinement scheme yielded the largest improvements. Refinement based on value jumps in fission heating and the magnitude of the net current were found to yield the largest improvements in FOM out of the error heuristics tested. Results show that one to two stages of AMR provides some benefit to single-physics assembly and whole-core LWR problems.},\n\turldate = {2026-10-17},\n\tjournal = {Annals of Nuclear Energy},\n\tauthor = {Sawatzky, Kevin C. and Ahammed, Ebny Walid and Wilson, Paul P. H. and Shriwise, Patrick C. and Romano, Paul K. and Novak, April J.},\n\tmonth = feb,\n\tyear = {2027},\n\tkeywords = {Adaptive mesh refinement, Cardinal, MOOSE, OpenMC, Unstructured mesh tallies},\n\tpages = {112888},\n}\n",
+        "data": {
+            "key": "GGUC3FE9",
+            "version": 36002,
+            "itemType": "journalArticle",
+            "title": "Adaptive mesh refinement for Monte Carlo unstructured mesh tallies: Studies from rod bundles to a whole core",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kevin C.",
+                    "lastName": "Sawatzky"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ebny Walid",
+                    "lastName": "Ahammed"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Patrick C.",
+                    "lastName": "Shriwise"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul K.",
+                    "lastName": "Romano"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "April J.",
+                    "lastName": "Novak"
+                }
+            ],
+            "abstractNote": "An integral component of Monte Carlo radiation transport methods is the specification of tallies, which accumulate quantities of interest during transport. Selecting an appropriate set of spatial regions for tallies, especially in a multiphysics simulation, requires a great deal of a priori knowledge to avoid the runtime and stochastic penalties associated with refinement while still capturing the spatial detail of the solution field. This work develops unstructured mesh tally adaptive mesh refinement (AMR) as an alternative to manual tally refinement in order to reduce tally spatial discretization error iteratively while minimizing the stochastic penalty of refinement. Unstructured mesh tally AMR has been implemented in the open-source multiphysics driver application Cardinal, which connects the AMR implementation in libMesh to mesh tallies in the continuous energy Monte Carlo transport code OpenMC. The different methods proposed are evaluated against light water reactor (LWR) problems of different radial length scales using a figure of merit (FOM) for AMR. This work found that AMR resulted in an improvement in FOM compared to two stages of uniform refinement, where the statistics-informed “look-ahead” refinement scheme yielded the largest improvements. Refinement based on value jumps in fission heating and the magnitude of the net current were found to yield the largest improvements in FOM out of the error heuristics tested. Results show that one to two stages of AMR provides some benefit to single-physics assembly and whole-core LWR problems.",
+            "publicationTitle": "Annals of Nuclear Energy",
+            "publisher": "",
+            "place": "",
+            "date": "2027-02-01",
+            "volume": "242",
+            "issue": "",
+            "section": "",
+            "partNumber": "",
+            "partTitle": "",
+            "pages": "112888",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Annals of Nuclear Energy",
+            "DOI": "10.1016/j.anucene.2026.112888",
+            "citationKey": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0306454926007760",
+            "accessDate": "2026-10-17T18:48:19Z",
+            "PMID": "",
+            "PMCID": "",
+            "ISSN": "0306-4549",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "Adaptive mesh refinement for Monte Carlo unstructured mesh tallies",
+            "language": "",
+            "libraryCatalog": "ScienceDirect",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Adaptive mesh refinement",
+                    "type": 1
+                },
+                {
+                    "tag": "Cardinal",
+                    "type": 1
+                },
+                {
+                    "tag": "MOOSE",
+                    "type": 1
+                },
+                {
+                    "tag": "OpenMC",
+                    "type": 1
+                },
+                {
+                    "tag": "Unstructured mesh tallies",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2026-10-17T18:48:19Z",
+            "dateModified": "2026-10-17T18:48:19Z"
+        }
+    },
+    {
         "key": "IP7GT9TN",
         "version": 32759,
         "library": {
@@ -248,6 +392,191 @@
         }
     },
     {
+        "key": "ALU3YXWB",
+        "version": 36009,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/ALU3YXWB",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/ALU3YXWB",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/Q5AXW3CI",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1524441
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Miralles-Dolz et al.",
+            "parsedDate": "2026-06",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{miralles-dolz_stellarator_2026,\n\ttitle = {Stellarator {Design} {Exploration} {Using} {Symbolic}-{Regression} {Neutronics} {Surrogates}},\n\tvolume = {54},\n\tissn = {1939-9375},\n\turl = {https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/document/11482728},\n\tdoi = {10.1109/TPS.2026.3680528},\n\tabstract = {Systems codes require fast, simplified models to rapidly evaluate fusion power plant concepts, but neutronics analyses are often a computational bottleneck. To address this, surrogate models for key neutronics responses have been developed using 3-D neutronics-ready models built with the open-source code ParaStell from a database of stellarator equilibria. Neutronics responses such as tritium breeding ratio (TBR), nuclear heating, and neutron-induced radiation damage displacements per atom (dpa) were simulated using OpenMC. Through sensitivity analysis and symbolic regression (SR), simple power-law formulas were derived connecting these neutronics responses to global stellarator parameters, including fusion power, plasma surface area, and plasma elongation. Validation shows these formulas can predict the simulation results with low error, enabling quick and accurate assessment of neutronics requirements in stellarator design exploration activities with systems codes.},\n\tnumber = {6},\n\turldate = {2026-10-17},\n\tjournal = {IEEE Transactions on Plasma Science},\n\tauthor = {Miralles-Dolz, Enrique and Churchill, Michael and Schwartz, Jacob and Hidalgo-Salaverri, Javier and Moreno, Connor and Bohm, Tim and Wilson, Paul},\n\tmonth = jun,\n\tyear = {2026},\n\tkeywords = {Computer networks, Electronic mail, Electronic messaging, Instant messaging, Internet, Modeling, Radio access networks, Regional area networks, Space exploration, Space technology, Storage area networks, neutronics, stellarator, systems codes},\n\tpages = {2879--2886},\n}\n",
+        "data": {
+            "key": "ALU3YXWB",
+            "version": 36009,
+            "itemType": "journalArticle",
+            "title": "Stellarator Design Exploration Using Symbolic-Regression Neutronics Surrogates",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Enrique",
+                    "lastName": "Miralles-Dolz"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael",
+                    "lastName": "Churchill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jacob",
+                    "lastName": "Schwartz"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Javier",
+                    "lastName": "Hidalgo-Salaverri"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Connor",
+                    "lastName": "Moreno"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tim",
+                    "lastName": "Bohm"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "Systems codes require fast, simplified models to rapidly evaluate fusion power plant concepts, but neutronics analyses are often a computational bottleneck. To address this, surrogate models for key neutronics responses have been developed using 3-D neutronics-ready models built with the open-source code ParaStell from a database of stellarator equilibria. Neutronics responses such as tritium breeding ratio (TBR), nuclear heating, and neutron-induced radiation damage displacements per atom (dpa) were simulated using OpenMC. Through sensitivity analysis and symbolic regression (SR), simple power-law formulas were derived connecting these neutronics responses to global stellarator parameters, including fusion power, plasma surface area, and plasma elongation. Validation shows these formulas can predict the simulation results with low error, enabling quick and accurate assessment of neutronics requirements in stellarator design exploration activities with systems codes.",
+            "publicationTitle": "IEEE Transactions on Plasma Science",
+            "publisher": "",
+            "place": "",
+            "date": "2026-06",
+            "volume": "54",
+            "issue": "6",
+            "section": "",
+            "partNumber": "",
+            "partTitle": "",
+            "pages": "2879-2886",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "DOI": "10.1109/TPS.2026.3680528",
+            "citationKey": "",
+            "url": "https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/document/11482728",
+            "accessDate": "2026-10-17T18:48:48Z",
+            "PMID": "",
+            "PMCID": "",
+            "ISSN": "1939-9375",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "",
+            "language": "",
+            "libraryCatalog": "IEEE Xplore",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Computer networks",
+                    "type": 1
+                },
+                {
+                    "tag": "Electronic mail",
+                    "type": 1
+                },
+                {
+                    "tag": "Electronic messaging",
+                    "type": 1
+                },
+                {
+                    "tag": "Instant messaging",
+                    "type": 1
+                },
+                {
+                    "tag": "Internet",
+                    "type": 1
+                },
+                {
+                    "tag": "Modeling",
+                    "type": 1
+                },
+                {
+                    "tag": "Radio access networks",
+                    "type": 1
+                },
+                {
+                    "tag": "Regional area networks",
+                    "type": 1
+                },
+                {
+                    "tag": "Space exploration",
+                    "type": 1
+                },
+                {
+                    "tag": "Space technology",
+                    "type": 1
+                },
+                {
+                    "tag": "Storage area networks",
+                    "type": 1
+                },
+                {
+                    "tag": "neutronics",
+                    "type": 1
+                },
+                {
+                    "tag": "stellarator",
+                    "type": 1
+                },
+                {
+                    "tag": "systems codes",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2026-10-17T18:48:48Z",
+            "dateModified": "2026-10-17T18:48:48Z"
+        }
+    },
+    {
         "key": "MFBQQT9R",
         "version": 32386,
         "library": {
@@ -374,6 +703,134 @@
             "relations": {},
             "dateAdded": "2026-01-30T23:29:45Z",
             "dateModified": "2026-01-30T23:29:45Z"
+        }
+    },
+    {
+        "key": "ZC8Q8KMZ",
+        "version": 36013,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/ZC8Q8KMZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/ZC8Q8KMZ",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/MLGE5XKU",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 7937880
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Miralles-Dolz et al.",
+            "parsedDate": "2026",
+            "numChildren": 1
+        },
+        "bibtex": "\n@article{miralles-dolz_neutron_2026,\n\ttitle = {Neutron wall loading in stellarator optimization},\n\tissn = {0741-3335},\n\turl = {http://iopscience.iop.org/article/10.1088/1361-6587/aeb15b},\n\tdoi = {10.1088/1361-6587/aeb15b},\n\tabstract = {Non-axisymmetric stellarator equilibria produce spatially varying neutron wall loading (NWL), with localized peaks that affect first-wall lifetime, shielding requirements, magnet protection, maintenance planning, and ultimately plant availability. Although high-fidelity Monte Carlo transport can resolve this inherently three-dimensional loading, its computational cost makes it impractical for direct use in equilibrium optimization. We therefore integrate a deterministic line-of-sight NWL model into the DESC stellarator optimization package, providing a fast, differentiable engineering metric for use in optimization objectives or constraints. The model represents the plasma as a volumetric neutron source, using the Bosch–Hale fusion reactivity and prescribed flux-surface profiles to determine the source distribution before mapping its contributions to first-wall points through a geometry-dependent kernel. The resulting NWL maps closely agree with ParaStell/OpenMC Monte Carlo calculations and capture the dominant spatial loading patterns. With this model incorporated into DESC, proof-of concept optimizations demonstrate that localized NWL peaks can be directly targeted and reduced, allowing neutron loading to inform stellarator design at the equilibrium optimization stage.},\n\tlanguage = {en},\n\turldate = {2026-10-17},\n\tjournal = {Plasma Physics and Controlled Fusion},\n\tauthor = {Miralles-Dolz, Enrique and Churchill, R. Michael and Panici, Dario Giovanni and Schwartz, Jacob and Bohm, Tim and Moreno, Connor and Wilson, Paul P H},\n\tyear = {2026},\n}\n",
+        "data": {
+            "key": "ZC8Q8KMZ",
+            "version": 36013,
+            "itemType": "journalArticle",
+            "title": "Neutron wall loading in stellarator optimization",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Enrique",
+                    "lastName": "Miralles-Dolz"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "R. Michael",
+                    "lastName": "Churchill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dario Giovanni",
+                    "lastName": "Panici"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jacob",
+                    "lastName": "Schwartz"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tim",
+                    "lastName": "Bohm"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Connor",
+                    "lastName": "Moreno"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P H",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "Non-axisymmetric stellarator equilibria produce spatially varying neutron wall loading (NWL), with localized peaks that affect first-wall lifetime, shielding requirements, magnet protection, maintenance planning, and ultimately plant availability. Although high-fidelity Monte Carlo transport can resolve this inherently three-dimensional loading, its computational cost makes it impractical for direct use in equilibrium optimization. We therefore integrate a deterministic line-of-sight NWL model into the DESC stellarator optimization package, providing a fast, differentiable engineering metric for use in optimization objectives or constraints. The model represents the plasma as a volumetric neutron source, using the Bosch–Hale fusion reactivity and prescribed flux-surface profiles to determine the source distribution before mapping its contributions to first-wall points through a geometry-dependent kernel. The resulting NWL maps closely agree with ParaStell/OpenMC Monte Carlo calculations and capture the dominant spatial loading patterns. With this model incorporated into DESC, proof-of concept optimizations demonstrate that localized NWL peaks can be directly targeted and reduced, allowing neutron loading to inform stellarator design at the equilibrium optimization stage.",
+            "publicationTitle": "Plasma Physics and Controlled Fusion",
+            "publisher": "",
+            "place": "",
+            "date": "2026",
+            "volume": "",
+            "issue": "",
+            "section": "",
+            "partNumber": "",
+            "partTitle": "",
+            "pages": "",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Plasma Phys. Control. Fusion",
+            "DOI": "10.1088/1361-6587/aeb15b",
+            "citationKey": "",
+            "url": "http://iopscience.iop.org/article/10.1088/1361-6587/aeb15b",
+            "accessDate": "2026-10-17T18:50:27Z",
+            "PMID": "",
+            "PMCID": "",
+            "ISSN": "0741-3335",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "",
+            "language": "en",
+            "libraryCatalog": "Institute of Physics",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2026-10-17T18:50:27Z",
+            "dateModified": "2026-10-17T18:50:27Z"
         }
     },
     {
@@ -19291,383 +19748,6 @@
             "relations": {},
             "dateAdded": "2013-01-25T17:35:04Z",
             "dateModified": "2026-02-03T17:08:33Z"
-        }
-    },
-    {
-        "key": "APPXK8PG",
-        "version": 20076,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/APPXK8PG",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/APPXK8PG",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/CMUFQSTG",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 634279
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 144853,
-                "username": "katyhuff",
-                "name": "Katy Huff",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/katyhuff",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Huff and Bauer",
-            "parsedDate": "2012-06-24",
-            "numChildren": 2
-        },
-        "bibtex": "\n@inproceedings{huff_numerical_2012,\n\taddress = {Chicago, IL, United States},\n\tseries = {Modeling and {Simulation} in the {Fuel} {Cycle}},\n\ttitle = {Numerical {Calibration} of an {Analytical} {Generic} {Nuclear} {Repository} {Heat} {Transfer} {Model}},\n\tvolume = {106},\n\tabstract = {This work describes a benchmarking effort conducted to de- termine the accuracy of a new generic geology thermal repos- itory model relative to more traditional techniques and pro- poses a physically plausible auxillary thermal resistance com- ponent to improve their agreement.},\n\tlanguage = {English},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}},\n\tpublisher = {American Nuclear Society, La Grange Park, IL 60526, United States},\n\tauthor = {Huff, Kathryn and Bauer, Theodore H.},\n\tmonth = jun,\n\tyear = {2012},\n\tpages = {260--263},\n}\n",
-        "data": {
-            "key": "APPXK8PG",
-            "version": 20076,
-            "itemType": "conferencePaper",
-            "title": "Numerical Calibration of an Analytical Generic Nuclear Repository Heat Transfer Model",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Kathryn",
-                    "lastName": "Huff"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Theodore H.",
-                    "lastName": "Bauer"
-                }
-            ],
-            "abstractNote": "This work describes a benchmarking effort conducted to de- termine the accuracy of a new generic geology thermal repos- itory model relative to more traditional techniques and pro- poses a physically plausible auxillary thermal resistance com- ponent to improve their agreement.",
-            "proceedingsTitle": "Transactions of the American Nuclear Society",
-            "conferenceName": "American Nuclear Society Annual Conference",
-            "publisher": "American Nuclear Society, La Grange Park, IL 60526, United States",
-            "place": "Chicago, IL, United States",
-            "date": "June 24--28, 2012",
-            "eventPlace": "",
-            "volume": "106",
-            "issue": "",
-            "numberOfVolumes": "",
-            "pages": "260--263",
-            "series": "Modeling and Simulation in the Fuel Cycle",
-            "seriesNumber": "",
-            "DOI": "",
-            "ISBN": "",
-            "citationKey": "",
-            "url": "",
-            "accessDate": "",
-            "ISSN": "",
-            "archive": "",
-            "archiveLocation": "",
-            "shortTitle": "",
-            "language": "English",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "UKXV4KID",
-                "VBKGWTWB"
-            ],
-            "relations": {},
-            "dateAdded": "2013-01-25T18:24:40Z",
-            "dateModified": "2013-01-25T18:36:51Z"
-        }
-    },
-    {
-        "key": "NP55DT7T",
-        "version": 20082,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/NP55DT7T",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/NP55DT7T",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/6TH48ZJF",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 738461
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Denholm et al.",
-            "parsedDate": "2012-05",
-            "numChildren": 1
-        },
-        "bibtex": "\n@article{denholm_decarbonizing_2012,\n\ttitle = {Decarbonizing the electric sector: {Combining} renewable and nuclear energy using thermal storage},\n\tvolume = {44},\n\tissn = {0301-4215},\n\tshorttitle = {Decarbonizing the electric sector},\n\turl = {http://www.sciencedirect.com/science/article/pii/S030142151200081X},\n\tdoi = {10.1016/j.enpol.2012.01.055},\n\tabstract = {Both renewable and nuclearenergy can provide significant contributions to decarbonizing the electric sector. However, a grid employing large amounts of wind and solar energy requires the balance of the system to be highly flexible to respond to the increased variability of the net load. This makes deployment of conventional nuclear power challenging both due to the technical challenges of plant cycling and economic limits of reduced capacity factor. In the United States nuclear power plants generally provide constant, base load power and are most economic when operated at constant power levels. Operating nuclear power plants in load-following modes decreases the plants' annual energy output and increases the levelized cost of energy, decreasing economic competitiveness.\n\nOne possible solution is to couple thermalenergystorage to nuclear power plants. This would enable the reactor to remain at nearly constant output, while cycling the electrical generator in response to the variability of the net load. This paper conceptually explores combinations of wind, solar, and nuclear that can provide a large fraction of a system's electricity, assuming the use of thermalenergystorage that would allow nuclear power to provide load following and cycling duty while operating at a constant reactor power output.},\n\tjournal = {Energy Policy},\n\tauthor = {Denholm, P. and King, J.C. and Kutcher, C.F. and WIlson, P.P.H.},\n\tmonth = may,\n\tyear = {2012},\n\tkeywords = {Decarbonization, Electricity, Energy, Energy Storage, Nuclear, Power Plants, Renewable, Solar, Thermal, Wind},\n\tpages = {301--311},\n}\n",
-        "data": {
-            "key": "NP55DT7T",
-            "version": 20082,
-            "itemType": "journalArticle",
-            "title": "Decarbonizing the electric sector: Combining renewable and nuclear energy using thermal storage",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "P.",
-                    "lastName": "Denholm"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "J.C.",
-                    "lastName": "King"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "C.F.",
-                    "lastName": "Kutcher"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "WIlson"
-                }
-            ],
-            "abstractNote": "Both renewable and nuclearenergy can provide significant contributions to decarbonizing the electric sector. However, a grid employing large amounts of wind and solar energy requires the balance of the system to be highly flexible to respond to the increased variability of the net load. This makes deployment of conventional nuclear power challenging both due to the technical challenges of plant cycling and economic limits of reduced capacity factor. In the United States nuclear power plants generally provide constant, base load power and are most economic when operated at constant power levels. Operating nuclear power plants in load-following modes decreases the plants' annual energy output and increases the levelized cost of energy, decreasing economic competitiveness.\n\nOne possible solution is to couple thermalenergystorage to nuclear power plants. This would enable the reactor to remain at nearly constant output, while cycling the electrical generator in response to the variability of the net load. This paper conceptually explores combinations of wind, solar, and nuclear that can provide a large fraction of a system's electricity, assuming the use of thermalenergystorage that would allow nuclear power to provide load following and cycling duty while operating at a constant reactor power output.",
-            "publicationTitle": "Energy Policy",
-            "publisher": "",
-            "place": "",
-            "date": "May 2012",
-            "volume": "44",
-            "issue": "",
-            "section": "",
-            "partNumber": "",
-            "partTitle": "",
-            "pages": "301-311",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "DOI": "10.1016/j.enpol.2012.01.055",
-            "citationKey": "",
-            "url": "http://www.sciencedirect.com/science/article/pii/S030142151200081X",
-            "accessDate": "",
-            "PMID": "",
-            "PMCID": "",
-            "ISSN": "0301-4215",
-            "archive": "",
-            "archiveLocation": "",
-            "shortTitle": "Decarbonizing the electric sector",
-            "language": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Decarbonization"
-                },
-                {
-                    "tag": "Electricity"
-                },
-                {
-                    "tag": "Energy"
-                },
-                {
-                    "tag": "Energy Storage"
-                },
-                {
-                    "tag": "Nuclear"
-                },
-                {
-                    "tag": "Power Plants"
-                },
-                {
-                    "tag": "Renewable"
-                },
-                {
-                    "tag": "Solar"
-                },
-                {
-                    "tag": "Thermal"
-                },
-                {
-                    "tag": "Wind"
-                }
-            ],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-14T19:33:43Z",
-            "dateModified": "2012-11-27T07:04:48Z"
-        }
-    },
-    {
-        "key": "9NVRID7G",
-        "version": 21758,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/9NVRID7G",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/9NVRID7G",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/A2ETIKHP",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 226799
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 1044870,
-                "username": "KLEPAIN",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/klepain",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Slaybaugh et al.",
-            "parsedDate": "2012-04-15",
-            "numChildren": 1
-        },
-        "bibtex": "\n@inproceedings{slaybaugh_rayleigh_2012,\n\taddress = {Knoxville, TN, United States},\n\ttitle = {Rayleigh {Quotient} {Iteration} in {3D}, {Deterministic} {Neutron} {Transport}},\n\tauthor = {Slaybaugh, R.N. and Evans, T.M. and Davidson, G.G. and Wilson, P.P.H.},\n\tmonth = apr,\n\tyear = {2012},\n}\n",
-        "data": {
-            "key": "9NVRID7G",
-            "version": 21758,
-            "itemType": "conferencePaper",
-            "title": "Rayleigh Quotient Iteration in 3D, Deterministic Neutron Transport",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "R.N.",
-                    "lastName": "Slaybaugh"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.M.",
-                    "lastName": "Evans"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "G.G.",
-                    "lastName": "Davidson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.P.H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "proceedingsTitle": "",
-            "conferenceName": "PHYSOR 2012",
-            "publisher": "",
-            "place": "Knoxville, TN, United States",
-            "date": "Apr 15-20, 2012",
-            "eventPlace": "",
-            "volume": "",
-            "issue": "",
-            "numberOfVolumes": "",
-            "pages": "",
-            "series": "",
-            "seriesNumber": "",
-            "DOI": "",
-            "ISBN": "",
-            "citationKey": "",
-            "url": "",
-            "accessDate": "",
-            "ISSN": "",
-            "archive": "",
-            "archiveLocation": "",
-            "shortTitle": "",
-            "language": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2012-06-19T18:38:05Z",
-            "dateModified": "2018-02-17T23:25:28Z"
         }
     }
 ]
