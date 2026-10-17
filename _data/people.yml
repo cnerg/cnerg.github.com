@@ -65,18 +65,10 @@
 
 - group: 'Undergraduate Students'
   people:
-  - name: "Gerson A. Esquivel Garcia"
-    url: "gaeg"
-    role: "Undergraduate Intern"
-    image: Gerson.jpg 
   - name: "Hermione Celestain"
     url: HC
     Role: "Undergraduate Student"
     image: Hermione.jpg
-  - name: "Evan Pouliot"
-    url: "evpou"
-    role: "Undergraduate Researcher With SURE"
-    image: Evan_thebestihave.jpg
   - name: "Tanjimul Safi"
     url: "tanjimul"
     role: "Undergraduate Researcher"
@@ -158,6 +150,11 @@
     role: PhD
     employer: SHINE Technologies
     employer_url: https://shinefusion.com
+  - name: "Gerson A. Esquivel Garcia"
+    code: "gaeg"
+    role: "Undergraduate Intern"
+    employer: University of Wisconsin-Madison
+    employer_url: https://engineering.wisc.edu/neep
   - name: Matthew Gidden
     linkedin: https://www.linkedin.com/in/matthew-gidden-11a6366/
     year: 2015
@@ -380,6 +377,9 @@
     role: Undergraduate Intern
     employer:
     employer_url:
+  - name: Evan Pouliot
+    code: evpou
+    role: Undergraduate Intern
   - name: Michael Priaulx
     code: mp
     year: 2008
@@ -418,6 +418,8 @@
   - name: Josh Ruegsegger
     year: 2022
     role: MS
+    employer: Savannah River National Laboratory
+    employer_url: https://www.srnl.gov/
   - name: Ben Schmitt
     linkedin: https://www.linkedin.com/in/benjamin-schmitt-79518677/
     year: 2006
