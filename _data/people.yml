@@ -22,10 +22,6 @@
     url: "keb"
     image: biegel.jpg
     role: "PhD Dissertator, Argonne National Laboratory Graduate Fellow"
-  - name: "Connor Moreno"
-    url: "cam"
-    role: "PhD Dissertator, GERS"
-    image: moreno.jpg
   - name: "Lewis Gross"
     url: "lg"
     role: "PhD Dissertator, US NRC Fellow"
@@ -306,6 +302,13 @@
     role: Programmer
     employer:
     employer_url:
+  - name: "Connor Moreno"
+    linkedin: https://www.linkedin.com/in/connor-moreno-721542126/
+    code: cam
+    year: 2026
+    role: PhD
+    employer: Type One Energy
+    employer_url: https://typeoneenergy.com/
   - name: Damien Moule
     linkedin: https://www.linkedin.com/in/damien-moule-41a69012a/
     year: 2011
