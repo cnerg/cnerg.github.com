@@ -20,4 +20,7 @@
   name: Advanced Research Projects Agency ‑ Energy (ARPA-E)
 - agency: pscw
   name: Public Service Commission of Wisconsin
-  
+- agency: nsf
+  name: National Science Foundation
+- agency: fes-genesis
+  name: Fusion Energy Sciences GENESIS program

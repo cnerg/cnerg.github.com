@@ -1,3 +1,39 @@
+- short_code: genesis-ph1
+  area_code: rtnam
+  title: Stellarator blanket optimization with differentiable Monte Carlo neutronics
+  agency: fes-genesis
+  start_date: 2026-09-01
+  end_date: 2027-06-30
+  lead_pi: pphw
+  other_collaborators: [pcs, dbcs, srm]
+  abstract: "Breeding blankets for fusion energy systems must balance multiple
+objectives: magnet shielding, energy conversion and tritium fuel breeding.
+This is challenging enough in any magnetic fusion energy system, but the
+complex three-dimensional geometry of stellarators compounds this complexity.
+The available space for breeding blanket components between the plasma and the
+magnets that generate that plasma shape varies in three dimensions, giving a
+high-dimensional design space for those blanket components. Naive approaches
+for machine-driven optimization require O(10E7) expensive Monte Carlo radiation
+transport simulations. Some reliance on surrogate models can reduce this to
+O(10E3) of these simulations. This proposal seeks to employ AI to reduce this
+to O(10) simulations, reducing the time to find an optimum stellarator blanket
+configuration from thousands of cpu-years to thousands of cpu-hours. This
+improvement will allow fusion energy developers to produce optimal blanket
+systems for new plasma configurations at a rate that allows for tighter
+coupled optimization of plasmas with blankets rather than as separate steps."
+- short_code: cardinal-pose
+  area_code: rtnam
+  title: Cardinal - An Open-Source Ecosystem for High-Fidelity Multiphysics for Energy Applications
+  agency: nsf
+  start_date: 2026-09-01
+  end_date: 2028-08-31
+  lead_pi: ajn
+  cnerg_pi: pphw
+  cnerg_collaborators: 
+  other_collaborators: [ 'pcs' ]
+  abstract: 
+  pubs: [ ]
+  project_url: https://cardinal.cels.anl.gov/
 - short_code: amrmc
   area_code: rtnam
   title: Unstructured Adaptive Mesh Algorithms for Monte Carlo Transport
@@ -6,7 +42,7 @@
   end_date: 2027-09-30
   lead_pi: ajn
   cnerg_pi: pphw
-  cnerg_collaborators: walid
+  cnerg_collaborators: [walid, evpou]
   other_collaborators: [ 'pcs', 'pkr', ks ]
   abstract: "Recent growth in computing now permits large-scale multiphysics modeling using Monte Carlo methods,
 considered state-of-the-art for particle transport. The Monte Carlo method is well-suited for
@@ -21,7 +57,7 @@ well-captured. Despite the remarkable success of AMR in other fields, there has 
 AMR for Monte Carlo tally meshes, especially in the context of multiphysics or in combination with hand p-refinement. This proposal will develop the fundamental methods and techniques for
 unstructured mesh AMR with Monte Carlo tallies to enable a transformative leap forward in
 speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
-  pubs:
+  pubs: [sawatzky_adaptive_2027, sawatzky_adaptive_2025]
   project_url: https://github.com/neams-th-coe/cardinal_amr
 - short_code: hifistell
   area_code: rtnam
@@ -31,10 +67,10 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   end_date: 2027-09-30
   lead_pi: ab
   cnerg_pi: pphw
-  cnerg_collaborators: cam
+  cnerg_collaborators: [cam, mgrove, ew, tanjimul]
   other_collaborators: crs
   abstract:
-  pubs: [moreno_parastell_2024]
+  pubs: [moreno_investigation_2026, moreno_parastell_2024]
   project_url: https://hifistell.plasma.princeton.edu/
 - short_code: frontend
   area_code: nfca
@@ -57,7 +93,7 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   end_date: 2030-03-14
   lead_pi: ase
   cnerg_pi: pphw
-  cnerg_collaborators: ['sf']
+  cnerg_collaborators: [sf, HC]
   other_collaborators: bl
   abstract:
   pubs: [ stomps_contrastive_2024 ]
@@ -108,19 +144,6 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   cnerg_pi: pphw
   cnerg_collaborators: klyg
   other_collaborators: pc_s
-  abstract:
-  pubs:
-  project_url:
-- short_code: inlrafm
-  area_code: nsa
-  title: Neutron Activation Research For Reduced Activation Ferritic Martensitic Steels
-  agency: inlldrd
-  start_date: 2025-05-01
-  end_date: 2027-09-30
-  lead_pi: nw
-  cnerg_pi: pphw
-  cnerg_collaborators: [jtds, ew]
-  other_collaborators: cah
   abstract:
   pubs:
   project_url:
