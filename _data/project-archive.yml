@@ -46,3 +46,16 @@
   abstract:
   pubs: [ostad_rahimi_perceived_2026]
   project_url: 
+- short_code: inlrafm
+  area_code: nsa
+  title: Neutron Activation Research For Reduced Activation Ferritic Martensitic Steels
+  agency: inlldrd
+  start_date: 2025-05-01
+  end_date: 2027-09-30
+  lead_pi: nw
+  cnerg_pi: pphw
+  cnerg_collaborators: [jtds, ew]
+  other_collaborators: cah
+  abstract:
+  pubs:
+  project_url:
