@@ -31,5 +31,18 @@
   cnerg_collaborators: ['js', 'sf', 'klyg']
   other_collaborators:
   abstract:
-  pubs: [ stomps_contrastive_2024 ]
+  pubs: [ stomps_snm_2023, stomps_contrastive_2024 ]
   project_url: https://eti.gatech.edu
+- short_code: codesign
+  area_code: econ
+  title: Integrating socially led co-design into consent-based siting of interim storage facilities
+  agency: neup
+  start_date: 2022-10-01
+  end_date: 2025-09-30
+  lead_pi: kg
+  cnerg_pi: pphw
+  cnerg_collaborators: 
+  other_collaborators: [db, eag]
+  abstract:
+  pubs: [ostad_rahimi_perceived_2026]
+  project_url: 

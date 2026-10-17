@@ -1,3 +1,16 @@
+- short_code: cardinal-pose
+  area_code: rtnam
+  title: Cardinal - An Open-Source Ecosystem for High-Fidelity Multiphysics for Energy Applications
+  agency: nsf
+  start_date: 2026-09-01
+  end_date: 2028-08-31
+  lead_pi: ajn
+  cnerg_pi: pphw
+  cnerg_collaborators: 
+  other_collaborators: [ 'pcs' ]
+  abstract: 
+  pubs: [ ]
+  project_url: https://github.com/neams-th-coe/cardinal_amr
 - short_code: amrmc
   area_code: rtnam
   title: Unstructured Adaptive Mesh Algorithms for Monte Carlo Transport
@@ -21,7 +34,7 @@ well-captured. Despite the remarkable success of AMR in other fields, there has 
 AMR for Monte Carlo tally meshes, especially in the context of multiphysics or in combination with hand p-refinement. This proposal will develop the fundamental methods and techniques for
 unstructured mesh AMR with Monte Carlo tallies to enable a transformative leap forward in
 speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
-  pubs:
+  pubs: [sawatzky_adaptive_2025]
   project_url: https://github.com/neams-th-coe/cardinal_amr
 - short_code: hifistell
   area_code: rtnam
@@ -31,10 +44,10 @@ speed, accuracy, and robustness of Monte Carlo methods for advanced simulation."
   end_date: 2027-09-30
   lead_pi: ab
   cnerg_pi: pphw
-  cnerg_collaborators: cam
+  cnerg_collaborators: [cam, mgrove, ew]
   other_collaborators: crs
   abstract:
-  pubs: [moreno_parastell_2024]
+  pubs: [moreno_investigation_2026, moreno_parastell_2024]
   project_url: https://hifistell.plasma.princeton.edu/
 - short_code: frontend
   area_code: nfca

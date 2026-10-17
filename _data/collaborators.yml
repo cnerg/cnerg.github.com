@@ -75,7 +75,7 @@
   inst: University of Wisconsin–Madison, Department of Nuclear Engineering & Engineering Physics
   url: https://engineering.wisc.edu/directory/profile/juliana-pacheco-duarte/
 - code: maa 
-  name: Dr. Mohammad Amer Allaf
+  name: Dr. Mohammad Amer   af
   inst: University of Wisconsin–Madison, Department of Nuclear Engineering & Engineering Physics
   url: https://reti.neep.wisc.edu/staff/mohammad-amer-allaf/
 - code: eag 
@@ -100,3 +100,7 @@
   name: Eugene "Gene" Grecheck
   inst: Grecheck Consulting LLC 
   url: https://www.linkedin.com/in/eugenegrecheck/
+- code: kg
+  name: Dr. Kuhika Gupta
+  inst: University of Oklahoma, Institute for Public Policy Research Analysis
+  url: https://www.linkedin.com/in/kuhika-gupta-2043945
