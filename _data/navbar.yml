@@ -105,6 +105,10 @@
       exturl: "https://docs.openmc.org"
       target: "_blank"
       github: "https://github.com/openmc-dev/openmc"
+    - subtitle: TMAP8
+      exturl: "https://tmap8.inl.gov/"
+      target: "_blank"
+      github: "https://github.com/idaholab/tmap8"
     - subtitle: MontePy
       exturl: "https://www.montepy.org/en/stable/"
       target: "_blank"
