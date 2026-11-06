@@ -145,7 +145,7 @@
     },
     {
         "key": "IP7GT9TN",
-        "version": 32759,
+        "version": 36187,
         "library": {
             "type": "group",
             "id": 10058,
@@ -189,10 +189,10 @@
             "parsedDate": "2026-12-01",
             "numChildren": 1
         },
-        "bibtex": "\n@article{mummah_set_2026,\n\ttitle = {A set of fictitious fuel cycle test cases for simulator demonstration and benchmarking},\n\tvolume = {238},\n\tissn = {0306-4549},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0306454926003919},\n\tdoi = {10.1016/j.anucene.2026.112503},\n\tabstract = {This work proposes a minimal set of fifteen parameters to characterize a nuclear fuel cycle, including a main reactor design and supporting front end and back end facilities. Thirteen fictitious fuel cycles span the fuel cycle parameter space and are described in enough detail to model using common fuel cycle simulators. Once-through fuel cycles are similar to, but not exactly replicating any nation’s current nuclear facilities or potential deployments of near-term advanced reactors. Limited and continuous recycle cases present wide ranging possible futures, including cases that separate and burn light water reactor fuel from decommissioned reactors. These cases may be useful for nuclear fuel cycle simulator benchmarking, simplified transition studies, isolating system dynamics, and simulator methods development where fictitious fuel cycles are preferable, such as in nonproliferation analyses.},\n\turldate = {2026-09-13},\n\tjournal = {Annals of Nuclear Energy},\n\tauthor = {Mummah, Kathryn A. and Wilson, Paul P. H.},\n\tmonth = dec,\n\tyear = {2026},\n\tkeywords = {Advanced reactors, Fuel cycle simulator, Nonproliferation, Nuclear fuel cycle scenarios, Reprocessing},\n\tpages = {112503},\n}\n",
+        "bibtex": "\n@article{mummah_set_2026,\n\ttitle = {A set of fictitious fuel cycle test cases for simulator demonstration and benchmarking},\n\tvolume = {238},\n\tissn = {0306-4549},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0306454926003919},\n\tdoi = {10.1016/j.anucene.2026.112503},\n\tabstract = {This work proposes a minimal set of fifteen parameters to characterize a nuclear fuel cycle, including a main reactor design and supporting front end and back end facilities. Thirteen fictitious fuel cycles span the fuel cycle parameter space and are described in enough detail to model using common fuel cycle simulators. Once-through fuel cycles are similar to, but not exactly replicating any nation’s current nuclear facilities or potential deployments of near-term advanced reactors. Limited and continuous recycle cases present wide ranging possible futures, including cases that separate and burn light water reactor fuel from decommissioned reactors. These cases may be useful for nuclear fuel cycle simulator benchmarking, simplified transition studies, isolating system dynamics, and simulator methods development where fictitious fuel cycles are preferable, such as in nonproliferation analyses.},\n\turldate = {2026-09-13},\n\tjournal = {Annals of Nuclear Energy},\n\tauthor = {Mummah, Kathryn A. and Wilson, Paul P. H.},\n\tmonth = dec,\n\tyear = {2026},\n\tkeywords = {Advanced reactors, Nonproliferation, Nuclear fuel cycle scenarios, Reprocessing, nuclear fuel cycle simulator},\n\tpages = {112503},\n}\n",
         "data": {
             "key": "IP7GT9TN",
-            "version": 32759,
+            "version": 36187,
             "itemType": "journalArticle",
             "title": "A set of fictitious fuel cycle test cases for simulator demonstration and benchmarking",
             "creators": [
@@ -243,10 +243,6 @@
                     "type": 1
                 },
                 {
-                    "tag": "Fuel cycle simulator",
-                    "type": 1
-                },
-                {
                     "tag": "Nonproliferation",
                     "type": 1
                 },
@@ -257,6 +253,9 @@
                 {
                     "tag": "Reprocessing",
                     "type": 1
+                },
+                {
+                    "tag": "nuclear fuel cycle simulator"
                 }
             ],
             "collections": [
@@ -265,6 +264,113 @@
             "relations": {},
             "dateAdded": "2026-09-14T18:29:37Z",
             "dateModified": "2026-09-14T18:29:37Z"
+        }
+    },
+    {
+        "key": "TU6ME2N2",
+        "version": 36038,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/TU6ME2N2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/TU6ME2N2",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Gross et al.",
+            "parsedDate": "2026-10-22",
+            "numChildren": 0
+        },
+        "bibtex": "\n@article{gross_comparing_2026,\n\ttitle = {Comparing {Fuel} {Homogenization} {Strategies} for an {OpenMC} {Depletion} {Analysis} of a {TRISO}-{Fueled}, {Helium}-{Cooled} {Microreactor}},\n\tissn = {0029-5450, 1943-7471},\n\turl = {https://www.tandfonline.com/doi/full/10.1080/00295450.2026.2745386},\n\tdoi = {10.1080/00295450.2026.2745386},\n\tlanguage = {en},\n\turldate = {2026-10-23},\n\tjournal = {Nuclear Technology},\n\tauthor = {Gross, Lewis I. and Shriwise, Patrick and Lindley, Benjamin A. and Wilson, Paul P. H.},\n\tmonth = oct,\n\tyear = {2026},\n\tpages = {1--17},\n}\n",
+        "data": {
+            "key": "TU6ME2N2",
+            "version": 36038,
+            "itemType": "journalArticle",
+            "title": "Comparing Fuel Homogenization Strategies for an OpenMC Depletion Analysis of a TRISO-Fueled, Helium-Cooled Microreactor",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Lewis I.",
+                    "lastName": "Gross"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Patrick",
+                    "lastName": "Shriwise"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Benjamin A.",
+                    "lastName": "Lindley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Nuclear Technology",
+            "publisher": "",
+            "place": "",
+            "date": "2026-10-22",
+            "volume": "",
+            "issue": "",
+            "section": "",
+            "partNumber": "",
+            "partTitle": "",
+            "pages": "1-17",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Nuclear Technology",
+            "DOI": "10.1080/00295450.2026.2745386",
+            "citationKey": "",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/00295450.2026.2745386",
+            "accessDate": "2026-10-23T00:28:42Z",
+            "PMID": "",
+            "PMCID": "",
+            "ISSN": "0029-5450, 1943-7471",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "",
+            "language": "en",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2026-10-23T00:28:42Z",
+            "dateModified": "2026-10-23T00:28:42Z"
         }
     },
     {
@@ -3518,7 +3624,7 @@
     },
     {
         "key": "AX5M3M8V",
-        "version": 31074,
+        "version": 36151,
         "library": {
             "type": "group",
             "id": 10058,
@@ -3562,10 +3668,10 @@
             "parsedDate": "2022-06-01",
             "numChildren": 2
         },
-        "bibtex": "\n@article{thiolliere_impact_2022,\n\ttitle = {Impact of fresh fuel loading management in fuel cycle simulators: {A} functionality isolation test},\n\tvolume = {392},\n\tissn = {0029-5493},\n\tshorttitle = {Impact of fresh fuel loading management in fuel cycle simulators},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0029549322001029},\n\tdoi = {10.1016/j.nucengdes.2022.111748},\n\tabstract = {Fuel cycle simulator development started many years ago by several research and engineering institutions or consulting firms for a wide range of applications. To improve confidence in the results, institutions may be tempted to increase the complexity of their software even if this complexity might not be necessary. On the other hand, some simulators may be used outside their range of validity when used in very specific applications. The FIT (Functionality Isolation Test) project is an international effort devoted to improve the confidence in the data produced by fuel cycle simulation tools. The scientific goal is to determine the optimum level of detail a fuel cycle simulator needs according to the type of study and the required confidence level. The project relies on a wide variety of fuel cycle simulators with a large range of complexity levels. The FIT project consists of isolating the impact of one targeted functionality on fuel cycle simulations. The impact of the functionality is assessed using a set of simple basic exercises specifically designed for this purpose, called ”functionality isolation.” The present work focuses on the impact on simulation results of using a fuel loading model (a relation that links the stock isotopic composition with the fresh fuel fabrication according to the reactor requirements) or a fixed fraction approach (the fresh fuel fissile fraction is fixed and does not depend on the stock isotopic composition). The paper first presents the FIT project. The exercise design is described and results show that using a fuel loading model approach has an important impact on fuel cycle outputs under certain conditions that are described. This result is reinforced by the fact that all fuel cycle simulators used in this exercise provide similar conclusions.},\n\tlanguage = {en},\n\turldate = {2022-04-18},\n\tjournal = {Nuclear Engineering and Design},\n\tauthor = {Thiollière, N. and Doligez, X. and Halasz, M. and Krivtchik, G. and Merino, I. and Mouginot, B. and Skarbeli, A. V. and Hernandez-Solis, A. and Alvarez-Velarde, F. and Courtin, F. and Druenne, H. and Ernoult, M. and Huff, K. and Szieberth, M. and Vermeeren, B. and Wilson, P.},\n\tmonth = jun,\n\tyear = {2022},\n\tkeywords = {FIT project, Fuel Cycle Simulators, Fuel Loading Models, NEWTON, Pressurized Water Reactors, Sodium Fast Reactors},\n\tpages = {111748},\n}\n",
+        "bibtex": "\n@article{thiolliere_impact_2022,\n\ttitle = {Impact of fresh fuel loading management in fuel cycle simulators: {A} functionality isolation test},\n\tvolume = {392},\n\tissn = {0029-5493},\n\tshorttitle = {Impact of fresh fuel loading management in fuel cycle simulators},\n\turl = {https://www.sciencedirect.com/science/article/pii/S0029549322001029},\n\tdoi = {10.1016/j.nucengdes.2022.111748},\n\tabstract = {Fuel cycle simulator development started many years ago by several research and engineering institutions or consulting firms for a wide range of applications. To improve confidence in the results, institutions may be tempted to increase the complexity of their software even if this complexity might not be necessary. On the other hand, some simulators may be used outside their range of validity when used in very specific applications. The FIT (Functionality Isolation Test) project is an international effort devoted to improve the confidence in the data produced by fuel cycle simulation tools. The scientific goal is to determine the optimum level of detail a fuel cycle simulator needs according to the type of study and the required confidence level. The project relies on a wide variety of fuel cycle simulators with a large range of complexity levels. The FIT project consists of isolating the impact of one targeted functionality on fuel cycle simulations. The impact of the functionality is assessed using a set of simple basic exercises specifically designed for this purpose, called ”functionality isolation.” The present work focuses on the impact on simulation results of using a fuel loading model (a relation that links the stock isotopic composition with the fresh fuel fabrication according to the reactor requirements) or a fixed fraction approach (the fresh fuel fissile fraction is fixed and does not depend on the stock isotopic composition). The paper first presents the FIT project. The exercise design is described and results show that using a fuel loading model approach has an important impact on fuel cycle outputs under certain conditions that are described. This result is reinforced by the fact that all fuel cycle simulators used in this exercise provide similar conclusions.},\n\tlanguage = {en},\n\turldate = {2022-04-18},\n\tjournal = {Nuclear Engineering and Design},\n\tauthor = {Thiollière, N. and Doligez, X. and Halasz, M. and Krivtchik, G. and Merino, I. and Mouginot, B. and Skarbeli, A. V. and Hernandez-Solis, A. and Alvarez-Velarde, F. and Courtin, F. and Druenne, H. and Ernoult, M. and Huff, K. and Szieberth, M. and Vermeeren, B. and Wilson, P.},\n\tmonth = jun,\n\tyear = {2022},\n\tkeywords = {FIT project, Fuel Loading Models, NEWTON, Pressurized Water Reactors, Sodium Fast Reactors, nuclear fuel cycle simulator},\n\tpages = {111748},\n}\n",
         "data": {
             "key": "AX5M3M8V",
-            "version": 31074,
+            "version": 36151,
             "itemType": "journalArticle",
             "title": "Impact of fresh fuel loading management in fuel cycle simulators: A functionality isolation test",
             "creators": [
@@ -3686,10 +3792,6 @@
                     "type": 1
                 },
                 {
-                    "tag": "Fuel Cycle Simulators",
-                    "type": 1
-                },
-                {
                     "tag": "Fuel Loading Models",
                     "type": 1
                 },
@@ -3703,6 +3805,9 @@
                 {
                     "tag": "Sodium Fast Reactors",
                     "type": 1
+                },
+                {
+                    "tag": "nuclear fuel cycle simulator"
                 }
             ],
             "collections": [
@@ -3715,7 +3820,7 @@
     },
     {
         "key": "9NC9HDVU",
-        "version": 32436,
+        "version": 36156,
         "library": {
             "type": "group",
             "id": 10058,
@@ -3759,10 +3864,10 @@
             "parsedDate": "2022-03",
             "numChildren": 2
         },
-        "bibtex": "\n@article{shriwise_hardware-accelerated_2022,\n\ttitle = {Hardware-{Accelerated} {Ray} {Tracing} of {CAD}-{Based} {Geometry} for {Monte} {Carlo} {Radiation} {Transport}},\n\tvolume = {24},\n\tissn = {1558-366X},\n\turl = {https://ieeexplore.ieee.org/document/9721666},\n\tdoi = {10.1109/MCSE.2022.3154656},\n\tabstract = {Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using the constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using computer-aided design (CAD)-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide the superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors’ work extends these innovations by employing Intel’s Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve the simulation performance using CAD-based models by factors of 1.5 to 2.},\n\tnumber = {2},\n\tjournal = {Computing in Science \\& Engineering},\n\tauthor = {Shriwise, Patrick C. and Wilson, Paul P. H. and Davis, Andrew and Romano, Paul K.},\n\tmonth = mar,\n\tyear = {2022},\n\tnote = {Conference Name: Computing in Science \\& Engineering},\n\tkeywords = {Computational modeling, Geometry, Hardware acceleration, Mathematical models, Monte Carlo methods, Ray tracing, Solid modeling},\n\tpages = {52--61},\n}\n",
+        "bibtex": "\n@article{shriwise_hardware-accelerated_2022,\n\ttitle = {Hardware-{Accelerated} {Ray} {Tracing} of {CAD}-{Based} {Geometry} for {Monte} {Carlo} {Radiation} {Transport}},\n\tvolume = {24},\n\tissn = {1558-366X},\n\turl = {https://ieeexplore.ieee.org/document/9721666},\n\tdoi = {10.1109/MCSE.2022.3154656},\n\tabstract = {Monte Carlo radiation transport (MCRT) methods have been used to simulate radiation environments for many decades by tracking individual particles through a model to accumulate statistical information. MCRT geometry is historically formed using the constructive solid geometry (CSG). Recently, significant work has been performed to support simulations using computer-aided design (CAD)-based tessellated surfaces to support highly complex geometries. Ray tracing acceleration data structures from the rendering and visualization community are applied to accelerate particle tracking in CAD-based models. Despite these efforts, CSG representations provide the superior performance in surface intersection operations during particle flight. Concurrently, pseudo Monte Carlo methods have become prevalent in rendering applications to support more realistic models for scattering media, motivating innovations that are advantageous for MCRT simulations. The authors’ work extends these innovations by employing Intel’s Embree ray tracing kernel within a geometry toolkit for Monte Carlo to improve the simulation performance using CAD-based models by factors of 1.5 to 2.},\n\tnumber = {2},\n\tjournal = {Computing in Science \\& Engineering},\n\tauthor = {Shriwise, Patrick C. and Wilson, Paul P. H. and Davis, Andrew and Romano, Paul K.},\n\tmonth = mar,\n\tyear = {2022},\n\tnote = {Conference Name: Computing in Science \\& Engineering},\n\tkeywords = {Computational modeling, Geometry, Mathematical models, Monte Carlo methods, Ray tracing, Solid modeling, hardware acceleration},\n\tpages = {52--61},\n}\n",
         "data": {
             "key": "9NC9HDVU",
-            "version": 32436,
+            "version": 36156,
             "itemType": "journalArticle",
             "title": "Hardware-Accelerated Ray Tracing of CAD-Based Geometry for Monte Carlo Radiation Transport",
             "creators": [
@@ -3827,10 +3932,6 @@
                     "type": 1
                 },
                 {
-                    "tag": "Hardware acceleration",
-                    "type": 1
-                },
-                {
                     "tag": "Mathematical models",
                     "type": 1
                 },
@@ -3845,6 +3946,9 @@
                 {
                     "tag": "Solid modeling",
                     "type": 1
+                },
+                {
+                    "tag": "hardware acceleration"
                 }
             ],
             "collections": [
@@ -13451,7 +13555,7 @@
     },
     {
         "key": "PG5YTTAG",
-        "version": 30748,
+        "version": 36064,
         "library": {
             "type": "group",
             "id": 10058,
@@ -13495,10 +13599,10 @@
             "parsedDate": "2017-07-04",
             "numChildren": 2
         },
-        "bibtex": "\n@article{el-guebaly_design_2017,\n\ttitle = {Design and {Evaluation} of {Nuclear} {System} for {ARIES}-{ACT2} {Power} {Plant} with {DCLL} {Blanket}},\n\tvolume = {72},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2016.1273669},\n\tdoi = {10.1080/15361055.2016.1273669},\n\tabstract = {The ARIES team has examined a multitude of fusion concepts over a period of 25 years. In recent years, the team wrapped up the Advanced Research, Innovation, and Evaluation Study (ARIES) series by completing the detailed design of the ARIES–Advanced and Conservative Tokamak (ARIES-ACT2) power plant—a plant with conservative physics and technology, representing a tokamak with reduced-activation ferritic/martensitic (RAFM) structure and dual-coolant lead-lithium blanket. The integration of nuclear assessments (neutronics, shielding, and activation) is an essential element to ARIES-ACT2 success. This paper highlights the design philosophy of in-vessel components and characterizes several nuclear-related issues that have been addressed during the course of the study to improve the ARIES-ACT2 design: sufficient breeding of tritium to fuel the plasma, well-optimized in-vessel components that satisfy all design requirements and guarantee the shielding functionality of its radial/vertical builds, survivability of low-activation/radiation-resistant structural materials in 14-MeV neutron environment, activation concerns for RAFM and corrosion-resistant oxide-dispersion-strengthened alloys, and an integral approach to handle the mildly radioactive materials during operation and after decommissioning.},\n\tnumber = {1},\n\turldate = {2018-04-05},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {El-Guebaly, L. and Mynsberge, L. and Davis, A. and D’Angelo, C. and Rowcliffe, A. and Pint, B. and Team, ARIES-ACT},\n\tmonth = jul,\n\tyear = {2017},\n\tkeywords = {Activation analysis, DCLL blanket, neutronics, product},\n\tpages = {17--40},\n}\n",
+        "bibtex": "\n@article{el-guebaly_design_2017,\n\ttitle = {Design and {Evaluation} of {Nuclear} {System} for {ARIES}-{ACT2} {Power} {Plant} with {DCLL} {Blanket}},\n\tvolume = {72},\n\tissn = {1536-1055},\n\turl = {https://doi.org/10.1080/15361055.2016.1273669},\n\tdoi = {10.1080/15361055.2016.1273669},\n\tabstract = {The ARIES team has examined a multitude of fusion concepts over a period of 25 years. In recent years, the team wrapped up the Advanced Research, Innovation, and Evaluation Study (ARIES) series by completing the detailed design of the ARIES–Advanced and Conservative Tokamak (ARIES-ACT2) power plant—a plant with conservative physics and technology, representing a tokamak with reduced-activation ferritic/martensitic (RAFM) structure and dual-coolant lead-lithium blanket. The integration of nuclear assessments (neutronics, shielding, and activation) is an essential element to ARIES-ACT2 success. This paper highlights the design philosophy of in-vessel components and characterizes several nuclear-related issues that have been addressed during the course of the study to improve the ARIES-ACT2 design: sufficient breeding of tritium to fuel the plasma, well-optimized in-vessel components that satisfy all design requirements and guarantee the shielding functionality of its radial/vertical builds, survivability of low-activation/radiation-resistant structural materials in 14-MeV neutron environment, activation concerns for RAFM and corrosion-resistant oxide-dispersion-strengthened alloys, and an integral approach to handle the mildly radioactive materials during operation and after decommissioning.},\n\tnumber = {1},\n\turldate = {2018-04-05},\n\tjournal = {Fusion Science and Technology},\n\tauthor = {El-Guebaly, L. and Mynsberge, L. and Davis, A. and D’Angelo, C. and Rowcliffe, A. and Pint, B. and Team, ARIES-ACT},\n\tmonth = jul,\n\tyear = {2017},\n\tkeywords = {Activation Analysis, DCLL blanket, neutronics, product},\n\tpages = {17--40},\n}\n",
         "data": {
             "key": "PG5YTTAG",
-            "version": 30748,
+            "version": 36064,
             "itemType": "journalArticle",
             "title": "Design and Evaluation of Nuclear System for ARIES-ACT2 Power Plant with DCLL Blanket",
             "creators": [
@@ -13570,8 +13674,7 @@
             "extra": "",
             "tags": [
                 {
-                    "tag": "Activation analysis",
-                    "type": 1
+                    "tag": "Activation Analysis"
                 },
                 {
                     "tag": "DCLL blanket",
@@ -19632,122 +19735,6 @@
             "relations": {},
             "dateAdded": "2017-12-07T02:01:05Z",
             "dateModified": "2017-12-07T02:02:08Z"
-        }
-    },
-    {
-        "key": "9NQ682RF",
-        "version": 32422,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/9NQ682RF",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/9NQ682RF",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/Z9PKIPIV",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 233635
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 162605,
-                "username": "kldunn",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/kldunn",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Dunn and Wilson",
-            "parsedDate": "2012-11",
-            "numChildren": 1
-        },
-        "bibtex": "\n@inproceedings{dunn_kernel_2012,\n\ttitle = {Kernel {Density} {Estimators} for {Monte} {Carlo} {Tallies} on {Unstructured} {Meshes}},\n\tvolume = {107},\n\tbooktitle = {Transactions of the {American} {Nuclear} {Society}},\n\tauthor = {Dunn, K. L. and Wilson, P. P. H.},\n\tmonth = nov,\n\tyear = {2012},\n\tkeywords = {\\_\\_NEUP2026},\n\tpages = {490--493},\n}\n",
-        "data": {
-            "key": "9NQ682RF",
-            "version": 32422,
-            "itemType": "conferencePaper",
-            "title": "Kernel Density Estimators for Monte Carlo Tallies on Unstructured Meshes",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "K. L.",
-                    "lastName": "Dunn"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P. P. H.",
-                    "lastName": "Wilson"
-                }
-            ],
-            "abstractNote": "",
-            "proceedingsTitle": "Transactions of the American Nuclear Society",
-            "conferenceName": "",
-            "publisher": "",
-            "place": "",
-            "date": "Nov 2012",
-            "eventPlace": "",
-            "volume": "107",
-            "issue": "",
-            "numberOfVolumes": "",
-            "pages": "490-493",
-            "series": "",
-            "seriesNumber": "",
-            "DOI": "",
-            "ISBN": "",
-            "citationKey": "",
-            "url": "",
-            "accessDate": "",
-            "ISSN": "",
-            "archive": "",
-            "archiveLocation": "",
-            "shortTitle": "",
-            "language": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "__NEUP2026"
-                }
-            ],
-            "collections": [
-                "UKXV4KID",
-                "VBKGWTWB"
-            ],
-            "relations": {},
-            "dateAdded": "2013-01-25T17:35:04Z",
-            "dateModified": "2026-02-03T17:08:33Z"
         }
     }
 ]
