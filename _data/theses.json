@@ -1,7 +1,7 @@
 [
     {
         "key": "KL5QYFZT",
-        "version": 36188,
+        "version": 36194,
         "library": {
             "type": "group",
             "id": 10058,
@@ -45,10 +45,10 @@
             "parsedDate": "2026",
             "numChildren": 2
         },
-        "bibtex": "\n@phdthesis{moreno_surrogate-assisted_2026,\n\taddress = {Madison, WI, USA},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Surrogate-{Assisted}, {Gradient}-{Based} {Optimization} of {Stellarator} {Blanket} {Geometry}},\n\turl = {https://digital.library.wisc.edu/1711.dl/ONKJ7OEOASGE38U},\n\tschool = {U. Wisconsin-Madison},\n\tauthor = {Moreno, Connor},\n\tmonth = aug,\n\tyear = {2026},\n}\n",
+        "bibtex": "\n@phdthesis{moreno_surrogate-assisted_2026,\n\taddress = {Madison, WI, USA},\n\ttype = {{PhD} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Surrogate-{Assisted}, {Gradient}-{Based} {Optimization} of {Stellarator} {Blanket} {Geometry}},\n\turl = {https://digital.library.wisc.edu/1711.dl/ONKJ7OEOASGE38U},\n\tabstract = {In the global effort to commercialize fusion power, the stellarator magnetic confinement scheme has attracted renewed interest as a design basis for plasma confinement. However, while the stellarator possesses unique advantages relative to other confinement schemes, its geometric complexity poses significant engineering, technological, and computational challenges. The methods commonly used to design fusion blankets are ill-suited to the stellarator blanket design problem, which features many degrees of freedom and a high-dimensional design space. For such a design problem, numerical optimization methods can efficiently and autonomously navigate the design space to find an optimal design. This work investigates the application of surrogate-assisted, gradient-based methods to stellarator blanket geometry design. In particular, the goal for this work is to explore the appropriateness of gradient-based methods for global optimization in this setting and to present a computational workflow that poses tractable computational cost.  \n\nIncluded in this document is a comprehensive review of relevant background material. Commonly considered blanket performance metrics are detailed, followed by an examination of recent stellarator blanket design case studies. In addition, gradient-based design optimization is discussed, accompanied by an overview of the surrogate modeling methods employed in the developed workflow and a survey of relevant nuclear engineering design optimization case studies.  \n\nThe parametric modeling software library developed for this workflow, ParaStell, is also detailed. In particular, the routines relevant to this work are discussed. This includes ParaStell’s blanket and magnet geometry modeling routines and various relevant utilities. Furthermore, the developed optimization workflow is overviewed. Various workflow routines are discussed, including design point modeling, surrogate development, and optimization itself.  \n\nTwo studies are covered in this work. The first considers a simplified design problem in which only the geometry of the breeder is optimized in order to minimize blanket cost while meeting a tritium breeding target. The second considers a more sophisticated problem in which the geometries of the breeder and shields are optimized in order to minimize blanket cost while meeting several neutronics performance targets. Across both studies, the developed optimization workflow is successfully demonstrated for the WISTELL-D stellarator configuration, exhibiting its efficacy for global optimization in large-scale design settings.},\n\tschool = {U. Wisconsin-Madison},\n\tauthor = {Moreno, Connor},\n\tmonth = aug,\n\tyear = {2026},\n}\n",
         "data": {
             "key": "KL5QYFZT",
-            "version": 36188,
+            "version": 36194,
             "itemType": "thesis",
             "title": "Surrogate-Assisted, Gradient-Based Optimization of Stellarator Blanket Geometry",
             "creators": [
@@ -58,7 +58,7 @@
                     "lastName": "Moreno"
                 }
             ],
-            "abstractNote": "",
+            "abstractNote": "In the global effort to commercialize fusion power, the stellarator magnetic confinement scheme has attracted renewed interest as a design basis for plasma confinement. However, while the stellarator possesses unique advantages relative to other confinement schemes, its geometric complexity poses significant engineering, technological, and computational challenges. The methods commonly used to design fusion blankets are ill-suited to the stellarator blanket design problem, which features many degrees of freedom and a high-dimensional design space. For such a design problem, numerical optimization methods can efficiently and autonomously navigate the design space to find an optimal design. This work investigates the application of surrogate-assisted, gradient-based methods to stellarator blanket geometry design. In particular, the goal for this work is to explore the appropriateness of gradient-based methods for global optimization in this setting and to present a computational workflow that poses tractable computational cost.  \n\nIncluded in this document is a comprehensive review of relevant background material. Commonly considered blanket performance metrics are detailed, followed by an examination of recent stellarator blanket design case studies. In addition, gradient-based design optimization is discussed, accompanied by an overview of the surrogate modeling methods employed in the developed workflow and a survey of relevant nuclear engineering design optimization case studies.  \n\nThe parametric modeling software library developed for this workflow, ParaStell, is also detailed. In particular, the routines relevant to this work are discussed. This includes ParaStell’s blanket and magnet geometry modeling routines and various relevant utilities. Furthermore, the developed optimization workflow is overviewed. Various workflow routines are discussed, including design point modeling, surrogate development, and optimization itself.  \n\nTwo studies are covered in this work. The first considers a simplified design problem in which only the geometry of the breeder is optimized in order to minimize blanket cost while meeting a tritium breeding target. The second considers a more sophisticated problem in which the geometries of the breeder and shields are optimized in order to minimize blanket cost while meeting several neutronics performance targets. Across both studies, the developed optimization workflow is successfully demonstrated for the WISTELL-D stellarator configuration, exhibiting its efficacy for global optimization in large-scale design settings.",
             "thesisType": "PhD Nuclear Engineering and Engineering Physics",
             "university": "U. Wisconsin-Madison",
             "place": "Madison, WI, USA",
@@ -87,7 +87,7 @@
             ],
             "relations": {},
             "dateAdded": "2026-09-07T16:53:16Z",
-            "dateModified": "2026-10-22T01:14:53Z"
+            "dateModified": "2026-11-06T22:17:42Z"
         }
     },
     {
@@ -2435,6 +2435,91 @@
         }
     },
     {
+        "key": "5WKCU3AF",
+        "version": 36195,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/5WKCU3AF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/5WKCU3AF",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Nygaard",
+            "parsedDate": "2011",
+            "numChildren": 0
+        },
+        "bibtex": "\n@phdthesis{nygaard_verification_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\ttitle = {Verification, {Validation}, and {Benchmarking} of the {UWNR} {DAG}-{MCNP5} {Model}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Nygaard, Erik},\n\tyear = {2011},\n}\n",
+        "data": {
+            "key": "5WKCU3AF",
+            "version": 36195,
+            "itemType": "thesis",
+            "title": "Verification, Validation, and Benchmarking of the UWNR DAG-MCNP5 Model",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Erik",
+                    "lastName": "Nygaard"
+                }
+            ],
+            "abstractNote": "",
+            "thesisType": "MS Nuclear Engineering and Engineering Physics",
+            "university": "University of Wisconsin-Madison",
+            "place": "Madison, WI, United States",
+            "date": "2011",
+            "series": "",
+            "seriesNumber": "",
+            "numPages": "",
+            "DOI": "",
+            "ISBN": "",
+            "citationKey": "",
+            "url": "",
+            "accessDate": "",
+            "ISSN": "",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "",
+            "language": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "6259B6TV",
+                "Y4UI9B4X"
+            ],
+            "relations": {},
+            "dateAdded": "2016-11-27T21:57:05Z",
+            "dateModified": "2026-11-06T22:18:32Z"
+        }
+    },
+    {
         "key": "TW3VBHD8",
         "version": 30781,
         "library": {
@@ -2633,91 +2718,6 @@
             "relations": {},
             "dateAdded": "2012-12-07T14:36:11Z",
             "dateModified": "2024-09-08T17:38:42Z"
-        }
-    },
-    {
-        "key": "5WKCU3AF",
-        "version": 26428,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/5WKCU3AF",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/5WKCU3AF",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Nygaard",
-            "parsedDate": "2011",
-            "numChildren": 0
-        },
-        "bibtex": "\n@phdthesis{nygaard_notitle_2011,\n\taddress = {Madison, WI, United States},\n\ttype = {{MS} {Nuclear} {Engineering} and {Engineering} {Physics}},\n\tschool = {University of Wisconsin-Madison},\n\tauthor = {Nygaard, Erik},\n\tyear = {2011},\n}\n",
-        "data": {
-            "key": "5WKCU3AF",
-            "version": 26428,
-            "itemType": "thesis",
-            "title": "",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Erik",
-                    "lastName": "Nygaard"
-                }
-            ],
-            "abstractNote": "",
-            "thesisType": "MS Nuclear Engineering and Engineering Physics",
-            "university": "University of Wisconsin-Madison",
-            "place": "Madison, WI, United States",
-            "date": "2011",
-            "series": "",
-            "seriesNumber": "",
-            "numPages": "",
-            "DOI": "",
-            "ISBN": "",
-            "citationKey": "",
-            "url": "",
-            "accessDate": "",
-            "ISSN": "",
-            "archive": "",
-            "archiveLocation": "",
-            "shortTitle": "",
-            "language": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "6259B6TV",
-                "Y4UI9B4X"
-            ],
-            "relations": {},
-            "dateAdded": "2016-11-27T21:57:05Z",
-            "dateModified": "2020-12-30T15:03:12Z"
         }
     },
     {

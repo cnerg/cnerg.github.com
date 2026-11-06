@@ -498,6 +498,106 @@
         }
     },
     {
+        "key": "IH8S997R",
+        "version": 36213,
+        "library": {
+            "type": "group",
+            "id": 10058,
+            "name": "CNERG",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/10058",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/10058/items/IH8S997R",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/10058/items/IH8S997R",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/10058/items/EFYJLF2L",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 870177
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 112658,
+                "username": "gonuke",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/gonuke",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Krueger and WILSON",
+            "parsedDate": "2026-08-16",
+            "numChildren": 1
+        },
+        "bibtex": "\n@inproceedings{krueger_demonstrating_2026,\n\taddress = {Chicago, IL, USA},\n\ttitle = {Demonstrating {Fuel} {Cycle} {Economics} {Capabilities} in {CYCLUS}: {The} {Nuclear} {Fuel} {Cycle} {Simulator}},\n\turl = {https://www.ans.org/pubs/proceedings/article-60959/},\n\tbooktitle = {{GLOBAL} 2026},\n\tpublisher = {American Nuclear Society},\n\tauthor = {Krueger, Dean and WILSON, Paul P. H.},\n\tmonth = aug,\n\tyear = {2026},\n}\n",
+        "data": {
+            "key": "IH8S997R",
+            "version": 36213,
+            "itemType": "conferencePaper",
+            "title": "Demonstrating Fuel Cycle Economics Capabilities in CYCLUS: The Nuclear Fuel Cycle Simulator",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Dean",
+                    "lastName": "Krueger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul P. H.",
+                    "lastName": "WILSON"
+                }
+            ],
+            "abstractNote": "",
+            "proceedingsTitle": "GLOBAL 2026",
+            "conferenceName": "GLOBAL 2026",
+            "publisher": "American Nuclear Society",
+            "place": "Chicago, IL, USA",
+            "date": "August 16-20, 2026",
+            "eventPlace": "",
+            "volume": "",
+            "issue": "",
+            "numberOfVolumes": "",
+            "pages": "",
+            "series": "",
+            "seriesNumber": "",
+            "DOI": "",
+            "ISBN": "",
+            "citationKey": "",
+            "url": "https://www.ans.org/pubs/proceedings/article-60959/",
+            "accessDate": "",
+            "ISSN": "",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "",
+            "language": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "UKXV4KID"
+            ],
+            "relations": {},
+            "dateAdded": "2026-11-06T22:26:49Z",
+            "dateModified": "2026-11-06T22:28:01Z"
+        }
+    },
+    {
         "key": "ALU3YXWB",
         "version": 36009,
         "library": {
@@ -19622,119 +19722,6 @@
             "relations": {},
             "dateAdded": "2013-01-25T16:17:52Z",
             "dateModified": "2013-01-25T18:34:49Z"
-        }
-    },
-    {
-        "key": "G7D4CT2I",
-        "version": 21646,
-        "library": {
-            "type": "group",
-            "id": 10058,
-            "name": "CNERG",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/10058",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/10058/items/G7D4CT2I",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/10058/items/G7D4CT2I",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/groups/10058/items/K2KW7UN9",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 167319
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 112658,
-                "username": "gonuke",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/gonuke",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Scoptaz et al.",
-            "parsedDate": "2012-11",
-            "numChildren": 1
-        },
-        "bibtex": "\n@article{scoptaz_pyne:_2012,\n\ttitle = {{PyNE}: {Python} for {Nuclear} {Engineering}},\n\tvolume = {107},\n\tnumber = {1},\n\tjournal = {Transactions of the American Nuclear Society},\n\tauthor = {Scoptaz, Anthony M and Romano, Paul K. and Wilson, Paul P.H. and Huff, Kathryn D.},\n\tmonth = nov,\n\tyear = {2012},\n\tpages = {985--987},\n}\n",
-        "data": {
-            "key": "G7D4CT2I",
-            "version": 21646,
-            "itemType": "journalArticle",
-            "title": "PyNE: Python for Nuclear Engineering",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Anthony M",
-                    "lastName": "Scoptaz"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul K.",
-                    "lastName": "Romano"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Paul P.H.",
-                    "lastName": "Wilson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Kathryn D.",
-                    "lastName": "Huff"
-                }
-            ],
-            "abstractNote": "",
-            "publicationTitle": "Transactions of the American Nuclear Society",
-            "publisher": "",
-            "place": "",
-            "date": "November 2012",
-            "volume": "107",
-            "issue": "1",
-            "section": "",
-            "partNumber": "",
-            "partTitle": "",
-            "pages": "985-987",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "DOI": "",
-            "citationKey": "",
-            "url": "",
-            "accessDate": "",
-            "PMID": "",
-            "PMCID": "",
-            "ISSN": "",
-            "archive": "",
-            "archiveLocation": "",
-            "shortTitle": "",
-            "language": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [],
-            "collections": [
-                "UKXV4KID"
-            ],
-            "relations": {},
-            "dateAdded": "2017-12-07T02:01:05Z",
-            "dateModified": "2017-12-07T02:02:08Z"
         }
     }
 ]
