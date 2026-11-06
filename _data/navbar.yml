@@ -90,6 +90,10 @@
       exturl: "https://fuelcycle.org"
       target: "_blank"
       github: "https://github.com/cyclus/cyclus"
+    - subtitle: "ParaStell"
+      exturl: "https://github.com/svalinn/parastell"
+      target: "_blank"
+      github: "https://github.com/svalinn/parastell"
     - subtitle: divider
     - subheading: "Affiliates"
       target: "_blank"
@@ -101,6 +105,10 @@
       exturl: "https://docs.openmc.org"
       target: "_blank"
       github: "https://github.com/openmc-dev/openmc"
+    - subtitle: TMAP8
+      exturl: "https://tmap8.inl.gov/"
+      target: "_blank"
+      github: "https://github.com/idaholab/tmap8"
     - subtitle: MontePy
       exturl: "https://www.montepy.org/en/stable/"
       target: "_blank"
