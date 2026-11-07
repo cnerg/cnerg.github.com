@@ -20,6 +20,7 @@
   cnerg_collaborators: [ kam ]
   other_collaborators:
   project_url: https://mtv.engin.umich.edu/
+  pubs: [mummah_set_2026]
 - short_code: eti
   area_code: nucsec
   title: Consortium for Enabling Technology and Innovation (ETI)
@@ -31,5 +32,31 @@
   cnerg_collaborators: ['js', 'sf', 'klyg']
   other_collaborators:
   abstract:
-  pubs: [ stomps_contrastive_2024 ]
+  pubs: [ stomps_snm_2023, stomps_contrastive_2024 ]
   project_url: https://eti.gatech.edu
+- short_code: codesign
+  area_code: econ
+  title: Integrating socially led co-design into consent-based siting of interim storage facilities
+  agency: neup
+  start_date: 2022-10-01
+  end_date: 2025-09-30
+  lead_pi: kg
+  cnerg_pi: pphw
+  cnerg_collaborators: 
+  other_collaborators: [db, eag]
+  abstract:
+  pubs: [ostad_rahimi_perceived_2026]
+  project_url: 
+- short_code: inlrafm
+  area_code: nsa
+  title: Neutron Activation Research For Reduced Activation Ferritic Martensitic Steels
+  agency: inlldrd
+  start_date: 2025-05-01
+  end_date: 2027-09-30
+  lead_pi: nw
+  cnerg_pi: pphw
+  cnerg_collaborators: [jtds, ew]
+  other_collaborators: cah
+  abstract:
+  pubs:
+  project_url:

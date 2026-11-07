@@ -43,7 +43,7 @@ layout: default
                     <br><span class="font-italic">Lead PI: </span>
                     {% if lead_pi != None %}
                         {% if lead_pi.url != "" %}
-                            <a href="{{ lead_pi[0].url }}" target="_blank">{{ lead_pi.name }}</a> ({{ lead_pi.inst }})
+                            <a href="{{ lead_pi.url }}" target="_blank">{{ lead_pi.name }}</a> ({{ lead_pi.inst }})
                         {% else %}
                             {{ lead_pi.name }} ({{ lead_pi.inst }})
                         {% endif %}
